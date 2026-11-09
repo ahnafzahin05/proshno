@@ -1,0 +1,12 @@
+/* css/layout.css */
+.shell { display: grid; grid-template-columns: var(--sidebar-w) minmax(0, 1fr); min-height: 100vh; }
+.sidebar { position: sticky; top: 0; height: 100vh; overflow-y: auto; padding: 1.5rem 1.25rem; background: var(--surface); border-right: 1px solid var(--line); }
+.main { width: 100%; max-width: 58rem; padding: 2.5rem clamp(1rem, 4vw, 3.5rem); }
+.menu-btn { display: none; }
+
+@media (max-width: 860px) {
+  .shell { display: block; }
+  .sidebar { position: fixed; inset: 0 auto 0 0; width: min(86vw, 320px); z-index: 20; transform: translateX(-100%); transition: transform .2s ease; }
+  .nav-open .sidebar { transform: none; }
+  .menu-btn { display: inline-flex; margin-bottom: 1.25rem; padding: .5rem .9rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); cursor: pointer; }
+}

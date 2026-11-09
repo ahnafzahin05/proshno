@@ -1,7 +1,7 @@
 // scripts/build-data.js
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
-import { normalizeSubject, parseYear, parseTags, cleanQuestion } from "./lib/normalize.js";
+import { normalizeSubject, parseYear, parseTags, cleanQuestion } from "../shared/normalize.js";
 
 const SRC = "data/qb-json/Written";
 const OUT = "data/built";
@@ -24,8 +24,11 @@ for (const uni of await readdir(SRC)) {
 
     const questions = data.questions.map((q, i) => {
       const subject = normalizeSubject(q.subject);
-      if (subject === "unclassified")
-        unclassified.set(q.subject, (unclassified.get(q.subject) ?? 0) + 1);
+      
+      if (subject === "unclassified") {
+      const key = `${uni}/${slug} -> "${q.subject}"`;
+      unclassified.set(key, (unclassified.get(key) ?? 0) + 1);
+      }
 
       return {
         id: `written-${uni}-${slug}-${String(i + 1).padStart(3, "0")}`.toLowerCase(),

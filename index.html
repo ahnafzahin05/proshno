@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Proshno: Admission question bank</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600&family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <!-- KaTeX must load before main.js; defer scripts and modules run in document order -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#/">
+        <span class="brand__name">Proshno</span>
+        <span class="brand__tag">Every past question, one place.</span>
+      </a>
+      <nav aria-label="Question browser">
+        <h2 class="nav__title">Admission</h2>
+        <div id="tree" class="tree"></div>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <button class="menu-btn" id="menu-btn" type="button">☰ Browse exams</button>
+      <p id="status" role="status" hidden></p>
+
+      <section id="home">
+        <h1>Admission question bank</h1>
+        <p class="lede">Past admission questions organised by university and year. Pick an exam from the list to begin.</p>
+        <div id="stats" class="stats"></div>
+      </section>
+
+      <section id="exam" hidden>
+        <header>
+          <p class="eyebrow" id="exam-eyebrow"></p>
+          <h1 id="exam-title"></h1>
+          <p class="exam__count" id="exam-count"></p>
+        </header>
+        <div class="toolbar">
+          <div id="chips" class="chips"></div>
+          <input id="search" class="search" type="search" placeholder="Search in this exam" aria-label="Search in this exam">
+        </div>
+        <div id="list"></div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

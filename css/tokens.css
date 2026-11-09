@@ -1,0 +1,12 @@
+/* css/tokens.css */
+:root {
+  --paper: #faf8f3; --surface: #fff; --ink: #1d1c1a; --ink-soft: #5d5a54;
+  --line: #e4dfd5; --accent: #1f3a5f; --accent-soft: #e8edf4;
+  --font-ui: "Inter", "Hind Siliguri", system-ui, sans-serif;
+  --font-read: "Source Serif 4", "Hind Siliguri", Georgia, serif;
+  --radius: 6px; --sidebar-w: 290px;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #16181c; --surface: #1d2025; --ink: #ece9e2; --ink-soft: #a29f97;
+          --line: #2c3037; --accent: #9db8e0; --accent-soft: #252c38; }
+}
