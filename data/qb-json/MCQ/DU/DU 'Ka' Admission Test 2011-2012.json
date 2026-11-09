@@ -1,0 +1,1871 @@
+{
+  "title": "DU 'Ka' Admission Test 2011-2012",
+  "questions": [
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "1. If the points $(2,-1),(a+1, a-3)(a+2, a)$ are collinear, then the value of $a$ is:",
+      "options": [
+        "4",
+        "2",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "2. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "3. If $\\mathrm{A}=\\left[\\begin{array}{ccc}1 & \\omega & \\omega^{2} \\\\ \\omega & \\omega^{2} & 1 \\\\ \\omega^{2} & 1 & \\omega\\end{array}\\right]$, then what is the value of $\\operatorname{det}(\\mathrm{A})$ ?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "$\\omega$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 22-23 (SET N),JU H 20-21 (SET A),JU H 19-20 (SET E),BUTEX 16-17"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "4. If $\\left[\\begin{array}{cc}a-3 & -1 \\\\ -8 & a+4\\end{array}\\right]$ is an singubar matrix, then $\\mathrm{a}=$ ?",
+      "options": [
+        "$4,-5$",
+        "$-4,5$",
+        "$-4,-5$",
+        "4,5"
+      ],
+      "tag": "FCC 24,JGCC 24,DCC 24,CPSCM 24,DB 23,CTG.B 23,DB 22,CTG.B 22,JB 21,All.B 18,DU A 09-10,DU A 11-12,BUET 21-22,RU A 22-23,RU C 22-23 (SHIFT 1)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "5. The value of $\\lambda$ for which the tangent to the curve $y=\\lambda x(1-x)$ at the origin makes an angle of $30^{\\circ}$ with the $\\mathrm{x}$-axis is:",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "1"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "6. The eq. of the circle which touches the exes of y at a distance of $4$ from the origin and cuts the intercepts of $6$ units from the axis of x is",
+      "options": [
+        "$x^2 +y^2 \\pm 10x \\pm 8y + 16=0$",
+        "$x^2 +y^2 \\pm 5x \\pm 4y + 16=0$",
+        "$x^2 +y^2 \\pm 10x \\pm 8y - 16=0$",
+        "$x^2 +y^2 \\pm 5x \\pm 4y - 16=0$"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),JU A 22-23 (SET N),JU A 18-19 (SET P),JU H 16-17 (SET 3),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "7. What is the equation whose roots are 1 less from the roots of the equation $2 x^{2}-5 x-3=0$",
+      "options": [
+        "$2 x^{2}-x+4=0$",
+        "$2 x^{2}+x+6=0$",
+        "$2 x^{2}-x-6=0$",
+        "$2 x^{2}+9 x+4=0$"
+      ],
+      "tag": "DU A 18-19,DU A 11-12,CKRUET 21-22,RU A 22-23,RU C 22-23 (SHIFT 1)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "8. The minimum value of $x^{4}-4 x^{3}+4 x^{2}+5$ is-",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "tag": "CPSCM 24,DU A 17-18,DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "9. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "10. The intercept of $y$ - axis made by a straight line is 3 and this line is perpendicular to the straight line $2 x+$ $3 y+5=0$. What is the equation of this line?",
+      "options": [
+        "$3 x-2 y+6=0$",
+        "$3 x-2 y-5=0$",
+        "$3 x-2 y+5=0$",
+        "$3 x+2 y+13=0$"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),JU A 21-22 (SET I),JU A (SET A)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "11. A particle projected vertically upward from the top of a tower at a speed of $19.5 \\mathrm{~ms}^{-1}$ falls at the foot of the tower after 5 seconds. The height of the tower is:",
+      "options": [
+        "$20 \\mathrm{~m}$",
+        "$25 \\mathrm{~m}$",
+        "$30 \\mathrm{~m}$",
+        "$50 \\mathrm{~m}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "12. The foci of the ellipse $4{x}^{2}+9{y}^{2}=1$ are",
+      "options": [
+        "$\\left( \\pm \\cfrac { \\sqrt { 3 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 3 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 6 } ,0 \\right)$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A 16-17 (SET 4),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "13. A fair coin and a fair dice are thrown together. The probability of getting head of the coin and even nuinber of the dice simultaneously is:",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{5}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "14. If there is no current, a boy can cross a canal 80 m wide in a straight line by cutting a rope in 5 minutes and twice as long if there is a current. Velocity of current",
+      "options": [
+        "15 m/min",
+        "12 m/min",
+        "16.5 m/min",
+        "13.86 m/min"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "15. If the co-efficient of $x^{5}$ and $x^{15}$ in the expansion of $\\left(2 x^{2}+\\frac{k}{x^{3}}\\right)$ are equal, then the positive value of $k$ is-",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{\\sqrt{5}}$"
+      ],
+      "tag": "SUST 17-18,DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "16. If a parallelogram has two sides $A B=3 \\hat{i}+2 \\hat{j}-\\hat{k}$ and $A C=5 \\hat{i}-\\hat{j}+2 \\hat{k}$, what is the area of the parallelogram in square units?",
+      "options": [
+        "$\\sqrt{279}$",
+        "$\\sqrt{289}$",
+        "$\\sqrt{299}$",
+        "None of them"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "17. If $f(x)=3 x^{3}+3$ and $g(x)=\\sqrt[3]{\\frac{x-2}{3}}$ then the $(f \\circ g)(3)$ is:",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "-4"
+      ],
+      "tag": "DU A 11-12,BUET 8-9"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "18. The letters of the word 'Calculus' can be arranged in how many ways taking all the letters so that the first \\& last letter contains 'u'?",
+      "options": [
+        "160",
+        "175",
+        "180",
+        "185"
+      ],
+      "tag": "DU A 11-12,JU A 15-16 (SET 4)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "19. A committee of 5 is to be formed from 6 male and 5 female students. In how many ways can this be done so that the committee contains at least one male and at least one female student?",
+      "options": [
+        "160",
+        "360",
+        "410",
+        "455"
+      ],
+      "tag": "DU A 09-10,DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "20. What will be the solution of the inequality $|x-5|-2 x>4$ ?",
+      "options": [
+        "$x<-9$",
+        "$x>-9$",
+        "$x<3$",
+        "none"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU H 20-21 (SET A),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "21. The decimal number 181 when expressed in binary system is:",
+      "options": [
+        "10110101",
+        "10010111",
+        "10101101",
+        "11010011"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "22. $1-\\frac{1}{2}+\\frac{1}{2^{2}}-\\frac{1}{2^{3}}+\\frac{1}{2^{4}}-\\frac{1}{2^{5}} \\ldots \\ldots .$. to infinity $=$ ?",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{3}$",
+        "2",
+        "4"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "23. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (MCQ)(24)",
+      "question": "24. Area of the region in the first quadrant enclosed by the x-axis, the line $y = x$ and the circle $x^{2} + y^{2} = 32$ is",
+      "options": [
+        "$16\\pi \\ sq units$",
+        "$4\\pi \\ sq units$",
+        "$32\\pi \\ sq units$",
+        "$24\\pi \\ sq units$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 14-15 (G-EVEN),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 21-22 (SET F)"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "1. Oscillation period of a simple oscillator T T T. If the length of the oscillator is doubled, will the period of oscillation change?",
+      "options": [
+        "$\\sqrt{2}T$",
+        "2 T 2T 2T _",
+        "$\\frac{1}{2}T$",
+        "$\\frac{1}{\\sqrt{2}}T$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A (SET A),JU A 15-16 (SET 4),Tofazzal Sir,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "2. Equivalent resistance of two resistors in series and parallel combinations respectively 25 Ω 25\\Omega 25Ω and 4 Ω 4\\Omega 4Ω . What is the value of the two resistors?",
+      "options": [
+        "$12\\Omega\\ \\&\\ 11\\Omega$",
+        "20 Oh & 5 Oh 20\\Omega\\ \\&\\ 5\\Omega 20 Ω & 5 Ω",
+        "10 Oh & 15 Oh 10\\Omega\\ \\&\\ 15\\Omega 10 Ω & 15h",
+        "22 Oh & 3 Oh 22\\Omega\\ \\&\\ 3\\Omega 22H & 3Ω"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "3. What is the current flowing through $\\mathrm{R}_{3}$ in the circuit below?",
+      "options": [
+        "$1 \\mathrm{~A}$",
+        "$0.33 \\mathrm{~A}$",
+        "$0.5 \\mathrm{~A}$",
+        "$0.66 \\rightleftarrows \\mathrm{A}$"
+      ],
+      "tag": "MCC 24,RCC 24,BB 21,DB 19,DU A 15-16,DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "4. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "5. A Carnot engine works between the temperature $600 \\mathrm{~K}$ and $300 \\mathrm{~K}$. With the same efficiency it can work between $900 \\mathrm{~K}$ and $\\mathrm{T}$ temperature. What is the value of $\\mathrm{T}$ ?",
+      "options": [
+        "$900 \\mathrm{~K}$",
+        "$1800 \\mathrm{~K}$",
+        "$1500 \\mathrm{~K}$",
+        "$450 \\mathrm{~K}$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1)"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "6. A bomb of mass $16 \\mathrm{~kg}$ at rest explodes into two pieces of masses of $4 \\mathrm{~kg}$ and $12 \\mathrm{~kg}$. The velocity of the $12 \\mathrm{~kg}$ mass is $4 \\mathrm{~ms}^{-1}$. What is the kinetic energy of the other mass?",
+      "options": [
+        "$96 \\mathrm{~J}$",
+        "$144 \\mathrm{~J}$",
+        "$288 \\mathrm{~J}$",
+        "$192 \\mathrm{~J}$"
+      ],
+      "tag": "DU A 11-12,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "7.",
+      "options": [
+        "$3 \\times 10^{-19} \\mathrm{~J}$",
+        "$10 \\mathrm{~J}$",
+        "$3 \\times 10^{-10} \\mathrm{~J}$",
+        "$10 \\times 10^{-10} \\mathrm{~J}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "8. If an electric dipole is placed at an angle of 30° to an unequal electric field, a ___ will occur in the dipole.",
+      "options": [
+        "a torque only",
+        "a translational force only is the direction of the field",
+        "a translational force in the direction perpendicular to the field torque.",
+        "a troque as well as a translational force."
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "9. Young's coefficient value of copper wire is 2×10 11 Nm -2 . How much force is required to double the length of a copper wire of cross section 1 cm 2 ?",
+      "options": [
+        "1×107 N",
+        "1.5×107 N",
+        "2×107 N",
+        "107 N"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 15-16 (SET 3),JU A 15-16 (SET 4),Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "10. Coefficients of water and glycerin are 1.33 and 1.47, what is the critical angle between them?",
+      "options": [
+        "45°",
+        "70.26°",
+        "64.82°",
+        "None of them"
+      ],
+      "tag": "HSTU 18-19,DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "11. In Young's two-crack test, the distance between the cracks is 2.0 mm. Find the wavelength of the light if the distance between the stripes is 0.295 mm above the screen at a distance of 1 m from this point.",
+      "options": [
+        "5.90 Å",
+        "59.0 Å",
+        "5900 Å",
+        "59000 Å"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU H 20-21 (SET A),BUTEX 22-23,BUTEX 21-22,BUTEX 13-14,BUTEX 05-06"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "12. The rest-mass of a particle is $10^{-24} \\mathrm{~kg}$. If the particle is moving with a velocity of $1.8 \\times 10^{8} \\mathrm{~ms}^{-1}$. What will be the mass of the particle at this state?",
+      "options": [
+        "$1.25 \\times 10^{24} \\mathrm{~kg}$",
+        "$1.25 \\times 10^{-24} \\mathrm{~kg}$",
+        "$1.25 \\times 10^{-10} \\mathrm{~kg}$",
+        "$1.0 \\times 10^{-20} \\mathrm{~kg}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "13. A galvanometer of resistance 100 Ω can safely accept a current of 10mA. How much shunt resistance is needed to measure a current of 10A?",
+      "options": [
+        "0.4 Ω",
+        "0.3 Ω",
+        "0.2 Ω",
+        "0.1 Ω"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 18-19 (SET C),JU A 15-16 (SET 4),Tapan Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "14. Which of the following figures represents the equation $\\vec{R}=\\vec{P}-\\vec{Q}$ accurately?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/_2GiCvnc1VW_UPgb58bfQ.png]",
+        "[IMG: https://assets.chorcha.net/jNOY0ntU718oFuEbAxZ0Q.png]",
+        "[IMG: https://assets.chorcha.net/Jqkf8e_-hFscJed1i22Id.png]",
+        "[IMG: https://assets.chorcha.net/mYfzZKQE_ZXWo-lZYpfdn.png]"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "15. Velocity relative to Earth V E V_E V E and the release velocity relative to the Moon V M V_M V M Which of the following relationships is correct?",
+      "options": [
+        "$V_E>V_M$",
+        "\\(V_E",
+        "$V_E=V_M$",
+        "$V_E\\le V_M$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "16. 'Every point on the wavefront of the primary wave is a source of secondary wave' - this is known as Carr's principle.",
+      "options": [
+        "Heisenberg",
+        "Newton",
+        "Fresnel",
+        "Huygens"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "17. What is the ratio of half-life and average life of a radioactive nucleus?",
+      "options": [
+        "0.369",
+        "0.963",
+        "0.639",
+        "0.693"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "18. Entropy of a system is-",
+      "options": [
+        "Measurement of series",
+        "Measurement of relative order",
+        "Measurement of disorder",
+        "A measure of relative disorder"
+      ],
+      "tag": "PCC 24,DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "19. What is the kinetic energy of three helium atoms at 10°C?",
+      "options": [
+        "$1.24 \\times 10^{- 20} J$",
+        "$1.25 \\times 10^{- 20} J$",
+        "$1.26 \\times 10^{- 20} J$",
+        "$1.76 \\times 10^{- 20} J$"
+      ],
+      "tag": "RUMC 24,CTG.B 21,DU A 11-12,CU A 16-17,BUP FST 22-23"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "20. A total charge of $100 \\mathrm{C}$ flows through a ' $12 \\mathrm{~W}$ ' electric bulb in a time of $50 \\mathrm{~s}$. What is the potential difference across the bulb during this time?",
+      "options": [
+        "$0.12 \\mathrm{~V}$",
+        "$2.0 \\mathrm{~V}$",
+        "$6.0 \\mathrm{~V}$",
+        "$24 \\mathrm{~V}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "21. If the resistance of a copper wire is R, what is the resistance of a copper wire twice its length and twice its radius?",
+      "options": [
+        "R/2",
+        "R/4",
+        "R",
+        "2R"
+      ],
+      "tag": "RCC 24,BMARPC 24,DCC 24,MB 23,MB 21,CB 21,DB 19,BB 19,All.B 18,JUST 17-18,HSTU 19-20,HSTU 17-18,HSTU 16-17,MBSTU 19-20,NSTU 19-20,BSMRSTU 18-19,Agri. GST 19-20,Agri. GST 20-21,MAT 14-15,DU A 14-15,DU A 11-12,DU A 16-17,BUET 13-14,JU A 20-21 (SET B),Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "22. A man throws a ball up a steep hill with a velocity of 48 ms -1 . How long will the ball remain at zero and how high will it rise?",
+      "options": [
+        "9.8 sec & 117.5 m",
+        "8.9 sec & 117.5 m",
+        "9.8 sec & 171.5 m",
+        "8.9 sec & & 171.5 m"
+      ],
+      "tag": "PUST 16-17,NSTU 16-17,MAT 15-16,MAT 19-20,DU A 14-15,DU A 11-12,DU A 16-17,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "23. The turns ratio of the primary and secondary coils of a transformer is 21:1 and the secondary has a resistance of 20Ω. If 220 volt is applied to the primary then what is the current in the primary?",
+      "options": [
+        "0.05A",
+        "0.5A",
+        "0.025A",
+        "0.21A"
+      ],
+      "tag": "RU C 17-18 (GROUP 1),Ishaque Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "24. Two electric currents are expressed through respectively $\\mathrm{I}=\\mathrm{I}_{0} \\sin \\omega \\mathrm{t} \\& \\mathrm{I}=\\mathrm{I}_{0} \\sin$ $\\left[\\omega\\left(t+\\frac{T}{3}\\right)\\right]$ What is the phase difference between them?",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{2 \\pi}{3}$",
+        "$\\pi$"
+      ],
+      "tag": "DU A 11-12,DU A 13-14,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "25. 1 0 - 3 T e s l a 10^{-3}Tesla 1 0 − 3 T es l a with a straight wire oriented perpendicular to the magnetic field 5 A 5A A current of 5 A is flowing. Find the force exerted on a unit length of the wire.",
+      "options": [
+        "5 × 1 0 − 3 N 5\\times10^{-3}N 5 × 1 0 − 3 N",
+        "5 N 5N 5 N",
+        "5 × 1 0 3 N 5\\times10^3N 5 × 1 0 3 N",
+        "10 × 1 0 − 3 N 10\\times10^{-3}N 10 × 1 0 − 3 N"
+      ],
+      "tag": "GST 20-21,JUST 19-20,HSTU 19-20,DU A 15-16,DU A 11-12,BUET 9-10,BUET 6-7,Ishaque Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "26. A car is travelling with uniform accelcration along a straight road with initial velocity of $10 \\mathrm{~ms}^{-1}$. After travelling $100 \\mathrm{~m}$ its speed is $20 \\mathrm{~ms}^{-1}$. What is the acceleration of the car?",
+      "options": [
+        "$0.67 \\mathrm{~ms}^{-2}$",
+        "$1.5 \\mathrm{~ms}^{-2}$",
+        "$2.5 \\mathrm{~ms}^{-2}$",
+        "$6.0 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "Agri. GST 20-21,DU A 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "27. If the temperature of a blackbody increases from $27\\degree C$ to $327\\degree C$, how much will its radiation increase?",
+      "options": [
+        "10 times",
+        "Count 16",
+        "Multiply 327/27",
+        "20 times"
+      ],
+      "tag": "BSMRSTU 18-19,DU A 11-12,BUET 6-7"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "28. Which one cannot be explained by the wave theoryof light?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Photoelectric effect",
+        "Diffraction"
+      ],
+      "tag": "RU H 15-16 (G-ODD),JU A 17-18 (SET 3),Ishaque Sir,Tapan Sir,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "29. What changes in the wave of light when light enters glass from air?",
+      "options": [
+        "Color and speed",
+        "Frequency and wavelength",
+        "Velocity and wavelength",
+        "Wavelength and color"
+      ],
+      "tag": "RU F (GROUP 1)"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "30.",
+      "options": [
+        "$18 \\mathrm{~cm}$",
+        "$15 \\mathrm{~cm}$",
+        "$25 \\mathrm{~cm}$",
+        "$23 \\mathrm{~cm}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "1. Which of the following compounds gives nucleophillic substitution reaction?",
+      "options": [
+        "chlorobenzene",
+        "ethylene",
+        "dimethylether",
+        "2-chloro-2-methylpropane"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "2. What can happen in the blank in the following reaction?\n 12 26 M g + 1 2 H → 11 24 N a + . . . . . . . . . . . . . . _{12}^{26}Mg+_1^2H\\to_{11}^{24}Na+.............. 12 26 Mg _ + 1 2 H → 11 24 N a + ..............",
+      "options": [
+        "a \\alpha α -particle",
+        "b \\beta β -particle",
+        "γ \\gamma γ -ray",
+        "neutron"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "3. Which one of the following is a $\\mathrm{sp}^{3} \\mathrm{~d}^{2}$ hybridized compound?",
+      "options": [
+        "$\\mathrm{XeF}_{4}$",
+        "All",
+        "$\\mathrm{SF}_{6}$",
+        "$\\mathrm{IF}_{7}$"
+      ],
+      "tag": "RU C 21-22 (GROUP 2)"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "4. What is the speed of $\\mathrm{N}_{2}$ molecule of air at $300 \\mathrm{~K}$ temperature?",
+      "options": [
+        "$450 \\mathrm{~ms}^{-1}$",
+        "$516 \\mathrm{~ms}^{-1}$",
+        "$400 \\mathrm{~ms}^{-1}$",
+        "$600 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "JCC 24,DU A 12-13,DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "5. Which compound shows Geometric isomerism?",
+      "options": [
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CCl}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CHCl}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2}$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 18-19 (SET P),JU A 17-18 (SET 3),Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "6. An organic compound, $\\mathrm{C}_{6} \\mathrm{H}_{12}$ on ozonolysis followed by treatment with water in presence of zinc gives two products, one of which is acetone. What is the correct formula of $\\mathrm{C}_{6} \\mathrm{H}_{12}$ ?",
+      "options": [
+        "$\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{CHCH}=\\mathrm{CH}_{2} \\mathrm{CH}_{3}$",
+        "$\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{C}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2}$",
+        "None"
+      ],
+      "tag": "DU A 11-12,DU A 8-9"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "7. What is the hybridization of $\\mathrm{NH}_{4}^{+}$and $\\mathrm{PH}_{4}^{+}$?",
+      "options": [
+        "$\\mathrm{sp}$",
+        "$\\mathrm{sp}^{2}$",
+        "$\\mathrm{sp}^{3}$",
+        "$\\mathrm{sp}^{3} \\mathrm{~d}$"
+      ],
+      "tag": "MBSTU 17-18,DAT 21-22,DU A 11-12,JU A 21-22 (SET I),Guha Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "8. In the following graphs, the relation between the volume of a fixed mass and pressure of an ideal gas at constant temperature has been shown. Which graph is incorrect?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/l_iFLEltW0o7SOfsqNEEl.png]",
+        "[IMG: https://assets.chorcha.net/kRD9jTiy5WPqXQt6Innc_.png]",
+        "[IMG: https://assets.chorcha.net/tXh6iJ8bSd6tXhw9vzf_H.png]",
+        "[IMG: https://assets.chorcha.net/3C-xPHqFWfijETRjtp8kp.png]"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "9. Which of the following set gives the electronic configuration for chromium $\\left({ }^{24} \\mathrm{C}_{\\mathrm{r}}\\right)$ and $\\mathrm{Cr}^{3+}$ ion? [Ans: $\\mathrm{c}$ ]\n$~~~~~~~ \\mathrm{Cr}$ $~~~~~~~~~~~ \\mathrm{Cr}^{3+}$",
+      "options": [
+        "$[\\mathrm{Ar}] 3 \\mathrm{~d}^{4} 4 \\mathrm{~s}^{2}$ $~~~~~~~~~[\\mathrm{Ar}] 3 \\mathrm{~d}^{3} 4 \\mathrm{~s}^{0}$",
+        "$[\\mathrm{Ar}] 3 \\mathrm{~d}^{5} 4 \\mathrm{~s}^{1}$ $~~~~~~~~~~~~[\\mathrm{Ar}] 3 \\mathrm{~d}^{2} 4 \\mathrm{~s}^{1}$",
+        "$[\\mathrm{Ar}] 3 \\mathrm{~d}^{5} 4 \\mathrm{~s}^{1}$ $~~~~~~~~~ [\\mathrm{Ar}] 3 \\mathrm{~d}^{3} 4 \\mathrm{~s}^{0}$",
+        "$[\\mathrm{Ar}] 3 \\mathrm{~d}^{4} 4 \\mathrm{~s}^{2}$ $~~~~~~~~~~~~ [\\mathrm{Ar}] 3 \\mathrm{~d}^{1} 4 \\mathrm{~s}^{2}$"
+      ],
+      "tag": "DU A 11-12,Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "10. Which compound can be differentiated by Tollens reagent?",
+      "options": [
+        "$\\mathrm{HCHO}$ and $\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$ and $\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COCH}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$ and $\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CHO}$ and $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$"
+      ],
+      "tag": "HSTU 16-17,DU A 11-12,Guha Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "11. The $\\mathrm{pH}$ of the buffer solution prepared by mixing $20 \\mathrm{~mL}$ of $0.2 \\mathrm{M}$ ethanoic acid $\\left(\\mathrm{K}_{\\mathrm{a}}=1.8 \\times 10^{-\\mathbf{5}}\\right)$ and $20 \\mathrm{~mL}$ of $0.10 \\mathrm{M} \\mathrm{NaOH}$ solution is-",
+      "options": [
+        "4.7",
+        "5.0",
+        "-4.7",
+        "7.0"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "12. Which of the following is an intermediate in the reaction of benzene with $\\mathrm{CH}_{3} \\mathrm{Cl}$ and $\\mathrm{AlCl}_{3}$ ?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/IEo4B6I1XMc5JkbFhktES.png]",
+        "[IMG: https://assets.chorcha.net/LKZ-0ePlJWvGUD3IAddfs.png]",
+        "[IMG: https://assets.chorcha.net/eIY-ZmesSjVT0C7PtVirI.png]",
+        "None"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "13. Which of the following compounds has the highest boiling point?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OCH}_{2} \\mathrm{CH}_{3}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{10}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),Guha Sir,Lingcon Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "14. What do the following species have in common? ${ }^{20} \\mathrm{~N}_{\\mathrm{e}}, 19 \\mathrm{~F}^{-},{ }^{24} \\mathrm{Mg}^{2+}$",
+      "options": [
+        "isotopes to cach other",
+        "isomers of each other",
+        "isoelectronic with each other",
+        "isotones to each other"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "15. Given, the equillibrium at $25^{\\circ} \\mathrm{C} ; \\mathrm{NH}_{4} \\mathrm{Cl}(\\mathrm{s}) \\rightleftharpoons \\mathrm{NH}_{4}{ }^{+}(\\mathrm{aq})+\\mathrm{Cl}^{-}(\\mathrm{aq})\\left(\\Delta \\mathrm{H}=+3.5 \\mathrm{kcalmol}^{-1}\\right)$ What change will shift the equilibrium to right?",
+      "options": [
+        "decreasing the temperature to $15^{\\circ} \\mathrm{C}$",
+        "increasing the temperature to $35^{\\circ} \\mathrm{C}$",
+        "dissolving $\\mathrm{NaCl}$ crystals in the equilibrium mixture",
+        "dissolving $\\mathrm{NH}_{4} \\mathrm{NO}_{3}$ crystals in the equilibrium mixture"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "16. What is the boiling point of water at $101.3 \\mathrm{kPa}$ external pressure?",
+      "options": [
+        "$120.8^{\\circ} \\mathrm{C}$",
+        "$90.5^{\\circ} \\mathrm{C}$",
+        "$100.0^{\\circ} \\mathrm{C}$",
+        "$18.0^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "17. What is produced when ammonia or primary amine reacts with acid chloride?",
+      "options": [
+        "Acid amide",
+        "Organic acid",
+        "Alcohol",
+        "Aldehyde"
+      ],
+      "tag": "Agri. GST 20-21,DU A 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "18. What is the main product of the following reaction? $\\mathrm{CH}_{2}=\\mathrm{CH}_{2}+\\mathrm{KMnO}_{4} \\xrightarrow{\\mathrm{H}_{2} \\mathrm{O}}$ ?",
+      "options": [
+        "ethanoic acid",
+        "ethylene glycol",
+        "ethyl alcohol",
+        "ethylene oxide"
+      ],
+      "tag": "DU A 11-12,Guha Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "19. How long will it take to deposit $1.00 \\mathrm{~g}$ of chromium at the cathode if 0.120 ampere of electricity is passed through a chromium (III) sulfate solution?",
+      "options": [
+        "$12 \\mathrm{hr} 53 \\mathrm{~min}$",
+        "$12 \\mathrm{hr} 50 \\mathrm{~min}$",
+        "$9 \\mathrm{hr} 53 \\mathrm{~min}$",
+        "$13 \\mathrm{hr} 52 \\mathrm{~min}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "20. Which one is ortho-para-directing group?",
+      "options": [
+        "-CN",
+        "-CHO",
+        "-OCH$_3$",
+        "-NO$_3$"
+      ],
+      "tag": "DB 23 ,CTG.B 23,DIN.B 23,MB 22,MB 21,RB 21,JB 21,SB 21,GST 22-23,PUST 17-18,HSTU 16-17,MBSTU 16-17,MAT 21-22,DU A 15-16,DU A 11-12,DU A 8-9,CU A 22-23,Kabir Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "21. Which one of the following atoms has the lowest ionization energy?",
+      "options": [
+        "$\\mathrm{N}$",
+        "$0$",
+        "$\\mathrm{F}$",
+        "$\\mathrm{Ne}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "22. The heat of combustion of ethylene, hydrogen and ethane are $-1410.92 \\mathrm{~kJ},-284.24 \\mathrm{~kJ}$ and $-1560.24 \\mathrm{~kJ}$ ?",
+      "options": [
+        "$-144.92 \\mathrm{~kJ}$",
+        "$244.92 \\mathrm{~kJ}$",
+        "$34.92 \\mathrm{~kJ}$",
+        "$-134.92 \\mathrm{~kJ}$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "23. Which coating is given in the cooking frypan?",
+      "options": [
+        "Polythene",
+        "Plastic",
+        "Teflon",
+        "Polystyrene"
+      ],
+      "tag": "HSTU 19-20,Agri. GST 20-21,MAT 16-17,DU A 11-12,CU A 16-17,CKRUET 20-21"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "24. What is the rate constant when half-life of a first order reaction is $15 \\mathrm{~min}$ ?",
+      "options": [
+        "$4.62 \\times 10^{-2} \\mathrm{~min}^{-1}$",
+        "$3.20 \\times 10^{-2} \\mathrm{~min}^{-1}$",
+        "$5.01 \\times 10^{-2} \\mathrm{~min}^{-1}$",
+        "$4.50 \\times 10^{-2} \\mathrm{~min}^{-1}$"
+      ],
+      "tag": "RU C 16-17 (G-ODD),Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "25. For the reaction $A \\rightarrow P,[A]_{0}$ and $[A]$ are initial concentration and concentration at time $t$ respectively. If the reaction is first order with respect to $A$, which of the following plots is incorrect?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/xiRqENLRSOCdBfsXQa5mA.png]",
+        "[IMG: https://assets.chorcha.net/x0-TtaxNKZdfnu7Jbz5HF.png]",
+        "[IMG: https://assets.chorcha.net/ETH9RDZuyeqWjBFOwsWjF.png]",
+        "[IMG: https://assets.chorcha.net/tuccomWJ-sZiPG6WqVJWF.png]"
+      ],
+      "tag": "DU A 09-10,DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "26. Which one of the following pairs of compounds reacts to give polyester?",
+      "options": [
+        "styrene and butadiene",
+        "Pheno and formaldeyde",
+        "adipic acid and 1,6-diaminohexane",
+        "ethylene glycoland terepthalic acid"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "27. What is the bond order of NO?",
+      "options": [
+        "3",
+        "3",
+        "1",
+        "2.5"
+      ],
+      "tag": "DU A 11-12,DU A 8-9,Lingcon Sir,Guha Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "28. What is the wavelength of the third line of Lyman series of atomic spectrum of hydrogen? $\\left(\\mathrm{R}_{\\mathrm{H}}=10.97 \\times 10^{6} \\mathrm{~m}^{-1}\\right)$",
+      "options": [
+        "9.723 nm",
+        "197.350 nm",
+        "337.335 nm",
+        "97.235 nm"
+      ],
+      "tag": "DU A 11-12,Guha Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "29. 20.5 mL of $0.5 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}$ acid is needed to neutralize a 20 mL NaOH solution. What is the molarity of NaOH solution",
+      "options": [
+        "$1.025 \\mathrm{molL}^{-1}$",
+        "1.025 M",
+        "10.25 M",
+        "None of these"
+      ],
+      "tag": "DU A 11-12,CUET 11-12,CUET 14-15"
+    },
+    {
+      "subject": "Chemistry (MCQ)(30)",
+      "question": "30. Which one of the following notations is correct for an electrochemical cell?",
+      "options": [
+        "$\\mathrm{Zn}^{2+}(\\mathrm{aq})|\\mathrm{Zn}(\\mathrm{s})||\\mathrm{Cu}(\\mathrm{s})| \\mathrm{Cu}^{2+}$ (aq)",
+        "$\\mathrm{Zn}(\\mathrm{s})\\left|\\mathrm{Zn}^{2+}(\\mathrm{aq})\\right|\\left|\\mathrm{Cu}^{2+}(\\mathrm{aq})\\right| \\mathrm{Cu}(\\mathrm{s})$",
+        "$\\mathrm{Zn}^{2+}(\\mathrm{aq})|\\mathrm{Zn}(\\mathrm{s})|\\left|\\mathrm{Cu}^{2+}(\\mathrm{aq})\\right| \\mathrm{Cu}(\\mathrm{s})$",
+        "$\\mathrm{Zn}^{2+}(\\mathrm{aq})|\\mathrm{Zn}(\\mathrm{s})|\\left|\\mathrm{Cu}^{+1}(\\mathrm{aq})\\right| \\mathrm{Cu}^{2+}(\\mathrm{aq})$"
+      ],
+      "tag": "DU A 17-18,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "1. Read the passage and answer the question.\nA coral reef is a flower garden of stone, growing like a wall or like a tower from the depths, and filled with the most confusing and most colourful varieties of life. The colours are beautiful, especially in the shallow region down to sixty feet, where some of the red and yellow light of the sun's rays still penetrates. But most corals are greenish, brown, bluish or yellow. Coral reefs offer shelter and food to thousands of creatures. The warmer the climate, the greater the variety of species there is. In the tropics, it is easier to find, in one place, ten different species than ten specimens of the same species; and a coral reef provides ample proof of that rule. Living conditions are most favourable, so that many forms are able to develop and survive in their struggle for existence.\nThe main subject of the passage is__________.",
+      "options": [
+        "The beauty of a coral reef",
+        "The correlation of climate and life",
+        "The struggle for existence",
+        "The colours of a coral reef"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "2. ______that life began billions of years ago in the water.",
+      "options": [
+        "It is believed",
+        "In the belief",
+        "The belief",
+        "Believing"
+      ],
+      "tag": "DU A 11-12,DU D 08-09,DU C 09-10"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "3. The government has introduced ––.",
+      "options": [
+        "a children’s clothes tax",
+        "a tax on children clothes",
+        "a children cloths tax",
+        "a tax on children’s clothes"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "4. The most important chemical catalyst on the planet is chlorophyll, ___carbon dioxide and water react to form carbohydrates.",
+      "options": [
+        "whose presence",
+        "which is present",
+        "presenting",
+        "in the presence of which"
+      ],
+      "tag": "DU A 11-12,DU D 08-09,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "5. An image on a national flag can symbolize political ideas that___express.",
+      "options": [
+        "take many words otherwise would",
+        "would take to many otherwise words",
+        "many words to take otherwise",
+        "would otherwise take many words to"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "6. Had I been in your situation, —— the offer.",
+      "options": [
+        "I would not accept",
+        "I would accept",
+        "I had accepted",
+        "I would have accepted"
+      ],
+      "tag": "জবি ০৯-১০"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "7. ___chair the meeting.",
+      "options": [
+        "Karim was decided to",
+        "There was decided that Karim should",
+        "It was decided that Karim should",
+        "Karim had been decided to"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "8. She ___ from flu when she was interviewed.",
+      "options": [
+        "has been suffering",
+        "suffered",
+        "had suffered",
+        "had been suffering"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "9. Next month I ______ John for 20 years.",
+      "options": [
+        "know",
+        "will have known",
+        "am knowing",
+        "will have been knowing"
+      ],
+      "tag": "DU A 11-12,DU (A) 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "10. I ______ happy to see him, but I didn't have time.",
+      "options": [
+        "will have been",
+        "would be",
+        "will be",
+        "would have been"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "11. The traffic lights___green and I pulled away.",
+      "options": [
+        "gone",
+        "got",
+        "moved",
+        "went"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "12. Choose the correct meaning of the following idiom:\n\n\"The job was not plain-sailing.\"",
+      "options": [
+        "The job was difficult to get.",
+        "The job was not easy to do",
+        "The job was not sailing a ship",
+        "The job was easy to do"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "13. Choose the correct meaning of the following idioms.\n\n\"Leave no stone unturned.\"",
+      "options": [
+        "Heavy stone",
+        "Rare stone",
+        "Impossible",
+        "try every possible means"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "14. আমি আম পছন্দ করি -",
+      "options": [
+        "I like mango",
+        "I would like a mango",
+        "I like mangoes",
+        "I like the mango"
+      ],
+      "tag": "DU A 11-12,BUP FSSS 18-19"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "15. Choose the correct translation:\n\n“তারা সাগরের কাছে একটি কুটিরে বাস করত।”",
+      "options": [
+        "They lived in a hut closed to sea.",
+        "They lived in a hut close by sea.",
+        "They lived in a hut close to the sea.",
+        "They lived in a hut close with the sea."
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "16. I came here after the rain ____.",
+      "options": [
+        "stopped",
+        "stop",
+        "was stop",
+        "had stopped"
+      ],
+      "tag": "AGRI GST 21-22,Agri. GST 21-22,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "17. Seeing is__________ (believe)",
+      "options": [
+        "to believe",
+        "how to believe",
+        "believing",
+        "believed"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "18. I do not know___.",
+      "options": [
+        "where does he live",
+        "where is he live",
+        "where he does lives",
+        "where he lives"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "19. I notified___I had changed my address.",
+      "options": [
+        "with the bank that",
+        "the bank that",
+        "that",
+        "to the bank that"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "20. What is the meaning of the expression \"bottom line\"?",
+      "options": [
+        "The final step",
+        "The end of a road",
+        "The last line of a book",
+        "The essential point"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "21. Choose the correct sentence -",
+      "options": [
+        "Open page 10",
+        "Open at page 10",
+        "Open page at 10",
+        "Open page at 10"
+      ],
+      "tag": "DAT 15-16,MAT 15-16,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "22. Which one is the correct spelling?",
+      "options": [
+        "Acomodation",
+        "Accommodation",
+        "Acommodation",
+        "Acomoddation"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "23. The antonym of \"prosperity\" is-",
+      "options": [
+        "diversity",
+        "adversity",
+        "property",
+        "posterity"
+      ],
+      "tag": "KUET 11-12,DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "24. The synonym of 'brittle' is-",
+      "options": [
+        "Soft",
+        "Fragile",
+        "Trash",
+        "Simon"
+      ],
+      "tag": "মন্ত্রিপরিষদ বিভাগ (কম্পিউটার ও বিভিন্ন পদ)-২৩"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "25. By working hard, you can prosper. Here \"working\" is a-",
+      "options": [
+        "Participle",
+        "Verbal Noun",
+        "Gerund",
+        "Infinitive"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "26. The noun form of \"grand\" is-",
+      "options": [
+        "grandly",
+        "grandsome",
+        "grandeur",
+        "grand"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "1. প্রমথ চৌধুরীর মতে, সমাজের মনোরঞ্জন করতে গেলে সাহিত্য কী হারায়?",
+      "options": [
+        "সাবলীলতা ও স্বকীয়তা",
+        "স্বকীয়তা ও আকর্ষণ গুণ",
+        "সাবলীলতা ও আকর্ষণ গুণ",
+        "নিজস্বতা ও সরলতা"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "2. 'প্রাতরাশ' এর সন্ধিবিচ্ছেদ -",
+      "options": [
+        "প্রাত + রাশ",
+        "প্রাতঃ + রাশ",
+        "প্রাতঃ + আশ",
+        "প্রাত + আশ"
+      ],
+      "tag": "DU B 01-02,RU C 22-23 (অ-বিজ্ঞান),DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "3. 'বিলাসী' গল্পটি প্রথম প্রকাশিত হয় মাসিক 'ভারতী' পত্রিকার কোন সংখ্যায়?",
+      "options": [
+        "বৈশাখ ১৩২৫",
+        "জ্যৈষ্ঠ ১৩২৫",
+        "বৈশাখ ১৩২৬",
+        "জ্যৈষ্ঠ ১৩২৬"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "4. 'বঙ্গভাষা'- কবিতায় কত স্থানে যতিচিহ্নের ব্যবহার আছে?",
+      "options": [
+        "ত্রিশ স্থানে",
+        "একত্রিশ স্থানে",
+        "বত্রিশ স্থানে",
+        "চৌত্রিশ স্থানে"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "5. ‘দেবতার ধন কে যায় ফিরায়ে লয়ে।' ‘দেবতার' কোন কারকে কোন বিভক্তি?",
+      "options": [
+        "কর্তায় ষষ্ঠী",
+        "নিমিত্তার্থে চতুর্থী",
+        "সম্প্রদানে ষষ্ঠী",
+        "কর্মে ষষ্ঠী"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "6. 'রাত পোহাবার কত দেরি পাঞ্জেরি'- চরণটি 'পাঞ্জেরি' কবিতায় কতবার ব্যবহার করা হয়েছে?",
+      "options": [
+        "তিন বার",
+        "চার বার",
+        "পাঁচ বার",
+        "ছয় বার"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "7. 'কোকনদ'-- এর সমার্থক শব্দ?",
+      "options": [
+        "গোলাপ",
+        "টগর",
+        "শাপলা",
+        "পদ্ম"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "8. ‘জীবন-বন্দনা' কবিতায় নজরুল নিজেকে কী বলে উল্লেখ করেছেন?",
+      "options": [
+        "বিদ্রোহী কবি",
+        "প্রেমিক-কবি",
+        "মরু-কবি",
+        "যাযাবর-কবি"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "9. 'জ্ঞানি লোকেরা মনে করেন, তাদের ছেলেমেয়েরা অধ্যায়ন ছেরেছে বলেই তারা ব্যাথা, আকাঙ্খা, প্রতিযোগীতা, দারিদ্র্যতা ইত্যাদি বানান ভূল করে।'-- বাক্যে কয়টি বানান ভুল?",
+      "options": [
+        "ছয়",
+        "সাত",
+        "নয়",
+        "আট"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "10. সুকান্ত ভট্টাচার্য তাঁর 'আঠার বছর বয়স' কবিতায় পদাঘাতে কি ভাঙ্গতে চেয়েছেন?",
+      "options": [
+        "অট্টালিকা",
+        "শোষণের শৃঙ্খল",
+        "শিকল",
+        "পাথর"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "11. নিচের কোন শব্দটি শুদ্ধ-",
+      "options": [
+        "আকাঙ্খা",
+        "আসত্তি",
+        "ব্রাহ্মন",
+        "পূর্বাহ্ন"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "12. প্রকৃতি-প্রত্যয় হিসাবে কোনটি শুদ্ধ?",
+      "options": [
+        "অদিতি+অ=আদিত্য",
+        "দয়া+বান দয়াবান",
+        "কবি+য-কাব্য",
+        "রূপ+অসী=রূপসী"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "13. 'রাশি রাশি ভারা ভারা' শব্দের এরূপ ব্যবহারকে বলে-",
+      "options": [
+        "পুনরুক্তি",
+        "নির্ধারক বিশেষণ",
+        "ক্রিয়া বিশেষণ",
+        "বিশেষণের বিশেষণ"
+      ],
+      "tag": "DU A 11-12,DU B 06-07,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "14. ‘আম-কুড়ানো’ কোন সমাস?",
+      "options": [
+        "২য়া তৎপুরুষ",
+        "৩য়া তৎপুরুষ",
+        "৪র্থী তৎপুরুষ",
+        "৬ষ্ঠী তৎপুরুষ"
+      ],
+      "tag": "BUP FASS 16-17,BUP FASS 15-16,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "15. পঞ্চমী তৎপুরুষ সমাস কোনটি?",
+      "options": [
+        "পাটক্ষেত",
+        "ছাত্রসমাজ",
+        "খাঁচাছাড়া",
+        "কন্যাসহ"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "16. 'আমি কমবক্তার দলে।'- উক্তিটি করেছেন?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম",
+        "প্রমথ চৌধুরী",
+        "শওকত ওসমান"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "17. নিচের কোন শব্দটি বিশেষ্য?",
+      "options": [
+        "আশ্বস্ত",
+        "অধুনা",
+        "আধুনিক",
+        "আরণ্য"
+      ],
+      "tag": "DU A 11-12,DU B 02-03,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "18. 'মহানদী' শব্দের ব্যাসবাক্য কোনটি?",
+      "options": [
+        "মহান যে নদী",
+        "মহতী যে নদী",
+        "মহৎ যে নদী",
+        "মহীয়সী যে নদী"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "19. ‘He is very hard up now.' বাক্যটির যথাযথ বঙ্গানুবাদ-",
+      "options": [
+        "সে খুব শক্ত মনের মানুষ",
+        "তাকে ইদানীং অসহ্য লাগে",
+        "তার দিন আর চলছে না",
+        "সে খুব কষ্টে দিনাতিপাত করছে"
+      ],
+      "tag": "DU A 11-12,ঢাবি (ক): ১১-১২"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "20. ‘সন্ধি‘এর বিপরীতার্থক শব্দ নিচের কোনটি?",
+      "options": [
+        "বিগ্রহ",
+        "মিত্র",
+        "বিয়োগ",
+        "বাহুল্য"
+      ],
+      "tag": "RU A 18-19  Group-1"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "21. ‘তাল ঠোকা’ বাগধারাটির অর্থ-",
+      "options": [
+        "অহংকার করা",
+        "সগর্ব উক্তি",
+        "কার্পণ্য করা",
+        "ব্যঙ্গ উক্তি"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "22. 'আমার পূর্ব বাংলা' কবিতায় কোন রং-এর উল্লেখ নেই?",
+      "options": [
+        "নীল",
+        "হলুদ",
+        "বেগুনি",
+        "সবুজ"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "23. 'যিনি বিদ্যালাভ করেছেন' এক কথায়-",
+      "options": [
+        "বিদ্বান",
+        "বিদুষী",
+        "কৃতবিদ্য",
+        "বিদ্যাধর"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "24. 'প্রত্যেকেই নীরব হয়ে থাকে।' বাক্যটির নেতিবাচক রূপ-",
+      "options": [
+        "কেউ কোন কথা বলে না।",
+        "কারো মুখে কোন কথা সরে না।",
+        "কারো মুখে কোন কথা নেই।",
+        "কারে মুখে কোন শব্দ নেই।"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "25. ‘ধনীদের ধন আছে, কিন্তু তারা প্রায়ই কৃপণ হয়।' বাক্যটি-",
+      "options": [
+        "জটিল",
+        "যৌগিক",
+        "সরল",
+        "মিশ্র"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "26. কোনটি বাংলা উপসর্গ?",
+      "options": [
+        "অ",
+        "বর",
+        "লা",
+        "সাব"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "27. ‘সহজে হয়ে গেল বলা’ এখানে ‘সহজে’ কী শব্দ?",
+      "options": [
+        "নির্ধারক বিশেষণ",
+        "ক্রিয়া বিশেষণের বিশেষণ",
+        "ক্রিয়া বিশেষণ",
+        "বিশেষণ"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "28. ‘Lass’ এর অর্থ-",
+      "options": [
+        "বালিকা",
+        "ভাইঝি",
+        "সম্ভ্রান্ত মহিলা",
+        "পুত্রবধূ"
+      ],
+      "tag": "DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "29. নিচের কোন বানানটি অশুদ্ধ?",
+      "options": [
+        "ঊর্ধ্বমুখী",
+        "স্বায়ত্তশাসন",
+        "দূরাকাঙ্খা",
+        "পরিপক্ব"
+      ],
+      "tag": "BUP FSSS 20-21,DU A 11-12,DU A 11-12"
+    },
+    {
+      "subject": "Bangla (MCQ)(30)",
+      "question": "30. 'জনতা' শব্দটি ব্যাকরণের কোন নিয়মে গঠিত হয়েছে?",
+      "options": [
+        "প্রত্যয়যোগে",
+        "উপসর্গযোগে",
+        "সন্ধিযোগে",
+        "বচনের সাহায্যে"
+      ],
+      "tag": "DU A 11-12,JU B 21-22: Set-N,DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "1. Which one does fix nitrogen symbiotically?",
+      "options": [
+        "Xanthomonas",
+        "Azotobacter",
+        "Rhizobium",
+        "Nitrobacter"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "2. Petals of which plant contain 2 lodicules?",
+      "options": [
+        "Zea mays",
+        "Psidium guajava",
+        "Solanum melongena",
+        "Helianthus annuus"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "3. Where do you find kidney shaped anther?",
+      "options": [
+        "Malvaceae",
+        "Leguminoseae",
+        "Cruciferae",
+        "Liliaceae"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "4. Number of xylem and phloem bundles in a dicot root is-",
+      "options": [
+        "2-6",
+        "2-4",
+        "2-8",
+        "1-2"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "5. Through which gaseous exchange takes place at the time of secondary growth in plants?",
+      "options": [
+        "Lenticels",
+        "Phellem",
+        "Phelloderm",
+        "Phellogen"
+      ],
+      "tag": "DU A 11-12,DU A 8-9"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "6. First stable product in Hatch and Slack cycle is-",
+      "options": [
+        "malic acid",
+        "oxaloacetic acid",
+        "pyruvic acid",
+        "phosphoglyceric acid"
+      ],
+      "tag": "DU A 09-10,DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "7. In which sub-stage of cell division synapsis occurs in between homologous chromosome?",
+      "options": [
+        "Zygotene",
+        "Leptotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "tag": "CU A 17-18,RU A 22-23,RU C 22-23 (SHIFT 1),JU D 21-22 (SET H),JU D 21-22 (SET G),JU D 17-18 (SET 1),JU D 15-16 (SET 3),Alim Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "8. Essential enzyme in the replication of DNA is-",
+      "options": [
+        "Restriction endonuclease",
+        "Polymerase",
+        "Amylase",
+        "Phosphorylase"
+      ],
+      "tag": "CU A 20-21"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "9. Which one of the following is the component of biogas?",
+      "options": [
+        "$CO_2$",
+        "$CH_4$",
+        "$N_2$",
+        "$H_2$"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "10. Who is known as the father of Zoology?",
+      "options": [
+        "Andreas Vesalius",
+        "William Harvey",
+        "Aristotle",
+        "Robart Hooke"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "11. The organclle of cells which are involved in protein synthesis are known as-",
+      "options": [
+        "Oxysome",
+        "Peroxysome",
+        "Ribosome",
+        "Lysosome"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "12. What is the phenotypic ratio of codominance?",
+      "options": [
+        "2:2:1",
+        "15:1",
+        "9:6:1",
+        "1:2:1"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),JU D 15-16 (SET 3),Azmal Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "13. Which cell is not found in the epidermis of Hydra?",
+      "options": [
+        "Sensory Cell",
+        "Flame Cell",
+        "Gland Cell",
+        "Germ Cell"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "14. How many molecules of ATP are produced by breaking down 1 molecule of glucose in non-respiration?",
+      "options": [
+        "- 4",
+        "- 10",
+        "- 18",
+        "- 2"
+      ],
+      "tag": "DIN.B 21,MAT 16-17,DU A 11-12,DU A  10-11"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "15. How many teeth are there in the gizzard of a cockroach?",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "16. How many thoracic vertebrae are there in man?",
+      "options": [
+        "7",
+        "5",
+        "12",
+        "9"
+      ],
+      "tag": "DIN.B 19,CTG.B 17,DU A 12-13,DU A 14-15,DU A 11-12,JU D 15-16 (SET 5)"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "17. How many Malpighian tubules are present in a cockroach?",
+      "options": [
+        "12-15",
+        "About 100",
+        "6-7",
+        "More than 1000"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "18. What is the Universal Blood Group?",
+      "options": [
+        "O",
+        "AB",
+        "B",
+        "A"
+      ],
+      "tag": "RB 23,CTG.B 22,MAT 19-20,DU A 11-12,DU A 13-14"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "19. What is the normal blood pressure of a man (Systole: Diastole)?",
+      "options": [
+        "120 mm: 80 mm",
+        "110 mm: 60 mm",
+        "170 mm: 95 mm",
+        "140 mm: 90 mm"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "20. Trichoblast is found in-",
+      "options": [
+        "Polysiphonia",
+        "Sargassum",
+        "Spirogyra",
+        "Nostoc"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "21. Which one is used in antibiotic production?",
+      "options": [
+        "Mucor",
+        "Saccharomyces",
+        "Chlorella",
+        "Penicillium"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "22. Which one of the following is a water mould?",
+      "options": [
+        "Saccharomyces",
+        "Aspergillus",
+        "Saprolegnia",
+        "Agaricus"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "23. Where does ramentum occur?",
+      "options": [
+        "Marchantia",
+        "Pteris",
+        "Equisetum",
+        "Sargassum"
+      ],
+      "tag": "RU F (GROUP 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "24. Source of soybean oil-",
+      "options": [
+        "Sesamum indicum",
+        "Glycine max",
+        "Arachis hypogaea",
+        "Helianthus annuts"
+      ],
+      "tag": "Agri. GST 20-21,DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "25. Which one is a sulfur containing amino acid?",
+      "options": [
+        "Lysine",
+        "Threonine",
+        "Cystine",
+        "Tyrosine"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "26. Which one is not the part of ovum?",
+      "options": [
+        "Ooplasm",
+        "Nucleus",
+        "Cytoplasm",
+        "Plasma membrane"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "27. What can be established to protect biodiversity?",
+      "options": [
+        "Blood bank",
+        "Gene bank",
+        "Sperm bank",
+        "Hormone bank"
+      ],
+      "tag": "Agri. GST 20-21,DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "28. The name of $5^{th}$ carnial nerve of human body is-",
+      "options": [
+        "Trigeminal",
+        "Vagus",
+        "Abducens",
+        "Hypoglossal"
+      ],
+      "tag": "DU A 11-12"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "29. Platypus and kangaroo are found in which region?",
+      "options": [
+        "Oriental",
+        "Ethiopian",
+        "Australian",
+        "Nearctic"
+      ],
+      "tag": "DU A 11-12,Alim Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(30)",
+      "question": "30. Which pat of brain maintains balance of body?",
+      "options": [
+        "Cerebrum",
+        "Hypothalamus",
+        "Pons",
+        "Cerebellum"
+      ],
+      "tag": "DU A 11-12,DU A 8-9"
+    }
+  ]
+}

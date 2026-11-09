@@ -1,0 +1,1137 @@
+{
+  "title": "CKRUET 20-21",
+  "questions": [
+    {
+      "subject": "Mathematics(24)",
+      "question": "1. What is the minimum value of $4 e^{x}+9 e^{-x}$ ?",
+      "options": [
+        "12",
+        "10",
+        "40",
+        "1"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3)"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "2. The value of $\\int_{-\\infty}^{0} \\frac{\\mathrm{e}^{\\mathrm{x}} \\mathrm{dx}}{1+\\mathrm{e}^{2 \\mathrm{x}}}$ is-",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{-\\pi}{4}$",
+        "$\\frac{\\pi}{6}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "3. Three forces of magnitudes $\\sqrt{3}, 2 \\sqrt{3}$ and $3 \\sqrt{3}$ acting serially at a point at an angle $60^{\\circ}$ of each other. Find their resultant magnitude.",
+      "options": [
+        "$\\frac{7 \\sqrt{3}}{2}$",
+        "$\\frac{\\sqrt{7}}{\\sqrt{2}}$",
+        "57",
+        "$\\sqrt{57}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "4. A particle moves with velocity $v_{0}\\left(1-e^{-k t}\\right)$ in straight path. The displacement at time $t$ is-",
+      "options": [
+        "$v_{0} t+\\frac{v_{t}}{k}\\left(1-e^{-k t}\\right)$",
+        "$v_{0} t+v_{0}\\left(1-e^{-k t}\\right)$",
+        "$v_{0} t+\\frac{v_{0}}{k}\\left(e^{-k t}-1\\right)$",
+        "$v_{0} t+v_{0}\\left(e^{-k t}-1\\right)$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "5. A bullet losses $\\frac{1}{10}$ of its velocity in passing through a plank. Find how many such uniform planks it would pass through before coming to rest if the resistance is uniform.",
+      "options": [
+        "$5 \\frac{5}{19}$",
+        "$4 \\frac{5}{19}$",
+        "$5 \\frac{4}{19}$",
+        "$3 \\frac{5}{19}$",
+        "$5 \\frac{3}{19}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "6. A cricket ball is thrown from a height of 3.5 m at an angle $30^{\\circ}$ with the horizon with a speed $9.8 \\mathrm{~ms}^{-1}$ is caught by another player at a height by another player at a height of 2.1 m from the ground. How apart were the two players?",
+      "options": [
+        "10.44 m",
+        "12.56 m",
+        "11.20 m",
+        "20.89 m",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "7. A body falling freely under the action of gravity passes two points 128 ft apart vertically in 2 seconds. From what height above the higher point did it start to fall?",
+      "options": [
+        "13 ft",
+        "19 ft",
+        "21 ft",
+        "27 ft",
+        "16 ft"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "8. If $x=t-\\sin t$ and $y=\\frac{d x}{d t}$ then $\\frac{d y}{d x}=$ ?",
+      "options": [
+        "$\\cot \\frac{t}{2}$",
+        "$\\tan \\frac{t}{2}$",
+        "$\\tan t$",
+        "$\\cot t$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "9. If $\\left(\\begin{array}{ccc}3 & 1 & 9 \\\\ 2 x & 2 & 6 \\\\ x^{2} & 3 & 3\\end{array}\\right)$ is a singular matrix, then find the value of $x$.",
+      "options": [
+        "1,3",
+        "$-1,-3$",
+        "2,3",
+        "$-2,3$",
+        "$-1,3$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "10. One root of $x^{2}+a x+8=0$ is 4 while the equation $x^{2}+a x+b=0$ has equal roots. Find the value of $b$.",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "11. If $\\frac{2 \\sin \\alpha}{1+\\sin \\alpha+\\cos \\alpha}=\\lambda$, then $\\frac{1+\\sin \\alpha-\\cos \\alpha}{1+\\sin \\alpha}$ is equal to-",
+      "options": [
+        "$-\\lambda$",
+        "$\\lambda$",
+        "$\\frac{1}{\\lambda}$",
+        "$\\frac{-1}{\\lambda}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "12. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "13. If $\\alpha, \\beta \\in \\mathbb{R}, i^{2}=-1$ and $\\frac{1-i x}{1+i x}=\\alpha-i \\beta$, then find the value of $x$.",
+      "options": [
+        "$\\frac{\\alpha}{(1+\\beta)}$",
+        "$\\frac{1}{(1+\\alpha)}$",
+        "$\\frac{1}{(1+\\beta)}$",
+        "$\\frac{\\beta}{(1+\\alpha)}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "14. The equation of the line perpendicular to $y=\\frac{\\alpha x}{\\beta}$ passing through $(\\alpha, \\beta)$ is-",
+      "options": [
+        "$\\alpha x+\\beta y=\\alpha^{2}+\\beta^{2}$",
+        "$\\alpha x+\\beta y=2 \\alpha \\beta$",
+        "$\\alpha y+\\beta x=2 \\alpha \\beta$",
+        "$\\alpha y+\\beta x=\\alpha^{2}+\\beta^{2}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "15. Find the equation of the circles that pass through the points $(3,0)$ and $(7,0)$ and touches the $y$-axis.",
+      "options": [
+        "$x^{2}+y^{2}-10 x \\pm \\sqrt{21} y+21=0$",
+        "$x^{2}+y^{2}-10 x \\pm 2 \\sqrt{21} y+21=0$",
+        "$x^{2}+y^{2}-10 x+2 \\sqrt{21} y \\pm 21=0$",
+        "$x^{2}+y^{2}-10 x \\pm \\sqrt{21} y+\\sqrt{21}=0$",
+        "$x^{2}+y^{2}-10 x \\pm \\sqrt{21} y-\\sqrt{21}=0$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "16. For every values of $m$, the straight line touches $y^{2}=4 a x$ is-",
+      "options": [
+        "$y=m x-\\frac{a}{m}$",
+        "$y=m x+\\frac{a}{m}$",
+        "$y=m x+a m$",
+        "$y=m a-a m$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "17. Find the equation of an ellipse whose major axis is 8 unit and foci are $( \\pm 2,0)$",
+      "options": [
+        "$\\frac{x^{2}}{4}+\\frac{y^{2}}{4}=1$",
+        "$\\frac{x^{2}}{9}+\\frac{y^{2}}{16}=1$",
+        "$\\frac{x^{2}}{16}+\\frac{y^{2}}{25}=1$",
+        "$\\frac{x^{2}}{16}+\\frac{y^{2}}{12}=1$"
+      ],
+      "tag": "CU A 18-19,CKRUET 20-21,KUET 10-11,KUET 18-19,KUET 12-13,JU H 16-17 (SET 3)"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "18. If $y=\\left(\\frac{1}{\\sqrt[n]{x}}\\right)^{\\frac{1}{x}}$, find the value of $\\frac{d y}{d x}$",
+      "options": [
+        "$\\frac{y(\\log x-1)}{n}$",
+        "$3 y(\\log x-2)$",
+        "$\\frac{(\\log x-3)}{y}$",
+        "$\\frac{y(\\log x-1)}{x^{3}}$",
+        "$\\frac{y(\\log x-1)}{n x^{2}}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "19. Out of 40 students of class eleven in a collage, 20 play football, 25 play cricket and 10 play both football and cricket. One is selected among of them at random. If the boy plays football, then find the probability of his playing cricket.",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{5}{8}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "20. An examinee is required to answer 6 questions out of 12 questions. He has to select exactly 4 question from the first 5 questions. In how many ways can he select the questions?",
+      "options": [
+        "105",
+        "103",
+        "104",
+        "106",
+        "102"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "21. In the expansion of $\\frac{x}{(1-4 x)(1-5 x)}$ if the coefficient of $x^{r}$ is $\\left(5^{r}+k 4^{r}\\right)$, what is the value of $k$ ?",
+      "options": [
+        "2",
+        "1",
+        "-1",
+        "½",
+        "$\\frac{-1}{2}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "22. Find $\\lambda$, when the projection of $\\vec{a}=\\lambda \\hat{i}+\\hat{j}+4 \\hat{k}$ on $\\vec{b}=2 \\hat{i}+6 \\hat{j}+3 \\hat{k}$ is 4 units.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "23. If $f(x)=\\frac{x-3}{2 x+1}$ and $x \\neq-\\frac{1}{2}$ then $f^{-1}(-2)$ is-",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{5}$",
+        "2",
+        "5"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),RU C 19-20 (GROUP 1),RU C 17-18 (GROUP 1),JU A 15-16 (SET 3),JU H 20-21 (SET A),JU H 19-20 (SET E),BUTEX 14-15"
+    },
+    {
+      "subject": "Mathematics(24)",
+      "question": "24. Which is the value of $(A \\times B) \\cap(A \\times C)$, if $A=\\{a, b\\}, B=\\{2,3\\}$, and $C=\\{3,4\\}$ ?",
+      "options": [
+        "$\\{(a, 2),(b, 3)\\}$",
+        "$\\{(a, 3),(b, 3)\\}$",
+        "$\\{(a, 3),(b, 2)\\}$",
+        "$\\{(a, 2),(b, 2)\\}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "1. A bird having a mass of 4 kg is sitting on a tree. A bullet of mass 20 gm struck the bird at a velocity of 200 $\\mathrm{m} / \\mathrm{sec}$. Calculate the horizontal velocity of the bird if the bullet remains inside the bird's body.",
+      "options": [
+        "$2 \\mathrm{~ms}^{-1}$",
+        "$1 \\mathrm{~ms}^{-1}$",
+        "$10 \\mathrm{cms}^{-1}$",
+        "$9.95 \\mathrm{~ms}^{-1}$",
+        "$0.995 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "2. A nail is kept vertically on a horizontal wood. The nail is struck by a hammer of mass 1 kg vertically downward with velocity $4 \\mathrm{~ms}^{-1}$. Calculate the average resisting force if the nail enters 0.015 m inside the wood.",
+      "options": [
+        "543.13 N",
+        "523.33 N",
+        "523.13 N",
+        "453.13 N",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "3. Two 60-watt electric lamps are used for 6 hours and a 500 -watt electric motor runs for 3 hours in a day. If the price of one unit of electricity is 5 taka, how much will be the bill of electricity in December?",
+      "options": [
+        "367.5 Taka",
+        "585 Taka",
+        "351.59 Taka",
+        "384.3 Taka",
+        "344.10 Taka"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "4. A current of 5 A is passing through a wire of cross-sectional are $4 \\times 10^{-6} \\mathrm{~m}^{2}$. If the density of charge carrier in the wire is $5 \\times 10^{26} / \\mathrm{m}^{3}$, find the drift speed of the electron.",
+      "options": [
+        "$0.015625 \\mathrm{~ms}^{-1}$",
+        "$0.015625 \\mathrm{cms}^{-1}$",
+        "$\\frac{1}{128} \\mathrm{~ms}^{-1}$",
+        "Impossible to calculate from above data",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "5. The half-life of radioactive radon is 3.8 days. How long will it take for 30% of the original atomic number to decay?",
+      "options": [
+        "3.8 days",
+        "1.95 days",
+        "30 days",
+        "0.7 days"
+      ],
+      "tag": "MCC 24,DIN.B 19,DIN.B 17,JUST 19-20,CU A 14-15,BUET 13-14,BUET 7-8,BUET 18-19,BUET 8-9,BUET 17-18,CKRUET 20-21,CKRUET 22-23,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "6. In a transistor, the collector current is improved from $98 \\mu \\mathrm{A}$ to $147 \\mu \\mathrm{A}$ as the common base circuit emitter current is raised from $100 \\mu \\mathrm{A}$ to $150 \\mu \\mathrm{A}$. Determine the current gain of the system.",
+      "options": [
+        "50",
+        "45",
+        "49",
+        "48",
+        "55"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "7. If the radius vector $\\vec{r}=2 \\hat{i}+3 \\hat{j}+2 \\hat{k}$ and force vector $\\vec{F}=2 \\hat{i}+2 \\hat{j}+2 \\hat{k}$ then find the magnitude of torque, $\\tau$.",
+      "options": [
+        "$2 \\hat{i}-2 \\hat{k}$",
+        "0",
+        "$2 \\hat{i}-2 \\hat{j}-2 \\hat{k}$",
+        "$2 \\hat{i}+2 \\hat{k}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "8. A pump can take out 7000 kg of water per hour from a well of 100 m deep. Calculate the power of the pump. [Assuming that its efficiency is $72 \\%, \\mathrm{~g}=9.8 \\mathrm{~m} / \\mathrm{sec}^{2}$ ]",
+      "options": [
+        "2646.6 W",
+        "1372 W",
+        "82320 W",
+        "1905.6 W",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "9. The velocity of an object at simple harmonic motion is $3 \\mathrm{~ms}^{-1}$ when the displacement is 4 meters. Again, the velocity is $4 \\mathrm{~m} / \\mathrm{sec}$ when the displacement is 3 meter. Determine the amplitude and time period of oscillation.",
+      "options": [
+        "$5 \\mathrm{~m}, 6.28 \\mathrm{sec}$",
+        "$5 \\mathrm{~m}, 628 \\mathrm{sec}$",
+        "$5 \\mathrm{~m}, 62.8 \\mathrm{sec}$",
+        "$5.25 \\mathrm{~m}, 6.28 \\mathrm{sec}$",
+        "$5.5 \\mathrm{~m}, 6.28 \\mathrm{sec}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "10. A particle performing $SHM$ is found at its equilibrium at $t=1\\ sec$ and it is found to have a speed of $0.25\\ m/s$ at $t=2\\:s$. If the period of oscillation is $6\\ sec$, calculate amplitude of oscillation.",
+      "options": [
+        "$\\displaystyle\\frac{3}{2\\pi}\\:m$",
+        "$\\displaystyle\\frac{3}{4\\pi}\\:m$",
+        "$\\displaystyle\\frac{6}{\\pi}\\:m$",
+        "$\\displaystyle\\frac{3}{8\\pi}\\:m$"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),Tofazzal Sir,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "11. A pot of water placed inside the room of volume $150 \\mathrm{~m}^{3}$ at temperature $30^{\\circ} \\mathrm{C}$. How much water will be evaporated to get equilibrium of water and vapor in the room? [The saturation vapor pressure is $\\mathbf{3 1 . 8 3} \\mathrm{mm}$ of Hg at $30^{\\circ} \\mathrm{C}$ ].",
+      "options": [
+        "1.13 kg",
+        "3.03 kg",
+        "4.32 kg",
+        "4.55 kg",
+        "4.55 gm"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "12. A 5 kW pump is used to draw water 30 m above a well. How many liters of water can be pumped per minute if the efficiency of the pump is $90 \\%$ ? [ $\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}$ ]",
+      "options": [
+        "1000 liters",
+        "815 liters",
+        "1200 liters",
+        "918 liters",
+        "1918 liters"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "13. Consider two wires of different materials of same length $(2 \\mathrm{~m})$ and diameter $(1 \\mathrm{~mm})$ are joined in series to form a composite wire. Calculate the force that will produce a total extension of 0.9 mm .\n\n$\\left[Y_{1}=2 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2} \\text { and } Y_{2}=7 \\times 10^{11} \\mathrm{~N} / \\mathrm{m}^{2}\\right]$",
+      "options": [
+        "54.98 N",
+        "635.85 N",
+        "$2198 \\times 10^{8} \\mathrm{~N}$",
+        "109.9 N",
+        "6.36 N"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "14. A monkey is dropping coconuts from the top of 20-meter-tall tree. Each coconut has a mass of 3 kg and the monkey drops them at a rate of 2 coconuts per second. Assuming that the potential energy of the coconuts is converted entirely into electrical energy, how many 50 -watt light bulbs can be lit?",
+      "options": [
+        "20",
+        "24",
+        "13",
+        "1176",
+        "25"
+      ],
+      "tag": "BUET 9-10,CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "15. 20 kg water of $20^{\\circ} \\mathrm{C}$ is changed into vapour.\nChange of entropy occured in the above mentioned process-",
+      "options": [
+        "$2.02 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$6.1 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$12.13 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$14.15 \\times 10^{4} \\mathrm{JK}^{-1}$"
+      ],
+      "tag": "MBSTU 17-18,DU A 17-18,DU A 16-17,BUET 10-11,CKRUET 20-21,CKRUET 21-22,KUET 17-18"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "16. Mr. Ahnaf dropped an ice piece of 250 gm with $0^{\\circ} \\mathrm{C}$ temperature from a certain height. After fall down it melts $10 \\%$ due to created heat by the principle of conservation of energy. Find out the height from where Ahnaf dropped the ice piece?)",
+      "options": [
+        "4428.57 m",
+        "3428.57 m",
+        "3227.60 m",
+        "3957.57 m",
+        "3528.9 m"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "17. The focal lengths of the objective and the eyepiece of an astronomical Telescope are 60 cm and 5.5 cm , respectively. Find the length of the tube of the telescope for near vision of focusing.",
+      "options": [
+        "0.62 m",
+        "55.01 cm",
+        "64.51 cm",
+        "0.608 m",
+        "54.17 m"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "18. A current in any of the coils is 2A. When the current in the coil is reduced to zero in 0.08s, an electromotive force of 0.5V is induced in the coil. What is the self-inductance coefficient of the coil?",
+      "options": [
+        "0.02 H",
+        "0.2 H",
+        "2 H",
+        "20 H"
+      ],
+      "tag": "SB 19,CB 17,PUST 17-18,IU 19-20,IU 18-19,NSTU 16-17,DU A  10-11,BUET 8-9,BUET 12-13,BUET 13-14,BUET 10-11,CKRUET 20-21,RUET 12-13,KUET 16-17,Ishaque Sir,Tapan Sir,Pramanik Sir"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "19. A star has three times the mass of the Sun. If the star transforms into a black hole, what is its Schwarzschild radius?\n [Mass of Sun=1.99x10 30 kg and Gravitational constant, G=6.67xI0 -11 Nm 2 kg -2 ]",
+      "options": [
+        "8.85 km",
+        "9.75km",
+        "10.25km",
+        "18.9km"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),Ishaque Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "20. Determine the radius of the drop of rainwater falling through the air, if the terminal velocity of the drop is 1.5 $\\mathrm{cms}^{-1}$. Assume the co-efficient of viscosity of air $1.8 \\times 10^{-4}$ and the density of air $1.21 \\times 10^{-3} \\mathrm{gm} / \\mathrm{cc}$.",
+      "options": [
+        "$1.11 \\times 10^{-4} \\mathrm{~cm}$",
+        "$1.11 \\times 10^{-3} \\mathrm{~cm}$",
+        "$11.11 \\times 10^{-6} \\mathrm{~cm}$",
+        "$1.24 \\times 10^{-6} \\mathrm{~cm}$",
+        "$1.11 \\times 10^{-5} \\mathrm{~cm}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "21. A football is kicked at $30^{\\circ}$ angle with the ground at $s$ speed of $32 \\mathrm{~ms}^{-1}$. What will be the magnitude of the speed of the football after 1.4 seconds?",
+      "options": [
+        "$30 \\mathrm{cms}^{-1}$",
+        "$33.3 \\mathrm{~ms}^{-1}$",
+        "$46.63 \\mathrm{cms}^{-1}$",
+        "$38 \\mathrm{cms}^{-1}$",
+        "$27.8 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "22. A body is falling from 1 km height. At the same time another body is thrown vertically upward from the surface at a velocity of $200 \\mathrm{~ms}^{-1}$. At what height from the surface, these two bodies will be met?",
+      "options": [
+        "0 m",
+        "122.5 m",
+        "200 m",
+        "877.5 m",
+        "1000 m"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "23. Two tuning forks $A$ and $B$ create a sound of wave-length 50 cm and 51 cm in a gas. If both the tuning forks are tuned at the same time, 6 beats are heard per second. What is the velocity of sound in the gas?",
+      "options": [
+        "$146 \\mathrm{~ms}^{-1}$",
+        "$153 \\mathrm{~ms}^{-1}$",
+        "$157 \\mathrm{~ms}^{-1}$",
+        "$155 \\mathrm{~ms}^{-1}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Physics(24)",
+      "question": "24. A mass of 9 lb descending vertically drags up mass of 6 lb by means of a string passing over a smoot pulley. What is the acceleration of the system and tension of the string?Question",
+      "options": [
+        "$6.4 \\mathrm{ft} / \\mathrm{sec}^{2} ; 100 \\mathrm{lb}$",
+        "$3.2 \\mathrm{ft} / \\mathrm{sec}^{2} ; 92 \\mathrm{lb}$",
+        "$6.4 \\mathrm{ft} / \\mathrm{sec}^{2} ; 230.4 \\mathrm{lb}$",
+        "$3.2 \\mathrm{ft} / \\mathrm{sec}^{2} ; 100 \\mathrm{lb}$",
+        "$3.2 \\mathrm{ft} / \\mathrm{sec}^{2} ; 330 \\mathrm{lb}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "1. Write the name of the main product of the following reaction?\n$\\left[\\mathrm{CO}(\\mathrm{g})+\\mathrm{H}_{2}(\\mathrm{~g})\\right]+\\mathrm{H}_{2}(\\mathrm{~g}) \\xrightarrow[\\mathrm{ZnO}, \\mathrm{Cr}_{2} \\mathrm{O}_{3}]{30{ }^{\\circ} \\mathrm{C}, 200 \\mathrm{~atm}}$",
+      "options": [
+        "$\\mathrm{CH}_{4}$",
+        "$\\mathrm{CH}_{3} \\mathrm{OH}$",
+        "$\\mathrm{CH}_{2} \\mathrm{H}_{5} \\mathrm{OH}$",
+        "$\\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "2. The pH value of orange juice is 3.8 . What is the concentration of $\\mathrm{OH}^{-}$of that juice?",
+      "options": [
+        "$6.33 \\times 10^{-11} \\mathrm{M}$",
+        "$6.54 \\times 10^{-11} \\mathrm{M}$",
+        "$6.75 \\times 10^{-11} \\mathrm{M}$",
+        "$8.4 \\times 10^{-11} \\mathrm{M}$",
+        "$8.81 \\times 10^{-11} \\mathrm{M}$"
+      ],
+      "tag": "PUST 16-17,CKRUET 20-21,CUET 15-16"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "3. How many electrons need to convert 13.5 gm of $\\mathrm{Al}^{3+}$ ion to Al element?",
+      "options": [
+        "$9.03 \\times 10^{23}$",
+        "$3.01 \\times 10^{23}$",
+        "$9.03 \\times 10^{24}$",
+        "$3.01 \\times 10^{24}$",
+        "$6.01 \\times 10^{3}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "4. If an astronaut needs 30 gm of glucose per hour to gain physical strength then how much weight of $\\mathrm{O}_{2}$ is needed to stay one week at space of that astronaut?",
+      "options": [
+        "2.688 kg",
+        "5.376 kg",
+        "53.76 kg",
+        "26.88 kg",
+        "26.8 kg"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "5. Suppose the average molecular weight of gases present at the center of the sun is 2.0 . The density and pressure of the gases are $1.5 \\mathrm{kgm}^{-3}$ and $1.1 \\times 10^{10} \\mathrm{~Pa}$, respectively. Calculate the temperature at the center of the sun.",
+      "options": [
+        "$1.76 \\times 10^{10} \\mathrm{~K}$",
+        "$1.88 \\times 10^{11} \\mathrm{~K}$",
+        "$1.78 \\times 10^{10} \\mathrm{~K}$",
+        "$2.78 \\times 10^{9} \\mathrm{~K}$",
+        "$1.76 \\times 10^{9} \\mathrm{~K}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "6. In structure of $\\mathrm{PCl_5}$,what type of hybridization happens in $\\mathrm{`P’}$",
+      "options": [
+        "$\\mathrm{sp}^{2}$",
+        "$\\mathrm{sp}$",
+        "$\\mathrm{sp}^{3} \\mathrm{~d}$",
+        "$\\mathrm{sp}^{3}$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),JU A 19-20 (SET P),Kabir Sir"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "7. Among the following species, the order of the first ionization energy is-",
+      "options": [
+        "$\\mathrm{O}_{2}<\\mathrm{O}_{2}^{+}<\\mathrm{O}_{2}^{-}$",
+        "$\\mathrm{O}_{2}^{+}<\\mathrm{O}_{2}^{-}<\\mathrm{O}_{2}$",
+        "$\\mathrm{O}_{2}^{-}<\\mathrm{O}_{2}<\\mathrm{O}_{2}^{+}$",
+        "$\\mathrm{O}_{2}<\\mathrm{O}_{2}^{-}<0_{2}^{+}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "8. The magnitude of $\\Delta \\mathrm{n}$ is 0.5 of a reversible reaction. What will be the temperature of the reaction in Kelvin, if the value of $\\mathrm{K}_{\\mathrm{P}}$ and $\\mathrm{K}_{\\mathrm{C}}$ are 40.5 and 5.5 , respectively? [Given, $\\mathrm{R}=0.082 \\mathrm{~L} \\mathrm{~atm} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$.]",
+      "options": [
+        "179.6 K",
+        "66.126 K",
+        "330.63 K",
+        "661.26 K",
+        "None of them"
+      ],
+      "tag": "JUST 17-18,CKRUET 20-21,CUET 11-12"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "9. Which one is the maximum value of acceptable limit for $\\mathrm{pH}, \\mathrm{DO}, \\mathrm{BOD}, \\mathrm{COD}, \\mathrm{TDS}$ of water approved by WHO?",
+      "options": [
+        "$5.0-6.0,6.5-8.5 \\mathrm{ppm}, 6.0 \\mathrm{ppm}, 500 \\mathrm{ppm}, 10.0 \\mathrm{ppm}$",
+        "$6.5-8.5,5.0-6.0 \\mathrm{ppm}, 6.0 \\mathrm{ppm}, 10.0 \\mathrm{ppm}, 500 \\mathrm{ppm}$",
+        "$6.5-8.5,5.0-6.0 \\mathrm{ppm}, 10.0 \\mathrm{ppm}, 6.0 \\mathrm{ppm}, 500 \\mathrm{ppm}$",
+        "$5.0-6.0,6.5-8.5 \\mathrm{ppm}, 6.0 \\mathrm{ppm}, 10.0 \\mathrm{ppm}, 500 \\mathrm{ppm}$",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "10. If each person of Bangladesh is responsible for generating 1800 molecules of methane gas each day from their organic refuse production, how much gas will be produced in Bangladesh in each day. [Consider population of Bangladesh is 17 crore.]",
+      "options": [
+        "$8.13 \\times 10^{-12} \\mathrm{gm}$",
+        "$9.14 \\times 10^{-12} \\mathrm{gm}$",
+        "$7.11 \\times 10^{-12} \\mathrm{gm}$",
+        "$7.75 \\times 10^{-12} \\mathrm{gm}(\\mathrm{e}) 9.13 \\times 10^{-12} \\mathrm{gm}$",
+        "$9.13 \\times 10^{-12} \\mathrm{gm}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "11. Which one of the following is used for the identification of $1^{\\circ}, 2^{\\circ}$ and $3^{\\circ}$ alcohols?",
+      "options": [
+        "$\\mathrm{ZnCl}_{2}+\\mathrm{HCl}$",
+        "$\\mathrm{Zn}+\\mathrm{HCl}$",
+        "$\\mathrm{HNO}_{3}$",
+        "$\\mathrm{HNO}_{2}$",
+        "$\\mathrm{KMnO}_{4}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "12. The effluent water from a factory contains 0.01 ppm of $\\mathrm{Pb}^{2+}$ ion. What will be the molarity of $\\mathrm{Pb}^{2+}$ ion in that effluent water? $[\\mathrm{Pb}=207.2]$",
+      "options": [
+        "0.01 M",
+        "$1 \\times 10^{-5} \\mathrm{M}$",
+        "$4.83 \\times 10^{-3} \\mathrm{M}$",
+        "$1.22 \\times 10^{-7} \\mathrm{M}$",
+        "$4.83 \\times 10^{-8} \\mathrm{M}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "13. 0.20 gm of copper is deposited by passing a current of 0.20 A in 50 minutes. What is the chemical equivalent weight of copper?",
+      "options": [
+        "$3.23 \\times 10^{-7} \\mathrm{~kg} \\mathrm{C}^{-1}$",
+        "$2.33 \\times 10^{-7} \\mathrm{~kg} \\mathrm{C}^{-1}$",
+        "$3.33 \\times 10^{-7} \\mathrm{~kg} \\mathrm{C}^{-1}$",
+        "$4.31 \\times 10^{-7} \\mathrm{~kg} \\mathrm{C}^{-1}$",
+        "$3.00 \\times 10^{-7} \\mathrm{~kg} \\mathrm{C}^{-1}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "14. What is the root mean square velocity of nitrogen gas molecules at 27° C?",
+      "options": [
+        "$515.22\\ ms^{-1}$",
+        "$515.95\\ ms^{-1}$",
+        "$517.90\\ ms^{-1}$",
+        "$526.95\\ ms^{-1}$"
+      ],
+      "tag": "SUST 18-19,CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "15. How many atoms of carbon are present in 18 gm glucose?",
+      "options": [
+        "$3.6 \\times 10^{23}$",
+        "$6.0 \\times 10^{23}$",
+        "$3.7 \\times 10^{22}$",
+        "$3.3 \\times 10^{24}$",
+        "$3.0 \\times 10^{25}$"
+      ],
+      "tag": "SB 23,DU A  10-11,CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "16. The dimension of an examination hall room is $20 \\mathrm{~m} \\times 10 \\mathrm{~m} \\times 5 \\mathrm{~m}$. How many kilogram of air is present in the room? The temperature of air is $30^{\\circ} \\mathrm{C}$ and molecular weight of air is 29 .",
+      "options": [],
+      "tag": "BUET 9-10,CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "17. 3.5 gm tablet contains 40.5 mg Ca . Calculate the concentration of Ca in ppm in this tablet.",
+      "options": [
+        "$1.90 \\times 10^{5} \\mathrm{ppm}$",
+        "$1.90 \\times 10^{3} \\mathrm{ppm}$",
+        "$1.16 \\times 10^{4} \\mathrm{ppm}$",
+        "$11.61 \\times 10^{6} \\mathrm{ppm}$",
+        "$2.90 \\times 10^{5} \\mathrm{ppm}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "18. Find out $S$ in the following nuclear reaction.\n\n${ }_{99}^{235} \\mathrm{U}^{-\\alpha} \\mathrm{O} \\xrightarrow{-\\beta} \\mathrm{P} \\xrightarrow{-\\alpha} \\mathrm{Q} \\xrightarrow{-\\beta} \\mathrm{R} \\xrightarrow{-\\alpha} \\mathrm{S}$",
+      "options": [
+        "${ }_{92}^{228} \\mathrm{Ac}$",
+        "${ }_{87}^{221} \\mathrm{Fr}$",
+        "${ }_{90}^{232} \\mathrm{Th}$",
+        "${ }_{86}^{220} \\mathrm{Rn}$",
+        "${ }_{88}^{223} \\mathrm{Ra}$"
+      ],
+      "tag": "CKRUET 20-21,KUET 15-16"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "19. A constant wave length of electromagnetic radiation radiates $70 \\%$ radiation when it passes through $\\mathbf{1 . 0} \\mathbf{~ c t}$ length cell containing sample solution. If the molar absorptivity of a sample is 2.0 , What will be th concentration of the solution?",
+      "options": [
+        "$7.24 \\times 10^{-3} \\mathrm{gL}^{-1}$",
+        "$7.42 \\times 10^{-3} \\mathrm{gL}^{-1}$",
+        "$7.47 \\times 10^{-2} \\mathrm{gL}^{-1}$",
+        "$7.74 \\times 10^{-2} \\mathrm{gL}^{-1}$",
+        "$7.55 \\times 10^{-2} \\mathrm{gL}^{-}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "20. Liquid wastes are produced from leather manufacturing Industry. Which one of the followings are exist fol these wastes?",
+      "options": [
+        "$100-300 \\mathrm{mg} / \\mathrm{L}$ Chromium; $100-500 \\mathrm{mg} / \\mathrm{L}$ Sulphide",
+        "$100-300 \\mathrm{mg} / \\mathrm{L}$ Chromium; $200-\\mathbf{5 0 0 ~ m g} / \\mathrm{L}$ Sulphide",
+        "$100-400 \\mathrm{mg} / \\mathrm{L}$ Chromium; $200-400 \\mathrm{mg} / \\mathrm{L}$ Sulphide",
+        "$100-500 \\mathrm{mg} / \\mathrm{L}$ Chromium; $200-800 \\mathrm{mg} / \\mathrm{L}$ Sulphide",
+        "None of them"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "21. For a $1^{\\text {st }}$ order reaction 23 minutes is needed to complete $50 \\%$, how much time will be needed to complete $90 \\%$ of the reaction?",
+      "options": [
+        "75.5 min .",
+        "74.6 min .",
+        "74.5 min .",
+        "75.6 min .",
+        "76.4 min ."
+      ],
+      "tag": "CKRUET 20-21,KUET 10-11"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "22. The following arsenic compounds are toxic to the human health at its soluble state in water. Their descending order of toxicity is-",
+      "options": [
+        "$\\mathrm{As}_{2} \\mathrm{O}_{3}>\\mathrm{AsH}_{3}>\\mathrm{AsO}_{2}^{-}>\\mathrm{AsO}_{4}^{3-}$",
+        "$\\mathrm{AsH}_{3}>\\mathrm{AsO}_{2}^{-}>\\mathrm{As}_{2} \\mathrm{O}_{3}>\\mathrm{AsO}_{4}^{3-}$",
+        "$\\mathrm{AsH}_{3}>\\mathrm{As}_{2} \\mathrm{O}_{3}>\\mathrm{AsO}_{2}>\\mathrm{AsO}_{4}^{3-}$",
+        "$\\mathrm{AsO}_{4}^{3-}>\\mathrm{As}_{2} \\mathrm{O}_{3}>\\mathrm{AsO}_{2}^{-}>\\mathrm{AsH}_{3}$",
+        "$\\mathrm{AsO}_{3}>\\mathrm{AsO}_{4}^{3-}>\\mathrm{AsH}_{3}$"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "23. Amatol is used as an explosive for the destruction of the old building. Amatol is a mixture of which two elements?",
+      "options": [
+        "Nitroglycerine and TNT",
+        "Nitroglycerine and $\\mathrm{NH}_{4} \\mathrm{NO}_{3}$",
+        "TNT and $\\mathrm{NH}_{4} \\mathrm{NO}_{3}$",
+        "TNT and $\\mathrm{HNO}_{3}$",
+        "Nitroglycerine and DNT"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "24. Which coating is given in the cooking frypan?",
+      "options": [
+        "Polythene",
+        "Plastic",
+        "Teflon",
+        "Polystyrene"
+      ],
+      "tag": "HSTU 19-20,Agri. GST 20-21,MAT 16-17,DU A 11-12,CU A 16-17,CKRUET 20-21"
+    },
+    {
+      "subject": "Chemestry(25)",
+      "question": "25. Which one is the monomer of Teflon?",
+      "options": [
+        "$\\mathrm{CH}_{2}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CHCl}=\\mathrm{CHCl}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CH}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CF}_{2}=\\mathrm{CF}_{2}$"
+      ],
+      "tag": "DU A 13-14,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "1. Choose a single word for the clause,  \"A remedy for all diseases.\"",
+      "options": [
+        "Cure",
+        "Sound-health",
+        "Panacea",
+        "Diseaseless"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "2. Transform the sentence, \"Buy one mobile and get one free\" into complex.",
+      "options": [
+        "If you buy one mobile, you get another mobile free",
+        "If you buy one mobile, you get one free",
+        "A mobile free on purchase of one mobile",
+        "Buy one mobile to get one free",
+        "None"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "3. Identify the incorrect sentence.",
+      "options": [
+        "It seemed impossible that he could escape",
+        "Only those boys who will work hard will succeed",
+        "He not only made a promise but kept it",
+        "He kept the promise he had made",
+        "Even he is cruel but I like him"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "4. Choose the correct sentence from the followings.",
+      "options": [
+        "Flying outside the window, he grabbed the papers.",
+        "Flying out of the window, he grabbed the papers.",
+        "Flying the window, the papers were grabbed him.",
+        "Flying out the window, the papers grabbed by him.",
+        "Flying out the window, the papers were grabbed by him."
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "5. Find out the verb modifier among the underlined parts of the sentences.",
+      "options": [
+        "I saw him walking in the field.",
+        "He behaves well.",
+        "I'm absolutely happy.",
+        "He runs very fast."
+      ],
+      "tag": "KUET 18-19"
+    },
+    {
+      "subject": "English (24)",
+      "question": "6. If I had known he was in trouble, I _____ helped.",
+      "options": [
+        "would",
+        "would have",
+        "should have",
+        "have had"
+      ],
+      "tag": "CKRUET 20-21,DU D 16-17,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "7. Choose the correct speech for the following sentence, \"He exclaimed with joy that Bangladesh had wo the ICC T20 world cup\".",
+      "options": [
+        "He said, \"Bangladesh has won the ICC T20 world cup\".",
+        "He said, \"Bangladesh won the ICC T20 world cup\".",
+        "He said, \"How! Bangladesh won the ICC T20 world cup\".",
+        "He said, \"Hurrah! Bangladesh has won the ICC T20 world cup\".",
+        "He said, \"Jeer! Bangladesh has won the ICC T20 world cup\"."
+      ],
+      "tag": "CKRUET 20-21,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "8. Choose the antonym of the word \"Dexterity\".",
+      "options": [
+        "Disappear",
+        "Misleading",
+        "Agreement",
+        "Clumsiness",
+        "Consort"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "9. A recent investigation by scientists at the U.S. Geological Survey shows that strange animal behavior might help to predict future earthquakes. Investigators found such occurrences in a ten-kilometer radius of the epicenter of a fairly recent quake. Some birds screeched and flew away wildly; dogs yelped and ran around uncontrollably. Scientists believe that animals can perceive these environmental changes as early as several days before the mishap.\nIn 1976, after observing animal behavior, the Chinese were able to predict a devastating earthquake. Although hundreds of thousands of people were killed, the Government was able to evacuate millions of other people and thus keep the death toll at a lower level.\nWhat prediction may be made by observing animal behavior?",
+      "options": [
+        "An impending earthquake",
+        "The number of people who will die",
+        "The 10 km radius of the epicenter",
+        "Environmental changes",
+        "An impending storm"
+      ],
+      "tag": "CKRUET 20-21,KUET 10-11"
+    },
+    {
+      "subject": "English (24)",
+      "question": "10. Which one of the followings is not true?",
+      "options": [
+        "Some animals may be able to sense an approaching earthquake.",
+        "By observing animal behavior, scientists perhaps can predict earthquakes.",
+        "The Chinese have successfully predicted an earthquake and saved many lives the quake.",
+        "All birds and dogs in a ten-kilometer radius of the epicenter went wild before the quake.",
+        "The Chinese Government was able to evacuate millions of people and thus keep the death toll at a lower level in 1976."
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "11. Which one is the correct passive form of the sentence, \"Please keep off the grass.\"?",
+      "options": [
+        "Let the grass be kept off",
+        "Let keep off the grass",
+        "Do not keep off the grass",
+        "The grass should be kept off",
+        "You are requested to keep off the grass"
+      ],
+      "tag": "CKRUET 20-21,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "12. Change into indirect speech of the sentence, \"He said to Jashim, \"Friend, help me.\"",
+      "options": [
+        "He requested his friend, Jashim please help him.",
+        "Addressing Jashim as his friend, he requested him(Jashim) to help him.",
+        "He requested Jashim to help him.",
+        "He requested his friend to help him."
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "13. Select the appropriate preposition for the blank in the following sentence, \"Thy keys fell_______ the pool of water\".",
+      "options": [
+        "in",
+        "into",
+        "to",
+        "on",
+        "with"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "14. Identify the appropriate sentence connectors in the blank spaces for the following sentence: \"____ we had huge international support ____ we all were united at our freedom point of view.\"",
+      "options": [
+        "Not only, on the other hand",
+        "However, on the other hand",
+        "While, above on",
+        "Not only, but also",
+        "All of the above"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "15. Choose a correct translation of \"সূর্য যেন বিশ্বব্রহ্মাণ্ডের প্রদীপ।\"",
+      "options": [
+        "The sun is the lamp of the universe.",
+        "Had the sun been the lamp of the universe.",
+        "The sun is, as it were, the lamp of the universe.",
+        "The sun would be the lamp of the universe.",
+        "As if sun is the lamp of the universe."
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "16. Translate of the sentence \"You had better not go today\" into Bengali.",
+      "options": [
+        "তুমি আজ নাইবা গেলে।",
+        "তোমার আজ না গেলেও চলত।",
+        "তােমার আজ না যাওয়া ঠিক।",
+        "তুমি আজ না গেলেও পারতে।"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "17.  Fill in the gap with the appropriate verb in the following sentence, \"Each of the Olympic athletes ________for months,every years\".",
+      "options": [
+        "Has been training",
+        "were training",
+        "Have been training",
+        "Been training"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "18. Find the appropriate question tag: “I am late, _____?”",
+      "options": [
+        "am I?",
+        "amn't I?",
+        "aren't I?",
+        "is it?"
+      ],
+      "tag": "CKRUET 20-21,RU-E 18-18: Set-1: Group-1,CU D 13-14,CoU C 18-19,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "19. Choose the right form of phrase for the underlined part of the sentence, \"He sacrificed his life for the sake of his country \".",
+      "options": [
+        "Noun phrase",
+        "Prepositional phrase",
+        "Adjective phrase",
+        "Adverbial phrase"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "20. Fill in the blank of the following sentence, \"Sakib doesn’t mind _______early \".",
+      "options": [
+        "get up",
+        "to get up",
+        "getting up",
+        "to getting up"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "21. Which type of pronoun \"Who\" is in the sentence, \"The boy who came yesterday is my nephew \".",
+      "options": [
+        "Distributive",
+        "Interrogative",
+        "Relative",
+        "Personal"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "22. What type of adjective is \"second\" in the sentence \"Rokeya lives in the second room\"?",
+      "options": [
+        "Numeral",
+        "Descriptive",
+        "Quantitative",
+        "Pronominal"
+      ],
+      "tag": "CKRUET 20-21,CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "23. “The more you read, the more you learn.” Here ‘more’ is a/an ____",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Interjection",
+        "Preposition"
+      ],
+      "tag": "CKRUET 20-21"
+    },
+    {
+      "subject": "English (24)",
+      "question": "24. The idiom \"Birds eye view\" refers to-",
+      "options": [
+        "View seen by birds",
+        "A view of the sky",
+        "An interesting idea",
+        "A rough idea"
+      ],
+      "tag": "CKRUET 20-21"
+    }
+  ]
+}

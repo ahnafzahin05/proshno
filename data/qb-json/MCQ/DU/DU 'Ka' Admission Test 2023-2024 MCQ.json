@@ -1,0 +1,995 @@
+{
+  "title": "DU 'Ka' Admission Test 2023-2024 MCQ",
+  "questions": [
+    {
+      "subject": "Physics(15)",
+      "question": "1. The sum of two vectors $\\vec{A}$ and $\\vec{B}$ is perpendicular to their difference. Which one of the following statements must be true?",
+      "options": [
+        "$|\\overrightarrow{\\mathrm{A}}|=|\\overrightarrow{\\mathrm{B}}|$",
+        "$\\vec{A} \\cdot \\vec{B}=0$",
+        "$\\vec{A} \\times \\vec{B}=0$",
+        "$\\vec{A}=-2 \\vec{B}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "2. Two rectangular boxes of masses $m$ and 2 m are on a frictionless horizontal surface and connected by a rope. A forward force of magnitude $F$ is pulling the more massive box toward right. As a result, the less massive box is pulled by the rope. What is the tension in the rope?",
+      "options": [
+        "F",
+        "$\\frac{F}{6}$",
+        "$\\frac{F}{3}$",
+        "$\\frac{\\mathrm{F}}{2}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "3. A mass of 10 g sliding on a frictionless horizontal surface hits at $6 \\mathrm{~ms}^{-1}$ on a horizontal spring attached to a wall. If the spring has a spring constant of $400 \\mathrm{Nm}^{-1}$, what is its maximum compression?",
+      "options": [
+        "0.3 cm",
+        "$\\frac{3}{\\sqrt{10}} \\mathrm{~cm}$",
+        "3 cm",
+        "0.9 cm"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "4. The acceleration due to gravity on the Moon is onesixth of that on the Earth. The radius of the moon is one fourth that of the Earth. What is the mass of the moon compared to that of the Earth, M?",
+      "options": [
+        "$\\frac{M}{6}$",
+        "$\\frac{M}{16}$",
+        "$\\frac{\\mathrm{M}}{24}$",
+        "$\\frac{M}{96}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "5. Young's modulus of the material of a steel wire is Y. If the diameter of the wire is doubled, what will be the changed Young's modulus?",
+      "options": [
+        "The same as before",
+        "Half the previous value",
+        "Twice the previous value",
+        "Four times the previous value"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "6. A particle is executing Simple Harmonic Motion with an amplitude A. At what displacement from the equilibrium position, is the potential energy of the particle one-fourth of its total energy?",
+      "options": [
+        "$\\frac{A}{4}$",
+        "$\\frac{A}{2}$",
+        "$\\frac{A}{\\sqrt{2}}$",
+        "$A \\sqrt{2}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "7. Which of the following is not a polarizer?",
+      "options": [
+        "Tourmaline",
+        "Fresnel Biprism",
+        "Calcite",
+        "Nicol Prism"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "8. An ideal gas at STP is first compressed to one-third of its initial volume and then allowed to expand until its pressure is half the initial pressure. The temperature of the gas remains constant during both the processes. If the initial internal energy of the gas is U , what is its final internal energy?",
+      "options": [
+        "$\\frac{U}{3}$",
+        "$\\frac{U}{2}$",
+        "U",
+        "$\\frac{2 U}{3}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "9. A metal plate of thickness $\\frac{d}{2}$ is inserted between the plates of parallel plate capacitor with plateseparation $d$ and capacitance C . What is the new capacitance?",
+      "options": [
+        "$\\frac{\\mathrm{C}}{\\mathrm{d}}$",
+        "$\\frac{\\mathrm{C}}{2}$",
+        "4 Cd",
+        "2 C"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "10. The resistances in the four arms, namely $\\mathrm{P}, \\mathrm{Q} \\mathrm{R}$ and S , of a Wheatstone bridge are $8 \\Omega, 12 \\Omega, 16 \\Omega$ and $48 \\Omega$ respectively. What resistance needs to be included in the fourth arm, and in what manner, in order to balance the bridge?",
+      "options": [
+        "$24 \\Omega$, series",
+        "$24 \\Omega$, parallel",
+        "$48 \\Omega$, series",
+        "$48 \\Omega$, parallel"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "11. Two monoatomic ideal gases are in thermal equilibrium with each other. Gass A is composed of molecules with mass $m$ while gas $B$ is composed of molecules with mass 4 m . The volume of gas A is twice that of gas B , What it the ratio of their pressures $\\frac{\\mathrm{P}_{\\mathrm{A}}}{\\mathrm{P}_{\\mathrm{B}}}$ ?",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "1",
+        "2"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "12. A metal surface emits photoelectrons when illuminated by green light. Illumination with which of the following color of light will definitely cause photoelectrons to be emitted from the surface?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Orange"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "13. Which of the following transitions from and initial state $\\mathrm{n}_{\\mathrm{i}}$ to a final state $\\mathrm{n}_{\\mathrm{f}}$ in a hydrogen atom results in the most energy emission?",
+      "options": [
+        "$\\mathrm{n}_{\\mathrm{i}}=80, \\mathrm{n}_{\\mathrm{f}}=2$",
+        "$\\mathrm{n}_{\\mathrm{i}}=1, \\mathrm{n}_{\\mathrm{f}}=2$",
+        "$\\mathrm{n}_{\\mathrm{i}}=3, \\mathrm{n}_{\\mathrm{f}}=90$",
+        "$n_{i}=2, n_{f}=1$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "14. Which one is equivalent to $A+A . B$ in Boolean algebra?",
+      "options": [
+        "A",
+        "B",
+        "A.B",
+        "$\\bar{A}+B$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "15.  Imagine that a tunnel is dug along a diameter of the Earth and a small body is dropped into the tunnel from the surface. What will be its speed in terms of the escape velocity $v_{e}$ when it reaches the center of the earth?",
+      "options": [
+        "$\\frac{3}{2} \\mathrm{v}_{\\mathrm{e}}$",
+        "$\\frac{1}{2} \\mathrm{v}_{\\mathrm{e}}$",
+        "$\\frac{1}{\\sqrt{2}} \\mathrm{v}_{\\mathrm{e}}$",
+        "0"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "1. Which one is the probable set of quantum numbers for $3 d^{1}$ electron of Sc element?",
+      "options": [
+        "$\\left(3,2,0,+\\frac{1}{2}\\right)$",
+        "$\\left(3,1,0,+\\frac{1}{2}\\right)$",
+        "$\\left(3,1,0,-\\frac{1}{2}\\right)$",
+        "$\\left(3,0,0,+\\frac{1}{2}\\right)$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "2. How much $\\mathrm{CO}_{2}$ will be produced from 2.5 g $\\mathrm{CaCO}_{3}$ at NTP ?",
+      "options": [
+        "22.4 L",
+        "0.56 L",
+        "5.6 L",
+        "11.2 L"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "3. Which one is not responsible for the depletion of ozone layer?",
+      "options": [
+        "CO",
+        "CFC-12",
+        "$\\mathrm{CCl}_{4}$",
+        "UV radiation"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "4.  Which reaction has the lowest enthalpy change?",
+      "options": [
+        "$\\begin{array}{l} \\mathrm{CH}_{3} \\mathrm{COOH}(\\mathrm{aq})+\\mathrm{NaOH}(\\mathrm{aq}) \\\\ \\rightarrow \\mathrm{CH}_{3} \\mathrm{COONa}(\\mathrm{aq})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l}) \\end{array}$",
+        "$\\begin{array}{r} \\mathrm{CH}_{3} \\mathrm{COOH}(\\mathrm{aq})+\\mathrm{NH}_{4} \\mathrm{OH}(\\mathrm{aq}) \\\\ \\rightarrow \\mathrm{CH}_{3} \\mathrm{COONH}_{4}(\\mathrm{aq})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l}) \\end{array}$",
+        "$\\mathrm{HCl}(\\mathrm{aq})+\\mathrm{NH}_{4} \\mathrm{OH}(\\mathrm{aq}) \\rightarrow \\mathrm{NH}_{4} \\mathrm{Cl}(\\mathrm{aq})+\\mathrm{H}_{2} \\mathrm{O}(l)$",
+        "$\\mathrm{HCl}(a q)+\\mathrm{NaOH}(a q) \\rightarrow \\mathrm{NaCl}(a q)+\\mathrm{H}_{2} \\mathrm{O}(l)$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "5. How many covalent and coordination bonds are in $\\mathrm{Al}_{2} \\mathrm{Cl}_{6}$ molecule respectively?",
+      "options": [
+        "6 and 4",
+        "6 and 3",
+        "6 and 2",
+        "7 and 0"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "6. Which compound contains carbon in more than one type of hybridizations?",
+      "options": [
+        "1, 3-butadiene",
+        "Cyclohexane",
+        "Vinylbenzene",
+        "1, 2-butadiene"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "7. What is the oxidation number of iron in $\\left(\\mathrm{NH}_{4}\\right)_{3}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$ ?",
+      "options": [
+        "+5",
+        "+4",
+        "+3",
+        "+2"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "8. If both pH and pOH of water are 7.0 at $25^{\\circ} \\mathrm{C}$, which of the following relations is correct at higher temperatures?",
+      "options": [
+        "$\\mathrm{pH}<7.0 ; \\mathrm{pOH}<7.0$",
+        "$\\mathrm{pH}<7.0 ; \\mathrm{pOH}>7.0$",
+        "$\\mathrm{pH}>7.0 ; \\mathrm{pOH}<7.0$",
+        "$\\mathrm{pH}>7.0 ; \\mathrm{pOH}>7.0$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "9. Which pair of compounds exhibit common ion effect?",
+      "options": [
+        "$\\mathrm{CH}_{4}, \\mathrm{HCl}$",
+        "$\\mathrm{NaCl}, \\mathrm{CH}_{3} \\mathrm{Cl}$",
+        "$\\mathrm{H}_{2} \\mathrm{~S}, \\mathrm{HCl}$",
+        "$\\mathrm{CaCl}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{Cl}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "10. Which reagent is necessary for the conversion of $\\mathrm{R}-\\mathrm{CO}-\\mathrm{R} \\rightarrow \\mathrm{R}-\\mathrm{CH}_{3}-\\mathrm{R}$ ?",
+      "options": [
+        "$\\mathrm{Sn} / \\mathrm{HCl}$",
+        "$\\mathrm{Zn} . \\mathrm{Hg} / \\mathrm{HCl}$",
+        "$\\mathrm{LiAlH}_{4}$",
+        "$\\mathrm{KMnO}_{4}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "11. Which one reacts with the Fehling's solution?",
+      "options": [
+        "HCOOH",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{OH}) \\mathrm{CH}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "12. 100 mL NaOH solution contains 0.5 g NaOH . What will be the concentration of the solution in ppm unit?",
+      "options": [
+        "50000",
+        "50",
+        "500",
+        "5000"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "13. The order of the basic properties of $\\mathrm{NH}_{3}, \\mathrm{RNH}_{2}, \\mathrm{R}_{2} \\mathrm{NH} ?$",
+      "options": [
+        "$\\mathrm{NH}_{3}>\\mathrm{RNH}_{2}>\\mathrm{R}_{2} \\mathrm{NH}$",
+        "$\\mathrm{R}_{2} \\mathrm{NH}>\\mathrm{RNH}_{2}>\\mathrm{NH}_{3}$",
+        "$\\mathrm{NH}_{3}>\\mathrm{R}_{2} \\mathrm{NH}>\\mathrm{RNH}_{2}$",
+        "$\\mathrm{RNH}_{2}>\\mathrm{NH}_{3}>\\mathrm{R}_{2} \\mathrm{NH}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "14. How much Ca metal will be deposited on the cathode after passing 1 F electricity througl molten $\\mathrm{CaCl}_{2}$ ?)",
+      "options": [
+        "20.0 g",
+        "40.0 g",
+        "80.0 g",
+        "35.5 g"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "15. If the solubility of $\\mathrm{Al}(\\mathrm{OH})_{3}$ is ' s ', then what is the value of solubility product?",
+      "options": [
+        "$27 \\mathrm{~s}^{2}$",
+        "$s^{4}$",
+        "$3 s^{4}$",
+        "$27 \\mathrm{~s}^{4}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "1. If the matrix $\\left[\\begin{array}{ccc}1 & 3 & 2 \\\\ 2 & 0 & 3 \\\\ 1 & -1 & \\mathrm{P}\\end{array}\\right]$ is singular, what is the value of $P$ ?",
+      "options": [
+        "$\\frac{4}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{5}{3}$",
+        "$\\frac{3}{5}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "2. What is the equation of the line passing through the point $(1,1)$ and perpendicular to the line $2 \\mathrm{x}-$ $3 y-5=0 ?$",
+      "options": [
+        "$3 x+2 y-5=0$",
+        "$3 x+2 y+5=0$",
+        "$3 x-2 y-1=0$",
+        "$-2 x+3 y+1=0$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "3. If $y=\\ln (2-x)$, then $\\frac{d y}{d x}=?$",
+      "options": [
+        "$\\frac{1}{2-x}$",
+        "$\\frac{2}{2-x}$",
+        "$\\frac{x}{2-x}$",
+        "$\\frac{1}{x-2}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "4. What are the center and radius of the circle $\\mathrm{r}=\\sin \\theta$ ?",
+      "options": [
+        "$\\left(\\frac{1}{2}, 0\\right), \\frac{1}{2}$",
+        "$(0,2), \\frac{1}{2}$",
+        "$\\left(0, \\frac{1}{2}\\right), 2$",
+        "$\\left(0, \\frac{1}{2}\\right), \\frac{1}{2}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "5. $2 \\tan^{-1} \\frac{1}{3} + \\tan^{-1} \\frac{1}{7} = ?$",
+      "options": [
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$",
+        "1",
+        "0"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "6. $\\int \\frac{x d x}{\\sqrt{1-x^{2}}}=$ ?",
+      "options": [
+        "$-\\sqrt{x}+C$",
+        "$-\\sqrt{1-x}+C$",
+        "$\\sqrt{1-x^{2}}+C$",
+        "$-\\sqrt{1-x^{2}}+C$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "7. If $\\omega$ is one of the complex cubic roots of 1 , then $\\omega^{16}+\\omega^{32}=$ ?",
+      "options": [
+        "1",
+        "2",
+        "-1",
+        "-2"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "8. For what value of $k$, one root of the equation $2 \\mathrm{x}^{2}-(\\mathrm{k}+1) \\mathrm{x}+\\mathrm{k}=0$ will be equal to three times the inverse of the other root?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "9. What is the vertex of the parabola $y^{2}+4 x+2 y-$ $8=0$ ?",
+      "options": [
+        "$\\left(\\frac{9}{4},-1\\right)$",
+        "$\\left(-\\frac{9}{4},-1\\right)$",
+        "$(0,2)$",
+        "$(2,0)$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "10. What is the area of the region enclosed by the parabola $y^{2}=4 x$ and the straight line $y=x$ ?",
+      "options": [
+        "3",
+        "$\\frac{4}{3}$",
+        "$\\frac{8}{3}$",
+        "$\\frac{5}{3}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "11. How much distance is covered by a freely falling body at the $4^{\\text {th }}$ second?",
+      "options": [
+        "78.4 m",
+        "44.1 m",
+        "39.2 m",
+        "34.3 m"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "12. $\\lim _{x \\rightarrow-\\infty} \\frac{\\sqrt{x^{2}+x}}{x+1}=$ ?",
+      "options": [
+        "1",
+        "$-\\infty$",
+        "$\\infty$",
+        "-1"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "13. What is the conic represented by the equation $16 \\mathrm{y}^{2}-9 \\mathrm{x}^{2}+18 \\mathrm{x}+64 \\mathrm{y}+199=0$ ?",
+      "options": [
+        "hyperbola",
+        "circle",
+        "parabola",
+        "ellipse"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "14. $\\tan 75^{\\circ} = ?$",
+      "options": [
+        "$\\frac{1-\\sqrt{3}}{1+\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}$",
+        "$\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}$",
+        "$\\frac{1+\\sqrt{3}}{1-\\sqrt{3}}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Higher Math(15)",
+      "question": "15. Which of the following is equal to $\\sin ^{-1} \\frac{2}{3}$ ?",
+      "options": [
+        "$\\cot \\frac{\\sqrt{5}}{2}$",
+        "$\\cot ^{-1} \\frac{\\sqrt{5}}{2}$",
+        "$\\tan \\sqrt{5}$",
+        "$\\tan ^{-1} \\frac{1}{\\sqrt{5}}$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "1. The protein coat of tobacco mosaic virus is called-",
+      "options": [
+        "Capsomere",
+        "Capsid",
+        "Viroid",
+        "Glycoprotein"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "2. Which of the following is used in making cheese?",
+      "options": [
+        "Amylase",
+        "Renin",
+        "Pectinase",
+        "Zymase"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "3. Which of the following is the $\\mathrm{CO}_{2}$ acceptor in Hatch and Slack cycle?",
+      "options": [
+        "Ribulose 1, 5 bisphosphate",
+        "3-Phosphoglyceric acid",
+        "Phosphoenolpyruvic acid",
+        "Oxaloacetic acid"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "4. Which of the following cells does not have a nucleus?",
+      "options": [
+        "Sieve Tube",
+        "Parenchyma",
+        "Collenchyma",
+        "Tracheid"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "5. Which one is the repeating unit of nucleic acid?",
+      "options": [
+        "Peptide",
+        "Nitrogen base",
+        "Nucleoside",
+        "Nucleotide"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "6. Which of the following is not a restriction enzyme?",
+      "options": [
+        "pBR322",
+        "ECORI",
+        "HindIII",
+        "BamHI"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "7. Which type of vascular bundle is present in the root of flowering plants?",
+      "options": [
+        "Conjoint",
+        "Collateral",
+        "Radial",
+        "Concentric"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "8. What type of phenotypic ratio will be found in $\\mathrm{F}_{2}$ generation when organisms having two or more contrasting characteristics are crossed?",
+      "options": [
+        "9:3:3:1",
+        "$9: 7$",
+        "$13: 3$",
+        "$3: 1$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "9. Which of the following belongs to phylum Mollusca?",
+      "options": [
+        "Wuchereria bancrofti",
+        "Octopus punctatus",
+        "Neanthes virens",
+        "Aurelia aurita"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "10.  Which one of the following is a characteristic of phylum Arthropoda?",
+      "options": [
+        "Heart two-chambered",
+        "Diaphragm present",
+        "Trachea: the respiratory organ",
+        "Parapodia help in locomotion"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "11. Which one is the smallest bone in human body?",
+      "options": [
+        "Malleus",
+        "Incus",
+        "Stapes",
+        "Otolith"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "12. Which one of the following is not involved in protein digestion?",
+      "options": [
+        "Renin",
+        "Trypsin",
+        "Pepsin",
+        "Lipase"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "13.  Which artery supplies blood to the wall of heart?",
+      "options": [
+        "Pulmonary",
+        "Coronary",
+        "Sub-clavian",
+        "Renal"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "14. Which of the following phyla contains mesoglea?",
+      "options": [
+        "Annelida",
+        "Porifera",
+        "Cnidaria",
+        "Mollusca"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Biology(15)",
+      "question": "15. Which blood group has no antigens?",
+      "options": [
+        "Group O",
+        "Group A",
+        "Group B",
+        "Group $A B$"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "1. কোন শব্দজোড় বিপরীত নয়?",
+      "options": [
+        "প্রাচ্য-প্রতীচ্য",
+        "আবাহন-বিসর্জন",
+        "অনন্ত-স্বতন্ত্র",
+        "জঙ্গম-স্থবির"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "2. 'সম্মুখে অগ্রসর হয়ে অভ্যর্থনা'-কে এক কথায় বলে-",
+      "options": [
+        "প্রত্যুদ্গমন",
+        "আবাহন",
+        "সম্ভাষণ",
+        "প্রত্যুৎগমন"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "3. নিচের কোনটি ঠিক?",
+      "options": [
+        "হ্ন = হ্ + ণ",
+        "ক্ষ = হ + ম-ফলা",
+        "ক্র = ক্ + র-ফলা",
+        "ত্র = র্ + ত"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "4. 'অন্তরে যাদের এত গোলামির ভাব, তারা বাইরের পোলামি থেকে রেহাই পাবে কী করে?' কার উক্তি?",
+      "options": [
+        "আবুল ফজল",
+        "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলামের"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "5. যে কবিতা শুনতে জানে না, সে কার আর্তনাদ শুনবে?",
+      "options": [
+        "শিশ্যর",
+        "সিংহের",
+        "বাতাসের",
+        "ঝড়ের"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "6. কোন শব্দটি উপসর্গযোগে গঠিত?",
+      "options": [
+        "পঙ্কজ",
+        "দরদালান",
+        "বিলাসিতা",
+        "দানব"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "7. 'আহ্বান' শব্দের প্রমিত উচ্চারণ-",
+      "options": [
+        "আহোব্বান্",
+        "আহোবান্",
+        "আওভান্",
+        "আহোভান্"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "8. ' charter' শব্দের বাংলা পরিভাষা-",
+      "options": [
+        "সনদ",
+        "বিজ্ঞপ্তি",
+        "চাটুকার",
+        "ঘোষণা"
+      ],
+      "tag": "DU A  23-24,DU A  10-11,DU D 17-18,রাবি (ক): ২৩-২৪"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "9. নিচের কোনটি অপপ্রয়োগের দৃষ্টান্ত নয়?",
+      "options": [
+        "অশ্রুজল",
+        "বিভীষণ",
+        "একত্রিত",
+        "স্বন্ত্রীক"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "10. একটি সার্থক বাক্যের গুণ কয়টি?",
+      "options": [
+        "২টি",
+        "৩টি",
+        "8টি",
+        "৫টি"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "11. নিচের কোন বানানটি শদ্ধ নয়?",
+      "options": [
+        "ব্যঞ্জন",
+        "ব্যথা",
+        "পক্ক",
+        "শাশ্বত"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "12.  'মানব-কল্যাণ' প্রবন্ধে রবীন্দ্রনাথ ঠাকুর ব্যতীত অপর কোন লেখকের রচনা থেকে উদ্ধৃতি আছে?",
+      "options": [
+        "বিদ্যাপতি",
+        "লালন শাহ",
+        "বক্কিমচন্দ্র চট্টোপাধ্যায়",
+        "কাজী নজরুল ইসলাম"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "13. কোনটি নদীর সমার্থক নয়?",
+      "options": [
+        "সরসী",
+        "বাহিনী",
+        "তটিনী",
+        "সরিৎ"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "14. নিত্য মূর্ধন্য-ণ বাচক শব্দ-",
+      "options": [
+        "গৃহিণী",
+        "উষ্ণ",
+        "সমর্পণ",
+        "পুণ্য"
+      ],
+      "tag": "মেডিন (বিজ্ঞান): ২৩-২৪ / যবি (ক): ১৬-১৭/ ঢাবি (গ): ১২-১৩,DU A  23-24"
+    },
+    {
+      "subject": "Bangla(15)",
+      "question": "15. 'পাকযন্ত্রটাকে সমস্ত অন্নসুদ্ধ সেখানে টান মারিয়া ফেলিয়া দিয়া আসিতে পারিলে তবে আফসোস মিটিত।' উদ্ধৃতাংশটি কোন গল্পভুক্ত?",
+      "options": [
+        "বিলাসী",
+        "অপরিচিতা",
+        "রেইনকোট",
+        "মাসি-পিসি"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "1. The whole incident did not last long, but ____.",
+      "options": [
+        "it happened only yesterday",
+        "it felt like eternity",
+        "it was forgotten quickly",
+        "it took just a few seconds"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "2. Psychologists conclude that our childhood experiences often have a strong influence on the way we …… the world later in life.",
+      "options": [
+        "perceive",
+        "appropriate",
+        "anticipate",
+        "portend"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "3. Choose the correct word or phrase to complete the sentence.\nAndrew Kishore was raised in a ____ Christian family of Bangladesh.",
+      "options": [
+        "reliable",
+        "overwhelmingly",
+        "stalwart",
+        "devout"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "4. The author seems to invite us to -------- with the tragic characters of his book.",
+      "options": [
+        "connive",
+        "ridicule",
+        "commiserate",
+        "contemplate"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "English(15)",
+      "question": "5. \"Most scientists find a chasm between theory and practice\". A synonym of the word 'chasm' is ………..",
+      "options": [
+        "fissure",
+        "expertise",
+        "density",
+        "chivalry"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "6. Recent data from the World Health Organization (WHO) shows that COVID infections did not spare ----.",
+      "options": [
+        "nobody",
+        "everybody",
+        "anybody",
+        "somebody"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "English(15)",
+      "question": "7. ……….. you like a cup of tea?",
+      "options": [
+        "Should",
+        "Could",
+        "Shall",
+        "Would"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "8. Travelling alone at night is not a ---- option.",
+      "options": [
+        "versatile",
+        "verifiable",
+        "veritable",
+        "viable"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "English(15)",
+      "question": "9. People who are usually ill-tempered are…….",
+      "options": [
+        "perhaps unhappy in life",
+        "guilty of crimes",
+        "quite impudent",
+        "very self-centered"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "10. An antonym of 'artless' is ……… .",
+      "options": [
+        "guileless",
+        "gullible",
+        "cunning",
+        "unassuming"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "11. The mechanic said the refrigerator would be expensive to repair, and recommended buying a new one ____.",
+      "options": [
+        "instead",
+        "however",
+        "though",
+        "despite"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "English(15)",
+      "question": "12. An antonym of the word 'honour' is ……. .",
+      "options": [
+        "empathy",
+        "stigma",
+        "prejudice",
+        "dogma"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "13. We kept in touch with the authorities, ………. some of the street lights were broken in our neighborhood.",
+      "options": [
+        "therefore",
+        "for",
+        "in case of",
+        "because of"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "14. The economic recession means that some of our employees ____ redundant in the coming years.",
+      "options": [
+        "are being made",
+        "may be made",
+        "should be making",
+        "would be making"
+      ],
+      "tag": "DU A  23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "15. They preferred to live underground so that the land could ---- them from the scorching heat of the sun and external noise.",
+      "options": [
+        "levitate",
+        "connive",
+        "divulge",
+        "insulate"
+      ],
+      "tag": ""
+    }
+  ]
+}

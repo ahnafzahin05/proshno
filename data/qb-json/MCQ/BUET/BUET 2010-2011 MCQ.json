@@ -1,0 +1,1265 @@
+{
+  "title": "BUET 2010-2011 MCQ",
+  "questions": [
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "1. Find the smallest positive integer $\\mathrm{n}$ for which $\\left(\\frac{1+\\mathrm{i}}{1-\\mathrm{i}}\\right)^{\\mathrm{n}}=1$",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "4"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "2. If $\\omega$ is a complex cube root of unity then what is the value of the following determinant?\n\n$\\left|\\begin{array}{ccc} 1 & -\\omega & \\omega^{2} \\\\ -\\omega & \\omega^{2} & 1 \\\\ \\omega^{2} & 1 & -\\omega \\end{array}\\right|$",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "3. Suppose A, B and C are matrices with sizes $4 \\times 5,5 \\times 4$ and $4 \\times 2$ respectively. Then the size of $\\left(A^{T}+B\\right) C$ matrix is-",
+      "options": [
+        "$5 \\times 4$",
+        "$4 \\times 2$",
+        "$5 \\times 2$",
+        "$2 \\times 5$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "4. At what point is the tangent line to the curve $y^{2}=2 x^{3}$ perpendicular to the line $4 x-3 y+1=0$ ?",
+      "options": [
+        "$\\left(-\\frac{1}{8}, \\frac{1}{16}\\right)$",
+        "$\\left(\\frac{1}{8},-\\frac{1}{16}\\right)$",
+        "$\\left(-\\frac{1}{8},-\\frac{1}{16}\\right)$",
+        "$\\left(\\frac{1}{8}, \\frac{1}{16}\\right)$"
+      ],
+      "tag": "NSTU 16-17,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "5.  If a circle is drawn taking the straight line joining the points $(0,-1)$ and $(2,3)$ as diameter, then the length of the intercept which the circle cuts off from the x-axis is-",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "$3 \\sqrt{2}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "6. Which one of the following is the graph of the equation $y=-(x-1)^{2}$ ?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/2jd2Zzm4n8zotm59rfcqx.png]",
+        "[IMG: https://assets.chorcha.net/DTAaXA37_IuFFKJSR4aNo.png]",
+        "[IMG: https://assets.chorcha.net/pMS4sBqOghF-kleLY-A4A.png]",
+        "[IMG: https://assets.chorcha.net/MIkb5QcZ1ZLBTormd3_GW.png]"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "7. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "8. If the ordinate of the point $P$ on the parabola $y^{2}=9 x$ is 12 , then the focal distance of the point $P$ is-",
+      "options": [
+        "$21 \\frac{2}{3}$",
+        "$16 \\frac{1}{3}$",
+        "$3 \\frac{1}{4}$",
+        "$18 \\frac{1}{4}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "9. If the equations $2 x+3 y=7$ and $3 a x-5 b y+15=0$ express the same straight line then what are the values of ' $a$ ' and ' $b$ '?",
+      "options": [
+        "$\\mathrm{a}=\\frac{9}{7}, \\mathrm{~b}=-\\frac{10}{7}$",
+        "$\\mathrm{a}=-\\frac{9}{7}, \\mathrm{~b}=-\\frac{10}{7}$",
+        "$\\mathrm{a}=-\\frac{10}{7}, \\mathrm{~b}=\\frac{9}{7}$",
+        "$a=\\frac{10}{7}, b=-\\frac{9}{7}$"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 17-18 (SET 3)"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "10. What is the perpendicular distance between the lines $4 y=3(x-4)$ and $4 y=3(x-1)$ ?",
+      "options": [
+        "$\\frac{9}{4}$",
+        "$\\frac{15}{9}$",
+        "$\\frac{9}{5}$",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "11. If $\\sin ^{-1} x+\\sin ^{-1} y=\\frac{\\pi}{2}$, then the value of $\\left(x^{2}+y^{2}\\right)$ is-",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "12. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "13. If $2 \\cos ^{2} \\theta+2 \\sqrt{2} \\sin \\theta=3$, which one of the following is the value of $\\theta$ ?",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "120°"
+      ],
+      "tag": "SB 22,SB 23,CU A 16-17,BUET 10-11,JU A 22-23 (SET I),JU H 19-20 (SET E)"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "14. Solve : $2 \\tan ^{-1}(\\cos x)=\\tan ^{-1}(2 \\cos e c x)$",
+      "options": [
+        "$n \\pi \\pm(-1)^{n} \\frac{\\pi}{4}$",
+        "$2 n \\pi \\pm \\frac{\\pi}{3}$",
+        "$n \\pi \\pm \\frac{\\pi}{3}$",
+        "$n \\pi+\\frac{\\pi}{4}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "15. The value of $x$ for which $\\mathrm{f(x)=\\sin ^{3} x \\cos x,(0<x<\\pi)}$ is the minimum is-",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{12}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "16. If $y^{x}=x^{y}$, then $\\frac{d y}{d x}$ is-",
+      "options": [
+        "$\\frac{\\ln y+\\frac{y}{x}}{\\ln x+\\frac{x}{y}}$",
+        "$\\frac{\\ln y-\\frac{x}{y}}{\\ln x-\\frac{y}{x}}$",
+        "$\\frac{\\ln y-\\frac{y}{x}}{\\ln x-\\frac{x}{y}}$",
+        "$\\frac{\\ln x-y}{\\ln y-\\frac{x}{y}}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "17. If $y=\\sin ^{-1}\\left[\\frac{4 \\sqrt{x}}{1+4 x}\\right]$, then $\\left(\\frac{d y}{d x}\\right)_{(4,2)}$ is-",
+      "options": [
+        "4",
+        "$\\frac{1}{17}$",
+        "$\\frac{1}{9}$",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "18. Find the value of $\\int_{0}^{\\pi / 2} \\cos ^{3} x \\sqrt{\\sin x} d x$",
+      "options": [
+        "-2",
+        "$\\frac{8}{21}$",
+        "$\\frac{4}{15}$",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "19. Two men are carrying a straight uniform bar of length $6 \\mathrm{~m}$ and weight $30 \\mathrm{~kg}$. One man supports it at a distance of $1 \\mathrm{~m}$ from one end and the other man at a distance of $2 \\mathrm{~m}$ from the other end. What weight does each man bear?",
+      "options": [
+        "$10 \\mathrm{~kg}, 20 \\mathrm{~kg}$",
+        "$15 \\mathrm{~kg}, 15 \\mathrm{~kg}$",
+        "$12 \\mathrm{~kg}, 18 \\mathrm{~kg}$",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "20. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "21. A uniform rod, $2 \\mathrm{~m}$ long and weighing $5 \\mathrm{~kg}$ is laid on a table with $16 \\mathrm{~cm}$ projecting over the edge. What weight can be hung at the end of the rod before the rod will be pulled over?",
+      "options": [
+        "$25 \\mathrm{~kg}$",
+        "$25.25 \\mathrm{~kg}$",
+        "$26 \\mathrm{~kg}$",
+        "$26.25 \\mathrm{~kg}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "22.  A particle starts from the point $A$ at an angle $60^{\\circ}$ with straight-line AB. At the same time, another particle starts from B at an angle $30^{\\circ}$ with BA with a uniform velocity of $10 \\mathrm{kmh}^{-1}$ and meets the first after some time. Find the velocity of the first particle.",
+      "options": [
+        "$\\frac{2}{\\sqrt{3}} \\mathrm{kmh}^{-1}$",
+        "$\\frac{20}{\\sqrt{3}} \\mathrm{kmh}^{-1}$",
+        "$\\frac{10}{\\sqrt{3}} \\mathrm{kmh}^{-1}$",
+        "$\\frac{4}{\\sqrt{3}} \\mathrm{kmh}^{-1}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "23. A body is projected with velocity $49 \\mathrm{~ms}^{-1}$ at an angle $\\alpha$ with the horizon from a point at a horizontal distance $147 \\mathrm{~m}$ from the foot of a vertical wall. If $\\alpha=60^{\\circ}$, find the height of the point on the wall where the body strikes. $\\left(\\mathrm{g}=9.81 \\mathrm{~ms}^{-2}\\right.$ )",
+      "options": [
+        "$26.01 \\mathrm{~m}$",
+        "$78.03 \\mathrm{~m}$",
+        "$254.61 \\mathrm{~m}$",
+        "$46.20 \\mathrm{~m}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "24. For a spherical soap bubble what will be the ratio between the rate of change of its volume and its rate of change of radius.",
+      "options": [
+        "$\\pi r^{2}$",
+        "$\\frac{4}{3} \\pi r^{2}$",
+        "$\\frac{4}{3} \\pi$",
+        "$4 \\pi r^{2}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "25. A $10 \\mathrm{~kg}$ mass is allowed to fall freely from a height of $10 \\mathrm{~m}$. At $5 \\mathrm{~m}$ above the ground its total energy will be-",
+      "options": [
+        "$490 \\mathrm{~J}$",
+        "$100 \\mathrm{~J}$",
+        "$735 \\mathrm{~J}$",
+        "$980 \\mathrm{~J}$"
+      ],
+      "tag": "BUET 10-11,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "26. The work done in holding a weight of $40 \\mathrm{~N}$ at a height of $3 \\mathrm{~m}$ above the floor for 2 second is-",
+      "options": [
+        "$0 \\mathrm{~J}$",
+        "$40 \\mathrm{~J}$",
+        "$120 \\mathrm{~J}$",
+        "$240 \\mathrm{~J}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "27. A force of 20 N was applied horizontally at the angle $30^{\\circ}$ to pull and push a lawn roller. The pulling force will be less than the pushing force by -",
+      "options": [
+        "20 N",
+        "10 N",
+        "15 N",
+        "None"
+      ],
+      "tag": "BUET 10-11,JU A 15-16 (SET 3),Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "28. The time of revolution of a Satellite is T. Its kinetic energy is proportional to-",
+      "options": [
+        "$\\frac{1}{\\mathrm{~T}}$",
+        "$\\frac{1}{\\mathrm{~T}^{2}}$",
+        "$\\frac{1}{\\mathrm{~T}^{3}}$",
+        "$\\mathrm{T}^{-\\frac{2}{3}}$"
+      ],
+      "tag": "BUET 10-11,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "29. An athlete runs with a velocity $10 \\mathrm{~ms}^{-1}$. The longest jump he can have is-",
+      "options": [
+        "$10 \\mathrm{~m}$",
+        "$20 \\mathrm{~m}$",
+        "$15 \\mathrm{~m}$",
+        "$25 \\mathrm{~m}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "30. A lift is moving up with a velocity $15 \\mathrm{~ms}^{-1}$. A man of $60 \\mathrm{~kg}$ is on this lift. The apparent weight on the lift will be-",
+      "options": [
+        "$588 \\mathrm{~N}$",
+        "$900 \\mathrm{~N}$",
+        "$750 \\mathrm{~N}$",
+        "$800 \\mathrm{~N}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "31. A spring is cut into two parts such that the length of one is twice the length of the operator. What is the force constant of the longer spring?",
+      "options": [
+        "$\\frac{2}{3} k$",
+        "$\\frac{3}{2} k$",
+        "3k",
+        "2k"
+      ],
+      "tag": "DB 22,BUET 9-10,BUET 10-11,Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "32. When a parallel wavefront impinges on a slit in a barrier, inversion occurs. For what combination of wavelengths will the diffraction be greatest?",
+      "options": [
+        "Large wavelength and narrow aperture",
+        "Short wavelength and narrow aperture",
+        "Short wavelengths and narrow apertures",
+        "Larger wavelengths and wider apertures"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "33. Which fundamental force is responsible for the attraction between protons and elcctrons?",
+      "options": [
+        "strong",
+        "gravitational",
+        "weak",
+        "electromagnetic"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "34. When a beta particle is radiated from the nucleus of an atom, then-",
+      "options": [
+        "Atomic number decreases by one",
+        "Mass number decreases by one",
+        "Atomic number increases by one",
+        "Atomic number decreases by two"
+      ],
+      "tag": "CB 22,BUET 10-11,RU A 22-23,RU C 22-23 (SHIFT 1),Ishaque Sir,Tofazzal Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "35.  If two $\\beta$-particles are moving in opposite directions by $0.8 \\mathrm{c}$ each (where $\\mathrm{c}$ is the speed of light), then their relative velocity is-",
+      "options": [
+        "$1.6 \\mathrm{c}$",
+        "$0.8 \\mathrm{c}$",
+        "$\\mathrm{c}$",
+        "$0.975 \\mathrm{c}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "36. An electric drill operating at $220 \\mathrm{~V}$ draws a current of $6 \\mathrm{~A}$. What is the total amount of electrical energy used by the drill during one-minute operation?",
+      "options": [
+        "$7.92 \\times 10^{4} \\mathrm{~J}$",
+        "$1.32 \\times 10^{3} \\mathrm{~J}$",
+        "$7.92 \\times 10^{3} \\mathrm{~J}$",
+        "$1.32 \\times 10^{4} \\mathrm{~J}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "37. The activity of a radioactive material falls to $\\frac{1}{16}$ th of its initial value in 30 hours. The half-life of the material is-",
+      "options": [
+        "$7.5 \\mathrm{~h}$",
+        "$2.5 \\mathrm{~h}$",
+        "$10 \\mathrm{~h}$",
+        "$6 \\mathrm{~h}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "38. What happens when water is cooled from $7^{\\circ} \\mathrm{C}$ to $1^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "It only contracts",
+        "It only expands",
+        "It contracts first and then expands",
+        "It expands first, then contracts and then expands again"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "39. In an isothermal process on an ideal gas,the pressure increases by 0.5%.The volume decreases by about",
+      "options": [
+        "0.25 %",
+        "0.5 %",
+        "0.7 %",
+        "1 %"
+      ],
+      "tag": "হানি নাটস,CB 24,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "40. 20 kg water of $20^{\\circ} \\mathrm{C}$ is changed into vapour.\nChange of entropy occured in the above mentioned process-",
+      "options": [
+        "$2.02 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$6.1 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$12.13 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$14.15 \\times 10^{4} \\mathrm{JK}^{-1}$"
+      ],
+      "tag": "MBSTU 17-18,DU A 17-18,DU A 16-17,BUET 10-11,CKRUET 20-21,CKRUET 21-22,KUET 17-18"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "41. Which one of the following is the correct formula of plaster of Paris?",
+      "options": [
+        "$\\mathrm{MgSO}_{4} \\cdot 7 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{ZnSO}_{4} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{CaSO}_{4} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{CaSO}_{4} \\cdot \\frac{1}{2} \\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "42. The work done by $1 \\mathrm{~mole}$ of an ideal gas if its temperature increases by $1 \\mathrm{~K}$ at NTP is-",
+      "options": [
+        "$8.314 \\mathrm{~J}$",
+        "$4200 \\mathrm{~J}$",
+        "$3.36 \\times 10^{5} \\mathrm{~J}$",
+        "$\\text{4.2J}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "43. A heat engine operates between the steam point and a temperature of 27°C. What is the maximum efficiency of the engine?",
+      "options": [
+        "29.5%",
+        "21.75%",
+        "15.52%",
+        "19.57%"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A (SET A),Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "44. The magnitude of an electric field inside a uniformly charged hollow cylinder of radius $\\mathrm{R}$ is-",
+      "options": [
+        "Infinite",
+        "Zero",
+        "Proportional to R",
+        "Proportional to $\\mathrm{R}^{2}$"
+      ],
+      "tag": "BUET 10-11,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "45. A potential difference of $10 \\mathrm{~V}$ exists between two points $\\mathrm{A}$ and $\\mathrm{B}$, within an electric field. What is the magnitude of charge that requires $2.0 \\times 10^{-2} \\mathrm{~J}$ of work to move it from $\\mathrm{A}$ to $\\mathrm{B}$ ?",
+      "options": [
+        "$5.0 \\times 10^{2} \\mathrm{C}$",
+        "$5.0 \\times 10^{-2} \\mathrm{C}$",
+        "$2.0 \\times 10^{-1} \\mathrm{C}$",
+        "$2.0 \\times 10^{-3} \\mathrm{C}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "46. The depletion layer in the $\\mathrm{p}-\\mathrm{n}$ junction region is casued by-",
+      "options": [
+        "drift of holes",
+        "diffusion of charge carries",
+        "drift of electrons",
+        "migration of impurity ions"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "47. A voltmeter measuring up to 15V has a resistance of 1000 Ω, the voltmeter can measure up to 45V\nHow much resistance must be added to the class junction to measure up to?",
+      "options": [
+        "2000Ω",
+        "3000Ω",
+        "1000Ω",
+        "500Ω"
+      ],
+      "tag": "RU H 14-15 (G-ODD)"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "48. The heat produced by a 220V heater operating at 110V is-",
+      "options": [
+        "will be half",
+        "will double",
+        "will be 1/4 times",
+        "will be the same amount"
+      ],
+      "tag": "RCC 24,RUMC 24,BB 21,MAT 15-16,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "49. A dielectric material when inserted between the plates of a parallel plate capacitor increases the stored energy five times. Its dielectric constant is-",
+      "options": [
+        "$5$",
+        "$25$",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{25}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "50. A charge of $1 \\mu \\mathrm{C}$ is moved in a circle of radius $\\frac{20}{\\pi} \\mathrm{m}$ about a second charge of $+10 \\mu \\mathrm{C}$ located at the centre of the circle. The work done in doing so is-",
+      "options": [
+        "$0$",
+        "$4 \\times 10^{-9} \\mathrm{~J}$",
+        "$4 \\times 10^{-6} \\mathrm{~J}$",
+        "$4 \\times 10^{-5} \\mathrm{~J}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "51. Which one of the following has the highest electronegativity?",
+      "options": [
+        "$\\mathrm{Si}$",
+        "$\\mathrm{P}$",
+        "$\\mathrm{S}$",
+        "$\\mathrm{Sn}$"
+      ],
+      "tag": "BUET 10-11,Guha Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "52. What is the $\\mathrm{p}^{\\mathrm{H}}$ value of $1.0 \\mathrm{M}$ aqueous solution of table salt?",
+      "options": [
+        "6.5",
+        "7.0",
+        "4.5",
+        "8.5"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "53. The maximum number of electrons that can be accommodated in the 5th energy level of an atom is-",
+      "options": [
+        "32",
+        "50",
+        "18",
+        "82"
+      ],
+      "tag": "BUET 10-11,Lingcon Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "54. Which of the following bases is the strongest?",
+      "options": [
+        "$\\mathrm{NH}_{3}$",
+        "$\\mathrm{CH}_{2} \\mathrm{CH}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NH}_{2}$",
+        "$\\mathrm{N}_{2}$"
+      ],
+      "tag": "RU H 15-16 (G-EVEN),RU H 14-15 (G-EVEN),Guha Sir,Hazari Sir,Lingcon Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "55. The volume of oxygen gas obtained at $\\mathrm{NTP}$ on heating $60 \\mathrm{~g}$ of $\\mathrm{KClO}_{3}$ is-",
+      "options": [
+        "$13.70 \\mathrm{~L}$",
+        "$11.70 \\mathrm{~L}$",
+        "$10.80 \\mathrm{~L}$",
+        "$16.46 \\mathrm{~L}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "56.  Ethanol is added to distilled water. The $\\mathrm{p}^{\\mathrm{H}}$ value of the mixture will be-",
+      "options": [
+        "more than 7.0",
+        "less than 7.0",
+        "7.0",
+        "None"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "57. Which of the following is not a unit of pressure?",
+      "options": [
+        "$\\mathrm{Nm}^{-2}$",
+        "$\\text{atm}$",
+        "$\\text{Litre - atm}$",
+        "$\\text{Torr}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "58. Which law is expressed by the following equation? $V=K \\frac{1}{\\mathrm{P}}$",
+      "options": [
+        "Avogadro's law",
+        "Gay-Lusac's law",
+        "Dalton's law",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "59. Which of the following element does not belong to f-block elements?",
+      "options": [
+        "$\\mathrm{Ce}$",
+        "$\\mathrm{Th}$",
+        "$\\mathrm{Np}$",
+        "$\\mathrm{Sm}$"
+      ],
+      "tag": "DAT 20-21,BUET 10-11,Hazari Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "60. The mass $\\%$ of $\\mathrm{H}_{2}$ in water is-",
+      "options": [
+        "50.0",
+        "33.0",
+        "10.5",
+        "11.1"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "61. What type of reaction the following one is? $\\mathrm{Cl}_{2}(\\mathrm{aq})+2 \\mathrm{KI}(\\mathrm{aq}) \\rightarrow \\mathrm{I}_{2}(\\mathrm{aq})+2 \\mathrm{KCl}(\\mathrm{aq})$",
+      "options": [
+        "Addition reaction",
+        "Decomposition reaction",
+        "Displacement reaction",
+        "Combustion reaction"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "62. Number of molecules in $1.008 \\mathrm{~g} \\mathrm{H}_{2}-$",
+      "options": [
+        "$6.023 \\times 10^{23}$",
+        "$12.046 \\times 10^{23}$",
+        "$3.0115 \\times 10^{23}$",
+        "$6.023 \\times 10^{22}$"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU D 19-20 (SET F),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "63. Which one acts as both oxidant and reductant?",
+      "options": [
+        "$\\mathrm{FeSO}_{4}$",
+        "$\\mathrm{KI}$",
+        "$\\mathrm{H}_{2}$",
+        "$\\mathrm{H}_{2} \\mathrm{O}_{2}$"
+      ],
+      "tag": "RCC 24,JGCC 24,RUMC 24,DCC 24,RB 23,JB 23,DB 22,JB 22,BB 17,HSTU 16-17,MBSTU 19-20,MBSTU 18-19,MBSTU 16-17,Agri. GST 19-20,MAT 17-18,MAT 19-20,MAT 22-23,CU A 16-17,BUET 21-22,BUET 11-12,BUET 10-11,CKRUET 22-23,JU D 15-16 (SET 5),Lingcon Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "64. Which of the following concentration unit of a solution is temperature independent?",
+      "options": [
+        "Normality",
+        "Molality",
+        "Molarity",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "65. Which one is primary standard substance?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "$\\mathrm{KMnO}_{4}$",
+        "$\\mathrm{Na}_{2} \\mathrm{CO}_{3}$"
+      ],
+      "tag": "RU C 16-17 (G-ODD),JU A 19-20 (SET P),JU A (SET A),JU D 16-17 (SET 1),Lingcon Sir,Hazari Sir,BUTEX 17-18,BUTEX 14-15"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "66. What is the value of Ionic product of water at 298K?",
+      "options": [
+        "$10^{-12}$",
+        "$10^{-15}$",
+        "$10^{-14}$",
+        "$10^{-7}$"
+      ],
+      "tag": "DB 23,MB 23,CTG.B 23,DB 22,All.B 18,DB 17,BB 17,BMARPC 24,MAT 21-22,BUET 10-11,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "67. Which one of the following is not soluble in water?",
+      "options": [
+        "$\\mathrm{Ca}\\left(\\mathrm{HCO}_{3}\\right)_{2}$",
+        "$\\mathrm{MgSO}_{4}$",
+        "$\\mathrm{CaCO}_{3}$",
+        "$\\mathrm{CaCl}_{2}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "68. Which is the oxidizing agent of the following reaction?$\\mathrm{PbO}_{2}+\\mathrm{Mn}^{2+}+\\mathrm{SO}_{4}{ }^{2-} \\rightarrow \\mathrm{PbSO}_{4}+\\mathrm{MnO}_{4}{ }^{-}$",
+      "options": [
+        "$\\mathrm{SO}_{4}{ }^{2-}$",
+        "$\\mathrm{Mn}^{2+}$",
+        "$\\mathrm{Pb}$",
+        "$\\mathrm{PbO}_{2}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "69. What is the oxidation number of chromium in $\\mathrm{Fe}_{2}\\left(\\mathrm{CrO}_{4}\\right)_{3}$ ?",
+      "options": [
+        "+3",
+        "+4",
+        "+6",
+        "+3.5"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "70. Which one of the following is the correct shape of the molecule $\\mathrm{SF}_{4}$ ?",
+      "options": [
+        "Bi-pyramidal",
+        "Square planar",
+        "Distorted tetrahedral",
+        "Trigonal pyramidal"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "71. How much amount of silver will deposit if $0.2 \\mathrm{~A}$ current is passed for 30 minutes through an aqueous solution of silver nitrate? (At. wt. ofAg $=108$ ).",
+      "options": [
+        "$0.108 \\mathrm{~g}$",
+        "$0.430 \\mathrm{~g}$",
+        "$0.403 \\mathrm{~g}$",
+        "$0.540 \\mathrm{~g}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "72. Which one of the following will be the correct reaction product when two molecules of accetaldehyde are reacted with $\\mathrm{NaOH}$ ?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{OH}) \\mathrm{CH}_{2} \\mathrm{CHO}$",
+        "[IMG: https://assets.chorcha.net/8ZR68VbArMltPNz-8dJJe.png]",
+        "[IMG: https://assets.chorcha.net/uV4URoLgZQwvPFzYyU9uM.png]",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{OH})-\\mathrm{CH}_{2}+\\mathrm{CH}_{2} \\mathrm{OH}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "73. What is the name of the reactant $(\\mathrm{R})$ of the following reaction?[IMG: https://assets.chorcha.net/ua3wQI3sZrjpMS6z00_uh.png]",
+      "options": [
+        "Chlorobenzene",
+        "Benzene diazonium salt",
+        "Aniline",
+        "Benzaldehyde"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "74. Find the value of the middle term in the expansion of $\\left(x-\\frac{1}{x}\\right)^{16}$.",
+      "options": [
+        "17820",
+        "18702",
+        "13780",
+        "12870"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "75. If $f(x)=\\sqrt{x-2}$ and $g(x)=x^{2}+1$, then the domain of fog is-",
+      "options": [
+        "$(-\\infty,-1) \\cup(1,-\\infty)$",
+        "$[-1,1]$",
+        "$(-\\infty, \\infty)$",
+        "$(-\\infty,-1] \\cup[1, \\infty)$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "76. If $\\vec{A}=2 \\hat{i}-\\hat{j}+3 \\hat{k}, \\vec{B}=3 \\hat{i}+4 \\hat{j}-5 \\hat{k}$, then the projection of the vector $\\vec{A}$ on the vector $\\vec{B}$ is-",
+      "options": [
+        "$\\frac{-13 \\sqrt{2}}{10}$",
+        "$\\frac{13}{7}$",
+        "$\\frac{-13}{10 \\sqrt{7}}$",
+        "$\\frac{7}{5 \\sqrt{2}}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "77. The unit vector that is parallel to the XOZ plane and perpendicular to $2 \\hat{i}-\\hat{j}+4 \\hat{k}$ is-",
+      "options": [
+        "$4 \\hat{i}-3 \\hat{k}$",
+        "$\\frac{1}{5}(4 \\hat{i}-3 \\hat{k})$",
+        "$\\frac{1}{5}(3 \\hat{\\mathrm{i}}-4 \\hat{\\mathrm{k}})$",
+        "$\\hat{j}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "78. A two-digit number will be constructed using $2,4,7,9,3,8$ digits without repeating. What is the probability that this number will be even?",
+      "options": [
+        "0.25",
+        "0.50",
+        "0.75",
+        "1.00"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "79. The force exerted on a stretched wire is quadrupled without changing its length. How much will the frequency of the wire change?",
+      "options": [
+        "double",
+        "three times",
+        "four times",
+        "five times"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,BUET 10-11,CUET 10-11,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "80. Sound waves in air cannot be polarized because they are-",
+      "options": [
+        "progressive",
+        "stationary",
+        "transverse",
+        "longitudinal"
+      ],
+      "tag": "BUET 10-11,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "81. The equation of a progressive wave is $\\mathrm{y}=$ $0.2 \\sin \\pi(500 t-x)$; The displacement is expressed in meters and time in seconds; What is the frequency of this wave?",
+      "options": [
+        "500 Hz",
+        "250 Hz",
+        "1000 Hz",
+        "None of the above"
+      ],
+      "tag": "BUET 10-11,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "82. What will be the focal length of a lens of 4D power (μ=1.5) if one side is immersed in water?",
+      "options": [
+        "50 cm",
+        "100 cm",
+        "150 cm",
+        "200 cm"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "83. Two waves of intensities I and 4I produce interference. The intensity of constructive interference is-",
+      "options": [
+        "$5I$",
+        "$7 \\mathrm{I}$",
+        "$9 \\mathrm{I}$",
+        "$4 \\mathrm{I}^{2}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "84. When a light wave enters a new medium and is refracted, then what change in the light wave must occur?",
+      "options": [
+        "colour",
+        "period",
+        "frequency",
+        "speed"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "85. The image formed by a concave mirror for the object placed beyond the centre of curvature will be always-",
+      "options": [
+        "real, erect and reduced",
+        "virtual, erect and magnified",
+        "virtual, inverted and reduced",
+        "real, inverted and reduced"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "86. A current in any of the coils is 2A. When the current in the coil is reduced to zero in 0.08s, an electromotive force of 0.5V is induced in the coil. What is the self-inductance coefficient of the coil?",
+      "options": [
+        "0.02 H",
+        "0.2 H",
+        "2 H",
+        "20 H"
+      ],
+      "tag": "SB 19,CB 17,PUST 17-18,IU 19-20,IU 18-19,NSTU 16-17,DU A  10-11,BUET 8-9,BUET 12-13,BUET 13-14,BUET 10-11,CKRUET 20-21,RUET 12-13,KUET 16-17,Ishaque Sir,Tapan Sir,Pramanik Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "87. Which of the following cannot be converted into liquid when heated at standard atmospheric pressure?",
+      "options": [
+        "Naphthalene",
+        "Cooking salt",
+        "$\\mathrm{CuCl}_{2}$",
+        "Iron"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "88. A platinum ring is dissolved in a liquid. The liquid is-",
+      "options": [
+        "AquaFortis",
+        "$3 \\mathrm{~L} \\mathrm{H}_{2} \\mathrm{SO}_{4}+1 \\mathrm{~L}~ \\mathrm{HNO}_{3}$",
+        "$1 \\mathrm{~L} \\mathrm{HCl}+3 \\mathrm{~L} ~\\mathrm{HNO}_{3}$",
+        "$3 \\mathrm{~L} \\mathrm{HCl}+1 \\mathrm{~L} ~\\mathrm{HNO}_{3}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "89. When steam is passed over red-hot coke, the mixture of gas produced is called-",
+      "options": [
+        "coal gas",
+        "producer gas",
+        "water gas",
+        "methane gas"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "90. What is the name of acid obtained by hydrolysis of protein?",
+      "options": [
+        "Acetic acid",
+        "Formic acid",
+        "Ascorbic acid",
+        "Amino acid"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "91. Which one of the following is teflon?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/zF3k244dhJ77XFakbI1dO.png]",
+        "$\\left(-\\mathrm{CH}-\\mathrm{CH}_{2}-\\right)_{n}$",
+        "$\\left(-\\mathrm{F}_{2} \\mathrm{C}-\\mathrm{CF}_{2}-\\right)_{\\mathrm{n}}$",
+        "$\\left(-\\mathrm{H}_{2} \\mathrm{C}-\\mathrm{CH}_{2}-\\right)_{n}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "92. What will be the colour of an iodine solution if a small amount of starch is added?",
+      "options": [
+        "Brown",
+        "Yellow",
+        "Light yellow",
+        "Deep blue"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "93. Enthalpy of which of the following reaction can be determined experimentally?",
+      "options": [
+        "$\\mathrm{CH}_{4}$ (g) $+2 \\mathrm{O}_{2}$ (g) $\\rightarrow \\mathrm{CO}_{2}$ (g) $+2 \\mathrm{H}_{2} \\mathrm{O}$ (g)",
+        "$\\mathrm{C}(\\mathrm{s})+2 \\mathrm{H}_{2}$ (g) $\\rightarrow \\mathrm{CH}_{4}$ (g)",
+        "$\\mathrm{CaCO}_{3}$ (s) $\\rightarrow \\mathrm{CaO}(\\mathrm{s})+\\mathrm{CO}_{2}$ (g)",
+        "$\\mathrm{CuSO}_{4} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{s}) \\rightarrow \\mathrm{CuSO}_{4}(\\mathrm{~s})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g})$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "94. Which of the following is not a product of fractional distillation of petroleum?",
+      "options": [
+        "Gasoline",
+        "Ethanol",
+        "Naphthaline",
+        "Kerosene"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "95. Which of the following nitrate salt is used as fertilizer?",
+      "options": [
+        "$\\mathrm{KNO}_{3}$",
+        "$\\mathrm{NH}_{4} \\mathrm{NO}_{3}$",
+        "$\\mathrm{NaNO}_{3}$",
+        "All of the above"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "96. Which one of the following is the Arrhenius equation regarding rate constant?",
+      "options": [
+        "$\\mathrm{k}=\\mathrm{Ne}^{\\mathrm{E}_{\\mathrm{a}} / \\mathrm{RT}}$",
+        "$\\mathrm{k}=\\mathrm{Ne}^{-\\mathrm{E}_{\\mathrm{a}} / \\mathrm{R}}$",
+        "$\\mathrm{k}=\\mathrm{Ne}^{\\mathrm{E}_{\\mathrm{a}} / \\mathrm{T}}$",
+        "$\\mathrm{k}=\\mathrm{Ne}^{-\\mathrm{E}_{\\mathrm{a}} / \\mathrm{RT}}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "97. Which of the following is absent in DNA?",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "98. During the last few decades, many limestone structures have begun to damage. What is the cause of such damage?",
+      "options": [
+        "Hydrocarbon emission from vehicles",
+        "Increased UV radiation duc to destruction of ozone layer",
+        "Increased UV radiation duc to destruction of ozone layer",
+        "Acid rain"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "99. If $A=\\{(x, y): x-y=2\\}$ and $B=\\{(x, y): x+y=4\\}$, then $A \\cap B$ is-",
+      "options": [
+        "$(4,2)$",
+        "$(3,1)$",
+        "$(2,2)$",
+        "$(6,4)$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "100. A thin glass plate can just support a body of mass $9.5 \\mathrm{~kg}$. A body is placed on it and the plate is raised with the body on it with a gradually increasing acceleration. It is found that the plate breaks when the acceleration is $0.2 \\mathrm{~ms}^{-2}$. Find the mass of the body.",
+      "options": [
+        "$9.31 \\mathrm{~kg}$",
+        "$10.62 \\mathrm{~kg}$",
+        "$8.62 \\mathrm{~kg}$",
+        "$7.62 \\mathrm{~kg}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "101. binary number 1111111 1111111 1111111 is a binary number 101 101 Dividing by 101 is the quotient = = = ?",
+      "options": [
+        "0",
+        "10",
+        "11",
+        "100"
+      ],
+      "tag": "BSMRSTU 18-19,BSMRSTU 17-18,DU A 15-16,BUET 10-11,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "102. Boiling water is changing into steam. Under this condition, the specific heat of water is-",
+      "options": [
+        "zero",
+        "one",
+        "infinite",
+        "less than one"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "103. The ratio of the radiant energy per unit area from two black bodies is $81: 1$. If the temperature of one black body is $1500 \\mathrm{~K}$, the temperature of the other black body will be-",
+      "options": [
+        "$622.86 \\mathrm{~K}$",
+        "$500 \\mathrm{~K}$",
+        "$150 \\mathrm{~K}$",
+        "$166.66 \\mathrm{~K}$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "104. Both the pressure and temperature of a medium at $14^{\\circ} \\mathrm{C}$ are raised by 4 times. The velocity of sound will then be increased by-",
+      "options": [
+        "$200 \\%$",
+        "$114 \\%$",
+        "$14.6 \\%$",
+        "$7 \\%$"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "105. Read the following passage and answer the question:\nFor quite a few years now Dhaka has been bubbling with restrained enthusiasm with the prospect of having a mass transportation system. Underground or over the ground, it hardly mattered as the city's traffic situation has been rapidly deteriorating what with the government trying every sauce in the larder to make traveling a little more bearable and if possible, pleasant. The consequence has been a greater and louder demand for a modern system akin to that of other megacities.\nGiven our questionable record in evaluating human life, more specifically with regard to city provisions and construction works, it is essential to address associated issues such as safety, fire, noise, air quality etc. during construction and after commissioning of the mammoth project involving thousands of people round the clock. The experience of all other cities will be useful and that of an Asian city closer to home with similar soil condition, population density and built-up infrastructure will be especially pertinent.\nIt will be useful to remember that the transportation problem cannot be resolved by liner means, such as the introduction of one hundred buses and double-deckers. The scheme of Mass Rapid Transit (as the system has been coined) requires garnering all related modes of transportation bus, rail (under and over the ground), water-so that the options are wide and effective.\n\nDhaka's record in evaluating human life with regard to construction works is-",
+      "options": [
+        "not maintained",
+        "uncertain",
+        "unsafe",
+        "unsatisfactory"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "106. It is necessary to have several model options for the transportation system so that it is-",
+      "options": [
+        "efficiently organised",
+        "effortlessly constructed",
+        "enginecring-wise possible",
+        "environmentally suitable"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "107. Fill in the blank with the appropriate form of the verb.\nLast month the dress ____ me Taka fifteen hundred only, but now it is much costlier.",
+      "options": [
+        "cost",
+        "costed",
+        "had costed",
+        "has costed"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "108. Fill in the blank with the appropriate form of the verb.\nThe man was ____ for murder.",
+      "options": [
+        "hanging",
+        "hung",
+        "hanged",
+        "hang"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "109. You and he ------ birds of same feather.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "been"
+      ],
+      "tag": "BUET 10-11,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "110. I will not go out if it ______.",
+      "options": [
+        "had rained",
+        "is raining",
+        "rains",
+        "will be raining"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "111. Fill in the blank with the appropriate form of the verb.\nI went to the library with a view to ____ there.",
+      "options": [
+        "reads",
+        "reading",
+        "will be reading",
+        "have read"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "112. In the (A) United States there (B) are much (C) holidays throughout the (D) year. Which underlined word is incorrect?",
+      "options": [
+        "C",
+        "B",
+        "A",
+        "D"
+      ],
+      "tag": "BUET 10-11,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "113. Tomatoes(A) grows(B) all(C) year long in(D) Florida.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tag": "BUET 10-11,BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "114. Sentence has four underlined words or phrases. The four underlined parts of the sentence are marked (A), (B), (C) and (D). Identify the one underlined word\nThe study of $\\mathrm{\\underset{\\text{A}}{\\underline{these}}}$ animals $\\mathrm{\\underset{\\text{B}}{\\underline{are}}}$ truly fascinating, and many books $\\mathrm{\\underset{\\text{C}}{\\underline{have}}}$ been $\\mathrm{\\underset{\\text{D}}{\\underline{written about them.}}}$",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tag": "BUET 10-11"
+    },
+    {
+      "subject": "Mathematics+Physics + Chemistry+English(115)",
+      "question": "115. Sentence has four underlined words or phrases. The four underlined parts of the sentence are marked (A), (B), (C) and (D). Identify the one underlined word\nHe $\\mathrm{\\underset{\\text{A}}{\\underline{knows}}}$ to repair $\\mathrm{\\underset{\\text{B}}{\\underline{the}}}$ carburetor without $\\mathrm{\\underset{\\text{C}}{\\underline{taking}}}$ the whole car $\\mathrm{\\underset{\\text{D}}{\\underline{apart.}}}$",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tag": "BUET 10-11"
+    }
+  ]
+}

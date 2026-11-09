@@ -1,0 +1,275 @@
+{
+  "title": "CUET 24-25",
+  "questions": [
+    {
+      "subject": "Math",
+      "question": "1. Determine the root of the equation $x^3 - 3x - 5 = 0$ using the Newton-Raphson method up to two decimal places.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "2. When P, Q, R are in equilibrium and $\\sqrt{2}P = \\sqrt{2}Q = R$, find the angles between P, Q, R; and P and Q, R.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "3. The equation $x^2 + y^2 = m(5x - 12y)$ represents a circle with a diameter passing through the origin. Find the equation of the tangent passing through the origin.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "4. Solve: $\\cos^3 x \\sin 3x + \\sin^3 x \\cos 3x = \\frac{3}{4}; 0 \\le x \\le \\frac{3\\pi}{2}$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "5. If the equations of the two lines AB and AC are $3x + 2y - 12 = 0$ and $2x - y - 12 = 0$ respectively, then find the equation of the line perpendicular to AB or AC.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "6. $A = \\begin{bmatrix} \\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{bmatrix}$ and $A^2 = \\frac{1}{2}\\begin{bmatrix} 1 & -\\sqrt{3} \\\\ \\sqrt{3} & 1 \\end{bmatrix}$ Determine the value of $\\theta$.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "7. A player throws a cricket ball at a speed of $20ms^{-1}$ at an angle of $30^\\circ$ with the ground from a height of 2m and another player catches it at a height of 1m. What was the distance between the two players?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "8. If $r^2 - 4r \\cos \\theta - 4\\sqrt{3}r \\sin \\theta + 7 = 0$, what is the radius of the circle, the polar coordinates of the center?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "9. $y = \\sqrt{a + b \\cos x}$, if, show that $2y \\frac{d^2y}{dx^2} + 2 \\left(\\frac{dy}{dx}\\right)^2 + y^2 = a$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "10. A 16m long uniform beam has two supports at its two ends. Where should a 160kg person stand on the beam so that the ratio of the pressures on the two supports is 1:2?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "11. $\\int \\frac{\\sin 4x}{\\sin^4 x + \\cos^4 x} dx = ?$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "12. $(\\sqrt{3} + i)^{99} = 2^{100}(x + iy)$ if proved that, $x^2 + y^2 = \\frac{1}{4}$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "13. Prove that, $\\sec^{-1}\\sqrt{5} + \\frac{1}{2}\\sin^{-1}\\left(\\frac{4}{5}\\right) - \\sin^{-1}\\left(\\frac{1}{\\sqrt{10}}\\right) = \\tan^{-1}2$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "14. Determine the eccentricity if the length of the conjugate axis and the distance between the foci of any ellipse are equal.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Math",
+      "question": "15. $a \\cos \\alpha + b \\sin \\alpha = a \\cos \\beta + b \\sin \\beta$ if and only if $\\cos (\\alpha + \\beta) = \\frac{a^2-b^2}{a^2+b^2}$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "1. A metal wire of length $2$ m and cross-sectional area $1\\text{ mm}^2$ can support a maximum load of $200$ kg. $[g = 10\\text{ms}^{-2}]$\n(i) What is the tensile strength of the wire?\n(ii) With a load of $50$ kg attached to it, what is the maximum angular velocity with which it can be whirled in a vertical plane?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "2. Implement XOR gate using four two-input NAND/NOR gates.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "3. The temperatures of the heat source and the heat sink of a Carnot engine are 500K and 375K, respectively. If the engine absorbs 252 × 10^4 J of heat per cycle, then,\n(i) the efficiency of the engine;\n(ii) the amount of work done per cycle\n(iii) the amount of heat rejected per cycle.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "4. A ball hits an object placed on the ground from a height of $36$ m above the ground. If $\\frac{1}{3}$ of the ball's current potential energy can destroy the object, from what height will the ball fall to the ground to destroy the object?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "5. [IMG: https://assets.chorcha.net/8IxXjsn86LLZSH-es5nwV.png]The capacitor combination is being used in a ceiling fan that requires a minimum of $0.1936$ J of energy to rotate when connected to $220$ V. The fan cannot rotate at full power, so the $C_5$ capacitor is removed. Will the fan be able to rotate at full power now?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "6. The half-life of $^{214}_{82}\\text{Pb}$ is $26.8$ minutes. What amount of mass will have one curie of radioactivity?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "7. Using light of wavelength 555 nm, a boy said that 9 maxima will be obtained in diffraction. Verify the truth of his statement if the width of the slit is $2\\mu\\text{m}$.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "8. In a room of volume $500\\text{ m}^3$, the temperature of the air is $37^{\\circ}\\text{C}$. The temperature of the air decreases to $23^{\\circ}\\text{C}$ after using an air cooler. If the air pressure in the room remains the same, what percentage of the air will enter or leave the room?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "9. A simple pendulum with an effective length of 80 cm oscillates 40 times in a minute, then how much time will it take for a simple pendulum with an effective length of 160 cm to make 60 oscillations?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "10. An object is kept at a temperature of $80^{\\circ}\\text{C}$ and it takes 5 minutes to drop to $64^{\\circ}\\text{C}$ and 10 minutes to drop to $52^{\\circ}\\text{C}$. What is the temperature of the surroundings?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "11. The velocity of the 19th electron of K, the radius and the number of times the $e^-$ will revolve per second?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "12. A car was moving at a speed of 90 km/h, the driver sees a child on the road from a distance of 50 m. At the same time, the brake is applied and the speed decreases at an acceleration of $-2\\text{ms}^{-2}$. If the child on the road continues to move at a uniform speed of $5\\text{ms}^{-1}$, is it possible for him to avoid the accident?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "13. In a nuclear reactor, each nuclear fission of $^{235}_{92}\\text{U}$ produces $200$ MeV of energy. The efficiency of the reactor is $10\\%$, and its capacity is $1000$ MW. How much uranium will be required to run the reactor for $10$ years?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "14. [IMG: https://assets.chorcha.net/6fRIvgQJUbrvpnC0agMdo.png](i) What is the equivalent resistance of the circuit?\n(ii) What is the current flowing through the two $10 \\Omega$ resistors?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Physics",
+      "question": "15. A 40 W bulb emits green light of wavelength $\\lambda (555 \\text{ nm})$. If $5\\%$ of the bulb's electric power is converted to light, how many photons are emitted by the bulb per second?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "1. (a) Show the reactions for the preparation of detol from benzene.\n(b) Show the reactions for the preparation of paracetamol from phenol.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "2. A solution prepared at a temperature of $85^\\circ\\text{C}$ is cooled to $30^\\circ\\text{C}$. If the solubility of the solute in water at $85^\\circ\\text{C}$ and $30^\\circ\\text{C}$ is $150\\text{g}$ and $85\\text{g}$ respectively, how many grams of solute will be precipitated from the solution prepared in $70 \\text{ mL}$ of water?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "3.\n\nBalance the following reactions:\n\n(a) KBrO$_{3}$ + KBr + HCl $\\rightarrow$\n\n(b) H$_{2}$C$_{2}$O$_{4}$ + KMnO$_{4}$ + H$_{2}$SO$_{4}$ $\\rightarrow$\n\n(c) FeSO$_{4}$ + K$_{2}$Cr$_{2}$O$_{7}$ + H$_{2}$SO$_{4}$ $\\rightarrow$",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "4. When a current of $5\\text{A}$ is passed through $\\text{CuSO}_4$ for $30$ minutes, what will be the mass of $\\text{Cu}$ deposited in grams?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "5.\n\n$\\frac{1}{2}\\mathrm{N_2}(\\mathrm{g}) + \\frac{3}{2}\\mathrm{H_2}(\\mathrm{g}) \\rightleftharpoons \\mathrm{NH_3}(\\mathrm{g})$ reaction is at equilibrium with $40\\mathrm{\\ mol\\%}$ $\\mathrm{NH_3}$ present. The total pressure is $20\\mathrm{\\ atm}$. What is the $\\mathrm{k_p}$ of the reaction?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "6. In a sample of any limestone, there is $98\\%$ $\\text{CaCO}_3$. In the reaction of $360\\text{g}$ of that limestone and $\\text{HCl}$, how many liters of $\\text{CO}_2$ gas will be produced at $\\text{STP}$?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "7. If 30% of a first order reaction is completed in 30 minutes, then 70% of the reaction will be completed in what time?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "8.\n\nA symbol of a galvanic cell:\n\n$Fe/Fe^{2+} (0.5 M) | Sn^{2+}(xM), Sn$\n\n$E^{0}_{Fe/Fe^{2+}} = +0.44 V E^{0}_{Sn/Sn^{2+}} = -0.14 V$\n\nWhat is the equilibrium constant of the cell? At equilibrium $x=$?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "9. If the density of a gas is $1.75 \\text{ g/L}$ at a temperature of $25^\\circ\\text{C}$, what will be the $\\text{C}_{\\text{rms}}$ velocity of the gas at a temperature of $0^\\circ\\text{C}$?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "10.  [IMG: https://assets.chorcha.net/KKLRpmx9YYDasz5J-Mwjw.png]\n\nK$_{\\text{sp}}$(A$_{3}$D$_{2}$) = 2.71 $\\times$ 10$^{-16}$ When the two solutions are mixed, the resulting mixture becomes saturated. V =?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "11. [IMG: https://assets.chorcha.net/pPrzcAun7lcyh6xZhk85C.png]\n\nIf the gas cylinder is opened at STP, what volume of gas will be released?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "12. What is the pH of $2.5\\%$ $\\text{(W/V)}$ $\\text{NaOH}$?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "13. In the flame test, what color does $\\text{Ca}^{2+}, \\text{Na}^+, \\text{K}^+, \\text{Cu}^{2+}, \\text{Pb}^{2+}$ exhibit?",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "14. The preparation of $\\text{DDT}$ and its three characteristics.",
+      "options": [],
+      "tag": "CUET 24-25"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "15. For the $19$th electron of $\\text{K}$,\n\n(i) velocity $(\\mathrm{v})$\n\n(ii) orbital radius, $r$\n\n(iii) number of revolutions per unit time.",
+      "options": [],
+      "tag": "CUET 24-25"
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "title": "RUET 12-13",
+  "questions": [
+    {
+      "subject": "Mathematics (19)",
+      "question": "1. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "2. The value of $\\sin ^{-1}(1)$ is $(n=1,2,3, \\ldots \\ldots \\ldots)$",
+      "options": [
+        "$\\frac{n \\pi}{2}$",
+        "$\\frac{(\\mathrm{n}+1) \\pi}{2}$",
+        "$\\frac{(2 x+1) \\pi}{2}$",
+        "$2 n \\pi+\\frac{\\pi}{2}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "3. The numerical value of the surface orea of a sphere having diameter 1 is?",
+      "options": [
+        "$\\pi$",
+        "$4 \\pi$",
+        "$\\frac{4 \\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "4. For what value of $k$ will the quadratic equation:  $\\displaystyle { kx }^{ 2 }+4x+1=0$ have real and equal roots ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),RU C 17-18 (GROUP 1),JU A 21-22 (SET I)"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "5. What is the value of $\\lim _{x \\rightarrow 0}(1+k x)^{\\frac{1}{x}}$ ?",
+      "options": [
+        "$\\log _{k} x$",
+        "$\\ln (k x)$",
+        "$\\mathrm{a}^{\\mathrm{k}}$",
+        "$\\mathrm{e}^{\\mathrm{k}}$"
+      ],
+      "tag": "NSTU 18-19,RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "6. Two forces 3P and $P$ act at a point of a particle. If the first is multiplied by 2 and the second is increased by 7 unit, the direction of the resultant is unaltered, then the value of $P$ be-",
+      "options": [
+        "5 unit",
+        "7 unit",
+        "8 unit",
+        "9 unit"
+      ],
+      "tag": "BISC 24,DU A 13-14,RUET 12-13,CUET 11-12"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "7. If $f(\\theta)=\\cos \\theta-\\sin \\theta$, then for what value of $\\theta, f(\\theta)=0$ ?",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{8}$"
+      ],
+      "tag": "MCC 24,SCC 24,RUET 12-13,JU A 15-16 (SET 5)"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "8. If $f(x)=\\ln (\\sin x)$ then which one is the value of $e^{2 f(x)}$ ?",
+      "options": [
+        "$\\frac{1}{2}(1-\\sin 2 x)$",
+        "$(1-\\sin 2 x)$",
+        "$\\frac{1}{2}(1-\\cos ^{2} x)$",
+        "$\\frac{1}{2}(1-\\tan 2 x)$",
+        "$(1-\\cos 2 x)$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "9. If $|x-1|<\\frac{1}{10}$ then what is the value of $\\left|x^{2}-1\\right|$ ?",
+      "options": [
+        "$\\frac{1}{100}$",
+        "$\\frac{21}{10}$",
+        "$\\frac{14}{100}$",
+        "$\\frac{21}{100}$"
+      ],
+      "tag": "PUST 17-18,BSMRSTU 17-18,RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "10. The principal argument of the complex number ;\n\n$[(1 + i)^5 (1 + \\sqrt{3}i)^2] / [-2i(-\\sqrt{3} +i)]$ is",
+      "options": [
+        "$\\frac{19\\pi}{12}$",
+        "$-\\frac{17\\pi}{12}$",
+        "$-\\frac{5\\pi}{12}$",
+        "$\\frac{5\\pi}{12}$"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 18-19 (SET C),JU A 15-16 (SET 3),JU A 15-16 (SET 5),BUTEX 14-15"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "11. $\\left|\\begin{array}{ccc} x+y & x & y \\\\ x & x+z & z \\\\ y & z & y+z \\end{array}\\right|=?$",
+      "options": [
+        "$4(x+y+z)$",
+        "$3(x+y+z)$",
+        "$4\\left(x^{3}+y^{3}+z^{3}\\right)$",
+        "$4 x^{2} y^{2} z^{2}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "12. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "13. Find the value of $n$ and $r$ if ${ }^{n} P_{r}=240$ and ${ }^{n} C_{r}=120$.",
+      "options": [
+        "4,2",
+        "16,4",
+        "16,2",
+        "2,16",
+        "4,16"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "14. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "15. The velocity of a car increases from $10 \\mathrm{~ms}^{-1}$ to $20 \\mathrm{~ms}^{-1}$ when it travels 50 m . The velocity of the car when it travels another 200 m is-",
+      "options": [
+        "$30 \\mathrm{~ms}^{-1}$",
+        "$20 \\mathrm{~ms}^{-1}$",
+        "$40 \\mathrm{~ms}^{-1}$",
+        "$50 \\mathrm{~ms}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "16. A ball is thrown from the top of a tower at a speed of $21 \\mathrm{~ms}^{-1}$ parallel to the ground. If the ball strikes the ground at a distance of 84 m from the base of the tower, find the height of the tower.",
+      "options": [
+        "30 m",
+        "39 m",
+        "45 m",
+        "20 m",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "17. A man can directly cross a river of 80 m wide in 4 minutes when there is no current. He takes 5 minutes to cross the same distance when there is current. Find the velocity of current.",
+      "options": [
+        "$15 \\mathrm{~m} / \\mathrm{min}$",
+        "$12 \\mathrm{~m} / \\mathrm{min}$",
+        "$16 \\mathrm{~m} / \\mathrm{min}$",
+        "$14 \\mathrm{~m} / \\mathrm{min}$",
+        "$13 \\mathrm{~m} / \\mathrm{min}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "18. Equation of the parabola having focus $(3,2)$ and Vertex $(-1,2)$ is ;",
+      "options": [
+        "$(x+1)^2=16(y-2)$",
+        "$(x-1)^2=16(y+2)$",
+        "$(y-2)^2=16(x+1)$",
+        "$(y+2)^2=16(x-1)$"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 18-19 (SET P),JU H 16-17 (SET 3)"
+    },
+    {
+      "subject": "Mathematics (19)",
+      "question": "19. The maximum value of $y=x^{2}(1-x)$ is:",
+      "options": [
+        "$\\frac{1}{27}$",
+        "$\\frac{2}{27}$",
+        "$\\frac{4}{27}$",
+        "$\\frac{1}{8}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "1. The unit of molar gas constant is-",
+      "options": [
+        "L. atm ${ }^{-1} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$",
+        "$\\mathrm{J} \\mathrm{mol.} \\mathrm{K}^{-1}$",
+        "Cal. $\\mathrm{mol}^{-1} \\mathrm{~K}$",
+        "erg. mol. K",
+        "L. atm. $\\mathrm{mol}^{-1} \\mathrm{~K}^{-1}$"
+      ],
+      "tag": "SUST 18-19,RUET 12-13,Hazari Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "2. At what temperature does the Fahrenheit and Kelvin scale give the same reading?",
+      "options": [
+        "500.250",
+        "550.250",
+        "565.250",
+        "574.250"
+      ],
+      "tag": "DU A 17-18,RUET 13-14,RUET 12-13,JU A 18-19 (SET P),BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "3. If the heat absorbed is ΔQ = 700 J and the work done is ΔW = 200 J, how much will the internal energy of a system increase?",
+      "options": [
+        "900 J",
+        "700 J",
+        "600 J",
+        "500 J"
+      ],
+      "tag": "PCC 24,FGCC 24,BISCM 24,SB 23,JB 21,SB 19,CB 17,BUET 21-22,RUET 12-13,JU A 18-19 (SET A)"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "4. A current in any of the coils is 2A. When the current in the coil is reduced to zero in 0.08s, an electromotive force of 0.5V is induced in the coil. What is the self-inductance coefficient of the coil?",
+      "options": [
+        "0.02 H",
+        "0.2 H",
+        "2 H",
+        "20 H"
+      ],
+      "tag": "SB 19,CB 17,PUST 17-18,IU 19-20,IU 18-19,NSTU 16-17,DU A  10-11,BUET 8-9,BUET 12-13,BUET 13-14,BUET 10-11,CKRUET 20-21,RUET 12-13,KUET 16-17,Ishaque Sir,Tapan Sir,Pramanik Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "5. An object is placed at a position 1 m from the pole of a concave mirror having 1 m radius of curvature. Determine the position of the image.",
+      "options": [
+        "1 m",
+        "2 m",
+        "3 m",
+        "4 m",
+        "3.5 m"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "6. The mass of particle is $9.1 \\times 10^{-28} \\mathrm{~kg}$. If it is totally converted into energy, how much energy will be obtained?",
+      "options": [
+        "$8.19 \\times 10^{-11} \\mathrm{~J}$",
+        "$8.29 \\times 10^{-12} \\mathrm{~J}$",
+        "8.29 J",
+        "$8.21 \\times 10^{-3} \\mathrm{~J}$",
+        "$8.19 \\times 10^{-3} \\mathrm{~J}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "7. If a car is stopped 44 m away by the use of force that creates an acceleration of $22 \\mathrm{~ms}^{-2}$, what is the initial velocity of that car?",
+      "options": [
+        "$40 \\mathrm{~ms}^{-1}$",
+        "$36 \\mathrm{~ms}^{-1}$",
+        "$22 \\mathrm{~ms}^{-1}$",
+        "$44 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "RUET 12-13,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "8. Dimension of Heat capacity-",
+      "options": [
+        "$\\mathrm{ML}^{2} \\mathrm{~T}^{-2} \\theta^{-1}$",
+        "$\\mathrm{MLT}^{-2} \\theta^{-1}$",
+        "$\\mathrm{ML}^{2} \\mathrm{~T}^{-2}$",
+        "None of these"
+      ],
+      "tag": "RUET 12-13,CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "9. What will be the correct equation for mass of the sun?",
+      "options": [
+        "$\\mathrm{M}=\\frac{4 \\pi \\mathrm{r}^{3}}{G \\mathrm{~T}^{2}}$",
+        "$\\mathrm{M}=\\frac{4 \\pi \\mathrm{r}^{2}}{6 \\mathrm{~T}^{2}}$",
+        "$\\mathrm{M}=\\frac{4 \\pi^{2} \\mathrm{r}^{2}}{G \\mathrm{~T}^{2}}$",
+        "$\\mathrm{M}=\\frac{4 \\pi^{2} \\mathrm{r}^{3}}{\\mathrm{GT}^{3}}$",
+        "$\\mathrm{M}=\\frac{4 \\pi^{2} \\mathrm{r}^{3}}{G \\mathrm{~T}^{2}}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "10. If the freezing point of a faulty thermometer is $5\\degree C$ and the steam point is $115\\degree C$, what will be the reading of that thermometer if the temperature of an object is $50\\degree C$?",
+      "options": [
+        "$55\\degree C$",
+        "$60\\degree C$",
+        "$65\\degree C$",
+        "$52\\degree C$"
+      ],
+      "tag": "HSTU 17-18,RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "11. If the path difference between the two particles of the wave is 0.325 m and the phase difference is 3.14 radians, what is the wavelength of the wave?",
+      "options": [
+        "0.46 m",
+        "0.65 cm",
+        "0.56 m",
+        "0.65 m"
+      ],
+      "tag": "RUET 12-13,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "12. Wavelength of sodium light in air is $5.89 \\times 10^{-7} \\mathrm{~m}$. What will be the wavelength of light in glass of refractive index 1.52 ?",
+      "options": [
+        "$3.875 \\times 10^{-6} \\mathrm{~m}$",
+        "$38.75 \\times 10^{-7} \\mathrm{~m}$",
+        "$38.75 \\times 10^{-6} \\mathrm{~m}$",
+        "$35.87 \\times 10^{-7} \\mathrm{~m}$",
+        "$3.875 \\times 10^{-7} \\mathrm{~m}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "13. The critical angle between air and diamond is 25°. What is the refractive index of diamond?",
+      "options": [
+        "2.566",
+        "2.366",
+        "2.666",
+        "2.444"
+      ],
+      "tag": "JnU 17-18,JUST 18-19,DU A  10-11,RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "14. What will be the collector current of a transistor of amplification factor 0.98 and emitter current $\\mathbf{1 . 5 m A}$ ?",
+      "options": [
+        "7.47 mA",
+        "4.74 mA",
+        "4.17 m",
+        "1.74 mA",
+        "1.47 mA"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "15. If the energy of a photon is 13.26 MeV then what is its frequency?",
+      "options": [
+        "$1.3 \\times 10^{20} \\mathrm{~Hz}$",
+        "$3.2 \\times 10^{20} \\mathrm{~Hz}$",
+        "$1.3 \\times 10^{21} \\mathrm{~Hz}$",
+        "$3.2 \\times 10^{21} \\mathrm{~Hz}$"
+      ],
+      "tag": "RCC 24,RUET 12-13,Tapan Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "16. One Joule is equal to how much kilowatt-hour?",
+      "options": [
+        "$8.78 \\times 10^{-7} \\mathrm{kWh}$",
+        "$0.78 \\times 10^{-7} \\mathrm{kWh}$",
+        "$1.78 \\times 10^{-7} \\mathrm{kWh}$",
+        "$2.78 \\times 10^{-7} \\mathrm{kWh}$",
+        "$7.28 \\times 10^{-9} \\mathrm{kWh}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "17.  Two vectors of 5 unit each, are acting at a point subtending an angle $120^{\\circ}$ with each other. What is the magnitude of the resultant?\n $\\mathrm{R}^{2}=2 \\mathrm{P}^{2}+2 \\mathrm{P}^{2} \\cos 120^{\\circ}=\\mathrm{P}^{2} \\therefore \\mathrm{R}=\\mathrm{P}=5$",
+      "options": [
+        "5 unit",
+        "0 unit",
+        "25 unit",
+        "15 unit",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "18. Which is the correct unit of torque?",
+      "options": [
+        "$Dyne/cm^2$",
+        "N m Nm N m",
+        "$N/m$",
+        "$N/m.s$"
+      ],
+      "tag": "CU A 17-18,CU A 16-17,BUET 9-10,RUET 11-12,RUET 10-11,RUET 12-13,JU A 22-23 (SET N),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 16-17 (SET 12),Tofazzal Sir,Ishaque Sir,Tapan Sir,Pramanik Sir,Tapan Sir,Ishaque Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "19. What is the relationship between rotational kinetic energy E, moment of inertia I, and angular velocity ω?",
+      "options": [
+        "$E = I \\omega$",
+        "$E = I \\omega^{2}$",
+        "$E = \\frac{1}{2} I \\omega$",
+        "$E = \\frac{1}{2} I \\omega^{2}$"
+      ],
+      "tag": "RUET 12-13,Tapan Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "20. The escape velocity from a planet of mass (M), radius (R) and acceleration due to gravity (g) is given by:",
+      "options": [
+        "$2\\sqrt {\\dfrac {GM}{R}}$",
+        "$\\sqrt {2gR}$",
+        "$\\sqrt {\\dfrac {2gM}{R}}$",
+        "$\\sqrt {\\dfrac {2GM}{R}}$"
+      ],
+      "tag": "SB 23,SB 19,RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "1. What is used for making photo frame and mirror of telescope?",
+      "options": [
+        "Na",
+        "Cu",
+        "Al",
+        "Fe",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "2. [IMG: https://assets.chorcha.net/8UvzWxPmS4Y82xRV_R5YK.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "3. Which one of the following is tear gas?",
+      "options": [
+        "Chloropicrin",
+        "Nitrous Oxide",
+        "Flothen",
+        "Chloroden",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "4. 50 gm of urea is dissolved in 850 gm of water. What will be the strength of the solution in molarity? The density of water $=0.9877 \\mathrm{gm} / \\mathrm{cc}$ and atomic weight of urea $=60$.",
+      "options": [
+        "0.9803 M",
+        "0.9693 M",
+        "1.0416 M",
+        "0.9916 M",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "5. If small amount of starch is added in iodine solution then what will be the colour of the solution?",
+      "options": [
+        "Brown",
+        "Yellow",
+        "Deep Blue",
+        "Light Yellow",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "6. The chemical formula of rust is-",
+      "options": [
+        "$\\mathrm{Fe}_{2} \\mathrm{O}_{3} \\cdot \\mathrm{xH}_{2} \\mathrm{O}$",
+        "$\\mathrm{FeCl}_{3} \\cdot \\mathrm{xH}_{2} \\mathrm{O}$",
+        "$\\mathrm{FeO} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{Fe}(\\mathrm{OH})_{2}$"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "7. Which of the following is correct percentage of carbon in benzene?",
+      "options": [
+        "90.75",
+        "92.30",
+        "78.25",
+        "75.00",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "8. Which of the following is d-block elements?",
+      "options": [
+        "Hg",
+        "As",
+        "In",
+        "Sn",
+        "Rn"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "9. What is the $\\mathbf{p H}$ of human blood?",
+      "options": [
+        "8.4",
+        "7.4",
+        "6.0",
+        "5.4"
+      ],
+      "tag": "RU C 21-22 (GROUP 2)"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "10. How many electrons are contained in the f-orbital?",
+      "options": [
+        "10",
+        "6",
+        "14",
+        "2",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "11. In the following nuclear reactions  X X  What is the X particle?\n 4 9 B e + 2 4 X → 6 12 C + 0 1 n _4^9Be+_2^4X\\to_6^{12}C+_0^1n 4 9 B e + 2 4 X → 6 12 C + 0 1 n",
+      "options": [
+        "a \\alpha α -particle",
+        "c \\gamma c -particle",
+        "b \\beta β -particle",
+        "Neutron"
+      ],
+      "tag": "SUST 18-19,DU A 8-9,RUET 12-13,Ishaque Sir"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "12. What is the oxidation number of the central atom of $\\mathrm{K}_{2} \\mathrm{MnO}_{4}$ ?",
+      "options": [
+        "+5",
+        "+6",
+        "+7",
+        "+4"
+      ],
+      "tag": "DB 21,DIN.B 21,MBSTU 16-17,CU A 22-23,RUET 12-13,JU D 20-21 (SET A)"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "13.  Alkaline solution of which complex compound is called Nessler's reagent?",
+      "options": [
+        "$\\mathrm{KHgI}_{3}$",
+        "$\\mathrm{K}_{2} \\mathrm{Hg}_{2} \\mathrm{I}$",
+        "$\\mathrm{NaHgl}_{3}$",
+        "$\\mathrm{K}_{2} \\mathrm{Hgl}_{3}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "14. The process for industrial manufacture of $\\mathrm{HNO}_{3}$ from $\\mathrm{NH}_{3}$ is called:",
+      "options": [
+        "Contact Process",
+        "Haber Process",
+        "Solvey Process",
+        "Oswald Process",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "15. What is the concentration $\\left(\\mathrm{gmL}^{-1}\\right)$ of NaCl in sea water?",
+      "options": [
+        "2.56",
+        "5.32",
+        "1.26",
+        "7.98",
+        "None"
+      ],
+      "tag": "DU A 09-10,RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "16. Which of the following compounds forms red precipitate when treated with Fehling's solution?",
+      "options": [
+        "$\\mathrm{RCH}_{2} \\mathrm{X}$",
+        "RCOOH",
+        "$\\mathrm{RCH}_{2} \\mathrm{OH}$",
+        "$\\mathrm{RCH}_{2} \\mathrm{CHO}$",
+        "None"
+      ],
+      "tag": "DU A 12-13,RUET 12-13,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "17. The most electronegative element is-",
+      "options": [
+        "$1 s^{2} 2 s^{2} 2 p^{4} 3 s^{-1}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{5}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{5}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{2}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "18. Number of $\\pi$ bonds in Naphthalene is-",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "7",
+        "5"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "19. Which of the following is used in dry washing?",
+      "options": [
+        "Light Naphtha",
+        "Kerosene",
+        "Gasoline",
+        "Petrol",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "20. What is the equation of buffer process of blood?",
+      "options": [
+        "$\\mathrm{H}_{2} \\mathrm{CO}_{3}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons \\mathrm{H}_{3} \\mathrm{O}^{+}+\\mathrm{HCO}_{3}{ }^{-}$",
+        "$\\mathrm{CO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightleftharpoons 2 \\mathrm{H}^{\\circ}+\\mathrm{CO}_{3}$",
+        "$\\mathrm{HCO}_{3}^{-} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{CO}_{2}^{2-}$",
+        "$\\mathrm{HCO}_{3} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{HCO}_{3}^{-}$",
+        "None"
+      ],
+      "tag": "RUET 12-13"
+    }
+  ]
+}

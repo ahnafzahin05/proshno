@@ -1,0 +1,1100 @@
+{
+  "title": "IUT 22-23",
+  "questions": [
+    {
+      "subject": "Chemistry(15)",
+      "question": "1. 200 mL 0.2 M KOH and $50 \\mathrm{~mL} 0.3 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}$ were mixed in a vessel. Calculate the pH of the mixture.",
+      "options": [
+        "1.39",
+        "0.69",
+        "12.61",
+        "0.52"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "2. According to the following figure:\n[IMG: https://assets.chorcha.net/cmt_8bj4WXSrcdEa1MC9e.png](i) Gas A has a molecular mass of $82.0 \\mathrm{~g} / \\mathrm{mol}$.\n(ii) Gas B has a molecular mass of $72.84 \\mathrm{~g} / \\mathrm{mol}$.\n(iii) Gas B has a higher diffusion rate than Gas A .\nWhich of the following is correct?",
+      "options": [
+        "i and ii only",
+        "ii and iii only",
+        "i and iii only",
+        "i, ii and iii"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "3. The solubility product of AgCl is $1.0 \\times 10^{-10}$ at $25^{\\circ} \\mathrm{C}$. What will be its solubility in 0.1 M NaCl solution at this temperature?",
+      "options": [
+        "$1.0 \\times 10^{-5} \\mathrm{~mole} / \\mathrm{liter}$",
+        "$1.7 \\times 10^{-10} \\mathrm{~mole} / \\mathrm{liter}$",
+        "$1.0 \\times 10^{-9} \\mathrm{~mole} / \\mathrm{liter}$",
+        "$1.0 \\times 10^{-11} \\mathrm{~mole} / \\mathrm{liter}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "4. Which of the following statements is correct?",
+      "options": [
+        "The presence of different salts of $\\mathrm{Ca}^{2+}, \\mathrm{Mg}^{2+}$ and $\\mathrm{Fe}^{2+}$ in water is termed as hardness of water.",
+        "Temporary hardness is due to presence of $\\mathrm{Cl}^{-}$, $\\mathrm{NO}_{3}^{-}, \\mathrm{SO}_{4}^{2-}$ salts of $\\mathrm{Ca}^{2+}, \\mathrm{Mg}^{2+}$ and $\\mathrm{Fe}^{2+}$ in water.",
+        "Permanent hardness is due to presence of $\\mathrm{HCO}_{3}^{-}$salts of $\\mathrm{Ca}^{2+}, \\mathrm{Mg}^{2+}$ and $\\mathrm{Fe}^{2+}$ in water.",
+        "Both hardness can be removed by simple boiling of water."
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "5. Which of the following reactions is wrong?",
+      "options": [
+        "Aldol condensation reaction: $2 \\mathrm{CH}_{3}-$ $\\mathrm{CHO} \\longrightarrow \\mathrm{CH}_{3}-\\mathrm{CH}(\\mathrm{OH})-\\mathrm{CH}_{2}-\\mathrm{CHO}$",
+        "Cannizzaro reaction: $2 \\mathrm{H}-$ $\\mathrm{CHO} \\xrightarrow[20^{\\circ} \\mathrm{C}-30^{\\circ} \\mathrm{C}]{50 \\% \\mathrm{NaOH}} \\mathrm{CH}_{3}-\\mathrm{OH}+\\mathrm{HCOONa}$",
+        "Clemmensen reaction: R - $\\mathrm{CHO} \\xrightarrow{\\mathrm{Zn} \\cdot \\mathrm{Hg}+\\mathrm{Con} \\cdot \\mathrm{HCl}} \\mathrm{R}-\\mathrm{CH}_{3}+\\mathrm{H}_{2} \\mathrm{O}$",
+        "Wurtz's reaction: $\\mathrm{R}-\\mathrm{MgX}+\\mathrm{H}-$ $\\mathrm{OH} \\longrightarrow \\mathrm{R}-\\mathrm{H}+\\mathrm{Mg}(\\mathrm{OH}) \\mathrm{Cl}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "6. In the reaction $4 \\mathrm{Fe}+3 \\mathrm{O}_{2} \\rightarrow 4 \\mathrm{Fe}^{3+}+60^{2-}$ which one of the following statements is incorrect?",
+      "options": [
+        "It is a redox reaction.",
+        "Metallic Fe is reduced to $\\mathrm{Fe}^{3+}$.",
+        "$\\mathrm{Fe}^{3+}$ is an oxidizing agent.",
+        "Metallic iron is a reducing agent."
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "7. When 0.75 A electricity passed through a metal salt solution for 45 min , then 0.6662 gm of cathode increased. If the valency of metal is 2.0 then what is the atomic mass of that metal?",
+      "options": [
+        "32.5",
+        "63.5",
+        "16.5",
+        "8.5"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "8. Nitrogen reacts with hydrogen to form ammonia.\n$\\mathrm{N}_{2}(\\mathrm{~g})+3 \\mathrm{H}_{2}(\\mathrm{~g})=2 \\mathrm{NH}_{3}(\\mathrm{~g})$\nThe pressure exerted by this mixture of hydrogen, nitrogen and ammonia at constant temperature is $2.000 \\times 10^{7} \\mathrm{~Pa}$. Under these conditions, the partial pressure of nitrogen is $1.490 \\times 10^{7} \\mathrm{~Pa}$, and the partial pressure of hydrogen is $0.400 \\times$ $10^{7} \\mathrm{~Pa}$. Calculate the value of $\\mathrm{K}_{\\mathrm{p}}$ for this reaction.",
+      "options": [
+        "$0.110 \\times 10^{-14} \\mathrm{~Pa}^{-2}$",
+        "$1.27 \\times 10^{-15} \\mathrm{~Pa}^{-2}$",
+        "$0.0560 \\times 10^{-14} \\mathrm{~Pa}^{-2}$",
+        "$9.1 \\times 10^{-15} \\mathrm{~Pa}^{-2}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "9. When chlorine and hot concentrated aqueous sodium hydroxide are mixed the following reaction take place: $3 \\mathrm{Cl}_{2}(\\mathrm{aq})+6 \\mathrm{NaOH}(\\mathrm{aq}) \\rightarrow$ $5 \\mathrm{NaCl}(\\mathrm{aq})+\\mathrm{NaClO}_{3}(\\mathrm{aq})+3 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})$\nThe name of the above rection is:",
+      "options": [
+        "Displacement reaction",
+        "Oxidation reaction",
+        "Disproportion reaction",
+        "Reduction reaction"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "10. Which of the following elements has the same number of neutrons as Nickel-58?",
+      "options": [
+        "Cobalt- 60",
+        "Iron- 56",
+        "Zinc- 64",
+        "Copper-6."
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "11. What volume of 0.1 M hydrochlonic acid ( HCl ) is needed to react with 25 mL of 0.2 M sodiom hydroxide ( NaOH )?",
+      "options": [
+        "50 ml",
+        "25 ml",
+        "12.5 ml",
+        "100 ml"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "12. $\\mathrm{R}-\\mathrm{OH}+\\mathrm{HCl} \\xrightarrow{\\mathrm{ZnCl}_{2}} \\mathrm{X}+\\mathrm{H}_{2} \\mathrm{O}$; $X$ compound is\n(i) Volatile\n(ii) Liquid at room temperature\n(iii) Harmful to body\nWhich of the following is correct?",
+      "options": [
+        "i, ii",
+        "ii, iii",
+        "i, iii",
+        "All above"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "13. Which of the following is the product of the following reaction: $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{OH}+\\mathrm{H}_{2} \\mathrm{SO}_{4}$ ?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{SO}_{4} \\mathrm{H}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{OHSO}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{OSO}_{3} \\mathrm{H}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{SO}_{3} \\mathrm{H}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "14. How many moles of $\\mathrm{CO}_{2}$ are produced when 2 moles of $\\mathrm{C}_{3} \\mathrm{H}_{8}$ react with excess $\\mathrm{O}_{2}$ in the following reaction? $\\mathrm{C}_{3} \\mathrm{H}_{8}+5 \\mathrm{O}_{2} \\rightarrow 3 \\mathrm{CO}_{2}+4 \\mathrm{H}_{2} \\mathrm{O}$",
+      "options": [
+        "2 moles",
+        "6 moles",
+        "10 moles",
+        "15 moles"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "15. In a nickel-cadmium battery, which of the following reactions occurs at the anode during discharge?",
+      "options": [
+        "$\\mathrm{Cd}(\\mathrm{s})+2 \\mathrm{OH}^{-}(\\mathrm{aq}) \\rightarrow \\mathrm{Cd}(\\mathrm{OH})_{2}(\\mathrm{~s})+2 \\mathrm{e}^{-}$",
+        "$\\mathrm{Ni}(\\mathrm{OH})_{2}(\\mathrm{~s})+\\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})+\\mathrm{e}^{-} \\rightarrow \\mathrm{NiOOH}(\\mathrm{s})+$ $\\mathrm{OH}^{-}(\\mathrm{aq})$",
+        "$\\mathrm{Ni}(\\mathrm{OH})_{2}(\\mathrm{~s})+2 \\mathrm{e}^{-} \\rightarrow \\mathrm{Ni}(\\mathrm{s})+2 \\mathrm{OH}^{-}(\\mathrm{aq})$",
+        "$\\mathrm{Cd}(\\mathrm{OH})_{2}(\\mathrm{~s})+2 \\mathrm{e}^{-} \\rightarrow \\mathrm{Cd}(\\mathrm{s})+2 \\mathrm{OH}^{-}(\\mathrm{aq})$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "1. A piece of wood from a recently cut tree shows 20 decays per minute. A wooden piece of same size in a museum (obtained from a tree cut years back) shows 2 decay per minute. If the half-life of $\\mathrm{C}^{14}$ is 5730 years, then the age of the wooden piece placed in the museum is approximately:",
+      "options": [
+        "10439 years",
+        "13094 years",
+        "19039 years",
+        "39049 years"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "2. An irregularly shaped object 10 m long is placed with each end on two nearby scales. If the scale on the right reads 94 N and the scale on the left reads 60 N , how far from the lef is the object's center of gravity? (1/se acceleration due to gravity, $\\mathrm{g}=$ $\\left.9.8 \\mathrm{~ms}^{-2}\\right)$",
+      "options": [
+        "$5 . 8 \\mathrm{m}$",
+        "6.3 m",
+        "7.7 m",
+        "8.1 m"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "3. The masses of the blocks and the velocities before and after a collision are (directions are indicated by the arrows)\n[IMG: https://assets.chorcha.net/LC5lxCmoYxQz73coIGuh1.png]In this situation, the collision is:",
+      "options": [
+        "completely inelastic",
+        "completely elastic",
+        "characterized by an increase in kinetic energy",
+        "characterized by a decrease in momentum"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "4. An electron was accelerated from rest through a potential difference of 990 V . What is its speed? (Use the mass of an electron $=9.11 \\times 10^{-31} \\mathrm{~kg}$. the mass of proton $=1.67 \\times 10^{-27} \\mathrm{~kg}$ and the charge of an electron $=1.6 \\times 10^{-19} \\mathrm{C}$ ).",
+      "options": [
+        "$2.35 \\times 10^{7} \\mathrm{~ms}^{-1}$",
+        "$1.36 \\times 10^{7} \\mathrm{~ms}^{-1}$",
+        "$2.75 \\times 10^{7} \\mathrm{~ms}^{-1}$",
+        "$1.86 \\times 10^{7} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "5. A charged particle is observed travelling in a circular path in a uniform magnetic field. If the particle had been travelling twice as fast, the radius of the circular path would be:",
+      "options": [
+        "three times the original radius",
+        "twice the original radius",
+        "one-half of the original radius",
+        "four times the original radius"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "6. Two bodies of masses 40 kg and 60 kg collide with each other when coming from opposite sides with velocities of $10\\ {\\rm ms}^{-1}$ and $5\\ {\\rm ms}^{-1}$ respectively and then get stuck and move together. What will be the velocity of the two bodies after collision?",
+      "options": [
+        "$2.5{\\rm ms}^{-1}$",
+        "$2{\\rm ms}^{-1}$",
+        "$1.5{\\rm ms}^{-1}$",
+        "$1.0{\\rm ms}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "7. A particle moves with simple harmonic motion in a straight line. In first $\\tau \\mathrm{s}$, after starting from rest it travels a distance a, and in next $\\tau$ s it travels 2 a , in same direction, then:",
+      "options": [
+        "amplitude of motion is 4 a",
+        "time period of oscillations is $6 \\tau$",
+        "amplitude of motion is 3 a",
+        "time period of oscillations $8 \\tau$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "8. Two identical wires A and B, each of length ' $l$ ', carry the same current I. Wire A is bent into a circle of radius R and wire B is bent to form a square of side ' $a$ '. If $B_{A}$ and $B_{B}$ are the values of magnetic field at the centers of the circle and square respectively, then the ratio $\\frac{\\mathrm{B}_{\\mathrm{A}}}{\\mathrm{B}_{\\mathrm{B}}}$ is:",
+      "options": [
+        "$\\frac{\\pi^{2}}{16 \\sqrt{2}}$",
+        "$\\frac{\\pi^{2}}{16}$",
+        "$\\frac{\\pi^{2}}{8 \\sqrt{2}}$",
+        "$\\frac{\\pi^{2}}{8}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "9. When a foice $\\vec{i}=(\\hat{i}-3 \\hat{j}+2 \\hat{k}) N$ acts on a particle its displacement occurs $\\overrightarrow{\\mathrm{d}}=\\left(2 \\hat{\\mathrm{i}}+\\mathrm{d}_{y} \\hat{\\mathrm{j}}- k\\right).$ $m$. For what value of $d_{y}$, the work done would be zero?",
+      "options": [
+        "1 m",
+        "0 m",
+        "-1 m",
+        "10 m"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "10. A body was at rest. A force of 16 N acted upon it for 5 s and stopped. After that, the body travelled 52 m distance in 6 s . What is the mass of the body?",
+      "options": [
+        "8.23 kg",
+        "8.93 kg",
+        "9.23 kg",
+        "9.93 kg"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "11. The mass of a cylinder is 50 kg and its radius is 0.20 m. The moment of inertia of the cylinder about its axis is $1.0 \\mathrm{kgm}^{2}$. What is the total kinetic energy of the cylinder when it rolls at a horizontal velocity $2 \\mathrm{~ms}^{-1}$ ?",
+      "options": [
+        "150 J",
+        "160 J",
+        "170 J",
+        "180 J"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "12. The ratio of the radii of the orbits around the sun of venus and earth is $54: 75$. If 365 days make a year in the earth, how many days will make a year in the venus?",
+      "options": [
+        "203 days",
+        "213 days",
+        "223 days",
+        "233 days"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "13. The Young's modulus of the material of the wire of diameter $5.0 \\times 10^{-4} \\mathrm{~m}$ is $9.0 \\times 10^{10} \\mathrm{Nm}^{-2}$. To increase its length by $5 \\%$, how much force needs to apply?",
+      "options": [
+        "853 N",
+        "863 N",
+        "873 N",
+        "883 N"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "14. The resistances of a resistance thermometer at $0^{\\circ} \\mathrm{C}$ and $100^{\\circ} \\mathrm{C}$ be respectively $10 \\Omega$ and $25 \\Omega$. When the thermometer is placed in an oven, the resistance becomes $38 \\Omega$. Find the temperature of the oven.",
+      "options": [
+        "$166.67^{\\circ} \\mathrm{C}$",
+        "$176.67^{\\circ} \\mathrm{C}$",
+        "$186.67^{\\circ} \\mathrm{C}$",
+        "$196.67^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "15. $8.4 \\times 10^{4} \\mathrm{~J}$ heat energy is supplied to a Carnot engine working between $27^{\\circ} \\mathrm{C}$ and $160^{\\circ} \\mathrm{C}$. How much heat energy will be converted into work by the engine?",
+      "options": [
+        "25788 J",
+        "26788 J",
+        "27788 J",
+        "28788 J"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "16. What is the electric potential at the mid-point of the line connecting two charges of magnitudes $+1.00 \\mu \\mathrm{C}$ and $-5.00 \\mu \\mathrm{C}$ and separated by a distance of 1 m ?",
+      "options": [
+        "$-7.00 \\times 10^{4} \\mathrm{~V}$",
+        "$-7.20 \\times 10^{4} \\mathrm{~V}$",
+        "$-7.50 \\times 140^{4} \\mathrm{~V}$",
+        "$-7.40 \\times 10^{4} \\mathrm{~V}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "17. The emf and internal resistance of a cell are 2 V and $0.5 \\Omega$ respectively. It is arranged with $1 \\Omega$, $2 \\Omega$, and $4 \\Omega$ resistance in a parallel combination, Find the potential difference of the two ends of middle resistance.",
+      "options": [
+        "4.07 V",
+        "3.07 V",
+        "2.07 V",
+        "1.07 V"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "18. An immersion heater of 100 W can raise the temperature of 1 liter of water from $30^{\\circ} \\mathrm{C}$ to $40^{\\circ} \\mathrm{C}$ in 7 minutes. Determine the value of the mechanical equivalent of heat.",
+      "options": [
+        "$4.2 \\mathrm{~J} \\mathrm{cal}^{-1}$",
+        "$4.3 \\mathrm{~J} \\mathrm{cal}^{-1}$",
+        "$4.4 \\mathrm{~J} \\mathrm{cal}^{-1}$",
+        "$4.5 \\mathrm{~J} \\mathrm{cal}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "19. The refractive indices of water and diamond are respectively 1.33 and 2.4 . Find the velocity of light in diamond. The velocity of light in water is $2.28 \\times 10^{8} \\mathrm{~ms}^{-1}$.",
+      "options": [
+        "$1.16 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$1.26 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$1.36 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$1.46 \\times 10^{8} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "20. At the age of 25 years an astronaut went to space travel in a spaceship moving with velocity $1.8 \\times$ $10^{8} \\mathrm{~ms}^{-1}$ and he returns to earth after 30 years according to the calendar of the earth. What is his age now?",
+      "options": [
+        "49 years",
+        "50 years",
+        "51 years",
+        "52 years"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "21. A piece of radium becomes one-fifth part on radiating radioactive radiation for 5000 years. Find the decay constant of radium.",
+      "options": [
+        "$1.22 \\times 10^{-4} \\mathrm{y}^{-1}$",
+        "$2.22 \\times 10^{-4} \\mathrm{y}^{-1}$",
+        "$3.22 \\times 10^{-4} y^{-1}$",
+        "$4.22 \\times 10^{-4} \\mathrm{y}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "22. A uniform hole in a brass plate has a diameter of 1.2 cm at $25^{\\circ} \\mathrm{C}$. What is the diameter of the hole when the plate is heated to $475^{\\circ} \\mathrm{C}$ ? (Use the coefficient of linear thermal expansion for brass $=$ $19 \\times 10^{-6} \\mathrm{~K}^{-1}$ )",
+      "options": [
+        "1.27 cm",
+        "1.31 cm",
+        "1.21 cm",
+        "1.23 cm"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "23. A rocket is launched vertically. In the first 2 seconds after launching, the rocket loses $\\frac{1}{60}$ of its weight. The velocity of the gas released from the rocket is $3600 \\mathrm{~ms}^{-1}$. Determine the net acceleration of the rocket. (Assume $\\mathrm{g}=$ $9.8 \\mathrm{~ms}^{-2}$ )",
+      "options": [
+        "$30 \\mathrm{~ms}^{-2}$",
+        "$36 \\mathrm{~ms}^{-2}$",
+        "$15.2 \\mathrm{~ms}^{-2}$",
+        "$20.2 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "24. Two bodies A and B have masses 2 kg and 4 kg respectively, and they are separated by 2 m . On their connecting line, a body C of mass 1 kg is placed so that the gravitational force on C is zero. Determine the distance of C from A . (Ignore gravitational forces with everything else)",
+      "options": [
+        "0.83 m",
+        "1 m",
+        "0.67 m",
+        "1.33 m"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "25. A sphere of 10 gm is placed at a height of 1.2 m from the ground. It falls from there (with initial zero velocity) along a slanted piece of wood and its velocity is $4 \\mathrm{~ms}^{-1}$ when it reaches the ground. Determine the work done by friction as it falls.",
+      "options": [
+        "0.08 J",
+        "0.0376 J",
+        "0.197 J",
+        "0.215 J"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "26. A well is filled in with water. Its diameter is 4 m and its depth is 12 m . A pump can evacuate all the water from the well in 20 minutes. Determine the power of the pump.",
+      "options": [
+        "14.78 kW",
+        "17.73 kW",
+        "7.39 kW",
+        "8.87 kW"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "27. An object is tied to the end of a spring and it is undergoing simple harmonic motion with an amplitude of 12 cm and a period of 1.7 sec . Determine the maximum acceleration.",
+      "options": [
+        "$0.68 \\mathrm{~ms}^{-2}$",
+        "$0.44 \\mathrm{~ms}^{-2}$",
+        "$1.2 \\mathrm{~ms}^{-2}$",
+        "$1.64 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "28. A spring has the property that it changes its length by 10 cm if 100 N force is applied to the spring. This spring is used in a test. In this test, an object of 1.5 kg is tied to the spring and it is undergoing a simple harmonic motion. Determine the frequency of the motion in the test.",
+      "options": [
+        "4.11 Hz",
+        "8.42 Hz",
+        "3 Hz",
+        "25.82 Hz"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "29. The volume of a gas is $1.8 \\mathrm{~m}^{3}$ at a pressure of $10^{5}$ Pa and temperature of $25^{\\circ} \\mathrm{C}$. It is compressed in an isothermal process to get a pressure of $5 \\times 10^{5} \\mathrm{~Pa}$. Determine the amount of heat released. (Gas constant $\\mathrm{R}=8.134 \\mathrm{JK}^{-1} \\mathrm{~mole}^{-1}$ )",
+      "options": [
+        "180 kJ",
+        "126 kJ",
+        "290 kJ",
+        "145 kJ"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "30. The charges $Q$ and $4 O$ are placed with a distance of 1 m between them. From the charge $O$, determine the distance of the point on the connecting line where the electric field intensity is zero.",
+      "options": [
+        "$\\frac{1}{2} m$",
+        "$\\frac{1}{3} m$",
+        "$\\frac{1}{4} \\mathrm{~m}$",
+        "$\\frac{3}{4} m$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "31. Two capacitors are connected in series. Their capacitances are $4 \\mu \\mathrm{~F}$ and $5 \\mu \\mathrm{~F}$. If they are connected to a source of 900 volts, determine the stored energy.",
+      "options": [
+        "0.9 J",
+        "9 J",
+        "3.6 J",
+        "8.1 J"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "32. Determine the logic gate equivalent to the following combination.\n[IMG: https://assets.chorcha.net/NtrjyiMJsYsh496ora5yH.png]",
+      "options": [
+        "NOT gate",
+        "NAND gate",
+        "OR gate",
+        "XOR gate"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "33. Determine the current through $5 \\Omega$ resistor\n[IMG: https://assets.chorcha.net/aZhuUPuvPAKfG4NR3Auju.png]",
+      "options": [
+        "0.2 amp",
+        "0 amp",
+        "6 amp",
+        "1 amp"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "34. Find the current through $12 \\Omega$ resistor.\n[IMG: https://assets.chorcha.net/1E2foTR5pG2RwrYtyyDQ7.png]",
+      "options": [
+        "$\\frac{2}{3} \\mathrm{amp}$",
+        "$\\frac{1}{2} \\mathrm{amp}$",
+        "2 amp",
+        "1 amp"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "35. A 2 V battery is connected between A and B . If the positive terminal is connected to A , the current through the battery is $I_{1}$. If the negative terminal is connected to A , the current through the battery is $\\mathrm{I}_{2}$, Determine the difference between the values of $\\mathrm{I}_{1}$ and $\\mathrm{I}_{2}$. (Assume diodes are ideal)\n[IMG: https://assets.chorcha.net/NOrrHCQove7GXbSlYzzyV.png]",
+      "options": [
+        "0.1 amp",
+        "0.2 amp",
+        "1 amp",
+        "0 amp"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "1.   $\\left \\lvert \\begin{matrix} x + y & x & y \\\\ x & x + z & z \\\\ y & z & y + z \\end{matrix} \\right \\rvert = ?$",
+      "options": [],
+      "tag": "JUST 18-19"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "2. If the following vectors are coplanar find the value of a.\n$\\begin{array}{l} \\vec{A}=\\hat{i}+\\hat{j}-a \\hat{k} \\\\ \\vec{B}=2 \\hat{i}-\\hat{j}+3 \\hat{k} \\\\ \\vec{C}=-\\hat{i}+2 \\hat{j}-\\hat{k} \\end{array}$",
+      "options": [
+        "1",
+        "-1",
+        "-2",
+        "2"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "3. If the coordinates of the ends of a diameter of a circle are $(-2,3)$ and $(3,4)$. Which is the equation of the circle?",
+      "options": [
+        "$x^{2}+y^{2}-x-7 y+6=0$",
+        "$x^{2}+y^{2}-5 x+5 y+4=0$",
+        "$x^{2}+y^{2}-3 x-7 y+4=0$",
+        "$x^{2}+y^{2}-5 x-5 y+7=0$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "4. How many numbers greater than 4000 can be formed with the digits $0,3,5,6,8$ without repetition of any digit in the any number?",
+      "options": [
+        "192",
+        "72",
+        "96",
+        "168"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "5. In how many ways can a selection of three consonants and two vowels be made from the letters of the word 'LOGARITHMS'",
+      "options": [
+        "105",
+        "35",
+        "115",
+        "None"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "6. 3sec⁴θ + 8 = 10 sec² θ হলে, tanθ এর মান কত?",
+      "options": [
+        "±   $\\frac{\\sqrt{3}}{2}$",
+        "±   $\\frac{1}{\\sqrt{3}}$",
+        "± √3",
+        "±   $\\frac{1}{\\sqrt{2}}$"
+      ],
+      "tag": "MBSTU A 19-20"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "7. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "8. The coefficient of the term independent of $x$ in the expansion $\\left(2 x+\\frac{1}{6 x}\\right)^{10}$ is",
+      "options": [
+        "$\\frac{25}{26}$",
+        "$\\frac{27}{28}$",
+        "$\\frac{28}{27}$",
+        "$\\frac{26}{25}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "9. Find the eccentricity of the ellipse $16 x^{2}+25 y^{2}=$ 400.",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{3}{5}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "10. Three forces $4 \\mathrm{~N}, 3 \\mathrm{~N}$ and 6 N act at a point in the direction parallel to the sides $\\mathrm{AB}, \\mathrm{BC}$ and CA of an equilateral triangle $A B C$ respectively. Find their resultant.",
+      "options": [
+        "$\\sqrt{7} \\mathrm{~N}$",
+        "$\\sqrt{6} N$",
+        "$\\sqrt{5} \\mathrm{~N}$",
+        "$\\sqrt{3} \\mathrm{~N}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "11. A particle A is in equilibrium under the following forces as shown below. Find the value of T.\n[IMG: https://assets.chorcha.net/c62bQJGmz7YGDwh5CMAJq.png]",
+      "options": [
+        "$W-\\sqrt{2} P$",
+        "$\\mathrm{W}-\\mathrm{P}$",
+        "$\\sqrt{2} \\mathrm{w}$",
+        "$W+P$"
+      ],
+      "tag": "IUT 23-24,IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "12. A particle starts from rest and travelled 192 m before coming to the rest again. Initially, it travelled with acceleration of $25 \\mathrm{~ms}^{-2}$ and the retardation of $5 \\mathrm{~ms}^{-2}$. Find the maximum velocity of the particle.",
+      "options": [
+        "$10 \\mathrm{~ms}^{-1}$",
+        "$60 \\mathrm{~ms}^{-1}$",
+        "$50 \\mathrm{~ms}^{-1}$",
+        "$40 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "13. Three cards are drawn at random from a pack of 52 cards. Find the probability that the three cards may be King.",
+      "options": [
+        "$\\frac{1}{2304}$",
+        "$\\frac{1}{4032}$",
+        "$\\frac{1}{5525}$",
+        "$\\frac{1}{4608}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "14. A projectile was thrown with 45 degree from the ground at a velocity of $44.3 \\mathrm{~ms}^{-1}$. Calculate the vertical position (with one decimal place) of the projectile at a horizontal distance of 100 m .",
+      "options": [
+        "40.1 m",
+        "50.0 m",
+        "60.5 m",
+        "70.4 m"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "15. Let, $A=\\left[\\begin{array}{ccc}1 & 0 & -k \\\\ 2 & 1 & 3 \\\\ k & 0 & 0\\end{array}\\right]$ is an invertible matrix. Then the value of $k$ is-",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "no answer"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "16. If $p$ and $q(\\neq 0)$ are the roots of the equation $x^{2}+$ $p x+q=0$, then find the least value of $x^{2}+p x+q$ where $\\mathrm{x} \\in \\mathbb{R}$ ?",
+      "options": [
+        "$-\\frac{3}{4}$",
+        "$-\\frac{9}{4}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "17. If the difference between the roots of the equation $x^{2}+m x+1=0$ is less than 0 then the set of possible values of $m$ is-",
+      "options": [
+        "$\\mathrm{m} \\in(-2,2)$",
+        "$\\mathrm{m} \\in(-3,3)$",
+        "$\\mathrm{m} \\in[-2,2]$",
+        "$\\mathrm{m} \\in[-3,3]$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "18. If $(\\sqrt{3}+i)^{42}=4^{20}(p+q i)$, then the value of $p^{2}+$ $\\mathrm{q}^{2}$ is equal to-",
+      "options": [
+        "16",
+        "9",
+        "14",
+        "None of these"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "19. The equation $x+2 y-8=0$ and $2 x+4 y+8=0$ are representing the two sides of a square. What is the area of the square?",
+      "options": [
+        "$\\frac{121}{5}$ sq. unit",
+        "$\\frac{144}{5}$ sq. unit",
+        "$\\frac{81}{5}$ sq. unit",
+        "$\\frac{64}{5}$ sq. unit"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "20. Two tangents of the circle $x^{2}+y^{2}=4$ at points $A$ and $B$ intersect at $P(-4,0)$. What is the area of quadrilateral PAOB, where 0 is the center of the circle?",
+      "options": [
+        "$2 \\sqrt{3}$ sq. unit",
+        "$4 \\sqrt{3}$ sq. unit",
+        "$16 \\sqrt{3}$ sq. unit",
+        "None of these"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "21. Circles are drawn with diameter being any focal chord of the parabola $y^{2}-4 x+4 y-8=0$ will always touch a fixed line, its equation is-",
+      "options": [
+        "$x+\\frac{2}{3}=0$",
+        "$x-7=0$",
+        "$x+4=0$",
+        "none of these"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "22. The foci of the ellipse $\\dfrac{x^{2}}{16} + \\dfrac{y^{2}}{b^{2}} =1$ and the hyperbola $\\dfrac{x^{2}}{144} - \\dfrac{y^{2}}{81} =\\dfrac{1}{25}$ coincide, then the value of $b^{2}$ is:",
+      "options": [
+        "$5$",
+        "$7$",
+        "$9$",
+        "$4$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "23. General solution of $1+\\sin (x) \\sin ^{2}\\left(\\frac{x}{2}\\right)=0$ is-",
+      "options": [
+        "$n \\pi+\\frac{\\pi}{4}$",
+        "$2 n \\pi+\\frac{\\pi}{4}$",
+        "$2 n \\pi+\\frac{\\pi}{6}$",
+        "no solution"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "24. In a $\\Delta ABC$, $\\cos^{2}A+\\cos^{2}B+\\cos^{2}C=\\cos A \\cos B+\\cos B\\cos C+\\cos C\\cos A$, then the triangle is",
+      "options": [
+        "an equilateral triangle",
+        "an obtuse angled triangle",
+        "an isosceles triangle",
+        "a right angled  triangle"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "25. $\\lim _{\\mathrm{x} \\rightarrow 0} \\frac{3^{2 \\mathrm{x}}-2^{3 \\mathrm{x}}}{\\mathrm{x}}$ is equal to-",
+      "options": [
+        "$\\log \\left(\\frac{3}{4}\\right)$",
+        "$\\log \\left(\\frac{3}{2}\\right)$",
+        "$\\log \\left(\\frac{5}{4}\\right)$",
+        "$\\log \\left(\\frac{9}{8}\\right)$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "26. The function $f(x)=-\\frac{x}{2}-\\frac{2}{x}$ has a local minimum at",
+      "options": [
+        "-1",
+        "-2",
+        "2",
+        "1"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "27. Find the area of the closed figure bounded by the following curves\n$y =$ $\\sqrt{x}, y \\, = \\, \\sqrt{4 - 3x}$, y = 0.",
+      "options": [
+        "$\\dfrac 89$",
+        "$\\dfrac 79$",
+        "$\\dfrac 59$",
+        "$\\dfrac 13$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "28. Suppose you have thrown a ball upwards from the rooftop of IUT Academic Building 1 with a velocity of $4 \\mathrm{~m} / \\mathrm{s}$ at an angle of $60^{\\circ}$ with the horizontal line. The ball reaches the ground 10 meters away from the building. The height of the building is-",
+      "options": [
+        "98.72 m",
+        "105.18 m",
+        "110.24 m",
+        "94.75 m"
+      ],
+      "tag": "IUT 23-24,IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "29. On a dark night, a thin man of 6 feet tall walks away from a 24 feet high lamp post at a rate of 5 mph . How fast is the end of his shadow moving?",
+      "options": [
+        "$1 \\frac{2}{3} \\mathrm{mph}$",
+        "$2 \\frac{2}{3} \\mathrm{mph}$",
+        "$6 \\frac{2}{3} \\mathrm{mph}$",
+        "$8 \\frac{2}{3} \\mathrm{mph}$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "30. A ray of light passing through the point $(1,2)$ reflects on the $x$-axis and the reflected ray passes through the point $(5,3)$. The equation of the representing the original ray is-",
+      "options": [
+        "$5 x-4 y-13=0$",
+        "$5 x-4 y-9=0$",
+        "$5 x+4 y+9=0$",
+        "$5 x+4 y-13=0$"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "31. If i2 = - 1 then   $\\sqrt{8 + 6 i} = ?$",
+      "options": [
+        "(3 + i)",
+        "-(3 + i)",
+        "$\\pm \\left ( 3 + i \\right )$",
+        "(3- i)"
+      ],
+      "tag": "IUT 22-23,IUT 17-18"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "32. The equation of the tangent line(s) of the circle $(x-2)^{2}+(y+3)^{2}=160$ is/are-",
+      "options": [
+        "$y+15=\\frac{1}{3}(x-6)$",
+        "$y-9=\\frac{1}{3}(x+2)$",
+        "Both (a) and (b)",
+        "None of (a) and (b)"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "33. A cross-section of a parabolic reflector is shown in the figure below. The light source at the focus of the parabola and the opening of the focus is 10 cm. The equation of the parabola is-[IMG: https://assets.chorcha.net/LecAVEDrGnl3zvcutisnP.png]",
+      "options": [
+        "$y^2\\ =22x$",
+        "y2 = 5x",
+        "y2 =10x",
+        "y2 = 17x"
+      ],
+      "tag": "IUT 22-23,IUT 14-15"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "34. If   $\\left [ \\begin{matrix} a & b \\\\ a_{1} & b_{1} \\end{matrix} \\right ] \\left [ \\begin{matrix} 3 & - 5 \\\\ - 1 & 2 \\end{matrix} \\right ] = \\left [ \\begin{matrix} 1 & - 1 \\\\ 2 & 0 \\end{matrix} \\right ] ,$   then the values of a and b are ?",
+      "options": [
+        "a =1 and b=2",
+        "a= 2 and b= 3",
+        "a = 2 and b= 5",
+        "a = 3and b= 8"
+      ],
+      "tag": "IUT 22-23,IUT 17-18"
+    },
+    {
+      "subject": "Mathematics(35)",
+      "question": "35. The front wheels of an automobile, when run onto a platform scale, are found to support 8010 N , while the rear wheels can support 6680 N . The auto has a 2 m wheel base (distance from the front axle to the rear axle). Locate the center of gravity of the car from the front wheel.",
+      "options": [
+        "0.71 m",
+        "0.81 m",
+        "0.85 m",
+        "0.91 m"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "1. Choose the appropriate word for the blank space to complete the sentence of the following passage:\nIbn al-Haytham's discoveries in optics and vision\n______ centuries of misunderstanding. In his experiments, he observed that light coming through a tiny hole travelled in straight lines and projected an image onto the opposite wall.",
+      "options": [
+        "exaggerated",
+        "overturned",
+        "mimicked",
+        "portrayed"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "2. Choose the appropriate word for the blank space to complete the sentence of the following passage:\nBut he realized that light entering the eye was only the first step in seeing. He built on the work of Greek physician Galen who had ______ a detailed description of the eye and the optic pathways. Today the oldest-known drawing of the nervous system is from Ibn al-Haytham's Book of Optics, in which the eyes and optic nerves are illustrated.",
+      "options": [
+        "concealed",
+        "predicted",
+        "provided",
+        "refused"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "3. Choose the appropriate word for the blank space to complete the sentence of the following passage:\nIbn al-Haytham also subscribed to a method of empirical analysis to accompany theoretical postulates that is similar in certain ways to the scientific method we know today. He realized that the senses were prone to error, and he devised methods of verification, testing and experimentation to 3 . ______ the truth of the natural phenomena he perceived. Up until this time, the study of physical phenomena had been an abstract activity with occasional experiments.",
+      "options": [
+        "unearth",
+        "dilute",
+        "inform",
+        "popularize"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "4. Choose the appropriate word for the blank space to complete the sentence of the following passage:\nAfter his death, Ibn al-Haytham's writings were more 4. _________ in Latin than Arabic. The only significant work in Arabic that built on Ibn alHaytham's ideas was produced in the early part of the fourteenth century (in present day Iran) by Kamal al-Din al-Farisi, who was himself a brilliant scientific thinker. When Ibn alHaytham's Book of Optics was translated into Latin, it had great influence and was widely studied. It was published as a print edition in 1572 so that it could be made more easily available.",
+      "options": [
+        "disparaged",
+        "debated",
+        "acknowledged",
+        "prominent"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "5. Choose the appropriate word for the blank to complete the sentence.\nThe Polish astronomer Johannes Hevelius ____ to honor Ibn al-Haytham, alongside Galileo, in his most famous work on the Moon, Selenographia, published in 1647.",
+      "options": [
+        "negated",
+        "decided",
+        "relented",
+        "refurbished"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "6. Choose the word or phrase which is most nearly opposite in meaning to the given word:\nModest",
+      "options": [
+        "Unhappy",
+        "Conceited",
+        "Sullen",
+        "Glum"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "7. Choose the word or phrase which is most nearly opposite in meaning to the given word:\nTenacious",
+      "options": [
+        "Persistent",
+        "Relentless",
+        "Steadfast",
+        "Yielding"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "8. Choose the word or phrase which is most nearly opposite in meaning to the given word:\nRaze",
+      "options": [
+        "Comfort",
+        "Ease",
+        "Ruin",
+        "Build"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "9. Choose the word or phrase which is most nearly opposite in meaning to the given word.\nImpetuous",
+      "options": [
+        "Sensible",
+        "Arguable",
+        "Tangible",
+        "Dense"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "10. Choose the word or phrase which is most nearly opposite in meaning to the given word:\nExodus",
+      "options": [
+        "Influx",
+        "Evacuation",
+        "Return",
+        "Dense"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "11. Identify the correct synonym by looking for word roots, prefixes, suffixes. Choose the word that means the same or about the same as the italicized word Another year of penury...",
+      "options": [
+        "agony",
+        "distress",
+        "extreme poverty",
+        "disaster"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "12. Identify the correct synonym by looking for word roots, prefixes, suffixes. Choose the word that means the same or about the same as the italicized word .\n... disparaging remarks",
+      "options": [
+        "discouraging",
+        "desperate",
+        "disappointing",
+        "derogatory"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "13. Identify the correct synonym by looking for word roots, prefixes, suffixes. Choose the word that means the same or about the same as the italicized word.\n.... in retrospect",
+      "options": [
+        "admiration",
+        "view of the past",
+        "anticipation",
+        "artistic balance"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "14. Identify the correct synonym by looking for word roots, prefixes, suffixes. Choose the word that means the same or about the same as the italicized word\n... an egregious error.",
+      "options": [
+        "outstandingly bad",
+        "deliberate",
+        "irreparable",
+        "unnecessary"
+      ],
+      "tag": "IUT 22-23"
+    },
+    {
+      "subject": "English(15)",
+      "question": "15. Choose the word that means the same or about the same as the italicized word.\nA misanthrope ....",
+      "options": [
+        "hater",
+        "arrogant",
+        "kind",
+        "loving"
+      ],
+      "tag": "IUT 22-23"
+    }
+  ]
+}

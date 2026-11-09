@@ -1,0 +1,713 @@
+{
+  "title": "CUET 2014-15",
+  "questions": [
+    {
+      "subject": "Physics(20)",
+      "question": "1. Half of a well of $16 \\mathrm{~m}$ depth and $6 \\mathrm{~m}$ diameter was filled with water. A pump of $2 \\mathrm{~kW}$ power and $80 \\%$ efficiency was used to empty the well. But the pump broke down after lifting half of the water. Another pump of $3 \\mathrm{HP}$ power can empty the remaining water within 2 hours.",
+      "options": [],
+      "tag": "RU C 22-23 (SHIFT 3),BUTEX 17-18"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "2. A 1 KW electric kettle at 27°C contains 2 liters of water. The kettle is switched on for 10 minutes. If the rate of heat loss to the surroundings is 160J/sec, what will be the temperature of the kettle in 10 minutes?",
+      "options": [],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "3. A large container has a volume of 480m 3 and a temperature of 293K. What percentage of the air will escape if the temperature is raised to 298K? (Pressure is unchanged)",
+      "options": [
+        "1.71%",
+        "48.71%",
+        "20.1%",
+        "45.9%"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "4. A man of mass 50 kg climbs 20 steps up a flight of stairs in 5 sec. Height of each step is 10cm. How much power did the man use?",
+      "options": [
+        "490 watt",
+        "590 watt",
+        "$1.9\\times{10}^4 \\ watt$",
+        "196 watt"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "5. Lessons up to 1A can be taken with an ammeter. Its internal resistance is 0.81 ohm. To extend its reading range to 10A, the value of what the internal guard must associate with it shall be:",
+      "options": [
+        "0.09Ω",
+        "0.03Ω",
+        "0.3Ω",
+        "0.9Ω"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "6. The value of the current flowing through the 2 ohm resistor will be-\n[IMG: https://assets.chorcha.net/kk81iiECClsaGyIC.webp]",
+      "options": [
+        "0amp",
+        "2amp",
+        "3amp",
+        "4amp"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "7. The speed of an engine driven boat is 14 km per hour. To cross a river in which direction should the boat be steered? If the width of the river is 12.125 km how much time will it take to cross it? Current speed is 7 km per hour",
+      "options": [],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "8. A room of volume $300 \\mathrm{~m}^{3}$ has air temperature of $27^{\\circ} \\mathrm{C}$. Due to use of air cooler, the temperature of the room has decreased to $17^{\\circ} \\mathrm{C}$. If the air pressure inside the room remains constant, what percentage of air comes in the room or goes out from the room?",
+      "options": [
+        "None of them",
+        "$10 \\%$",
+        "$30 \\%$",
+        "$3.33 \\%$"
+      ],
+      "tag": "CUET 15-16,CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "9. A heat engine operates between the steam point and a temperature of 27°C. What is the maximum efficiency of the engine?",
+      "options": [
+        "29.5%",
+        "21.75%",
+        "15.52%",
+        "19.57%"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A (SET A),Ishaque Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "10. The moment of inertia of the two wheels about their axis of rotation are I and 2 I respectively. If their angular momentum is equal, what is the ratio of their angular momentum?",
+      "options": [
+        "1 : 2",
+        "√2 : 1",
+        "1 : √2",
+        "2 : 1"
+      ],
+      "tag": "CUET 14-15,Tapan Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "11. The three masses of a mass system are m1 = 1kg, m2 = 2kg, and m3 = 3kg occupying three corners of a equilateral triangle (1m in length of each arm). Determine its center of mass.",
+      "options": [
+        "$\\left ( \\frac{3.5}{6} , \\frac{\\sqrt{3}}{4} \\right ) \\quad\\text{or}\\quad \\left ( \\frac{\\sqrt{3}}{4} , \\frac{3.5}{6} \\right )$",
+        "$\\left ( \\frac{6}{3.5} , \\frac{4}{\\sqrt{3}} \\right ) \\quad\\text{or}\\quad \\left ( \\frac{6}{3.5} , \\frac{4}{\\sqrt{3}} \\right )$",
+        "$\\left ( \\frac{3.5}{4} , \\frac{6}{4} \\right ) \\quad\\text{or}\\quad \\left ( \\frac{6}{4} , \\frac{3.5}{4} \\right )$",
+        "$\\left ( \\frac{\\sqrt{3}}{3.5} , \\frac{2}{3} \\right ) \\quad\\text{or}\\quad \\left ( \\frac{2}{3} , \\frac{\\sqrt{3}}{- 3.5} \\right )$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "12. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "13. In a magnetic field of 2.7 x 104 am/m, an iron rod of0.2 x 10m-4m 2 area produces a flux of 5.3 x 10-5 Wb. Magnetic induction diagnosis.",
+      "options": [
+        "2.65 Wb/m2",
+        "1.96×10-9 Wb/m2",
+        "1.43 Wb/m2",
+        "2.68Wb/m2"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "14. When a train was moving at $50 \\mathrm{kmh}^{-1}$ speed, the brakes were applied and $60 \\mathrm{cms}^{-2}$ decceleration was created. How far will the train stop?",
+      "options": [
+        "160.55 m",
+        "150.55 m",
+        "277.89 m",
+        "158 m"
+      ],
+      "tag": "CUET 14-15,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "15. A sound source with a frequency of 1050 Hz is moving toward you up a hill at a speed of 20 m/sec. How many vibrational numbers of incoming sounds do you hear? (Velocity of sound = 330 m/sec)",
+      "options": [
+        "970 Hz",
+        "990 Hz",
+        "1115 Hz",
+        "789 Hz"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "16. A ball is thrown vertically down from the roof of a building 23m high. A man standing down catches the ball 3m above the ground. The velocity of the ball at the moment of catch was 40 m/sec. What was the speed of the ball at the moment of throwing?",
+      "options": [
+        "33.9 m/s",
+        "34.8 m/s",
+        "40.7 m/s",
+        "67.8 m/s"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "17. A swimming pool 5.5 m deep is filled with water. If the refractive index of water is 1.33, how far above the actual position will the bottom of the swimming pool be seen from above?",
+      "options": [
+        "4.135 m",
+        "1.36 m",
+        "7.32 m",
+        "6.7m"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "18. The equation of the forward wave flowing on a pulled wire $y = 10 \\sin{\\left ( \\frac{t}{0.2} - \\frac{x}{100} \\right )}$\nwhere x and y are unit centimeters and t are units of seconds. What is the speed of the wave?",
+      "options": [
+        "500 cm/s",
+        "50 m/s",
+        "10 m/s",
+        "400 cm/s"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "19. An emf of 10 V is induced in a coil when change of current is 0.5 A from 0.1 A in one second. The self inductance of the coil will be-",
+      "options": [
+        "25 H",
+        "20 H",
+        "15 H",
+        "10 H"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "20. A vibrating magnet has period of oscillation 2s and mass of inertia 10 -5 kgm 2 . The horizontal component of the geomagnetic field at that location is 30μT. Determine the magnetic flux of the magnet.",
+      "options": [],
+      "tag": "JUST 16-17,KUET 15-16,KUET 12-13,CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "1. A gas of 0.842 kg at a pressure of 98.66 kPa at 20 °C occupies an area of 0.4m. What will be the molecular mass of the gas?",
+      "options": [
+        "510.7",
+        "51.97",
+        "61.97",
+        "5.107"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "2. Choose the correct answer from the following questions.\n(i) Which of the following compounds is found as a byproduct in the soap industry?(ii) What is the structural signal of aspirin?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/ATonfVPmfofEdF7J.webp]",
+        "[IMG: https://assets.chorcha.net/MLflpY_fG3pNq9Lk.webp]",
+        "[IMG: https://assets.chorcha.net/u4tmBzeV0VpSMn2g.webp]",
+        "[IMG: https://assets.chorcha.net/0Cip-KcHGh_hKNCH.webp]"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "3. How many liters of $\\mathrm{CO}_{2}$ gas will be obtained in STP from $120 \\mathrm{~g}$ of $95 \\%$ (w/w) pure limestone dissolving with excess $\\mathbf{H C l}$ acid?",
+      "options": [
+        "29.75",
+        "28.26",
+        "26.89",
+        "25.55"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),JU A 15-16 (SET 3),JU A 15-16 (SET 5),Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "4. Conjugate acid of $\\mathrm{NH}_{3}$ is $\\left(\\mathrm{NH}_{4}^{+}\\right)$whose $\\mathrm{k}_{\\mathrm{a}}=$ $0.5 \\times 10^{-10}$, what is the $\\mathrm{k}_{\\mathrm{b}}$ of $\\mathrm{NH}_{3}$ ?",
+      "options": [
+        "$5 \\times 10^{-4}$",
+        "$2 \\times 10^{-5}$",
+        "$2 \\times 10^{-4}$",
+        "$10^{-5}$"
+      ],
+      "tag": "CUET 14-15,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "5. How mass electric charge is consumed to deposit 63.5 gm cupper on cathode?",
+      "options": [
+        "96.500 C",
+        "1 F",
+        "2 F",
+        "3 F"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "6. Which one of the following pair is isobar to each other?",
+      "options": [
+        "${ }^{64} \\mathrm{Cu}_{29},{ }^{64} \\mathrm{Zn}_{30}$",
+        "${ }^{35} \\mathrm{Cl}_{17},{ }^{34} \\mathrm{~S}_{16}$",
+        "${ }^{30} \\mathrm{Si}_{14},{ }^{31} \\mathrm{P}_{15}$",
+        "${ }^{1} \\mathrm{H}_{1},{ }^{2} \\mathrm{H}_{1}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "7. Which of the following tried nuclei is isotonic?\n[IMG: https://assets.chorcha.net/HX5aBzU9LFGXDU_9faYcz.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "8. 20.5 mL of $0.5 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}$ acid is needed to neutralize a 20 mL NaOH solution. What is the molarity of NaOH solution",
+      "options": [
+        "$1.025 \\mathrm{molL}^{-1}$",
+        "1.025 M",
+        "10.25 M",
+        "None of these"
+      ],
+      "tag": "DU A 11-12,CUET 11-12,CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "9. Choose the correct answer of the following questions.\ni) Which one of the correct answer of the following example of cis-trans isomer?\nii) Which one of the followings is the length of the carbon chain of petrol?",
+      "options": [
+        "Maleic acid; $\\mathrm{C}_{5}-\\mathrm{C}_{12}$",
+        "Lactic acid; $\\mathrm{C}_{13}-\\mathrm{C}_{18}$",
+        "Butane; $\\mathrm{C}_{15}-\\mathrm{C}_{18}$",
+        "Dimethyal Ether; $\\mathrm{C}_{12}$ to $\\mathrm{C}_{15}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "10. Choose the correct answers of the following questions.\ni) Which one is used in preparing moisturizing cream?\nii) The regent used to convert an alkyne to alkene is-",
+      "options": [
+        "Methanol; $\\mathrm{Zn} / \\mathrm{HCl}$",
+        "Ether; $\\mathrm{Sn} / \\mathrm{HCl}$",
+        "Surbital; $\\mathrm{Pd} / \\mathrm{H}_{2}$",
+        "Glycol; $\\mathrm{Zn}-\\mathrm{Hg} / \\mathrm{HCl}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "11. Choose the correct answers of the following questions.\ni) Which one is the meta directing group?\nii) Which is octane number of premiere gasoline?",
+      "options": [
+        "$\\mathrm{SO}_{3} \\mathrm{H} ; 81$",
+        "$-\\mathrm{NH}_{2} ; 100$",
+        "$-\\mathrm{X} ; 74$",
+        "$-\\mathrm{CH}_{3} ;$ None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "12. Choose the correct answers of the following questions.\ni) Which one is the principle product of Hoffmann degradation reaction?\nii) Which one of the following is a complex compound?",
+      "options": [
+        "$\\mathrm{R}-\\mathrm{CONH}_{2} ; \\mathrm{CH}_{3} \\mathrm{COCl}$",
+        "$\\mathrm{R}-\\mathrm{NH}_{2} ; \\mathrm{Ag}\\left(\\mathrm{NH}_{3}\\right) \\mathrm{Cl}$",
+        "$\\mathrm{R}-\\mathrm{COCl} ; \\mathrm{Ca}(\\mathrm{OCl}) \\mathrm{Cl}$",
+        "$\\mathrm{R}-\\mathrm{COBr} ;\\left(\\mathrm{CH}_{3} \\mathrm{CO}\\right)_{2} \\mathrm{O}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "13. The rate constant of basic hydrolysis of an ester $6.21 \\times 10^{-3} \\mathrm{dm}^{3} \\mathrm{~mol}^{-1} \\mathrm{sec}^{-1}$. How much time is required to complete $90 \\%$ of the reaction, if concentration of both ester and base is $0.05 \\mathrm{~mol} . \\mathrm{dm}^{-3}$.",
+      "options": [
+        "$2.89 \\times 10^{4} \\mathrm{~s}$",
+        "$28.98 \\times 10^{4} \\mathrm{~s}$",
+        "2898 s",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "14. The rate constants of a chemical reaction are $2.5 \\times 10^{-2} \\mathrm{~min}^{-1}$ and $7.10 \\times 10^{-2} \\mathrm{~min}^{-1}$ at temperature $25^{\\circ} \\mathrm{C}$ and $35^{\\circ} \\mathrm{C}$ respectively. What is the activation energy of the reaction? $\\mathrm{R}=8.316 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$.",
+      "options": [
+        "$8771 \\mathrm{~J} ~ \\mathrm{mol}^{-1}$",
+        "$87.71 \\mathrm{J}~ \\mathrm{mol}^{-1}$",
+        "$87.71 \\mathrm{KJ}~  \\mathrm{mol}^{-1}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "15. The dissociation of cyclobutane $\\left(\\mathrm{C}_{4} \\mathrm{H}_{8}\\right)$ at $500^{\\circ} \\mathrm{C}$ temperature is a first order reaction. The rate constant of the reaction is $9.2 \\times 10^{-3} \\mathrm{~s}^{-1}$. What time will be required to dissociate $90 \\%$ of a sample solution of 1.0 M?",
+      "options": [
+        "100.82 s",
+        "200.53 s",
+        "250.33 s",
+        "300.25 s"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "16. Choose the correct answers of the following questions.\ni) Which one is the symbol of cryolite?\nii) Which one is used as a Pesticide?",
+      "options": [
+        "$\\mathrm{AlF}_{2} .2 \\mathrm{NaF} ; \\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{Cl}$",
+        "$\\mathrm{AlF}_{3} .3 \\mathrm{NaF} ; \\mathrm{C}_{6} \\mathrm{H}_{6} \\mathrm{Cl}_{6}$",
+        "$\\mathrm{AlF}_{3} .2 \\mathrm{NaF} ; \\mathrm{CH}_{2} \\mathrm{Cl}_{2}$",
+        "$\\mathrm{AlF}_{3} .4 \\mathrm{NaF} ; \\mathrm{CHCl}_{3}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "17. Find the correct answer from the following options.\n(i) Which reagent is used to identify formalin?\n(ii) Natural rubber is the polymer of which compound?",
+      "options": [
+        "i. Tollen reagent, ii. Isoprene",
+        "i. Grignard reagent ii. Isobutane",
+        "i. Lucus reagent ii. Isopropane",
+        "i. Nessler's reagent ii. Isopentane"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "18. Choose the correct answers of the following questions.\ni) By which process petroleum oil is refined?\nii) Which one of the followings is detected by Libermann test?",
+      "options": [
+        "Extractive distillation ; Nitrobenzene",
+        "Destructive distillation ; Anelene",
+        "Steam distillation ; Toluene",
+        "Fractional distillation ; Phenol"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "19. Radius of $\\mathrm{O}^{2-}$ ion 140 Pm and radius of $\\mathrm{Ti}^{4+}$ ion 68 Pm . What will be the co-ordination number of $\\mathrm{TiO}_{2}$ crystal?",
+      "options": [
+        "$6: 3$",
+        "$6: 6$",
+        "$8: 4$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "20. From 0.2175 g organic compound in carious process 0.5825 g barium sulphate is obtained. What is the percentage of sulphur in it?",
+      "options": [
+        "40.45",
+        "36.78",
+        "24.32",
+        "44.36",
+        "50.12"
+      ],
+      "tag": "JUST 16-17,KUET 12-13,CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "1. In this passage, the narrator is a patient of:",
+      "options": [
+        "heart disease",
+        "paralysis",
+        "nervous weakness",
+        "polio"
+      ],
+      "tag": "CUET 14-15,CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "2. In this passage, the word 'brood' refers to:",
+      "options": [
+        "children in the family",
+        "polio victims",
+        "foreign children",
+        "Indian children"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "3. Choose the \"passive Voice \" of the following ' Active Voice\" His conduct annoyed me.",
+      "options": [
+        "I was annoyed at his conduct .",
+        "I was annoyed by his conduct .",
+        "He was annoyed me at his conduct .",
+        "I am annoyed at his conduct."
+      ],
+      "tag": "CUET 12-13,CUET 14-15,CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "4. Choose the \"Synonym” of the word AUGUST:",
+      "options": [
+        "Common",
+        "Ridiculous",
+        "Dignified",
+        "Petty"
+      ],
+      "tag": "CUET 14-15,JnU C 17-18"
+    },
+    {
+      "subject": "English(8)",
+      "question": "5. Choose the correct form of the verb in parentheses in the following sentence:\nAli would rather ____ (sleep) than worked last night.",
+      "options": [
+        "sleep",
+        "have slept",
+        "have been slept",
+        "will slept"
+      ],
+      "tag": "CUET 14-15,CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "6. Choose the complex form of the following simple sentence:\n\"I follow my father's example.\"",
+      "options": [
+        "I follow the example which was set by my father.",
+        "My father not only made an example but I followed it.",
+        "My father asked me to follow this example.",
+        "My father would rather that I follow his example."
+      ],
+      "tag": "CUET 14-15,CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "7. Choose the \"Appropriate Preposition\" to fill in the blank of the following sentence:\n\"The driver stopped just .......... time to avoid an accident.\"",
+      "options": [
+        "in",
+        "by",
+        "at",
+        "on"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "English(8)",
+      "question": "8. Identify the correct translation: সত্যিকারের ফুলও হয়তো এর চেয়ে খুব একটা বেশি সুগন্ধি হতো না।",
+      "options": [
+        "Real flowers hardly could have smelt better.",
+        "Real flowers could hardly have smelt better.",
+        "Real flowers could have smelt better hardly.",
+        "Real flowers could smelt better hardly."
+      ],
+      "tag": "DU (B) 99-00, CHUET (Set A) 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "1. In the case of triangle $A B C$ if $a^{4}+b^{4}+c^{4}=2 c^{2}\\left(a^{2}+b^{2}\\right)$, the value of $\\cos C$ will be-",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\pm \\frac{1}{\\sqrt{2}}$",
+        "$\\pm \\frac{\\sqrt{3}}{2}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "2. For what value a, the value of $\\cos A \\sin \\left(a-\\frac{\\pi}{6}\\right)$ will be maximum?",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "3. If $\\sin \\alpha+\\sin \\beta=a$ and $\\cos \\alpha+\\cos \\beta=b$, what is the value of $\\cos (\\alpha-\\beta)$ ?",
+      "options": [
+        "$\\frac{a^{2}+b^{2}+2}{2}$",
+        "$\\frac{a^{2}+b^{2}-2}{2}$",
+        "$\\frac{a^{2}-b^{2}-2}{2}$",
+        "$\\frac{a^{2}-b^{2}+2}{2}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "4. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "5. If $x=\\tan ^{-1} \\sqrt{\\frac{1-\\cos \\theta}{1+\\cos \\theta}}$ and $y=\\tan ^{-1} \\frac{\\cos \\theta}{1+\\sin \\theta}$, what is the value of $\\frac{d y}{d x}$ ?",
+      "options": [
+        "-1",
+        "1",
+        "$\\pm 1$",
+        "0"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "6. Find the area bounded by the parabola $y^{2}=4 x$ and the straight line $y=x$.",
+      "options": [
+        "$\\frac{1}{2}$ sq. unit",
+        "$\\frac{5}{3}$ sq. unit",
+        "$\\frac{8}{3}$ sq. unit",
+        "$\\frac{7}{3}$ sq. unit"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "7. If the root a of equation $x^{3}-2 x^{2}-x+2=0$ lines in the range $-2 < x < 0$, the value of $3 a^{3}+2 a^{2}+1$ is-",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "8. A perpendicular is drawn on the line $x-\\sqrt{3} y+4=0$ from the point $(1,2)$.\nWhat is the distance of that perpendicular from the origin?",
+      "options": [
+        "$\\frac{-2-\\sqrt{3}}{2}$",
+        "$\\frac{2+\\sqrt{3}}{2}$",
+        "$\\frac{2 \\pm \\sqrt{2}}{2}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "9. The points $A(5,3), B(-2,0)$ and $C(1,1)$ are on a circle. Find the distance between the center of the circle and center of gravity of the triangle $A B C$.",
+      "options": [],
+      "tag": "RU C 21-22 (GROUP 1),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 19-20,BUTEX 11-12,BUTEX 07-08,BUTEX 06-07"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "10. A piece of stonc fell from a balloon after 20 seconds when it was flying in the upward direction with velocity $20 \\mathrm{~m} / \\mathrm{sec}$. What was the height of the balloon when the stone hit the ground?",
+      "options": [
+        "$390 \\mathrm{~m}$",
+        "$560 \\mathrm{~m}$",
+        "$12580 \\mathrm{~m}$",
+        "$1960 \\mathrm{~m}$"
+      ],
+      "tag": "DB 22,DU A  10-11,BUET 13-14,CUET 14-15,JU A 15-16 (SET 4),BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "11. A bullet thrown from a gun passes horizontally just over a wall of 75 feet height situated at 50 yards from the thrown point. Find the velocity and direction of the bullet.",
+      "options": [
+        "$97.98 \\mathrm{fps}, 45^{\\circ}$",
+        "$97.98 \\mathrm{fps}, 30^{\\circ}$",
+        "$9.798 \\mathrm{fps}, 45^{\\circ}$",
+        "$9.798 \\mathrm{fps}, 60^{\\circ}$"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "12. A man can swim at a velocity to $3 \\mathrm{~km} / \\mathrm{hr}$ directly across a river of breadth 177 meter having no current. What will be the shortest time to cross the river? If the velocity of current is $5 \\mathrm{~km} / \\mathrm{hr}$, how far form the opposite point of the staring point the man will reach?",
+      "options": [
+        "$3.54 \\mathrm{~sec}, 295 \\mathrm{~m}$",
+        "$3.54 \\mathrm{~min}, 295 \\mathrm{~m}$",
+        "$3.54 \\mathrm{~sec}, 2.95 \\mathrm{~m}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "13. A body of mass 4 kg falls from a height of 150 meters and comes to rest after penetrating 2 meters in mud. The average thrust of mud on it will be-",
+      "options": [
+        "2979.2 N",
+        "2879.2 N",
+        "2880.2 N",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "14. The forces of magnitude $1,2,8,5,5 \\sqrt{2}$ and $2 \\sqrt{2}$ units are acting along the sides $\\mathrm{AB}, \\mathrm{BC}, \\mathrm{CD}$ and DA and along the diagonals $A C$ and $B D$ of a square $A B C E$ respectively. If each side of the square $A B C D$ is 5 unit, the resultant of the forces would be-",
+      "options": [
+        "30 units",
+        "50 units",
+        "40 units",
+        "None of them"
+      ],
+      "tag": "CUET 13-14,CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "15. Weight of a horizontal bridge of length 24 m is 5 ton. The bridge lies on two pillars at its two ends. If a vehicle of weight 3 ton stands on the bridge at $2 / 3$ distance away from one side, find the pressure on the both pillars.",
+      "options": [
+        "4.5 ton-wt, 3.5 ton-wt",
+        "5.5 ton-wt, 3.5 ton-wt",
+        "4.5 ton-wt, 5.5 ton-wt",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "16. Find the constant a such that the three vectors $2 \\underline{i}-\\underline{j}+\\underline{k}, \\underline{i}+2 \\underline{j}-3 \\underline{k}$ and $3 \\underline{i}+a \\underline{j}+5 \\underline{k}$ are coplanar.",
+      "options": [
+        "0",
+        "-4",
+        "-6",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "17. Using the digits $0,3,5,6,8$ and without repeating any digit, how many numbers can be formed whose value is greater than 4000?",
+      "options": [
+        "144",
+        "192",
+        "168",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "18. If the co-efficient of $x^{8}$ is zero in the expression of $(1+x)(a-b x)^{12}$, find the simplest form the value of the ratio $\\frac{a}{b}$.",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{5}{8}$",
+        "None of them"
+      ],
+      "tag": "CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(19)",
+      "question": "19. Which sallest number is to be added to the binary number $(101101)_{2}$ to have the sum exactly divisible by 16?",
+      "options": [
+        "$(101)_{2}$",
+        "$(11)_{2}$",
+        "$(0011)_{2}$",
+        "Both b & c"
+      ],
+      "tag": "CUET 14-15"
+    }
+  ]
+}

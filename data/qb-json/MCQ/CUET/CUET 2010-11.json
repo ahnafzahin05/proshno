@@ -1,0 +1,1069 @@
+{
+  "title": "CUET 2010-11",
+  "questions": [
+    {
+      "subject": "Mathematics(28)",
+      "question": "1. For what value of $k$ the circle $x^{2}+y^{2}+k x+2 y+25=0$ touches the $x$-axis?",
+      "options": [
+        "5",
+        "-5",
+        "10",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "2. What does this equation $9 x^{2}-16 y^{2}-36 x-32 y-124=0$ represent",
+      "options": [
+        "Hyperbola",
+        "Ellipse",
+        "Parabola",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "3.\n$\\left|\\begin{array}{ccc}2 & 0 & 0 \\\\ 4 & 6 & 12 \\\\ x-8 & -x-3 & -x-10\\end{array}\\right|=0$ What will be the value of $x$ ?",
+      "options": [
+        "4",
+        "$-16 / 3$",
+        "17",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "4. For what values of $m$, the roots of the equation $\\left(m^{2}-3\\right) x^{2}+3 m x+(3 m+1)=0$, will be reciprocal to each other.",
+      "options": [
+        "4 or -1",
+        "-4 or +1",
+        "$\\frac{1}{4}$ or -1",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "5. Integrate: $\\int \\frac{d x}{x \\sqrt{\\left(x^{2}+1\\right)}}$",
+      "options": [
+        "$\\sec ^{-1} x+C$",
+        "$\\operatorname{cosec}^{-1} x+C$",
+        "$-x^{2} \\sqrt{x^{2}-1}+C$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "6. If $y=1 / x$, then what is the 20th derivative of $y$ ?",
+      "options": [
+        "$\\frac{20!}{x^{20}}$",
+        "$\\frac{20!}{x^{21}}$",
+        "$\\frac{21!}{x^{21}}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "7. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "8. Differentiate: $\\frac{d}{d x} \\sqrt[3]{\\left(5 x^{2}-4\\right)}$",
+      "options": [
+        "$\\frac{x}{3 \\sqrt[3]{\\left(5 x^{2}-4\\right)}}+c$",
+        "$\\frac{10 x}{3 \\sqrt[3]{\\left(5 x^{2}-4\\right)^{2}}}+c$",
+        "$\\frac{10 x}{\\sqrt[3]{\\left(5 x^{2}-4\\right)^{2}}}+c$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "9. What is the value of $\\sec ^{2}\\left(\\tan ^{-1} 4\\right)+\\tan ^{2}\\left(\\sec ^{-1} 3\\right) ?$",
+      "options": [
+        "5",
+        "25",
+        "7",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "10. Find the value of $\\theta$ if $\\sin \\theta+\\cos \\theta=\\sqrt{2}$",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "11. What are the points on the $y$-axis whose perpendicular distance from the straight line $3 y=4 x-10$ is 4 ?",
+      "options": [
+        "$(0,10)$ and $(0,-10 / 3)$",
+        "$(0,10)$ and $(0,10 / 3)$",
+        "$(0,-10)$ and $(0,10 / 3)$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "12. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "13. If $(1,1),(4,4),(4,8)$ and $(1,5)$ are the vertices of a parallelogram, then length of one of the diagonal is-",
+      "options": [
+        "$3 \\sqrt{2}$",
+        "$4$",
+        "$\\sqrt{10}$",
+        "$8$"
+      ],
+      "tag": "JGCC 24,CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "14. A pilot drops a bomb from a height 4900 m while flying at a velocity of $126 \\mathrm{~km} / \\mathrm{hour}$. What would be the required horizontal distance of the target body ( $\\mathrm{g}=9.8 \\mathrm{~m} / \\mathrm{s}^{2}$ )?",
+      "options": [
+        "1106.8 m",
+        "553.4 m",
+        "1660.2 m",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "15. What is value of $i^{-65}$ ?",
+      "options": [
+        "-1",
+        "1",
+        "-i",
+        "i"
+      ],
+      "tag": "All.B 18,CTG.B 17,CUET 10-11,JU A 18-19 (SET P)"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "16. Evaluate: $\\int \\frac{d x}{\\cos ^{2} x \\sqrt{1+\\tan x}}$",
+      "options": [
+        "$2 \\sqrt{1+\\tan x}+C$",
+        "$\\sqrt{1+\\tan x}+C$",
+        "$2 \\sqrt{1+\\tan x}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "17. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "18. A heavy uniform wooden plank 20 m long rests horizontally on two pegs. First peg is at one end of the wooden plank and the second peg is at 5 m away from the other end of the wooden plank. What will be the weight of the wooden plank without over turning it by suspending maximum 50 kg weight at the free end of the plank?",
+      "options": [
+        "33.33 kg",
+        "50 kg",
+        "25 kg",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "19.  If a stone is dropped in an empty well which reaches the bottom of the well in 3 sec , then the depth of the well will be: $\\left(g=9.81 \\mathrm{~ms}^{2}\\right)$",
+      "options": [
+        "14.72 m",
+        "88.29 m",
+        "44.15 m",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "20. If $f(x)=\\left\\{\\frac{x^{2}-3 x, x \\geq 2}{x+2, x<2}\\right\\}$ then find the value of $f(2)+f(-2)$",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "21. If the $5^{\\text {th }}$ and $6^{\\text {th }}$ terms in the expansion of $(1+3 x)^{10}$ are equal, find the value of $x$.",
+      "options": [
+        "$\\frac{2}{5}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{8}{25}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "22. From the word 'THESIS' taking 4 letters in each time what will be the combination number?",
+      "options": [
+        "24",
+        "12",
+        "5",
+        "11",
+        "14"
+      ],
+      "tag": "JUST 16-17,MBSTU 19-20,RUET 11-12,CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "23. Find a unit vector which is parallel to xy plane and perpendicular to the vector $\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$ ?",
+      "options": [],
+      "tag": "DU A 22-23,RUET 14-15,CUET 10-11,BUTEX 20-21"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "24. A box has 8 red, 4 black and 3 white balls. If 3 balls are picked randomly, what will be the probability that at least 2 of them are red?",
+      "options": [
+        "$\\frac{1}{15}$",
+        "$\\frac{36}{65}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{8}{15}$"
+      ],
+      "tag": "CU A 19-20,RUET 11-12,RUET 13-14,KUET 10-11,CUET 15-16,CUET 10-11,JU H 19-20 (SET E)"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "25. If $a, b \\in R$, then find the value of $|a-b|$ ?",
+      "options": [
+        ">||$a|-| b||$",
+        "$=|| a|-| b||$",
+        "$\\geq|| a|-| b||$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "26. $2 \\hat{i}+a \\hat{j}-\\hat{k}$ and $a \\hat{i}+\\hat{j}+9 \\hat{k}$ are perpendicular to each other, then the value of ' $a$ ' is:",
+      "options": [
+        "3",
+        "-3",
+        "9",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "27. What is the sum of the series $0.3+0.003+0.00003+\\cdots ?$",
+      "options": [
+        "$\\frac{10}{33}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{33}$",
+        "$\\frac{33}{100}$"
+      ],
+      "tag": "JnU 16-17,CUET 10-11"
+    },
+    {
+      "subject": "Mathematics(28)",
+      "question": "28. The value of $(11.01)_{2}+(11.11)_{2}=(a)_{10}$ ' $a$ ' is-",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "1. What is the magnitude of current I in the circuit?\n[IMG: https://assets.chorcha.net/PbRgD-yeZaXOC9fq.webp]",
+      "options": [
+        "2A",
+        "7.5A",
+        "5A",
+        "which is not"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "2. Find the half angular width of the central bright maximum in the Fraunhofer diffraction pattern of a slit of width $12 \\times 10^{-5} \\mathrm{~cm}$ when the slit is illuminated by monochromatic light of wave length 6000 A .",
+      "options": [
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$15^{\\circ}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "3. A lift having a mass of $1.5 \\times 10^{6} \\mathrm{gm}$ is suspended by a steel wire. The maximum acceleration of the lift is $1.2 \\mathrm{~ms}^{-2}$ and breaking stress is $3.0 \\times 10^{8} \\mathrm{~N} / \\mathrm{m}^{2}$ when it moves along upward direction. What is the minimum radius of wire?",
+      "options": [
+        "$3.7 \\times 10^{-3} \\mathrm{~m}$",
+        "$4.19 \\times 10^{-3} \\mathrm{~m}$",
+        "$4.33 \\times 10^{-3} \\mathrm{~m}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "4. Which one is invisible to human eye?",
+      "options": [
+        "X-ray",
+        "Infrared radiation",
+        "Ultraviolet ray",
+        "All of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "5. A light ray incident at an angle of $60^{\\circ}$ on the reflective surface of diamond gives an angle of refraction is $12^{\\circ}$. What is the angle of polarization of diamond?",
+      "options": [
+        "$4.16^{\\circ}$",
+        "$13.5^{\\circ}$",
+        "$67.5^{\\circ}$",
+        "$76.5^{\\circ}$"
+      ],
+      "tag": "JCC 24,DCC 24,CUET 15-16,CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "6. Pure water is cooled from 10°C to 1°C, the volume of water is",
+      "options": [
+        "will increase",
+        "will decrease",
+        "First it will increase and then it will decrease",
+        "It will first decrease and then increase"
+      ],
+      "tag": "RU H 14-15 (G-ODD)"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "7. An electric bulb of 60 W and a 100 V battery is connected in series with a copper voltmeter. After 0.5 hour $3.6 \\times 10^{-4} \\mathrm{~kg}$ copper was accumulated at the cathode of the voltmeter. Determine the electro-chemical equivalence of the copper.",
+      "options": [
+        "$3.29 \\times 10^{-7} \\mathrm{kgC}^{-1}$",
+        "$3.30 \\times 10^{-7} \\mathrm{kgC}^{-1}$",
+        "$3.33 \\times 10^{-7} \\mathrm{kgC}^{-1}$",
+        "$3.31 \\times 10^{-7} \\mathrm{kgC}^{-1}$"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "8. The acceleration due to gravity of earth is $980 \\mathrm{~cm} / \\mathrm{sec}^{2}$. The escape velocity of a particle is 11.2 $\\mathrm{km} / \\mathrm{sec}$. What is the radius of the earth?",
+      "options": [
+        "6400 km",
+        "640 km",
+        "64000 km",
+        "None of these"
+      ],
+      "tag": "CUET 10-11,Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "9. A pendulum has time period more than 2 sec . As a result it slows down 20 sec in a day. How much the length of the pendulum should be changed in percentage, so that its time period will be exactly 2 sec ?",
+      "options": [
+        "$2.0046 \\%$",
+        "$0.046 \\%$",
+        "$199 \\%$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "10. Two 100 watt, 230 V electric bulbs are connected in series and the combination is connected to 230 V source. What is the total power consumption of the series combination?",
+      "options": [
+        "200 W",
+        "100 W",
+        "50 W",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "11. Quantity of charge required to liberate 1 gm equivalent of the substance by electrolysis is-",
+      "options": [
+        "965 Coulomb",
+        "96500 Coulomb",
+        "2100 Coulomb",
+        "4.47 Coulomb"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "12. 1 gm of Radium is reduced by 2.1 mg is 5 years by $\\alpha$-decay. Calculate the half-life period of Radium.",
+      "options": [
+        "1672 Years",
+        "3888 Years",
+        "1648.6 year",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "13. Determine the position where the kinetic energy of the freely falling body from 30 m of height will be twice of its potential energy.",
+      "options": [
+        "10 m",
+        "25 m",
+        "28 m",
+        "None of these"
+      ],
+      "tag": "RU C 21-22 (GROUP 2),BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "14. A rod is moving with a velocity 0.6 times the velocity of light with respect to the laboratory. An observer staying in the laboratory measures its length as 1 m . Calculate the proper length of the rod.",
+      "options": [
+        "1.25 m",
+        "0.8 m",
+        "1.09 m",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "15. The internal resistance of a pn junction is 40Ω. If its potential difference changes by 0.2 V , what will be the change in the secondary current?",
+      "options": [
+        "4 mA",
+        "5 mA",
+        "8 mA",
+        "12 mA"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU A 18-19 (SET A),JU H 16-17 (SET 3),BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "16. Which group represents Khirchoff's laws?",
+      "options": [
+        "$\\sum 1=0$ and $\\sum \\mathrm{IR}=0$",
+        "$\\sum \\mathrm{IR}=0$ and $\\sum \\mathrm{R}=\\sum \\mathrm{E}$",
+        "$\\sum \\mathrm{I}=0$ and $\\sum \\mathrm{IR}=\\sum \\mathrm{E}$",
+        "$\\sum \\mathrm{R}=0$ and $\\sum \\mathrm{l}=0$"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "17. Each of two masses having $0.05 \\mathrm{~kg}$ is attached of in and of same element suspended from firm support. he diameters of the wires are respectively $2 \\mathrm{~mm}$ and $4 \\mathrm{~mm}$ (young’s modulus = $2\\ \\times10^{11}Nm^{-2}$)",
+      "options": [],
+      "tag": "RU C 20-21 (GROUP 1),Ishaque Sir,Pramanik Sir,BUTEX 20-21,BUTEX 18-19,BUTEX 09-10"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "18. A heat engine operates between the steam point and a temperature of 27°C. What is the maximum efficiency of the engine?",
+      "options": [
+        "29.5%",
+        "21.75%",
+        "15.52%",
+        "19.57%"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A (SET A),Ishaque Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "19. The resistance of wire can be measured by:",
+      "options": [
+        "Wheatstone bridge",
+        "Meter bridge",
+        "Post office box",
+        "All of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "20. Modern jet aircraft are powered by which formula?",
+      "options": [
+        "Newton's first law of motion",
+        "Law of Constancy of Momentum",
+        "Law of gravity",
+        "Avogadro's formula"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "21. In a Young's double slit experiment the separation of the slits is 1.9 mm and the fringe spacing is 0.31 mm at a distance of 1 m from the slits. Calculate the wavelength of light.",
+      "options": [
+        "$5890 \\AA$",
+        "$2945 \\AA$",
+        "$1631.5 \\times 10^{-2} \\mathrm{~m}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "22. A bullet from a gun moving with a velocity of $100 \\mathrm{~ms}^{-1}$ penetrates a wall of 2 m thick and acquires a velocity of $50 \\mathrm{~ms}^{-1}$ just after penetration. What will be the thickness of the wall required to stop the bullet completely while moving with a velocity of $100 \\mathrm{~ms}^{-1}$ ?",
+      "options": [
+        "2.67 m",
+        "1.33 m",
+        "0.667 m",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "23. Paramagnetic material is:",
+      "options": [
+        "Lightly repulsive with a magnet",
+        "Lightly attractive with a magnet",
+        "Strongly attractive with a magnet",
+        "Strongly repulsive with a magnet"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "24. 1000 drops of water each having diameter of $10^{-4} \\mathrm{~m}$, are mixed to form a big drop of water. What is the radius of the big drop of water?",
+      "options": [
+        "$10^{-2} \\mathrm{~m}$",
+        "$1 / 10 \\mathrm{~m}$",
+        "$5 \\times 10^{-4} \\mathrm{~m}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "25. A person cannot see an object at a distance less than 50 cm . If the person wants to see clearly the object at a distance 25 cm or less, what will be the power of the lens?",
+      "options": [
+        "+2 Dioptre",
+        "-2 Dioptre",
+        "-2.5 Dioptre",
+        "+2.5 Dioptre"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "26. Two pure tones are sounded tougher and a particular beat frequency is heard. What happens to beat frequency if the frequency of one of the tones is increased?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It remains same",
+        "It could either increase or decrease"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "27. A 2.0 m long wire is moved with a velocity $30 \\mathrm{~m} / \\mathrm{sec}$ in perpendicular with the magnetic field of $180 \\mu \\mathrm{T}$. What will be the induced emf?",
+      "options": [
+        "180 mV",
+        "10.8 mV",
+        "3 mV",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "28. The secondary coil of an ideal transformer has a potential difference of $100 \\mathrm{~V}(\\mathrm{mms})$. A resistance of 5 ohm is connected across the secondary coil. What will be the maximum value of the current flowing through the resistance.",
+      "options": [
+        "20 amp",
+        "28.28 amp",
+        "14.14 amp",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "29. The force exerted on a stretched wire is quadrupled without changing its length. How much will the frequency of the wire change?",
+      "options": [
+        "double",
+        "three times",
+        "four times",
+        "five times"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,BUET 10-11,CUET 10-11,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "30. The ratio of emission of radiated energy from the unit area of two similar black bodies is $256: 1$. If the temperature of one is 1600 K , what is the temperature of the other?",
+      "options": [
+        "400 K",
+        "6400 K",
+        "$400^{\\circ} \\mathrm{C}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "1. Choose correct \"indirect speech\" for the following \"direct speech\" He said, \"I shall start tomorrow\"",
+      "options": [
+        "He said that he would start tomorrow",
+        "He said that he should start the next day",
+        "He said that he should start tomorrow",
+        "He said that he started tomorrow"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "2. Choose the appropriate preposition to fill in the blank for the following sentence.\n\"Find out the clue____the mystery.\"",
+      "options": [
+        "of",
+        "for",
+        "in",
+        "to"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "3. Choose the synonym of the following word/verbal idiom.\"Take over for\"",
+      "options": [
+        "Receive",
+        "Talk over",
+        "Submit",
+        "Substitute for"
+      ],
+      "tag": "CUET 10-11,CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "4. Find the correct sentence from the following sentences.",
+      "options": [
+        "Do you know who I am?",
+        "How you can do it?",
+        "Tell me how are you?",
+        "Do you know with whom are you speaking?"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "5. Choose the antonym of the following word/verbal idiom. \"Care for\"",
+      "options": [
+        "Dislike",
+        "Support",
+        "Provide for",
+        "Like"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "6. Find out the incorrect sentence from the following sentences.",
+      "options": [
+        "The book belongs to me.",
+        "He told me to go there.",
+        "Why you did it?",
+        "I hope you will come"
+      ],
+      "tag": "CUET 10-11,CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "7. Choose the correct 'passive voice' for the following 'active voice'. \"I see her every summer.\"",
+      "options": [
+        "She is seen by me every summer",
+        "She sees me every summer",
+        "Every summer she sees me",
+        "None of them"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "8. Select the complex sentence from the following sentences.",
+      "options": [
+        "I called him without getting his answer",
+        "I called him but he did not answer",
+        "He did not answer to my call",
+        "Though I called him, he did not answer"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "9. ________, he would have been able to pass the admission test.",
+      "options": [
+        "If he studied more",
+        "If he were studying to a greater degree",
+        "Had he studied more",
+        "Studying more"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "English (10)",
+      "question": "10. The word \"defying\" is closest in meaning to-",
+      "options": [
+        "disregarding",
+        "upholding",
+        "altering",
+        "defending"
+      ],
+      "tag": "CUET 10-11,CU C 16-17,CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "1. 0.030 mg arsenic is obtained after analyzing 1 L water of a tube well. What is the concentration of arsenic in this water?",
+      "options": [
+        "30 ppb",
+        "300 ppb",
+        "30 ppm",
+        "300 ppm"
+      ],
+      "tag": "CUET 13-14,CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "2. How many grams of glucose are present in 100 mL of 0.1 M glucose solution?",
+      "options": [
+        "180 g",
+        "18 g",
+        "1.8 g",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "3. The density of hydrogen ion of a fruit juice is $3.3 \\times 10^{-2} \\mathrm{M}$. What will be the pH of that juice?",
+      "options": [
+        "2.00",
+        "1.48",
+        "4.48",
+        "2.18"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "4. Which one of the following elements is diagonally related with Boron in modern periodic table?",
+      "options": [
+        "Silicon",
+        "Magnesium",
+        "Phosphorous",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "5. How many $\\mathrm{CO}_{2}$ molecules are present in $2.5 \\mathrm{LCO}_{2}$ gat at STP ?",
+      "options": [
+        "$5.71 \\times 10^{23}$",
+        "$6.72 \\times 10^{23}$",
+        "$6.023 \\times 10^{23}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "6. At standard temperature and pressure, what is the volume of $\\mathrm{CO}_{2}$ in liter produced from burning $1.5 \\mathrm{~g}$ of carbon in air?",
+      "options": [
+        "$2.8 \\mathrm{~L}$",
+        "$0.357 \\mathrm{~L}$",
+        "$14.9 \\mathrm{~L}$",
+        "$1.9 \\mathrm{~L}$"
+      ],
+      "tag": "JUST 17-18,CUET 10-11,JU A 18-19 (SET P)"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "7. What will be the molarity of a $0.1 \\mathrm{NH}_{2} \\mathrm{SO}_{4}$ solution?",
+      "options": [
+        "$M / 5$",
+        "$M / 10$",
+        "$M / 20$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "8. Which one of the following is neutral oxide?",
+      "options": [
+        "$\\mathrm{PbO}_{2}$",
+        "$\\mathrm{BaO}_{2}$",
+        "$\\mathrm{Fe}_{2} \\mathrm{O}_{3}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "9. Which one is the electronic configuration of Kr ?",
+      "options": [
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{10} 4 s^{2} 4 p^{6}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{10} 4 s^{2} 4 p^{6} 4 d^{10} 5 s^{2} 5 p^{6}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "10. In reaction $\\mathrm{N}_{2}(\\mathrm{~g})+3 \\mathrm{H}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NH}_{3}(\\mathrm{~g}), 21 \\% \\mathrm{~N}_{2}$ and $16 \\% \\mathrm{NH}_{3}$ remain in equilibrium condition at 700 K . temperature and 1 atmospheric pressure. What is the value of $\\mathrm{K}_{\\mathrm{p}}$ ?",
+      "options": [
+        "$1.097 \\times 10^{-2} \\mathrm{~atm}^{-2}$",
+        "$4.6 \\times 10^{-2} \\mathrm{~atm}^{-2}$",
+        "$1.2 \\times 10^{-3} \\mathrm{~atm}^{-2}$",
+        "None of these"
+      ],
+      "tag": "MGCC 24,CUET 11-12,CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "11. What will be the $\\mathrm{P}^{\\mathrm{H}}$ value of a 0.0001 M HCl solution?",
+      "options": [
+        "4.0",
+        "3.0",
+        "3.5",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "12. How many Ca atoms will deposit on the electrode when 25.0 mA electricity is passed to the $\\mathrm{CaCl}_{2}$ solution for 60 sec ?",
+      "options": [
+        "$4.68 \\times 10^{18}$",
+        "$9.36 \\times 10^{18}$",
+        "$9.36 \\times 10^{36}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "13. How much Cu will be accumulated when an electric current of 5.0 amp is passed through a $\\mathrm{CuSO}_{4}$ solution for a period of 60 min ?",
+      "options": [
+        "0.987 g",
+        "5.922 g",
+        "59.22 g",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "14. Which one of the following reagents is used for identification of alcohol?",
+      "options": [
+        "Tollen reagent",
+        "Grignard reagent",
+        "Lucas reagent",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "15. What is the role of water in the reaction of $\\mathrm{H}_{2} \\mathrm{O}+\\mathrm{NH}_{3}=\\mathrm{NH}_{4}^{+}+\\mathrm{OH}^{-}$?",
+      "options": [
+        "Acid",
+        "Base",
+        "Neutral compound",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "16. Which one of the following gives precipitate with Tollen reagent?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$",
+        "CHOH",
+        "$\\left(\\mathrm{CH}_{3} \\mathrm{CO}\\right) \\mathrm{CO}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "17. What is the chemical formula of cholro picrin?",
+      "options": [
+        "$\\mathrm{F}_{2} \\mathrm{ClC}-\\mathrm{CClF}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CN}$",
+        "$\\mathrm{CCl}_{3}-\\mathrm{NO}_{2}$",
+        "$\\left(\\mathrm{CH}_{3}\\right)_{3} \\mathrm{C}-\\mathrm{OH}$"
+      ],
+      "tag": "DU A 16-17,CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "18. What would be the volume of pure hydrogen at STP required to reduce 80g of Cupric oxide?",
+      "options": [
+        "$22.54L$",
+        "$22.40L$",
+        "$26.32L$",
+        "$None\\ \\ of\\ these\\$"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "19. The pH value of a solution is 3.6 , what will be the value of its $\\left[\\mathrm{H}^{+}\\right]$?",
+      "options": [
+        "$2.51 \\times 10^{-3} \\mathrm{~mol} / \\mathrm{L}$",
+        "$2.51 \\times 10^{-5} \\mathrm{~mol} / \\mathrm{L}$",
+        "$2.51 \\times 10^{-4} \\mathrm{~mol} / \\mathrm{L}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "20. $\\mathrm{H}-\\mathrm{CHO}+\\mathrm{NaOH}=\\mathrm{CH}_{3} \\mathrm{OH}+\\mathrm{HCOONa}$ is what type of reaction?",
+      "options": [
+        "Hexamin reaction",
+        "Grignard reaction",
+        "Cannizzaro reaction",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "21. The electronic configuration of the outermost energy level of Group-IIIA elements is:",
+      "options": [
+        "$\\mathrm{ns}^{2} n p^{4}$",
+        "$n s^{2} n p^{2}$",
+        "$n s^{2} n p^{1}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "22. Ionization potential increases while moving from left to right in a period of periodic table, because-",
+      "options": [
+        "Nuclear charge increases",
+        "Number of electron increases",
+        "Atomic size changes",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "23. 500 mL solution is prepared by dissolving 3.8 g NaOH pilet in water. What will be the concentration of that solution?",
+      "options": [
+        "0.19 M",
+        "0.019 M",
+        "0.0019 M",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "24. The mass number and atomic number of P element are 31 and 15 respectively. What is the number of neutrons in its nucleus?",
+      "options": [
+        "15",
+        "16",
+        "31",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "25. Chlorial is used as:",
+      "options": [
+        "Vomiting agent",
+        "D.D.T.",
+        "Lice killer",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "26.\nWhich one of the following is a complex compound?",
+      "options": [
+        "$\\mathrm{CH}_{3}-\\mathrm{CO}-\\mathrm{Cl}$",
+        "$\\mathrm{Ag}\\left(\\mathrm{NH}_{3}\\right)_{2} \\mathrm{Cl}$",
+        "$\\mathrm{Ca}(\\mathrm{OCl}) \\mathrm{Cl}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "27. Which of the following methods is used to separate mixtures of two or more liquids with nearer boiling point?",
+      "options": [
+        "Distillation",
+        "Steam distillation",
+        "Sublimation",
+        "Fractional distillation"
+      ],
+      "tag": "DU A 16-17,CUET 10-11,JU A 21-22 (SET I),JU A 21-22 (SET F),JU D 19-20 (SET A),Guha Sir,Kabir Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "28. If at $27^{\\circ} \\mathrm{C}$ temperature and constant pressure the heat of formation of $\\mathrm{CH}_{4}$ is $-74.89 \\mathrm{~kJ} / \\mathrm{mol}$, then what will be the heat of formation of $\\mathrm{CH}_{4}$ at constant volume?",
+      "options": [
+        "$-69.9 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "$-72.39 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "$-79.87 \\mathrm{~kJ} / \\mathrm{mol}$",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "29. Octane Number of a automobile fuel is 80 ; means a mixture of-",
+      "options": [
+        "$80 \\%$ n-Hexane and $20 \\%$ iso-octane",
+        "20% n-Heptane and $80 \\%$ iso-octane",
+        "$20 \\% \\mathrm{n}$-Pentane and $80 \\%$ iso-octane",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    },
+    {
+      "subject": "Chemestry(30)",
+      "question": "30. Which one is Reimer-Tiemann reaction?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/nYI7Hd6BC4XZ8iQwp_zd6.png]",
+        "[IMG: https://assets.chorcha.net/-ks9MgCvFMfIPCwdo2QE7.png]",
+        "[IMG: https://assets.chorcha.net/sBNj_9qHa9-YuDe3Ny0Rl.png]",
+        "None of these"
+      ],
+      "tag": "CUET 10-11"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "title": "RUET 10-11",
+  "questions": [
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "1. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "2. If, $\\int \\frac{d x}{a+b \\cos x}=\\frac{1}{\\sqrt{a^{2}-b^{2}}} \\cos ^{-1} \\frac{b+a \\cos x}{a+b \\cos x}$, then the value of $\\int_{0}^{\\pi} \\frac{d x}{a+b \\cos x}$ is -",
+      "options": [
+        "$\\frac{2}{\\sqrt{a^{2}-b^{2}}}$",
+        "$\\frac{-2}{\\sqrt{a^{2}-b^{2}}}$",
+        "$\\frac{1}{\\sqrt{\\mathrm{a}^{2}-b^{2}}}$",
+        "$\\frac{-1}{\\sqrt{a^{2}-b^{2}}}$",
+        "$\\frac{\\pi}{\\sqrt{a^{2}-b^{2}}}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "3. If $x \\sin y+y \\cos x=\\pi$, then the value of $y_{n}(0)$ is-",
+      "options": [
+        "$\\pi$",
+        "$-\\pi$",
+        "1",
+        "0",
+        "none"
+      ],
+      "tag": "RUET 11-12,RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "4. If $x^{p} y^{q}=(x+y)^{p+q}$, then $\\frac{d y}{d x}=$ ?",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$\\frac{y}{x}$",
+        "$\\frac{y^{2}}{x}$",
+        "$\\frac{y}{x^{2}}$"
+      ],
+      "tag": "RUET 10-11,BUTEX 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "5. The principal argument of the complex number ;\n\n$[(1 + i)^5 (1 + \\sqrt{3}i)^2] / [-2i(-\\sqrt{3} +i)]$ is",
+      "options": [
+        "$\\frac{19\\pi}{12}$",
+        "$-\\frac{17\\pi}{12}$",
+        "$-\\frac{5\\pi}{12}$",
+        "$\\frac{5\\pi}{12}$"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 18-19 (SET C),JU A 15-16 (SET 3),JU A 15-16 (SET 5),BUTEX 14-15"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "6. $\\sqrt[4]{-16}=$ ?",
+      "options": [
+        "$\\sqrt{2}$",
+        "$\\pm(\\sqrt{3} \\pm i)$",
+        "$\\pm \\frac{3}{\\sqrt{2}}(1 \\pm i)$",
+        "$\\pm \\sqrt{2}(1 \\pm i)$",
+        "$\\frac{1}{3}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "7. If $\\left[\\begin{array}{rr}1 & 0 \\\\ -1 & 2 \\\\ 2 & 0\\end{array}\\right]+\\left[\\begin{array}{rr}2 & -1 \\\\ 0 & 1 \\\\ 2 & -3\\end{array}\\right]=\\left[\\begin{array}{rr}x & -1 \\\\ -1 & z \\\\ y & -3\\end{array}\\right]$ then the values of $x, y$ and $z$ are respectively-",
+      "options": [
+        "$1,2,3$",
+        "$3,4,3$",
+        "$3,-3,4$",
+        "$-1,2,3$"
+      ],
+      "tag": "BISCM 24,RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "8. The abscissas of the points, where the tangent to the curve $y=x^{3}-3 x^{2}-9 x+5$ is parallel to $x$-axis are-",
+      "options": [
+        "$x=0$ and 0",
+        "$x=1$ and -1",
+        "$x=1$ and -3",
+        "$x=-1$ and 3",
+        "$x=-1$ and -1"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "9. Value of $\\frac{\\cos 27^{\\circ}-\\cos 63^{\\circ}}{\\cos 27^{\\circ}+\\cos 63^{\\circ}}$ will be-",
+      "options": [
+        "$\\tan 8^{\\circ}$",
+        "$\\tan 18^{\\circ}$",
+        "$\\tan 27^{\\circ}$",
+        "$2 \\tan 18^{\\circ}$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),JU A 18-19 (SET A)"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "10. The velocity of a bullet becomes half after penetrating 2 inches into a wall. How much further will it penetrate into wall before its velocity becomes zero?)",
+      "options": [
+        "$\\frac{5}{3}$ inch",
+        "$\\frac{3}{5}$ inch",
+        "$\\frac{2}{5}$ inch",
+        "$\\frac{5}{2}$ inch",
+        "$\\frac{2}{3}$ inch"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "11. A horizontal force $\\vec{F}$ is applied to a small object $P$ of mass $m$ on a smooth plane inclined to the horizontal at an angle $\\theta$. If $\\vec{F}$ is just enough to keep $P$ in equilibrium, then the magnitude of $\\vec{F}$ is-",
+      "options": [
+        "$m g \\cos ^{2} \\theta$",
+        "$\\mathrm{mg} \\sin ^{2} \\theta$",
+        "$\\mathrm{mg} \\cos \\theta$",
+        "$\\mathrm{mg} \\tan \\theta$",
+        "$m g \\sin \\theta$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "12. If the lines $3x - 4y - 7 = 0$ and $2s - 3y - 5 = 0$ are two diameters of a circle of area $49\\pi$ square units, the equation of the circle is-",
+      "options": [
+        "$x^{2} + y^{2} + 2x - 2y - 62 = 0$",
+        "$x^{2} + y^{2} - 2x + 2y - 62 = 0$",
+        "$x^{2} + y^{2} - 2x + 2y - 47 = 0$",
+        "$x^{2} + y^{2} + 2x - 2y - 47 = 0$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "13. If $O A$ and $O B$ are tangents from the origin to the circle $x^{2}+y^{2}+2 g x+2 f y+c=0$ and $C$ is the centre of the circle. Then the area of the quadrilateral OABC is-",
+      "options": [
+        "$\\frac{1}{2} \\sqrt{g^{2}+f^{2}-c}$",
+        "$\\sqrt{\\mathrm{c}\\left(\\mathrm{g}^{2}+\\mathrm{f}^{2}-\\mathrm{c}\\right)}$",
+        "$\\sqrt{\\left(g^{2}+f^{2}-c\\right)}$",
+        "$\\frac{\\sqrt{g^{2}+r^{2}-c}}{c}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "14. If the sides of a traingle are 5,12 and 13 cm respectively, then the triangle is-",
+      "options": [
+        "Obtuse angled",
+        "Acute angled",
+        "Right angled",
+        "None",
+        "$60^{\\circ}$ angled"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "15. Which is the value of $\\lambda$ if the vectors $2 \\hat{i}+\\lambda \\hat{j}+\\hat{k}$ and $\\hat{i}-2 \\hat{j}+3 \\hat{k}$ are perpendicular to each other.",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{5}{3}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "16. $1+\\frac{1}{2}+\\frac{1}{2.4}+\\frac{1}{2.4 .6}+\\ldots \\ldots \\ldots . . \\infty=?$",
+      "options": [
+        "$2 \\sqrt{\\mathrm{e}}$",
+        "$\\frac{1}{\\sqrt{\\mathrm{e}}}$",
+        "$\\sqrt{\\mathrm{e}}$",
+        "$\\frac{1}{\\mathrm{e}}$",
+        "e"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "17. How many times the letters of the word 'permutation' can be rearranged without changing the position of the vowels?",
+      "options": [
+        "360",
+        "359",
+        "361",
+        "349"
+      ],
+      "tag": "RU C 19-20 (GROUP 1)"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "18. Out of 7 consonants and 3 vowels, how many words can be formed each containing 3 consonants and 2 vowels.",
+      "options": [
+        "120",
+        "25200",
+        "4200",
+        "25000",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "19. The coefficient of $x^{5}$ and $x^{15}$ be equal in the expression $\\left(2 x^{2}+\\frac{P}{x^{3}}\\right)^{10}$, then find the positive value of $p$.",
+      "options": [
+        "$\\frac{1}{3}$",
+        "3",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\sqrt{3}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "MATHEMATICS(20)",
+      "question": "20. Which is the value of $(A \\cap B) \\cup(A \\cap C)$ if $A=\\{1,2,5\\}, B=\\{1,3,4), C=\\{3,5,7)$ ?",
+      "options": [
+        "$\\{1,2,3,5\\}$",
+        "$\\{1,3,5\\}$",
+        "$\\{1,5\\}$",
+        "$\\{5,1\\}$",
+        "$(1,2,5)$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "1. Which is the correct unit of torque?",
+      "options": [
+        "$Dyne/cm^2$",
+        "N m Nm N m",
+        "$N/m$",
+        "$N/m.s$"
+      ],
+      "tag": "CU A 17-18,CU A 16-17,BUET 9-10,RUET 11-12,RUET 10-11,RUET 12-13,JU A 22-23 (SET N),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 16-17 (SET 12),Tofazzal Sir,Ishaque Sir,Tapan Sir,Pramanik Sir,Tapan Sir,Ishaque Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "2. What is the potential energy of a mass 25 kg raised to a height of 40 m above the ground?",
+      "options": [
+        "98.10 J",
+        "98.10 ergs",
+        "9810 egrs",
+        "9810 J",
+        "98.10 eV"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "3. What will be the force between two 1 C charges separated from each other by 1 km in air?",
+      "options": [
+        "$9 \\times 10^{3} \\mathrm{Nm}^{2} \\mathrm{C}^{-2}$",
+        "$9 \\times 10^{3} \\mathrm{~N}$",
+        "$9 \\times 10^{4} \\mathrm{~N}$",
+        "$9 \\times 10^{9} \\mathrm{~N}$",
+        "$9 \\times 10^{-3} \\mathrm{~N}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "4. What is the ground state energy of hydrogen atom?",
+      "options": [
+        "-13.6 eV",
+        "-13.6 J",
+        "-13.6 N",
+        "-13.6 ergs",
+        "-13.6 dynes"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "5. Two bodies of masses 40 kg and 60 kg collide with each other when coming from opposite sides with velocities of $10 \\mathrm{~ms}^{-1}$ and $5 \\mathrm{~ms}^{-1}$, respectively. What will be the velocity of the two bodies in contact after collision?",
+      "options": [
+        "$2 \\mathrm{~ms}^{-1}$",
+        "$1.5 \\mathrm{~ms}^{-1}$",
+        "$1.0 \\mathrm{~ms}^{-1}$",
+        "$2.5 \\mathrm{~ms}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "6. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "7. An electric heater draws a current of 1 amp from a 220 volt supply line. How many kWh will be consumed if the heater is used for 400 hours?",
+      "options": [
+        "176",
+        "88",
+        "22",
+        "44"
+      ],
+      "tag": "MAT 12-13,RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "8. A 3$\\Omega$ resistance is parallelly connected with a resistance of unknown value. What will be the equivalent resistance of the circuit?",
+      "options": [
+        "Larger than 3$\\Omega$",
+        "Smaller than 3$\\Omega$",
+        "Equal to 3$\\Omega$",
+        "Equal to the unknown resistance",
+        "None of them"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "9. If the relative humidity of air is low, evaporation will happen-",
+      "options": [
+        "faster",
+        "slower",
+        "remainsame",
+        "heat up",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "10. A man can jump 3 m high on the earth. How high can he jump on the moon surface?",
+      "options": [
+        "3 m",
+        "6 m",
+        "9 m",
+        "18 m",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "11. If the length of a second pendulum situated at Cumilla is $10 \\%$ greater than that at Rajshahi, the weight of the material shifted from Rajshahi to Cumilla will be-",
+      "options": [
+        "$10 \\%$ more",
+        "$10 \\%$ less",
+        "same",
+        "$10^{\\frac{1}{2}}$ less",
+        "$10^{\\frac{1}{2}}$ more"
+      ],
+      "tag": "RUET 10-11,Tapan Sir"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "12. A train starts with an initial velocity $22.5 \\mathrm{~ms}^{-1}$ and goes 325 m in 10 seconds. What is its acceleration?",
+      "options": [
+        "$2 \\mathrm{~ms}^{-2}$",
+        "$3 \\mathrm{~ms}^{-2}$",
+        "$4 \\mathrm{~ms}^{-2}$",
+        "$2.5 \\mathrm{~ms}^{-2}$",
+        "$1.5 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "13. A tuning fork can produce waves of length 2.5 m . If the velocity of the waves in air be $340 \\mathrm{~ms}^{-1}$, what is the frequency of the fork?",
+      "options": [
+        "316 Hz",
+        "613 Hz",
+        "631 Hz",
+        "136 Hz",
+        "163 Hz"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "14. What persistence time of vision is correct of the followings?",
+      "options": [
+        "$10^{-1} \\mathrm{~ms}$",
+        "$10^{-1} \\mu \\mathrm{s}$",
+        "$10^{-1} \\mathrm{n}-\\mathrm{sec}$",
+        "$10^{-1} \\mathrm{sec}$",
+        "$10^{-2}\\mathrm{sec}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "15. The velocity of a train moving with a velocity. of $20 \\mathrm{~ms}^{-1}$ reduces at the rate of $3 \\mathrm{~ms}^{-1}$ in a second. How much distance the train will travel before stopping?",
+      "options": [
+        "67.67 m",
+        "66.67 m",
+        "76.67 m",
+        "67.66 m",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "16. r r through a circular wire of radius r I I What is the value of the magnetic field at the center of the circle when the current flows?",
+      "options": [
+        "m 0 I Pi r 2 \\frac{\\mu_0I}{\\pi r^2} p r 2  m 0 I",
+        "m 0 I 2 Pi r \\frac{\\mu_0I}{2\\pi r} 2 p r  m 0 I",
+        "m 0 I 2 r \\frac{\\mu_0I}{2r} 2 r  m 0 I",
+        "m 0 I r 2 \\frac{\\mu_0I}{r^2} r 2  m 0 I"
+      ],
+      "tag": "JB 19,CTG.B 17,MBSTU 19-20,DU A 8-9,BUET 9-10,RUET 10-11,JU H 20-21 (SET A),JU H 19-20 (SET E),Tapan Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "17. Radius of curvature of a concave mirror is 48 cm . If an object is kept at a distance of 24 cm from the mirror, find the position of the image.",
+      "options": [
+        "$\\infty$",
+        "0",
+        "36 cm",
+        "18 cm",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "18. A pond is Im deep. If refractive index of water is $\\frac{4}{3}$, what is the apparent depth of the pond?",
+      "options": [
+        "0.517 m",
+        "0.751 m",
+        "0.671 m",
+        "0.715 m",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "19. If the number of turns of the primary coil of a transformer is doubled, the potential difference of the secondary coil will be-",
+      "options": [
+        "unchanged",
+        "double",
+        "halve",
+        "four times",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "20. If the source is moving from a listener who is at rest with velocity of sound, then what will be the observed frequency of the sound in relation to it's actual frequency?",
+      "options": [
+        "Half",
+        "Equal",
+        "Twice",
+        "None of them"
+      ],
+      "tag": "RU H 17-18 (GROUP 1)"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "1. Calculate the density of $\\mathrm{CO}_{2}$ gas at $100^{\\circ} \\mathrm{C}$ temperature and 1.0526 atm pressure.",
+      "options": [
+        "$1.512 \\mathrm{~gL}^{-1}$",
+        "$2.120 \\mathrm{~gL}^{-1}$",
+        "$10.101 \\mathrm{~gL}^{-1}$",
+        "$5.329 \\mathrm{~gL}^{-1}$",
+        "None"
+      ],
+      "tag": "BNMPC 24,MB 23,RB 21,RUET 13-14,RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "2. The electronic configuration of bromine is-",
+      "options": [
+        "$2 s^{2} 2 p^{3}$",
+        "$3 s^{2} 3 p^{5}$",
+        "$3 d^{2} 4 s^{2}$",
+        "$3 d^{10} 4 s^{2} 4 p^{5}$",
+        "$4 \\mathrm{~d}^{10} 5 \\mathrm{~s}^{1}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "3. To oxidize the solution obtained by dissolving a piece of iron wire in dilute $\\mathrm{H}_{2} \\mathrm{SO}_{4}, 27.5 \\mathrm{~cm}^{3}$ of a $0.03 \\mathrm{M} \\mathrm{KMnO}_{4}$ solution is required. What is the mass of the iron wire?",
+      "options": [
+        "3.5 gm",
+        "6.2 gm",
+        "4.4 gm",
+        "8.3 gm",
+        "0.231 gm"
+      ],
+      "tag": "CKRUET 21-22,RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "4. Rain water can be considered as acid rain when pH value is -",
+      "options": [
+        "5.6",
+        "4.0",
+        "6.2",
+        "7.0",
+        "6.8"
+      ],
+      "tag": "CU A 19-20,CU A 16-17,RUET 10-11,Hazari Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "5. Which of the following is Diazonium salt?",
+      "options": [
+        "$\\mathrm{C}_{6} \\mathrm{H}_{6}-\\mathrm{N}^{+} \\equiv \\mathrm{N}-\\mathrm{HCl}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{6}-\\mathrm{N}^{+} \\equiv \\mathrm{Cl}-\\mathrm{NO}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{6}-\\mathrm{N}^{+} \\equiv \\mathrm{N}-\\mathrm{NO}_{3}^{-}$",
+        "$\\mathrm{C}_{7} \\mathrm{H}_{6}-\\mathrm{N}^{+} \\equiv \\mathrm{N}-\\mathrm{SO}_{4}^{-}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "6. Which compound's basic solution is known as Nessler's reagent?",
+      "options": [
+        "$\\mathrm{KHgI}_{3}$",
+        "$\\mathrm{K}_{2} \\mathrm{Hgl}_{4}$",
+        "$\\mathrm{NaHgl}_{3}$",
+        "$\\mathrm{K}_{3} \\mathrm{HgI}_{3}$"
+      ],
+      "tag": "DIN.B 22,Agri. GST 19-20,MAT 13-14,RUET 10-11,Guha Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "7. Which of the following molecules or ion is V-shaped?",
+      "options": [
+        "$\\mathrm{BeCl}_{2}$",
+        "$\\mathrm{NH}_{4}^{+}$",
+        "$\\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{PCl}_{5}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "8. Which is Lucas reagent?",
+      "options": [
+        "$\\mathrm{HI}+\\mathrm{ZnCl}_{2}$",
+        "$\\mathrm{HCl}+\\mathrm{ZnCl}_{2}$",
+        "$\\mathrm{HI}+\\mathrm{ZnO}$",
+        "$\\mathrm{HCl}+\\mathrm{ZnO}$"
+      ],
+      "tag": "DRMC 24,PUST 16-17,BUET 21-22,RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "9. How many electrons will flow if 0.001 mA current is passed for 0.001 sec through a copper wire?",
+      "options": [
+        "$6.24 \\times 10^{9}$",
+        "$3.52 \\times 10^{8}$",
+        "$2.56 \\times 10^{10}$",
+        "$4.6 \\times 10^{9}$",
+        "$9.5 \\times 10^{9}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "10. The chemical formula of Octane is-",
+      "options": [
+        "$\\mathrm{C}_{6} \\mathrm{H}_{14}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{4}$",
+        "$\\mathrm{C}_{10} \\mathrm{H}_{22}$",
+        "$\\mathrm{C}_{3} \\mathrm{H}_{6}$",
+        "$\\mathrm{C}_{8} \\mathrm{H}_{18}$"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "11. Which one is the electric volt of $\\mathrm{Fe} / \\mathrm{Fe}^{2+}(0.3 \\mathrm{M}) \\| \\mathrm{Sn}^{2+}(0.1 \\mathrm{M}) / \\mathrm{Sn}$ cell at $25^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "0.525 volt",
+        "0.1285 volt",
+        "0.2859 volt",
+        "0.2755 volt",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "12. What is the volume of I molecule of Nitrogen at N.T.P.?",
+      "options": [
+        "$13.719 \\times 10^{-23} \\mathrm{dm}^{3}$",
+        "$3.879 \\times 10^{-23} \\mathrm{dm}^{3}$",
+        "$3.719 \\times 10^{-23} \\mathrm{dm}^{3}$",
+        "$3.979 \\times 10^{-23} \\mathrm{dm}^{3}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "13. If the weight of 300 cc gas is 0.5 gm at $27^{\\circ} \\mathrm{C}$ temperature and 780 mm pressure, what is the density of the gas at standard temperature and pressure?",
+      "options": [
+        "$119.77 \\mathrm{gm} /$ litre",
+        "$19.77 \\mathrm{gm} /$ litre",
+        "$19.99 \\mathrm{gm} / \\mathrm{litre}$",
+        "$19.66 \\mathrm{gm} / \\mathrm{litre}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "14. What ester is available in pine apple?",
+      "options": [
+        "Amyl Acctate",
+        "Ethyl Butanoate",
+        "Pentyl Ethanoate",
+        "Ethylacetate",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "15. Which one of the following step is correct for polystyrene production?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/tEDOJCxiAQJn72IAzturB.png]",
+        "[IMG: https://assets.chorcha.net/_BMIhdALDXUxCtx-t3UwI.png]",
+        "[IMG: https://assets.chorcha.net/B0RbdgEjTbdDTsRBqvQrC.png]",
+        "[IMG: https://assets.chorcha.net/JIictmE-920z_pvN_hsCf.png]",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "16. Which of following does not contain carbohydrates?",
+      "options": [
+        "Wheat flour",
+        "Cellulose",
+        "Wax",
+        "Starch",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "17. Which of the following is Dettol?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/nvGsvfIaOsk3jHUyxVHL4.png]",
+        "[IMG: https://assets.chorcha.net/2UBJ0IrDH8tJY3-Wq56Yd.png]",
+        "[IMG: https://assets.chorcha.net/IC0RTiFuZAcy2Ye55HPaY.png]",
+        "[IMG: https://assets.chorcha.net/azn3WqleeS3eoPOQc9ps7.png]",
+        "none"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "18. If percentage of aluminum is $40.51 \\%$ in Alum, what is the symbol of alum?",
+      "options": [
+        "$\\mathrm{K}_{2} \\mathrm{SO}_{4} \\cdot \\mathrm{Al}_{2}\\left(\\mathrm{SO}_{4}\\right)_{3} \\cdot 24 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{Na}_{2} \\mathrm{SO}_{4} \\cdot \\mathrm{Al}_{3}\\left(\\mathrm{SO}_{4}\\right)_{2} \\cdot 16 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{K}_{2} \\mathrm{SO}_{4} \\cdot \\mathrm{Al}_{2}\\left(\\mathrm{SO}_{4}\\right)_{3} \\cdot 20 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{K}_{2} \\mathrm{SO}_{4} \\cdot \\mathrm{Al}_{2}\\left(\\mathrm{SO}_{4}\\right)_{3} \\cdot 16 \\mathrm{H}_{2} \\mathrm{O}$",
+        "None"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "19. How many percent of iron present in the cast iron?",
+      "options": [
+        "$80-100 \\%$",
+        "$92-95 \\%$",
+        "$70-80 \\%$",
+        "$50-60 \\%$",
+        "75% - 100%"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "20.  What is dutch metal?",
+      "options": [
+        "Alloy of iron & carbon",
+        "Alloy of zinc & nickel",
+        "Alloy of copper & brass",
+        "Alloy of zine & brass",
+        "Alloy of zinc & copper"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "1. Choose the correct answer for translation of the following sentence into English.\nফুলটি ফুটি-ফুটি করিয়াও ফুটিল না।",
+      "options": [
+        "The flower was not blooming",
+        "The flower was about to bloom",
+        "The flower was about to bloom but did not bloom",
+        "The flower was near to bloom but had not bloom",
+        "The flower was to bloom but not"
+      ],
+      "tag": "RUET 10-11,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "2. Select the correct answer for translation of the following sentence into Bengali.\nNo more, we have enough of it.",
+      "options": [
+        "না অনেক হয়েছে",
+        "আর না, অনেক হয়েছে",
+        "না, আমাদের অনেক আছে",
+        "কোনক্রমেই নয়, আমরা অনেক পেয়েছি",
+        "না, আমরা ইহাতে প্রচুর পেয়েছি"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "3. Choose the right answer for conversion of the following sentence as directed. He is very dull and he cannot understand his lesson. (Make it simple)",
+      "options": [],
+      "tag": "RUET 12-13,KUET 12-13,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "4. Choose the appropriate word to fill in the blank.\nMy father is confined _________ it.",
+      "options": [
+        "for",
+        "on",
+        "with",
+        "to",
+        "by"
+      ],
+      "tag": "RUET 11-12,RUET 10-11,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "5. Select the correct sentence with the following:\nConsists in-",
+      "options": [
+        "Happiness consists in contentment",
+        "Happiness consisted in him",
+        "Happiness consists in my effort",
+        "Happiness is consisted in him",
+        "Happiness consists in the family"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "6. Find out the correct sentence with the correct form of verb.\nIf I were you, I (not do) this.",
+      "options": [
+        "If I were you, I will not do this",
+        "If I were you, I would not do this",
+        "If I were you, I shall not do this",
+        "If I were you, I will not have done this",
+        "If I were you, I had not done this"
+      ],
+      "tag": "RUET 10-11,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "7. Identify the correct sentence.",
+      "options": [
+        "He knows to swimming",
+        "He knows how to swim",
+        "He know to swimming",
+        "He know how to swim"
+      ],
+      "tag": "RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "8. Point out the correct active voice of the sentence - \" It is known to me how it was done by him.”",
+      "options": [
+        "I know how he was done it.",
+        "I knew how he has done it.",
+        "I know how he did it.",
+        "I knew how he did it."
+      ],
+      "tag": "MAT 4-5,KUET 05-06,RUET 10-11,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "9. Choose the correct indirect form of the following direct form of speech.\nHe said to me, \"I was running behind you\"",
+      "options": [
+        "He told me that he was running behind me",
+        "he said me that he was running behind me",
+        "Option C",
+        "Option D"
+      ],
+      "tag": "RUET 10-11,RUET 10-11"
+    },
+    {
+      "subject": "ENGLISH(10)",
+      "question": "10. Read the following passage carefully and then choose the right word to complete the sentence that follows:\nRockets are very expensive as they can be used only once. Applied scientists have therefore developed a reusable spacecraft called a space shuttle which takes off like a rocket; however, it does not get destroyed as it returns to earth. It can also be used to launch satellites into space, retrieve them from space if any repairing is required and allow around 8 scientists to carry out experiments in space.\nThe space shuttle does not get—",
+      "options": [
+        "flattened",
+        "enlarged",
+        "ruined",
+        "developed",
+        "constructed"
+      ],
+      "tag": "RUET 09-10,RUET 10-11"
+    }
+  ]
+}

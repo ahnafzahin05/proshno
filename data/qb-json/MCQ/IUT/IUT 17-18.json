@@ -1,0 +1,984 @@
+{
+  "title": "IUT 17-18",
+  "questions": [
+    {
+      "subject": "English(10)",
+      "question": "1. Chose the word or phrase which is most nearly opposite of the meaning of the given word. [question 91-95]\nTurbulence",
+      "options": [
+        "Immunity",
+        "Tranquility",
+        "Meditation",
+        "Coordination"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. Choose the synonym of “Equivocal”-",
+      "options": [
+        "Unclear",
+        "Obvious",
+        "Equal",
+        "Definite"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. Which one is the antonym of 'guile'?",
+      "options": [
+        "Innocence",
+        "Clever",
+        "Tricky",
+        "Sophisticated"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4. Voracious synonym-",
+      "options": [
+        "Hungry",
+        "Greedy",
+        "Satisfied",
+        "Starving"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. Choose the synonym of 'Acrimony'—",
+      "options": [
+        "Bitterness",
+        "Harmony",
+        "Generosity",
+        "civility"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. Choose the word that is most nearly similar in meaning to 'auspicious'.",
+      "options": [
+        "Lucky",
+        "Guileless",
+        "Unpromising",
+        "Cryptic"
+      ],
+      "tag": "IUT 19-20,IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. Choose the meaning of 'vociferous'.",
+      "options": [
+        "Offensively loud",
+        "Satisfied",
+        "Hushed",
+        "Shy"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. Choose the word closest in meaning to 'Dogmatic'.",
+      "options": [
+        "Ambiguous",
+        "Willing",
+        "Stubborn",
+        "Skeptical"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. Poignant",
+      "options": [
+        "Heart Touching",
+        "Cheerful",
+        "Indifferent",
+        "Calm"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. The synonym of the word ‘Galvanize’ is-",
+      "options": [
+        "Discourage",
+        "Comfort",
+        "Excite",
+        "Coat (iron or steel) with a protective layer of copper."
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "1. The half life period for a first order reaction is 15 hours. How much reactant will remain unreacted at the end of 50 hours?",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{1}{10}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{20}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "2. An aeroplane is headed due north with a speed of 240 km/hr. If there is a wind speed of 100 km/hr from west to east, a) what is the direction of the airplane relative to the earth?",
+      "options": [
+        "24.62°",
+        "2.462°",
+        "22.62°",
+        "42.62°"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "3. An elevator is accelerated upword at 2 ms-2 If the elevator weighs 500kg,what is the tension in the supporting cable?(g=9.8 ms-2)",
+      "options": [
+        "20.604 kg",
+        "206.04kg",
+        "602.04 kg",
+        "69.204 kg"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "4. A force of 100N is required to stretch  is steel wire 2.00 mm2 in cross sectional area and 2.0 long a distance of 0.50 mm.How much work is done?",
+      "options": [
+        "0.25Nm",
+        "0.025Nm",
+        "2.5 N-m",
+        "25 N-m"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "5. A car is being driven on a road having two distance circular bends B1 & B2 of radius R and 3R respectively. If S1 is the speed of the car and bend B1 and S2 is the speed at the bend B2  what should the ratio. S1/S2 be so that the centripetal forces at the both bands are equal?",
+      "options": [
+        "1",
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{1}{\\sqrt{2}}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "6. In a spring balance  the length of the spring  is 20cm which can read from 0 to 60N.Find the potential energy of the spring  when it reads 40 N.",
+      "options": [
+        "0.267 J",
+        "26.7 J",
+        "2.67 J",
+        "267 J"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "7. A proton collides with a neutron (mass almost identical to the proton) to form a deutron. What will be the velocity of the deutron if it is formed  from a proton moving with velocity   $7.0 × 10^{6} \\frac{m}{s}$  to the left and a neutron moving with velocity   $4.0 × 10^{6} \\frac{m}{s}$  to the right?(proton mass =1.67×10-27 kg)",
+      "options": [
+        "$1.5 × 10^{6} \\frac{m}{s}$  towards left",
+        "$15 × 10^{6} \\frac{m}{s}$  upwards",
+        "$- 1.5 × 10^{6} \\frac{m}{s}$  towards left",
+        "$1.5 × 10^{5} \\frac{m}{s}$  downwards"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "8. With two slits spaced d=0.2 mm apart, and a screen at a distance D=1 m, the third bright fringe is found to be displaced x=7.5 mm from the central fringe.What is wavelength, λ Of the light used?",
+      "options": [
+        "500A°",
+        "500 nm",
+        "100 nm",
+        "100A°"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "9. Two charges of\n  $+ 1 \\mu c \\quad\\text{and}\\quad - 1 \\mu c$ are placed at the corners of the base of an equilateral triangle. The length of a side of the triangle is 0.7 m.Find the electric field intensity at the apex of the triangle? $\\left [ K = 9 × 10^{9} N \\frac{m^{2}}{c^{2}} \\right ]$",
+      "options": [
+        "36.8 KN",
+        "28.4 KN",
+        "$1.837 \\times 10^5 \\text{ N/C}$",
+        "1.84×10^10 N"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "10. A 25 N block is held at rest on a frictionless incline by a force that is parallel  to the incline. If the incline is 25° above the horizontal the magnitude of the applied force is:",
+      "options": [
+        "4.1 N",
+        "4.6 N",
+        "8.9 N",
+        "11 N"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "11. The weight of an object on the Moon is one sixth of its weight on Earth. The ratio of the kinetic energy of a body on Earth moving with speed V to that of same body moving with speed V on the Moon is:",
+      "options": [
+        "6:1",
+        "1:6",
+        "1:1",
+        "36:1"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "12. An electron is released from the rest at one point in a uniform electric field and moves a distance of 10 cm in 10-1 s. What is the voltage between the two points?",
+      "options": [
+        "$1.44×10^{-8}$ V",
+        "1.1375 KV",
+        "11375 V",
+        "11.375 V"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "13. Three devices are connected in parallel to a 12 V battery. Let the resistance of the devices be R₁ =2Ω , R₂ = 3Ω and R3= 4Ω. What is the supplied current by the battery?",
+      "options": [
+        "13 A",
+        "13 mA",
+        "26 A",
+        "2.6 A"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "14. Let, C₁ = 6 $\\mu F$ , C₂ = 3 $\\mu F$   and\n$V_{a b}$= 18V. What is the value of equivalent capacitance in series connection?",
+      "options": [
+        "9mF",
+        "$9 \\mu F$",
+        "0.9 mF",
+        "$2 \\mu F$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "15. How many nuclei are there in 1 kg aluminum?(Atomic mass of aluminum-26.98153 amu, 1 amu $1.66 × 10^{- 27}$ kg)",
+      "options": [
+        "$2.23 × 10^{6}$ nuclei",
+        "$2.23 × 10^{25}$ nuclei",
+        "$4.46 × 10^{25}$ nuclei",
+        "$4.46 × 10^{20}$ nuclei"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "16. A photon of wave length\n\n$\\lambda$= 0.400 nm strikes an electron at rest and rebounds at an angle\n\nof 150° to its original direction. Find the wavelength of the photon after\n\nthe collision. (h= 6.63 $\\times 10^{- 34} J - s )$ )",
+      "options": [
+        "40.45 nm",
+        "404.5 cm",
+        "0.4045 nm",
+        "4.045 km"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "17. Two discs A and B are mounted coaxially on a vertical axle. The discs have moments of inertia I and 21, respectively about the common axis. Disc A is imparted an initial angular velocity  $2 \\omega$  using the entire potential energy of a spring compressed by a distance x1. Disc B is imparted an angular velocity  $\\omega$  \n by a spring having the same spring constant and compressed by a distance x2. Both the discs rotate in the clockwise direction. The ratio of   $\\frac{x_{1}}{x_{2}}$  is-",
+      "options": [
+        "2",
+        "1/2",
+        "√2",
+        "1/√2"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "18. The displacement of a particle varies according to the relation x = 4 (cosπt + sinπt). The amplitude of the  particle is-",
+      "options": [
+        "-4",
+        "4",
+        "$4 \\sqrt{2}$",
+        "8"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "19. A real gas is changed slowly state 1 to state 2. During this process no work is done on or by the gas. This process must be",
+      "options": [
+        "Isovolumic",
+        "Adiabatic",
+        "Isobaric",
+        "Isothermal"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "20. A Carnot heat engine operate between a hot reservoir at absolute temperature  $T_{H}$   and a cold reservoir at absolute temperature  $T_{c}$  . Its efficiency is",
+      "options": [
+        "$\\frac{T_{H}}{T_{c}}$",
+        "$\\frac{T_{C}}{T_{H}}$",
+        "$1 - \\frac{T_{H}}{T_{c}}$",
+        "$1 - \\frac{T_{c}}{T_{H}}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "21. A small object has charge Q. Charge q is removed from it and placed on a second small object. The two objects are placed 1 m apart. For the force that each object exerts on the other to be a maximum, q should be",
+      "options": [
+        "2Q",
+        "Q",
+        "Q/2",
+        "Q/4"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "22. A physics instructor is anteroom charges an electrostatic generator to 25   $\\mu C$  ,  then carries it into the lecture hall. The net electric flux in Nm2C-1 through the lecture hall wall is --",
+      "options": [
+        "0",
+        "25×10-6",
+        "2.2×105",
+        "2.8×106"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "23. An observer is moving with a velocity of 0.95 C in a direction perpendicular to a rod of length L. The observer will measure the length of the rod to be --",
+      "options": [
+        "Equal to L",
+        "Less than L",
+        "Greater than L",
+        "Zero"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "24. A boy jogs around a horizontal circle with a constant speed. He travels one fourth of a revolution, a distance of  25 m along the circumstances of the circle, in 5 s.The magnitude of his acceleration is.",
+      "options": [
+        "0.31 ms-2",
+        "1.3 ms-2",
+        "1.6 ms-2",
+        "3.9 ms-2"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "25. A lense is used to produce sharp image in a screen.When the right half of the lense is covered with on opaque material,how will image be affected?\nThe right half of the image will disappearThe left half of the image will disappearThe image size will become approximately 1/2 of the Original sizeThe image brightness  will become approximately 1/2 of the Original size",
+      "options": [
+        "i,ii,iii",
+        "i, iii",
+        "ii, iv",
+        "iv"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "26. A horizontal shove of at least 200 N is required to start moving a 800N object initially at rest on a horizontal floor.The coefficient of static friction is:",
+      "options": [
+        "0.25",
+        "0.125",
+        "0.50",
+        "None of these"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "27. An observer moves towards a stationary source of sound, with a velocity one-fifth of the velocity of sound.What is the percentage increase in the apparent frequency?",
+      "options": [
+        "5%",
+        "20%",
+        "Zero",
+        "0.5%"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "28. Two closed organ pipe sounded simultaneously give 5 beats per second between the fundamentals. If the shorter pipe is 1.1 m, find the length L, of the longer pipe. (Speed of sound in air 340 m/s)",
+      "options": [
+        "1.1 m",
+        "1.18 cm",
+        "11.8 cm",
+        "11.8m"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "29. A certain farsighted person has a minimum distance of distinct vision of 150 cm. He wishes to read clearly at distance of 25 cm.  What focal length glasses should he used and what is the type of the lens ?",
+      "options": [
+        "300 m",
+        "30 m",
+        "30 cm",
+        "3.0 cm"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "30. In the following figure, M and N are the midpoints of two of the sides of square ABCD what is the area of the shaded region?\n[IMG: https://assets.chorcha.net/yXarI1XoD7DJFeO1.webp]",
+      "options": [
+        "1.5",
+        "1.75",
+        "3.0",
+        "2√2"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "1. If i2 = - 1 then   $\\sqrt{8 + 6 i} = ?$",
+      "options": [
+        "(3 + i)",
+        "-(3 + i)",
+        "$\\pm \\left ( 3 + i \\right )$",
+        "(3- i)"
+      ],
+      "tag": "IUT 22-23,IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "2. If   $\\left [ \\begin{matrix} a & b \\\\ a_{1} & b_{1} \\end{matrix} \\right ] \\left [ \\begin{matrix} 3 & - 5 \\\\ - 1 & 2 \\end{matrix} \\right ] = \\left [ \\begin{matrix} 1 & - 1 \\\\ 2 & 0 \\end{matrix} \\right ] ,$   then the values of a and b are ?",
+      "options": [
+        "a =1 and b=2",
+        "a= 2 and b= 3",
+        "a = 2 and b= 5",
+        "a = 3and b= 8"
+      ],
+      "tag": "IUT 22-23,IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "3. If   $A = \\left [ \\begin{matrix} 0 & 1 & 2 \\\\ 1 & 2 & 3 \\\\ 3 & 1 & 1 \\end{matrix} \\right ]$   and B = A-1, then b23 =?",
+      "options": [
+        "1",
+        "2",
+        "- 1",
+        "- 2"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "4. [IMG: https://assets.chorcha.net/AGifNSQ0btGuinzFv_mvr.png]\nWhat is the perimeter of  $\\Delta A B C ?$",
+      "options": [
+        "48",
+        "$48 + 2 \\sqrt{2}$",
+        "$70 + 6 \\sqrt{3}$",
+        "$48 + 12 \\sqrt{3}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "5. From the figure below,  equation of the parabola is -- [IMG: https://assets.chorcha.net/x2IBF3xJ1fQ9JkRJMEo9G.jpg]",
+      "options": [
+        "y2 =4(x - 1)",
+        "y2 = 6(x - 2)",
+        "y2 = 4(x - 3)",
+        "y2 = 12(x - 1)"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "6.\n$\\int x^{x}(1+\\ln x) d x = ?$",
+      "options": [
+        "xx + c",
+        "x2x + c",
+        "x2xlnx + c",
+        "$\\frac{1 + \\ln{x}}{x} + c$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "7. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "8. For what values of K, 3x - 4y = k will touch x2 + y2 - 8x =0?",
+      "options": [
+        "-8, 32",
+        "-32, 8",
+        "8, 32",
+        "81, 3"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "9.\n\n$\\begin{vmatrix} 1+x & x & 2 \\\\ 3 & 2 & 1 \\\\ 2 & 5 & 7 \\end{vmatrix} = 0, x = ?$",
+      "options": [
+        "$\\frac{5}{2}$",
+        "$\\frac{31}{10}$",
+        "$\\frac{3}{37}$",
+        "None"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "10. (1 + w +w²) × (w + w² +1 )+ ( w² +1+ w) = ?",
+      "options": [
+        "1",
+        "W",
+        "w²",
+        "0"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "11. cos²x + cos²(X+π/3) + cos²(x-π/3) = ?",
+      "options": [
+        "-3/4",
+        "3/2",
+        "-3/4 cosx",
+        "-3/2 cos 3x"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "12. NoIn the following circle what is the length of RS?\n[IMG: https://assets.chorcha.net/CGJLppi1rk9kk0yY.webp]",
+      "options": [
+        "8",
+        "20",
+        "8π",
+        "20π"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "13. Find the area of the triangle whose vertices are the origin and focii of the ellipse 16(x-2)² + 25(y-3)² = 400.",
+      "options": [
+        "9 sq.units",
+        "12 sq.units",
+        "16 sq.units",
+        "10 sq.units"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "14. In the following circle the area is Kπ what is the value of K?\n[IMG: https://assets.chorcha.net/701SLE7yq0VfdCnM.webp]",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "18"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "15. A equation of a straight line having slope m and x- intercepted b is:-",
+      "options": [
+        "y = m (x-b)",
+        "x = my + b",
+        "y = mx + b",
+        "y = mx - b"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "16. If  two roots of the equation x² + bx + a = 0 are equal and one root of the equation x²+ax+8=0 is 4. The value of b will be:-",
+      "options": [
+        "4",
+        "2√6i",
+        "1-i",
+        "1+i"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "17. A circular garden is bounded by East avenue and diagonal road as shown in the figure given below.\nDiagonal road intersects North Street at C and East avenue at D.Diagonal Road is tangential to the circular garden at B find the equation of the diagonal road.\n[IMG: https://assets.chorcha.net/u2XkmWmwz3Ufw_Xe.webp]",
+      "options": [
+        "3x - 4y + 18=0",
+        "x - 3y + 18 = 0",
+        "7x - 10y + 18 = 0",
+        "None"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "18. When x = 1, the function x³-3x²+7 = 0 is:",
+      "options": [
+        "Increasing",
+        "Maximum",
+        "Decreasing",
+        "Minimum"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "19. A rod AB of length 15 cm rests in between to coordinate axis in such a way that the end point a lies on x-axis and end point B lies on y-axis A point P(x,y) is taken on the rod in such a way that AP = 6cm if the rod moves with its end always touching the coordinate axis find the equation of the locus of the point P \n[IMG: https://assets.chorcha.net/kYAb9e65tdCQQXhReWZxs.svg]",
+      "options": [
+        "x²/81 + y²/36 = 1",
+        "x²/36 + y²/81 = 1",
+        "x²/36 + y²/9 = 1",
+        "x²/9 + y²/36 = 1"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "20. The figure given below shows triangle AOC inscribed in the region cut from the parabola y = x² by the line y=a² find the limit of the ratio if the area of the triangle to the area of the parabolic region as approaches zero.\n[IMG: https://assets.chorcha.net/7wEUfyO2YRAMTj5A.webp]",
+      "options": [
+        "3/4",
+        "4/5",
+        "5/6",
+        "6/7"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "21. A small wall from electrode device at O is ejected in such a way that he is past is through small aperture at A and strikes the contact point at B as shown in the figure below.the coordinates of A and B are (2,2) and (3,1) respectively if the player controls the angel θ and velocity v, then the value of θ that gives him a success is:-\n[IMG: https://assets.chorcha.net/OxXL3y3VOA9U8JlE.webp]",
+      "options": [
+        "29.7°",
+        "66.8°",
+        "23.2°",
+        "74.1°"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "22. For what Values of a, roots of ax²+3x+4 = 0 will be complex?",
+      "options": [
+        "a=9/16",
+        "a<9/16",
+        "a>9/16",
+        "a≥9/16"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "23. What is the minimum value of x²-2x+5 =?",
+      "options": [
+        "3",
+        "11/4",
+        "4",
+        "5"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "24. For what values of 'k', the equation $x^{2} + 2(k - 4) x + 2k = 0$ has equal roots?",
+      "options": [
+        "$8, 2$",
+        "$6, 4$",
+        "$12, 2$",
+        "$10, 4$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "25. The coordinate of a particle in meters is given by x(t)=  $16 t - 3.0 t^{3} ,$  where the time t is inseconds.what is the value of t when the particle is momentarily at rest.",
+      "options": [
+        "0.75 s",
+        "1.3s",
+        "5.3s",
+        "7.3 s"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "26. Find the term independent of x in the expansion of   $\\left ( \\frac{3}{2} x^{2} - \\frac{1}{3 x} \\right )^{6}$",
+      "options": [
+        "$\\frac{3}{11}$",
+        "$\\frac{5}{12}$",
+        "$\\frac{7}{11}$",
+        "$\\frac{7}{12}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "27. Find the sum to infinity of the following series, 3/(2)(4) - 5/(4)(6) + 7/(6)(8) - .....",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "28. Sum of the following series up to infinity is: 0.5+0.05+0.005+....",
+      "options": [
+        "10/55",
+        "1/5",
+        "5/9",
+        "55/100"
+      ],
+      "tag": "IUT 18-19,IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "29. There are 10 blue and 15 red marvels in a box a boy pics up to marvels random one by one the probability of both being of the same colour is:-",
+      "options": [
+        "1/2",
+        "4/5",
+        "3/20",
+        "7/20"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "30. There are 100 people on a line.Shawon is the 37th person and Naomi is the 67th person.if a person online is choose an at random what is the probability that the person is standing between Shawon and Naomi?",
+      "options": [
+        "1/100",
+        "29/100",
+        "3/10",
+        "31/100"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "উচ্চতর গণিত(31)",
+      "question": "31. What is the total number of terms of (x+3y+5z)²⁰?",
+      "options": [
+        "231",
+        "250",
+        "501",
+        "102"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "1. নিচের কোনটি আইসোইলেক্ট্রন এর উদাহারণ________।",
+      "options": [
+        "27Al3+,  16O2-",
+        "14N,  15O2-",
+        "32P,  32S",
+        "131Xe,  59CO"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "2. Which is the strongest oxidizing agent of the following ?",
+      "options": [
+        "K2Cr2O7",
+        "CuSO4",
+        "KMnO4",
+        "Fe2(SO4)3"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "3. Which of the following sentence is not true?",
+      "options": [
+        "Increase of atomic size decreases electron affinity.",
+        "Increase of nuclear charge increases electron affinity.",
+        "Increase of electron density in valence shell increases electron affinity.",
+        "Increase of suborbit increases ionisation energy."
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "4. In IR spectra, the stretching frequency of carboxylic -OH group arise at --",
+      "options": [
+        "3300-2500 cm-1",
+        "1760- 1690 cm-1",
+        "1320- 1210 cm-1",
+        "1440- 1395 cm-1"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "5. At 11°C temperature and 749 mm pressure, the weight of a gaseous hydrocarbon is 0.11 mm. If in that compound, there is 85.71% Carbon, then what is its molecular formula?  (volume = 46.43 mL ; molecular weight =56)",
+      "options": [
+        "CH4",
+        "C4H8",
+        "C2H6",
+        "CH2"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "6. Which is incorrect?",
+      "options": [
+        "Size of anion increase F- < Cl- < Br- < I-",
+        "Covalent character increase AgF < AgCl < AgBr < AgI",
+        "Ionic character increase AgF < AgCl< AgBr < AgI",
+        "Solubility decrease AgF > AgCl > AgBr > AgI"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "7. The Lewis structure for the compound series ketone is-",
+      "options": [
+        "$\\text{H}-\\overset{\\text{H}}{\\underset{\\text{H}}{\\overset{|}{\\underset{|}{\\text{C}}}}}-\\overset{\\text{:O:}}{\\overset{||}{\\text{C}}}-\\ddot{\\underset{\\ddot{}}{\\text{O}}}-\\text{H}$",
+        "$\\text{H}-\\overset{\\overset{\\text{H}}{\\text{|}}}{\\underset{\\underset{\\text{H}}{\\text{|}}}{\\text{C}}}-\\overset{\\overset{\\text{:O:}}{\\text{||}}}{\\text{C}}-\\overset{\\overset{\\text{H}}{\\text{|}}}{\\underset{\\underset{\\text{H}}{\\text{|}}}{\\text{C}}}-\\text{H}$",
+        "$\\text{H}-\\underset{\\overset{|}{\\text{H}}}{\\overset{\\overset{\\text{H}}{\\phantom{|}}}{|}}{\\text{C}}-\\overset{\\overset{\\text{:O:}}{\\parallel}}{\\text{C}}-\\text{H}$",
+        "$\\text{H}-\\overset{\\text{H}}{\\underset{\\text{H}}{\\overset{\\vert}{\\text{C}}}}-\\overset{\\text{:O:}}{\\overset{\\parallel}{\\text{C}}}-\\underset{\\cdot\\cdot}{\\ddot{\\text{O}}}-\\overset{\\text{H}}{\\underset{\\text{H}}{\\overset{\\vert}{\\text{C}}}}-\\text{H}$"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "8. What is the formation enthalpy of sugar?  If the combustion enthalpy of carbon,  hydrogen,and sugar are -406 KJ,  -284 KJ and -5638.82 KJ respectively.",
+      "options": [
+        "-4040.82 KJ/mol",
+        "6936.82 KJ/mol",
+        "-2207.18 KJ/mol",
+        "1498.82 KJ/mol"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "9. Butane molecule is converted to 2-methyl propane by Isomerisation in the presence of the following environment.",
+      "options": [
+        "AlCl3.H2SO4.300°C",
+        "Al2O3.HCl, 150°C",
+        "Al2O3.H2SO4,  150°C",
+        "AlCl3. HCl,  300°C"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "10. Concentrated H2O2 solution is used as oxidant in rocket fuel and diluted H2O2 solution is used as hair bleach.  A 30% H2O2 (w/w) aqueous solution has density 1.11 gm/mL.  What is the molarity and mole fraction of the H2O2 solution ?",
+      "options": [
+        "7.97 M, 0.185",
+        "9.79 M,  0.158",
+        "9.79 M,  0.185",
+        "7.97 M,  0.158"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "11. Temporary hardness of water is caused due to the presence of which compounds in water ?",
+      "options": [
+        "CaCO3",
+        "CaCl2 and MgCl2",
+        "Ca(HCO3)2 and Mg(HCO3)2",
+        "Na2CO3"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "12. All of the following are the true statements concerning reaction orders except :",
+      "options": [
+        "The rate of a zero-order reaction is constant",
+        "After three half-lives,  a radioactive sample will have one-ninth of its original concentration.",
+        "The unit for the rate constant for first order reaction are s-1.",
+        "If doubling the concentration of a reaction doubles the rate of the reaction, then the reaction is first order in that reactant."
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "13. An exothermic reaction is at equilibrium. If temperature is increased,  which of the following will take place?",
+      "options": [
+        "The value of K will increase",
+        "The value of K will decrease",
+        "The value of K will not change",
+        "None of them"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "14. Which one of the following is used to form a salt bridge in electrochemical cell ?",
+      "options": [
+        "KNO3",
+        "HNO3",
+        "AgNO3",
+        "H2SO4"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "15. To what volume must a litre of oxygen be expanded if the moliculesper unit volume is $12.0 \\times 10^{11} \\mathrm{~cm}^{-3}$ ? Diameter of the oxygen molicule=3A $A^{\\circ}$. Assume that the gas starts at STP. $\\left(\\mathbf{R}=8.3 \\times 10^{7}\\right.$ dynes. $\\left.\\mathbf{c m} . \\mathbf{m o l e}^{-1} \\mathbf{k}^{-1} N_{0}=6.02 \\times 10^{23} \\mathbf{m o l e}^{-1}\\right)$",
+      "options": [
+        "$22.41 × 10^{10} c m^{3}$",
+        "$2.241 × 10^{10} c m^{3}$",
+        "$2.241 × 10^{10} m^{3}$",
+        "None of these"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "রসায়ন(16)",
+      "question": "16. Which of the following electromagnetic has photons with the greatest energy ?",
+      "options": [
+        "Blue light",
+        "Yellow light",
+        "Radio waves",
+        "X-rays"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "(2)",
+      "question": "1. In the figure below what is the value of b?",
+      "options": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "tag": "IUT 17-18"
+    },
+    {
+      "subject": "(2)",
+      "question": "2. In compton scattering from stationary electrons the largest charge in wave length occurs when the photon is scattered through",
+      "options": [
+        "0°",
+        "90°",
+        "45°",
+        "180°"
+      ],
+      "tag": "IUT 17-18"
+    }
+  ]
+}

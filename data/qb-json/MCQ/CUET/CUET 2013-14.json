@@ -1,0 +1,715 @@
+{
+  "title": "CUET 2013-14",
+  "questions": [
+    {
+      "subject": "Chemistry(20)",
+      "question": "1. How much $\\mathrm{Na}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ will be required to prepare 250 mL of 0.1 M solution of $\\mathrm{Na}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ ?",
+      "options": [
+        "3.35 g",
+        "1.675 g",
+        "2.25 g",
+        "6.75 g"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "2. The molecular formula of glucose is $\\mathrm{C}_{6} \\mathrm{H}_{12} \\mathrm{O}_{6}$. Which one of the following is its empirical formula?",
+      "options": [
+        "CHO",
+        "$\\mathrm{CH}_{2} \\mathrm{O}$",
+        "$\\mathrm{C}_{3} \\mathrm{H}_{6} \\mathrm{O}_{3}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4} \\mathrm{O}_{2}$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "3. Which one is the structural formula of picric acid?\n[IMG: https://assets.chorcha.net/8Nv3vAvEk22bltptJYgyI.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "tag": "CUET 13-14,CUET 11-12"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "4. By which test chloroform is identified?",
+      "options": [
+        "Rimer-Timan reaction",
+        "Friedel-Carft reaction",
+        "Libermann test",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "5. What is the percentage of water in blue vitriol?",
+      "options": [
+        "$35.34 \\%$",
+        "$36.072 \\%$",
+        "$37.01 \\%$",
+        "$35.89 \\%$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "6. The value of $\\Delta \\mathrm{n}$ is $\\frac{1}{2}$ of a reversible reaction. What will be the temperature in Kelvin of the reaction if the value of $\\mathrm{K}_{\\mathrm{p}} \\& \\mathrm{~K}_{c}$ are 40.5 and 5.5 respectively?\nGiven: $\\mathrm{R}=0.082 \\mathrm{~L}$ atm $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$",
+      "options": [
+        "179.60 K",
+        "661.26 K",
+        "330.63 K",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "7. Three isotopes of oxygen are available in nature whose masses are 16,17 and 18 atomic mass unit and the amounts are $99.76 \\%, 0.037 \\%$ and $0.203 \\%$ respectively. What is the atomic mass of oxygen?",
+      "options": [
+        "16.004",
+        "16.000",
+        "15.999",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "8. Which one of the following compounds gives precipitate with Tollen reagent?",
+      "options": [
+        "$HCOOH$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$",
+        "$\\left(\\mathrm{CH}_{3} \\mathrm{CO}\\right)_{2} \\mathrm{O}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "9. What is the name of principal product of Sandmayer reaction?",
+      "options": [
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{I}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{OH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{Cl}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CHO}$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "10. Where does proton exist in the atom?",
+      "options": [
+        "In the orbit",
+        "In the nucleus",
+        "In the orbital",
+        "Outside of the nucleus"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "11. Which one of the following electronic configurations is not correct?",
+      "options": [
+        "$\\operatorname{Ar}(18)-1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6}$",
+        "$\\mathrm{Fe}(26)-[\\operatorname{Ar}] 4 \\mathrm{p}$",
+        "$\\mathrm{Cu}(29)-[\\mathrm{Ar}] 3 \\mathrm{~d}^{10} 4 \\mathrm{~s}^{2}$",
+        "B & C Both"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "12. 0.030 mg arsenic is obtained after analyzing 1 L water of a tube well. What is the concentration of arsenic in this water?",
+      "options": [
+        "30 ppb",
+        "300 ppb",
+        "30 ppm",
+        "300 ppm"
+      ],
+      "tag": "CUET 13-14,CUET 10-11"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "13. 10 ml of $\\mathrm{KMnO}_{4}$ solution is required for oxidizing 25 ml of $0.003 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{O}_{2}$ in presence of dilute $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ What is the molar concentration of $\\mathrm{KMnO}_{4}$ solution used?",
+      "options": [
+        "0.023 M",
+        "0.003 M",
+        "0.006 M",
+        "0.005 M"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "14. A man can receive 0.2 L air at one breathing time whose temperature is $27^{\\circ} \\mathrm{C}$ and pressure is 1.0 atm . How many gas molecules the man receives at one time?",
+      "options": [
+        "$48.9 \\times 10^{21}$",
+        "$4.89 \\times 10^{21}$",
+        "$4.98 \\times 10^{21}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "15. What is the mass of one molecule of $\\mathrm{CO}_{2}$ ?",
+      "options": [
+        "44 g",
+        "22 g",
+        "$7.305 \\times 10^{-23} \\mathrm{~g}$",
+        "$7.305 \\times 10^{-24} \\mathrm{~g}$"
+      ],
+      "tag": "CUET 13-14,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "16. Which of the following 8 14 O \\ _8^{14}O  8 14 O isotope 7 14 N \\ _7^{14}N  7 14 Converts to N isotopes?",
+      "options": [
+        "b − r a y \\beta-ray b − r a y",
+        "$Electron$",
+        "$Positron$",
+        "$None\\ of\\ these$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "17. Which enzyme converts glucose to alcohol?",
+      "options": [
+        "Diastase",
+        "Maltase",
+        "Zymase",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "18. What is the function of a catalyst poison?",
+      "options": [
+        "To increase the poisonous action of catalysts",
+        "To decrease the poisonous action of catalysts",
+        "To increase the catalytic ability of catalysts",
+        "To decrease the catalytic ability of catalysts"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "19. Which compound is used to reduce the knocking of fuel oil?",
+      "options": [
+        "$\\mathrm{H}_{3} \\mathrm{C}\\left(\\mathrm{CH}_{2}\\right)_{5} \\mathrm{CH}_{3}$",
+        "$\\mathrm{Pb}\\left(\\mathrm{C}_{2} \\mathrm{H}_{5}\\right)_{4}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{8}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Chemistry(20)",
+      "question": "20. Which one of the following is not the ore of phosphorus?",
+      "options": [
+        "$\\mathrm{Ca}_{3}\\left(\\mathrm{PO}_{4}\\right)_{2}$",
+        "$2 \\mathrm{Ca}_{2}\\left(\\mathrm{PO}_{4}\\right)_{2} \\mathrm{CaCl}_{2}$",
+        "$\\mathrm{Ca}\\left(\\mathrm{H}_{2} \\mathrm{PO}_{4}\\right)_{2}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "1. What will be the equation for a straight line that passes through $(3,6)$ coordinate and is situated 6 unit distance from the origin?",
+      "options": [
+        "$4 x+3 y-30=0$",
+        "$4 x-3 y-30=0$",
+        "$4 x-3 y+30=0$",
+        "$-4 x+3 y-30=0$"
+      ],
+      "tag": "CUET 13-14,JU A 18-19 (SET A)"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "2. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "3. What is the value of $\\int_{0}^{2 a} \\frac{\\mathrm{dx}}{\\sqrt{2 a x-x^{2}}}$?",
+      "options": [
+        "$\\pi$",
+        "$\\frac{\\pi}{2}$",
+        "$2 \\pi$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "4. A hanging body weighing 10 kg is kept in a position by applying two forces on it. One force is acting horizontally while the other force is acting by making an angle of $60^{\\circ}$ with the horizontal. What is the magnitude of the horizontal force?",
+      "options": [
+        "$10 \\sqrt{3} \\mathrm{~kg}$",
+        "$\\frac{10}{\\sqrt{3}} \\mathrm{~kg}$",
+        "$\\frac{10}{3} \\mathrm{~kg}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "5. Two like parallel forces 12 N and 8 N are acting on a rigid body at A and B . If the position of the forces are interchanged, how much the resultant of the forces would be shifted along AB?\n[ Given: $\\mathrm{AB}=5 \\mathrm{~m}$]",
+      "options": [
+        "2 m",
+        "1 m",
+        "1.5 m",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "6. The forces of magnitude $1,2,8,5,5 \\sqrt{2}$ and $2 \\sqrt{2}$ units are acting along the sides $\\mathrm{AB}, \\mathrm{BC}, \\mathrm{CD}$ and DA and along the diagonals $A C$ and $B D$ of a square $A B C E$ respectively. If each side of the square $A B C D$ is 5 unit, the resultant of the forces would be-",
+      "options": [
+        "30 units",
+        "50 units",
+        "40 units",
+        "None of them"
+      ],
+      "tag": "CUET 13-14,CUET 14-15"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "7. A stone is released into a well. After 3.5 sec the falling sound is heard. If the velocity of sound is $327 \\mathrm{~ms}^{-1}$, then depth of the well is?",
+      "options": [
+        "59.6 m",
+        "56.9 m",
+        "65.9 m",
+        "69.5 m"
+      ],
+      "tag": "CUET 13-14,BUTEX 16-17"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "8. A bullet of mass $\\frac{1}{8}kg$ is released from the barrel of a rifle with a barrel 4m long with a velocity of $1280m/s$. What is the force acting on the bullet in the barrel?",
+      "options": [
+        "2560N",
+        "25600N",
+        "256N",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "9. Find the nature of roots of the equation $2 x^{2}+6 x+5=0$.",
+      "options": [
+        "Complex & unequal",
+        "Complex & equal",
+        "Real & unequal",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "10. For what values of $x$, the value of the following determinant will be equal to zero?\n$\\left|\\begin{array}{ccc} 3+x & 4 & 2 \\\\ 4 & 2+x & 3 \\\\ 2 & 3 & 4+x \\end{array}\\right|$",
+      "options": [
+        "$-9, \\pm \\sqrt{3}$",
+        "$-9, \\sqrt{3}$",
+        "$9, \\sqrt{3}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "11. The portion of the $x$-axis cut by the circle whose diameter is the line joining the points- $(0,-1)$ and $(2,3)$ is-",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "12. For what value of $c$ tangent of curve $y=\\operatorname{cx}(1+x)$ at origin will make $30^{\\circ}$ angle with $x$-axis?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{2}{\\sqrt{3}}$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "tag": "RU C 19-20 (GROUP 1)"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "13. What is the equation of the directrices of the ellipse $5 x^{2}+4 y^{2}=1$?",
+      "options": [
+        "$y= \\pm \\frac{\\sqrt{5}}{2}$",
+        "$y= \\pm \\frac{\\sqrt{5}}{4}$",
+        "$x= \\pm \\frac{\\sqrt{5}}{2}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "14. A signaller has six flags of which one is white, two are green and three are red. How many signals he can make by using exactly five flags?",
+      "options": [
+        "50",
+        "40",
+        "70",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "15. In how many ways the letters of the word \"Immediate\" can be arranged in which 't' remains at the first place and ' $a$ ' at the end?",
+      "options": [
+        "45360",
+        "630",
+        "1260",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Mathematics(16)",
+      "question": "16. Evaluate the following series: $\\frac{1}{1 \\times 2}+\\frac{1}{3 \\times 4}+\\frac{1}{5 \\times 6}+\\ldots \\ldots \\infty$",
+      "options": [
+        "$\\mathrm{e}^{2}$",
+        "$2 \\ln 2$",
+        "$\\ln 2$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "1. The melting point of lead is $327^{\\circ} \\mathrm{C}$ and the latent heat of lead is $5.86 \\mathrm{cal} / \\mathrm{gm}$. What will be the change in entropy to melt $4 \\mathrm{gm}-\\mathrm{mol}$ lead? (Atomic weight of lead 207).",
+      "options": [
+        "$8.1 \\mathrm{cal} / \\mathrm{K}$",
+        "$1.38 \\mathrm{cal} / \\mathrm{K}$",
+        "$14.8 \\mathrm{cal} / \\mathrm{K}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "2. A cell has a driving force of 2V and an internal resistance of $2\\Omega$ . How much current will flow if its ends are connected by a wire of resistance $10\\Omega$ ?",
+      "options": [
+        "0.167 amp",
+        "24 amp",
+        "0.25 amp",
+        "None Of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "3. Which one of the following does not present at plasma state?",
+      "options": [
+        "solid state",
+        "vapour state",
+        "gaseous state",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "4. Common base of a transistor is connected. Its emitter current is 0.75 mA and base current is 0.05 mA . Find the current amplification factor.",
+      "options": [
+        "0.93",
+        "14",
+        "1.71",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "5. The amount of energy produced from a 10 kg substance is fully converted into energy, what will be the produced energy?",
+      "options": [
+        "$9 \\times 10^{19} \\mathrm{~J}$",
+        "$9 \\times 10^{18} \\mathrm{~J}$",
+        "$9 \\times 10^{17} \\mathrm{~J}$",
+        "$9 \\times 10^{16} \\mathrm{~J}$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "6. 25 N force expands a spring by 10 cm . How much work will be completed if the spring is expanded upto 8 cm?",
+      "options": [
+        "0.8 J",
+        "0.8 Nm",
+        "(a) and (b) both",
+        "None of them"
+      ],
+      "tag": "CUET 13-14,Tapan Sir"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "7. The radius of the carth is $6.4 \\times 10^{6} \\mathrm{~m}$ and the acceleration due to gravity is $9.8 \\mathrm{~ms}^{-2}$. Calculate the escape velocity of a body.",
+      "options": [
+        "$7.92 \\mathrm{~km} / \\mathrm{sec}$",
+        "$11.2 \\mathrm{~km} / \\mathrm{sec}$",
+        "$9.0 \\mathrm{~km} / \\mathrm{sec}$",
+        "$15.0 \\mathrm{~km} / \\mathrm{sec}$"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "8. A lift weighing $1.5 \\times 10^{6} \\mathrm{gm}$ is suspended by a steel wire. What will be the minimum radius-of the wire if the maximum acceleration of the lift during upward motion is $1.2 \\mathrm{~m} / \\mathrm{sec}^{2}$ and the breaking stress is $3.0 \\times 10^{8} \\mathrm{~N} / \\mathrm{m}^{2}$ ?",
+      "options": [
+        "$4.33 \\times 10^{-3} \\mathrm{~m}$",
+        "$4.19 \\times 10^{-3} \\mathrm{~m}$",
+        "$3.7 \\times 10^{-3} \\mathrm{~m}$",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "9. Dimension of Heat capacity-",
+      "options": [
+        "$\\mathrm{ML}^{2} \\mathrm{~T}^{-2} \\theta^{-1}$",
+        "$\\mathrm{MLT}^{-2} \\theta^{-1}$",
+        "$\\mathrm{ML}^{2} \\mathrm{~T}^{-2}$",
+        "None of these"
+      ],
+      "tag": "RUET 12-13,CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "10. Change in entropy of reversible process:",
+      "options": [
+        "less",
+        "increases",
+        "zero",
+        "None Of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "11. A Carnot engine receives 1250 J heat from a heat reservoir at 500 K and discharges 700 J of heat to a heat sink.",
+      "options": [
+        "450 K",
+        "280 K",
+        "0 K",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "12. If two tuning forks sound simultaneously, they create $10 \\mathrm{bit} / \\mathrm{sec}$. If the frequency of one tuning fork is 280 Hz, what will be the frequency of the other?",
+      "options": [
+        "290 Hz",
+        "270 Hz",
+        "both a & b",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "13. Force exerted by a magnetic field on a moving charge is called-",
+      "options": [
+        "torque",
+        "Lorentz force",
+        "dyne",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "14. A candle is placed 30 cm away from a sereen. If you want to get a 3 times magnified image of the candle on the screen, what focal length of the mirror is to be used?",
+      "options": [
+        "-22.5 cm",
+        "11.25 cm",
+        "5.63 cm",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "15. Refraction of an equilateral prism 2 \\sqrt{2} 2  ​ If so, what is its minimum angle of deviation?",
+      "options": [
+        "60°",
+        "15°",
+        "30°",
+        "45°"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,RUET 14-15,RUET 15-16,KUET 17-18,KUET 13-14,CUET 13-14,CUET 11-12,JU A 18-19 (SET C),JU A 16-17 (SET 4),Ishaque Sir,BUTEX 16-17,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "16. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "17. A man of mass 50 kg drives a car of mass 1950 kg from rest with uniform acceleration in first 10 sec . Thereafter driving with uniform velocity for 10 min he applied the brake to stop the car in 1 sec . If the velocity of the car is $8 \\mathrm{~m} / \\mathrm{sec}$ after 4 sec from starting, calculate the total distance traversed by the car.",
+      "options": [
+        "12100 m",
+        "12210 m",
+        "12310 m",
+        "12110 m"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "18. The ratio of the emifted heat energy per second per unit area of the two black bodies P and Q is $16: 1$. If the temperature of P is 1600 K , what will be the temperature of Q ?",
+      "options": [
+        "800 K",
+        "3200 K",
+        "400 K",
+        "None of these"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "19. A siren produces frequency of 120 Hz . It is moving away from you with velocity of $15 \\mathrm{~m} / \\mathrm{sec}$. What is the frequency of the sound heard by you? (The speed of sound in air $320 \\mathrm{~m} / \\mathrm{sec}$ ).",
+      "options": [
+        "104.9 Hz",
+        "95.9 Hz",
+        "114.6 Hz",
+        "113.0 Hz"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "Physics(20)",
+      "question": "20. A resistor is colored yellow and orange respectively. What is the value of the resistor?",
+      "options": [
+        "47k ohm",
+        "470 ohm",
+        "4700 ohm",
+        "None"
+      ],
+      "tag": "BSMRSTU 18-19,CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "1. Choose the correct form of the verb in parenthesis of the following sentence:\nHad they arrived at the sale early, they ______ (find) a better selection.",
+      "options": [
+        "will find",
+        "found",
+        "would have found",
+        "would found"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "2. Choose the \"appropriate preposition\" to fill in the blank of the following sentence:\n\"He drove ______ a speed of 60 mile per hour.\"",
+      "options": [
+        "with",
+        "off",
+        "by",
+        "at"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "3. Select the compound sentence from the following:",
+      "options": [
+        "Work hard and you will succeed in life.",
+        "Because of raining, we could not go to school",
+        "The sun having set we returned home",
+        "By taking fruits and vegetables, you will get vitamins"
+      ],
+      "tag": "CUET 13-14,CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "4. In 1920, after some thirty-nine years of problems with disease, high costs, and politics, the Panama Canal was officially opened, finally linking the Atlantic and Pacific Oceans by allowing ships to pass through the fifty-mile canal zone instead of traveling some seven thousand miles around Cape Horn. It takes a ship approximately eight hours to complete the trip through the canal and costs an average of fifteen thousand dollars, one tenth of what it would cost an average ship to round the Horn. More than fifteen thousand ships pass through its locks each year. The French initiated the project but sold their rights to the United States, which actually began the construction of the project. The latter will control it until the end of the twentieth century when Panama takes over its duties.\nAll of the following are true EXCEPT",
+      "options": [
+        "it costs so much to pass through the locks because very few ships use them",
+        "the United States received the rights to the canal from the French",
+        "a ship can pass through the canal in only eight hours",
+        "passing through the canal saves thousands of miles of travel time around Cape Horn"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "5. Choose the correct ‘Indirect speech’ of the following ‘Direct speech’:\nI said to him, “Let them do whatever they like.”",
+      "options": [
+        "I told him that they should do whatever they like",
+        "I wished him that they would do whatever they like",
+        "I proposed to him that they might do whatever they liked",
+        "I told him that they might do whatever they liked"
+      ],
+      "tag": "CUET 13-14,CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "6. Choose the correct ‘Passive voice’ of the following ‘Active voice’: “Please don’t smoke.”",
+      "options": [
+        "You are not allowed to smoke",
+        "He is requested not to smoke",
+        "Smoke is not permitted",
+        "You are requested not to smoke"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "7. Choose the best phrase that completes the following sentence:\nHe passed the examination___ hard labor.",
+      "options": [
+        "by hook or by crook",
+        "carry out",
+        "by the book",
+        "by dint of"
+      ],
+      "tag": "CUET 13-14,CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "8. Choose the 'Antonym' of the word \"fiddle\":",
+      "options": [
+        "Hoax",
+        "Integrity",
+        "Fraud",
+        "Con"
+      ],
+      "tag": "CUET 13-14"
+    },
+    {
+      "subject": "English(9)",
+      "question": "9. Which of the following sentences most closely resembles:\n“Paris is one of the costliest cities in the world.”",
+      "options": [
+        "Paris is costlier than most other cities in the world",
+        "Paris is costlier than any other city in the world",
+        "No other city in the world is as costly as Paris",
+        "Paris is not as costly as most other cities in the world"
+      ],
+      "tag": "CUET 13-14,CUET 13-14"
+    }
+  ]
+}

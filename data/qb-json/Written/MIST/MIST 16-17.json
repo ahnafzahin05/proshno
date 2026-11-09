@@ -1,0 +1,239 @@
+{
+  "title": "MIST 16-17",
+  "questions": [
+    {
+      "subject": "(40)",
+      "question": "1. Find the value $\\lim _{x \\rightarrow 0^{+}} \\frac{\\ln x}{\\operatorname{cosec} x}$",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "2. If $\\sqrt[3]{\\mathrm{a}-\\mathrm{ib}}=xi y$, show that $\\sqrt[3]{a+ib}=x+iy$",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "3. Transform the following sentences as directed:\n (a) The birds that come to our country in time of winter are called guest birds. (Simple)\n (b) As they cannot tolerate the severe cold in their native land, they come to a temperate country like Bangladesh. (Compound)\n (c) They come to our country to seek a better shelter. (Complex)\n (d) They perform an important role to balance the environment. (Passive)\n (e) They cannot but fly far away from our country. (Affirmative)",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "4. Two roots of $\\alpha \\in \\beta, x^{2}-b xb=0$. Find the equation with $\\alpha^{4}$ в $\\beta^{4}$ with two roots.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "5. The vector with positive x-axis $\\overline{\\mathbf{A}}=-\\sqrt{\\mathbf{3}} \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}$that Find the angle produced.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "6. What is coagulation? Give examples of coagulants and write their properties.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "7. Find the value of: (i) $\\int_{-\\infty}^{0} xe^{-x^{2}} dx$ (ii) $\\int_{0}^{\\infty} xe^ {-x^{2}} dx$",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "8. Solve: $2(\\sin x \\cos x+\\sqrt{3})=\\sqrt{3} \\cos x+4 \\sin x, 0$",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "9. 5 At what angular velocity must the earth rotate about its axis if the weight of a person at the equator is to be part of the actual weight? Radius of earth at equator = $6.4 × 10^{6}$ m.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "10. Out of 100 student members, the cricket team has more members than the football team. If a football team has 70 members and 20 members are absent, what is the minimum number of members in both teams?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "11. An object is dropped from an airplane going uphill with constant momentum and falls to the ground after 5 sec. Find the height of the airplane when the object touches the ground.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "12. A vacuum cleaner and a TV have intensity levels of 86 dB and 84 dB respectively. What is their combined sound intensity level? Evidence intensity Io = $10^{-12} Wm^{-2}$.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "13. Complete the text with suitable prepositions.\nDhaka International Trade Fair (DITF) is organized (a)_____ the Export Promotion Bureau together (b)_____ the Ministry of Commerce of the Government of Bangladesh. DITF is held (c)_____ the first week of January (d)______ the first week of February every year. Ever since the first fair was inaugurated (e)________ 1 December 1995, DITF has been held annually (f)______ Sher-E- Bangla Nagar in Dhaka (g)_______ the west side of Bangabandhu International Conference Centre. In addition (h)______ Bangladeshi companies, many companies (i)_______ around the world participate routinely every year. There are country-specific foreign sections (j)______ the fair.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "14. Write the reactions caused by lightning and show how it helps make plant and animal proteins.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "15. Write the types of fuel cell.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "16. An object moving in simple rhythmic motion has an amplitude of 0.01 m and a frequency of 12 Hz. What is the velocity of the machine when it moves 0.005 m?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "17. Translate the following sentences into English.\n (a) Waiting for sweets –\n (b) I love train travel-\n (c) It is five o'clock (now) and ten minutes to go - -\n (d) British are very civilized nation-\n (e) The man is very stressed-",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "18. The coordinates of points A and B are (-2, 4) and (4, -5) respectively. Line AB is extended to point C such that AB = 3BC. Find the coordinates of point C.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "19. The angular position of the first minimum in a two-plate experiment is 0.20°. Find the distance between the two plates. The wavelength of light used is 5700Å.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "20. Find a point on the curve $y=x^{2}$ which is closest to the point $(18,0)$.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "21. As the current in a coil changes from 0.1A to 0.5A in 1.015 s, 12V is induced in the coil. What will be the coefficient of self induction of the coil?",
+      "options": [],
+      "tag": "MIST 15-16,MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "22. Find the summation : $\\int_{0}^{\\ln 2} \\frac{e^{x} dx}{1+e^{x}}$",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "23. If the coefficient of $x^{5}$ of $(1+x)^{p}, p>0$ is twice the coefficient of $x^{4}$, the value of $p$ determine What is the relationship between the coefficients of $x^{6}$ В $\\mathbf{x}^{4}$ ?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "24. $0.1 \\mathrm{M} \\mathrm{Mg}^{2+}$ ion solution at $\\mathrm{pH} \\mathrm{Mg}(\\mathrm{OH})_{2}$ precipitates Will be oru? $\\mathrm{Mg}(\\mathrm{OH})_{2}$ of $\\mathrm{K}_{\\mathrm{sp}}=1 \\times 10^{-11}$ .",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "25. For what value of x will the function $x^{4}$ 8x³ + 22x² - 24x + 5 have a minimum value of 4?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "26. x₁ = 5.02 mm, x 2 = 4.6 mm, x 3 = 6.3 mm, find the mean error, proof error and probable error.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "27. Write the chemical reactions to form each of the following compounds from phenol.\n (i) Anisole (Methoxy Benzene)\n (ii) Chlorobenzene\n (iii) Picric acid",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "28. When 0.1mol PCI, is heated in a container of volume 1 L, the total equilibrium pressure is 4.38 × 10°Nm² Determine the value of the equilibrium constant, K, at temperature T = 450K.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "29. If $e^{y}=x^{xy}$, find $\\frac{dy}{dx}$.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "30. A radioactive substance has a half-life of 15 days. In how many days will 65% of that substance decay?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "31. $\\overrightarrow{\\mathbf{B}}=2 \\hat{\\mathbf{i}}-2 \\hat{\\mathbf{j}}+\\hat{\\mathbf{k}}$ over the vector $\\ overrightarrow{\\mathbf{A}}=6 \\hat{\\mathbf{i}}+3 \\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$ What is the projection of the vector?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "32. Find the number of electrons per second flowing through the filament of a 100 W lamp operating at 200 V. Given, the charge of electron is e = $1.6 \\times 10^{-19}С$.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "33. Calcium oxalate, the main component of kidney stones, is extracted from blood dissolved in acid and titrated with 9.56 × $10^{-4}$M KMnO 4 10 mL sample of blood requires 24.2 mL of KMnO 4 What is the amount of calcium per mL of blood? Determine and show the reactions [CaC 2 O 4 =40]",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "34. Find the equation of the circles touching the y-axis and passing through the points (3,0) and (7,0).",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "35. If a star with four times the solar mass becomes a black hole, what will be the radius of its Schwarzschild shield? [Solar mass = $1.9 × 10^{30}$kg]",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "36. The line $\\frac{\\mathrm{x}}{\\varphi}+\\varphi \\mathrm{y}=1, \\varphi>0$ is the origin  \\frac{1}{\\sqrt{3}} Determine the value of \\( \\varphi  if \\) is at unit distance.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "38. The acceleration of a particle in a given direction can be expressed by x = 2.0 (ms¯²) t² + 3.0m. What is the average acceleration of the particle between 3.0 s and 5.0 s?",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "39. Density of air at normal pressure and temperature is 1.29 kg.m³. Find the density of that air at a temperature of 30°C and a pressure of 75 × 10² m Hg.",
+      "options": [],
+      "tag": "MIST 16-17"
+    },
+    {
+      "subject": "(40)",
+      "question": "40. Explain the dimer structure of AlCl 3 .",
+      "options": [],
+      "tag": "MIST 16-17"
+    }
+  ]
+}

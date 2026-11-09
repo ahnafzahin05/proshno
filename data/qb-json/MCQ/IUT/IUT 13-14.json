@@ -1,0 +1,1034 @@
+{
+  "title": "IUT 13-14",
+  "questions": [
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "1.   $\\frac{1}{3} i$  এর বর্গমূল কোনটি?",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right )$"
+      ],
+      "tag": "AGRI GST 20-21, CB 19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "2. If the sides of a triangle are 5,12,13 cm respectively.  Then the Triangle is--",
+      "options": [
+        "Obtuse angled",
+        "Acute angled",
+        "Right angled",
+        "None"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "3. What is the distance between the lines 4x + 3y + 16 = 0 and 4x + 3y + 26 = 0 ?",
+      "options": [
+        "10",
+        "2",
+        "5",
+        "4"
+      ],
+      "tag": "IUT 13-14,IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "4. $\\begin{vmatrix} a + x& a - x& a - x\\\\ a - x & a + x & a - x\\\\ a - x & a - x & a + x\\end{vmatrix} = 0$ then $x$ =?",
+      "options": [
+        "$0$",
+        "$a$",
+        "$2a$",
+        "$7a$"
+      ],
+      "tag": "হানি নাটস,অসীম স্যার"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "5. If y =  $\\tan^{- 1}{\\left ( \\frac{x}{\\sqrt{1 - x^{2}}} \\right )}$    then find the value of $\\frac{dy}{dx}$.",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^{2}}}$",
+        "$\\tan^{- 1}{\\left ( \\frac{x}{\\sqrt{1 - x^{2}}} \\right )}$",
+        "1",
+        "π"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "6. Let n be a positive integer.  Then the value of   $\\sum_{k = 0}^{n} \\left ( - 1 \\right )^{k} \\left ( \\frac{n}{k} \\right )$    is --",
+      "options": [
+        "- 1",
+        "0",
+        "1",
+        "None of them"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "7. If point (a, 5) has equal distances from both the y-axis and a point (7, 2), then the of value of a is?",
+      "options": [
+        "49",
+        "29",
+        "$\\frac{49}{29}$",
+        "$\\frac{29}{7}$"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "8. If $x = a \\cos^3 \\theta$ and $y = b \\sin^3 \\theta$ then $\\frac{dy}{dx} = ?$",
+      "options": [
+        "$- \\frac{b}{a} \\cos{\\theta}$",
+        "$\\frac{a}{b} \\tan{\\theta}$",
+        "$\\frac{a}{b} \\cot{\\theta}$",
+        "$- \\frac{b}{a} \\tan{\\theta}$"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "9. Which of the following point is the reflection (image) of the point (3, -3) in the line 2y = x + 1 ?",
+      "options": [
+        "(1, -1)",
+        "(5, -5)",
+        "(1, -5)",
+        "(-1, 5)"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "10. If the circles x2 + y2 - 16x - 12y + 75 =0 and 5x2 + 5y2 - 32x - 24y + 75 =0  touch each other, then the equation of the common tangent of their point of contact is --",
+      "options": [
+        "3y + 5x =29",
+        "3y + 4x =25",
+        "3y + 4x =24",
+        "3y + 5x = 25"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "11. The orbit of the earth around the sun is an ellipse with the sun at one focal point.  If the ellipse has a major axis of length 186 million miles and an eccentricity of approximately 0.016. Then, the shortest and greatest distances between the earth and the sun are --",
+      "options": [
+        "91.5 and 184.5 million miles,  respectively",
+        "92.9 and 185.5 million miles,  respectively",
+        "92.9 and 184.5 million miles,  respectively",
+        "91.5 and 94.48 million miles,  respectively"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "12. Two listening posts, A and B are 500m apart. An explosion is heard at these posts. From the difference in times it is determined that the site of explosion is 800m closer to A then to B.  If the site of explosion lies on a hyperbolic curve,  then the equation of the hyperbola is --",
+      "options": [
+        "$\\frac{x^{2}}{\\left ( 400 \\right )^{2}} - \\frac{y^{2}}{\\left ( 5000 \\right )^{2}} = 1$",
+        "$\\frac{x^{2}}{\\left ( 400 \\right )^{2}} - \\frac{y^{2}}{\\left ( 2468 \\right )^{2}} = 1$",
+        "$\\frac{x^{2}}{\\left ( 8000 \\right )^{2}} - \\frac{y^{2}}{\\left ( 2500 \\right )^{2}} = 1$",
+        "None"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "13.\n$x = \\tan \\sqrt{y}$ হল, $x=1$ এর জন্য $dy/dx$ এর মান কত?",
+      "options": [
+        "4/π",
+        "π/2",
+        "π/4",
+        "2/π"
+      ],
+      "tag": "IUT 13-14,SUST A 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "14.  \n\n$\\frac{d}{dx}\\ln\\left(\\frac{\\sin x}{1-\\cos x}\\right) = ?$",
+      "options": [
+        "- 1",
+        "cotx - tanx +1",
+        "cosecx",
+        "- cosec x"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "15. The function x3 - 12x + 5 has a stationary value when --",
+      "options": [
+        "x = -2",
+        "x = √6",
+        "x = 0",
+        "x = 4"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "16. Let g be a function whose derivative g' and is shown in the graph below.  For what value of x,  the value of g is minimum ?\n  [IMG: https://assets.chorcha.net/VQnKtYwoSLMV40Xs.webp]",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "17. A stone dropped into a still pond sends out a circular ripple whose radius increases at a constant rate of 3 ft s-1. How rapidly is the area enclosed by the ripple increasing at the end of 10 s ?",
+      "options": [
+        "90π ft s-2",
+        "180 ft s-2",
+        "$180 \\pi f^{2} ts^{-1}$",
+        "None"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "18.  \n\n$\\int \\tan^{3} 5x \\sec^{2} 5x dx = ?$",
+      "options": [
+        "$\\frac{1}{12} \\sec^{4}{5} x + C$",
+        "$\\frac{1}{20} \\tan^{4}{5} x + C$",
+        "$\\frac{1}{20} \\sec^{4}{5} x + C$",
+        "$\\frac{1}{12} \\sec^{3}{5} x + C$"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "19. $\\int_{0}^{\\frac{3 \\pi}{4}}|\\cos x| d x=?$",
+      "options": [
+        "$\\frac{\\sqrt{2}}{2}$",
+        "$1 - \\frac{\\sqrt{2}}{2}$",
+        "$2 - \\frac{1}{\\sqrt{2}}$",
+        "None of these"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "20. Find the area of the region enclosed between the curves y = x2 and y = x + 6",
+      "options": [
+        "$\\frac{157}{6}$",
+        "$\\frac{125}{6}$",
+        "$\\frac{95}{6}$",
+        "$\\frac{13}{6}$"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "21. A uniform beam AB of weight 100 N and 6m long had two bodies of weights 60 N and 80 N  suspended  from its two ends A and B,  respectively. At what distance from B, the beam should be supported so that it may rest horizontally?",
+      "options": [
+        "2.55 m",
+        "3.25 m",
+        "3.45 m",
+        "2.75 m"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "22. sinx sin ( x+30°) + cosx cos( x + 30°) =?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "1",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "0"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "23. The fundamental period of $\\frac{1}{2} \\cot \\left(\\frac{2}{3}\\right) \\theta$ is-",
+      "options": [
+        "$2\\pi$",
+        "$\\pi$",
+        "$3 \\frac{π}{2}$",
+        "$\\frac{π}{2}$"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "24. How many ways can you arrange the letters ABCDEFGH so that the word will contain the string ABC ?",
+      "options": [
+        "40320",
+        "720",
+        "120",
+        "None of them"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(25)",
+      "question": "25. In a study, it was discovered that 25% of the paintings of a certain art gallery are not original. A collector, in 15% cases, makes a mistake in judging if a painting is original or a copy. If she buys a painting thinking that it is original, what is the probability that it is not original ?",
+      "options": [
+        "0.056",
+        "0.25",
+        "0.0625",
+        "None of these"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "1. As a traffic light turns green, a waiting car starts with a constant acceleration of 6.0m/s² . At the instant the car begins to accelerate, a truck with a constant velocity of 21m/s passes the car through the next lane. How fast will the car be traveling when it overtakes the truck?",
+      "options": [
+        "78m/s",
+        "42m/s",
+        "35 m/s",
+        "25m/s"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "2. A race car has a mass of 710 kg. It starts from rest and travels 40.0m in 3.0 s. The car is uniformly accelerated during the entire time. What net force is exerted on it?",
+      "options": [
+        "6.3 x 10³N",
+        "8.3 x 10³N",
+        "7.3 x 10³N",
+        "3.3 x 10 N"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "3. A partially inflated balloon contains 500m³ of Helium at 27°C at 1-atm pressure. What is the volume of the Helium at an altitude of 3000m, where the pressure is 0.5 atm and temperature is -3°C?",
+      "options": [
+        "900 m³",
+        "910 m³",
+        "790 m³",
+        "850 m³"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "4. On July 19, 1969, Apollo 11's orbit around the moon was adjusted to an average orbit of 111 km. The radius of the moon is 1785 km, and the mass of the moon is 7.3 x 10²²kg. How many minutes did Apollo I take to orbit the moon once?\n $G = 6.67 × 10^{- 11} N - m ² K g^{- 2}$",
+      "options": [
+        "2.31 x 10² min",
+        "1.23 x 10² min",
+        "1.56 x 10² min",
+        "1.35 x 10² min"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "5. A thick sheet of plastic having refractive index of 1.50 is used as the side of an aquarium tank. Light reflected from a fish in the water has an angle of incidence of 35.0°. At what angle does the light enter the air? [Refractive index of water is 1.33]",
+      "options": [
+        "59.8°",
+        "49.0°",
+        "47.8°",
+        "49.8°"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "6. A circuit contains six 480Ω lamps and a 24.0Ω heater connected in parallel. The voltage across the circuit is 240V. What is the total current in the circuit?",
+      "options": [
+        "11.25 A",
+        "13.0A",
+        "12.5A",
+        "15.0A"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "7. An electron is accelerated across a potential difference of 5.0 x 10³ V in the CRT of a television. What is the velocity of the electron if it starts from rest?",
+      "options": [
+        "4.193 x 10⁷ m/s",
+        "4.253 x 10⁷m/s",
+        "5.351 x 10⁷ m/s",
+        "4.112 x 10⁷m/s"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "8. A space ship is 98m long.How first would it have to moving to appear only 49m?",
+      "options": [
+        "2.25×108 m/s",
+        "2.75×108 m/s",
+        "2.60×108 m/s",
+        "1.85×108 m/s"
+      ],
+      "tag": "IUT 14-15,IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "9. Liquid helium has a very low boiling point 4.2K as well as low latent heat of vaporization, equal to 2.09 x 10⁴ J/kg. What is the boiling time for 2 kg of liquid helium by a 100W heater.",
+      "options": [
+        "6.97 min",
+        "6.35 min",
+        "5.92 min",
+        "6.57 min"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "10. During one cycle an engine extracts 2.00 x 10³ of energy from a hot reservoir and transfers 1.50 x 10³ to a cold reservoir. How much power does the engine generate if it goes through 4 cycles in 2.5s?",
+      "options": [
+        "750 W",
+        "800 W",
+        "825 W",
+        "775 W"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "11. A platform is suspended by four wires at its corners. The wires are 3m long and have a diameter of 2.00mm. Young's modulus of the material of the wire is 1.8 x 10¹¹ N/m². How far will the platform drop due to the elongation of the wires if a 50kg load is placed at the centre of the platform?",
+      "options": [
+        "0.65mm",
+        "0.65cm",
+        "0.42mm",
+        "0.55mm"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "12. When the velocity of a moving object is increased by 4m/s, its kinetic energy is doubled.What is the initial velocity of the object?",
+      "options": [
+        "4.66m/s",
+        "9.66m/s",
+        "7.66m/s",
+        "6.66m/s"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "13. The half life of Radon is 3.8 days. After how many days 1/10th part of an initial amount of the material will exist?",
+      "options": [
+        "13.32 days",
+        "12.625 days",
+        "12.12 days",
+        "11.626 days"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "14. A marbel with speed 20cm/s rolls off the edge of a table 80cm high. How far, horizontally,from the tabel edge does the marble strike the floor?",
+      "options": [
+        "6.5cm",
+        "7.0cm",
+        "8.0cm",
+        "8.5cm"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "15. When an electric fan rotating at an angular velocity of 30 rad/s is switched off, its velocity reduces to 10 rad/s after 20 revolution. What is the angular retardation of the fan?",
+      "options": [
+        "3.183 rad/s²",
+        "2.183 rad/s²",
+        "1.183 rad/s²",
+        "3.363 rad/s²"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "16. It is required to install an electric pump to lift water from an underground tank to a 1000 liter overhead reservoir which has 25 m height. What must be the power of the electric motor to fill the tank in 10 mins.",
+      "options": [
+        "0.45 hp",
+        "0.55 hp",
+        "0.50 hp",
+        "0.65 hp"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "17. A battery dissipates 5 watts when it supplies a current of 4A through it. The terminal potential at the load is 23 volt. What is the emf of the battery?",
+      "options": [
+        "24.25 V",
+        "23.25 V",
+        "26.25 V",
+        "21.25 V"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "18. Alpha particles (m = $6.68 × 10^{- 27}$  kg and q = +2e) accelerate to 2 keV through a potential difference V. They enter a magnetic field B = 0.2T perpendicular to their direction of motion. What is radius of their path?",
+      "options": [
+        "35 mm",
+        "46 mm",
+        "32mm",
+        "41mm"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "19. Two 10μF capacitor are connected in parallel and the combination is fed by a 12V battery. What is the energy stored in the capacitors?",
+      "options": [
+        "1.35 mJ",
+        "1.10 mJ",
+        "1.56 mJ",
+        "1.44 mJ"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "20. A 60W lamp is emitting green light with wavelength $5550 × 10^{- 10} m$  . If 5% of the electrical energy of the lamp is converted to light, how many photons are being emitted by the lamp in 1s.\n  $\\left [ h = 6.63 × 10^{- 34} \\right ]$",
+      "options": [
+        "7.37 x 10¹⁸",
+        "8.37 x 10¹⁸",
+        "9.5 x 10¹⁸",
+        "6.7 x 10¹⁸"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "21. A period has 3 velocities 10 m/s,  20 m/s and 30 m/s inclined at angle of 120° to one another.  The magnitude of the resultant velocity is --",
+      "options": [
+        "$10 \\sqrt{3} m s^{- 1}$",
+        "10 m/s",
+        "5 m/s",
+        "$\\sqrt{3} m s^{- 1}$"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "22. An object is thrown vertically upward from the ground with an initial velocity of $80\\ fts^{-1}$. Its heights above the ground is parabola and is given by the equation: $s=80t-16t^2$. How high does the object rise above the around?",
+      "options": [
+        "$100 ft$",
+        "$120 ft$",
+        "$96 ft$",
+        "None of these"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "23. An airplane is flying on a straight level  course at 200 Km/ hour at a height of 1000 m above the ground. An anti-aircraft gun located on the ground fires a shell with an initial velocity of 300 m/s,  at the instant when the plane  is vertically above it. At what inclination, to the horizontal, should the gun be fired to hit the plane ?",
+      "options": [
+        "86.96°",
+        "79.33°",
+        "83.68°",
+        "None of these"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "24. A man takes 8 min to cross a 400 m wide river by swimming,  if there is no current in the river.  However, he takes 10 minutes to cross the river,  if there is current in the river. The velocity of the current is --",
+      "options": [
+        "15 m min-1",
+        "20 m min-1",
+        "25 m min-1",
+        "30 m min-1"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "25. An engineer designs a runway to accommodate airplanes that must reach a ground velocity of 61m/s before they can take off. These planes are capable of being accelerated uniformly at the rate of 2.5m/s² What must be the minimum length of the runway?",
+      "options": [
+        "785.2m",
+        "760.2m",
+        "744.2m",
+        "670.2m"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "26. A 35.0g bullet strikes a 5.0Kg stationary wooden block and embeds itself in the block. The block and bullet fly off together at 8.6m/s. What was the original speed of the bullet?",
+      "options": [
+        "1.2 x 10³ m/s",
+        "1.35 x 10³ m/s",
+        "1.35 x 10²m/s",
+        "1.2 x 10² m/s"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "27. A wire 75cm long carrying a current of 6.0A is at right angles to a uniform magnetic field. The magnitude of the force action on the wire is 0.60N. What is the strength of the magnetic field?",
+      "options": [
+        "0.13T",
+        "1.30T",
+        "0.50T",
+        "0.09T"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "28. A laptop computer requires an effective voltage of 9.0 volts from the 240V line. Current drawn by the computer is 125mA. What is the current in the primary circuit?",
+      "options": [
+        "4.52 mA",
+        "4.32 mA",
+        "5.52 mA",
+        "4.69 mA"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "29. Three particles are placed in a line. The left has a charge of -67μC, the middle +45μC and the right -83µC. The middle is 72cm from each of the others. What is force on the middle particle?",
+      "options": [
+        "12N",
+        "13 N",
+        "16N",
+        "12.5N"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "30. A person in a railroad car blows a trumpet note at 440Hz. The car is moving towards a wall at 20.0m/s. What is the frequency of the sound heard by an observer at the wall? Assume that the speed of sound in air is 343m/s",
+      "options": [
+        "467 Hz",
+        "498 Hz",
+        "450 Hz",
+        "460 Hz"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "31. The speed of light in a particular type of glass is 1.6 x 10⁸m/s. What is the refractive index of the glass?",
+      "options": [
+        "1.9",
+        "1.53",
+        "1.43",
+        "1.25"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "32. If the sound level is increased by 3dB, what is the corresponding change in the intensity level?",
+      "options": [
+        "Double",
+        "3 times",
+        "2.5 times",
+        "1.5 times"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(33)",
+      "question": "33. The resultant of two forces P and Q acting at a point is   $\\sqrt{3} Q$   and it makes an angle of 30° with the direction of P. Then P =?",
+      "options": [
+        "Q",
+        "2Q",
+        "√Q",
+        "Both a and b"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "1. The baseball players malice toward the referee was revealed in his (spiteful) remarks to the media.which almost ruined the referee career.",
+      "options": [
+        "Vindictive",
+        "Crazy",
+        "rude",
+        "Unpleasant"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "2. Although Zahid is much too inexperienced for the managerial position, he is a willful young man and (obdurately) refuses to withdraw his application.\nThe word in brackets means—",
+      "options": [
+        "Foolishly",
+        "Reluctantly",
+        "Constantly",
+        "Stubbornly"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "3. Excited about winning an award, Marium walked up to the podium and delivered an animated acceptance speech.Choose the option that is similar in meaning to the underlined word:",
+      "options": [
+        "Abbreviated",
+        "Courteous",
+        "Reserved",
+        "Lively"
+      ],
+      "tag": "IUT 14-15,IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "4. The doctors were pleased that their theory had been fortified by the new research.\nThe underlined word 'fortified' can be best replaced by—",
+      "options": [
+        "Reinforced",
+        "Altered",
+        "Disputed",
+        "None"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "5. Because the excellent preservation of the fossil, anatomical details of early horseshoe crabs were...... For the first time, enabling experts to .....the evolution of the horseshoe crab.",
+      "options": [
+        "Scrutinized,ensure",
+        "Verified, advance",
+        "Identified,distort",
+        "Clarified, reassess"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "6. The skeleton of ........bird that was recently discovered indicated that this ancient creature......... today's birds in that ,unlike earlier birds and unlike reptilian ancestors,it had not a tooth in it's head.",
+      "options": [
+        "A primeval,obseured",
+        "A unique,preempted",
+        "A primitive, anticipated",
+        "A contemporary, foreshadowed"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "7. Program: concert:",
+      "options": [
+        "Bibliography: book",
+        "Menu:entree",
+        "Questionaire:poll",
+        "Agenda: meeting"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "8. ENTHUSIASM: MANIA:",
+      "options": [
+        "idea: inspiration",
+        "nightmare: hallucination",
+        "failure: disgust",
+        "suspicion : paranoia"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "9. Choose the word or phrase most nearly opposite in meaning to 'tout'.",
+      "options": [
+        "cast aspersions on",
+        "deny the relevance of",
+        "placate",
+        "misrepresent"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "10. Antonym of SCOTCH is-",
+      "options": [
+        "renovate",
+        "entrust",
+        "unfasten",
+        "encourage"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "11. Choose the word opposite in meaning to PLUMB.",
+      "options": [
+        "reversed",
+        "lofty",
+        "horizontal",
+        "thin"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "English(12)",
+      "question": "12. _______have concluded that the volcanic eruption caused a tidal wave.",
+      "options": [
+        "Scientist who study oceans",
+        "Scientist who study atmospheric conditions",
+        "Scientist who study ash",
+        "Scientist who study animal behavior"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "1. A plate of area 10cm² is to be electroplated with copper (density 9.0gm/cm³) to a thickness of 0.001cm on both sides using a battery of 12 volts. What is the energy spent by the battery in the process of deposition?",
+      "options": [
+        "8500J",
+        "7200J",
+        "7600J",
+        "7890J"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "2. An FM radio station broadcasts on a frequency of 94.5 MHz. The station uses a half wavelength antenna.What is the length of the antenna?",
+      "options": [
+        "1.43m",
+        "1.2m",
+        "1.59m",
+        "1.83m"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "3. The names of formula of the following sentence are given below.\ni. corundum ,Al2O3\nii. cryolite, AlF3,3NaF\niii. cerusite, PbCO3\nwhich statement are correct?",
+      "options": [
+        "i, ii",
+        "i, ও iii",
+        "i, ii ও iii",
+        "ii ও iii"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "4. What compound is formed when Cl2 is passed in slaked lime at 40°C?",
+      "options": [
+        "Ca (OCl)Cl",
+        "CaCl2",
+        "Ca(OCl)2",
+        "CaO"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "5. How much percentage of inert gases (by volume) is present in air?",
+      "options": [
+        "0.1%",
+        "2%",
+        "0.93%",
+        "2.5%"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "6. Among four elements with following electron distribution of the 2nd period which has largest atomic radius?",
+      "options": [
+        "1s2 2s1",
+        "1s2 2s2",
+        "1s2 2s2 2p1",
+        "1s2 2s2 sp2"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "7. In some endothermic reaction (P→Q) , activation energy is 60 kj/mol and reaction enthalpy is 20kj/mol. In it's opposite reaction,what will be it's activation energy?",
+      "options": [
+        "80 kj/mol",
+        "60 kj/mol",
+        "40 kj/mol",
+        "Zero"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "8. Sn(s) +2Ag+→Sn2+(aq)+2Ag(s); what is helpful to increase the emf of this cell?",
+      "options": [
+        "To increase Sn+ concentration",
+        "To increase Ag+ concentration",
+        "To increase size of Ag rod",
+        "None these"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "9. Which one is not correct?",
+      "options": [
+        "Ohm's law is valid for electronic conductors",
+        "Delocalized electrons are present in metallic conductors",
+        "Faraday's law is valid for electrolyte",
+        "Oxidation occurs at cathode during elctrolysis"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "10. If current of 5A is passed through a CuSO4 solution for 15 minutes,the amount of copper will be deposited on the cathode will be -[Cu=63.5]",
+      "options": [
+        "1.48g",
+        "2.48gm",
+        "0.148 gm",
+        "1.18 gm"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "11.  The elements listed below,which has the unpaired electrons in their electronic configuration?",
+      "options": [
+        "Ba",
+        "Na,Si,S",
+        "Ca ,P, Xe",
+        "S. Zn, Mg, N"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "12. A solution has hydroxylion( OH) concentration of 6.2×10-7mol/L. The pH of this solsolution will be -",
+      "options": [
+        "6.8",
+        "8.7",
+        "7.8",
+        "2.1"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "13. i) রাসায়নিক সাম্যবস্থার শর্তগুলি লিখ।\nii) 25oC তাপমাত্রায় সাম্যাবস্থায় N2O4 এর বিয়োজনের মিশ্রণে N2O4 এর আংশিক চাপ 0.75atm এবং বিক্রিয়াটির Kp = 8.33×10-2 atm বিক্রিয়াটির Kc এবং NO2 এর আংশিক চাপ নির্নয় কর।",
+      "options": [],
+      "tag": "PCC 24,MC 24,BB 21,KUET 07-08,KUET 15-16,RUET 08-09,CUET 11-12,IUT 13-14,GST A 23-24,DU A 12-13,JU A 11-12 SET 1,JU A 15-16 SET 1,JU A 12-13 SET 1,JU A 11-12 SET 4,JU A 15-16 SET 4,JU A 12-13 SET 3,RU F 13-14,JU D 14-15 SET 3,JU D 11-12 SET 3,JU D 11-12 SET 1,SUST A 08-09,কবীর স্যার,গুহ স্যার,হাজারী ও নাগ স্যার"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "14. H2(g)+I2(g)→2HI(g) ,in equilibrium of this reaction,H2,I2 and HI concentration are 8, 3 and 28 mol/L. The Kc of this reaction wI'll be-",
+      "options": [
+        "36",
+        "32.67",
+        "34.3",
+        "33.5"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "15. CH3Cl(I)+Cl2(g)→CH2Cl2+HCl(g), this reaction occurs with endothermic bond dissociation and exothermic bond formation . Here bond energy of C-H ,C-Cl,Cl-Cl and H-Cl are 430,328,243 and 433 kj/mol. What will be the value ∆H of above the reaction?",
+      "options": [
+        "758 kj",
+        "-88kj",
+        "-571kj",
+        "676kj"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "16. Valency and oxidation number of C in compound CH2Cl2  are as follows,",
+      "options": [
+        "2,+2",
+        "2,+4",
+        "4,0",
+        "4,+2"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "17. Molar concentration of 10% Na2CO3 solution is-",
+      "options": [
+        "0.9434 mol/kg",
+        "0.9434M",
+        "0.9434 mol/L2",
+        "9.434 mol"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "18. A four carbon alcohol was oxidized with acidified potassium dichromate to from ketone.which structure does represent the original alcohol?",
+      "options": [
+        "CH3CH2CH2OH",
+        "H2C=CHCH2CH2OH",
+        "CH3C(CH3)OHCH3",
+        "CH3CH2CH(OH)CH3"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "19. Benzine reacts with chlorine in presence of sunlight to produce -",
+      "options": [
+        "Chlorobenzene and water",
+        "Chlorobenzene",
+        "Toluene and HCl gas",
+        "Gammaxine"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "20. The most suitable method of converting ethonal into iodoethane would be to-",
+      "options": [
+        "Reflux iodine and ethanol",
+        "React ethanol and copper iodide in the cold",
+        "Allow ethanol and KI to react in presence of dilute acid",
+        "Reflux red phosphorus,ethanol and iodine"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "21. During determination of N2 . It is seen that involved NH3 from 3.5gm anniline can be neutralize by 3.69 cm3 of 0.0103 M HCl. The percentage of the N2 in aniline is-",
+      "options": [
+        "15.16 %",
+        "16.15 %",
+        "18.31 %",
+        "0.01516 %"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "22. Complete the following chemical reaction: C6H5COCl+CH3-NH2→........+ HCl",
+      "options": [
+        "C6H5COCH3",
+        "C6H5NH-CH3",
+        "C6H5-CO.NH-CH3",
+        "C6H5CO-N(CH3)2"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "রসায়ন(23)",
+      "question": "23. The poisonous gases were not------- in the air.",
+      "options": [
+        "able to float",
+        "visible",
+        "able to evaporate",
+        "invisible"
+      ],
+      "tag": "IUT 13-14"
+    },
+    {
+      "subject": "(1)",
+      "question": "1. CARTOGRAPHER: MAP:",
+      "options": [
+        "astronomer: stars",
+        "carpenter: wood",
+        "lumberjack : saw",
+        "tailor: clothing"
+      ],
+      "tag": "IUT 13-14"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "title": "CKRUET 23-24",
+  "questions": [
+    {
+      "subject": "Mathematics(25)",
+      "question": "1. What is the general solution of $\\cos ^{3} \\mathrm{x}-\\frac{1}{2} \\sin 2 \\mathrm{x}=1+\\sin ^{3} \\mathrm{x} ?$",
+      "options": [
+        "$2 n \\pi,(4 n+1) \\frac{\\pi}{2}$",
+        "$2 n \\pi,(4 n-1) \\frac{\\pi}{2}$",
+        "$2 n \\pi,(2 n-1) \\frac{\\pi}{2}$",
+        "$2 n \\pi,(2 n+1) \\frac{\\pi}{2}$",
+        "$2 n \\pi,(4 n-1) \\frac{\\pi}{4}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "2. $A=\\left[\\begin{array}{cc}1 & -1 \\\\ 2 & 3\\end{array}\\right]$ and $f(x)=x^{2}+k x+5$. If $f(A)$ is a null matrix, what is the value of $k$ ?",
+      "options": [
+        "$\\mathrm{k}=-8$",
+        "$k=-6$",
+        "$\\mathrm{k}=-4$",
+        "$\\mathrm{k}=4$",
+        "$\\mathrm{k}=6$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "3. Two equal forces are acting on an object. If the square of their resultant is equal to three times the product of two forces, then what will be the angle between the two forces?",
+      "options": [
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$30^{\\circ}$",
+        "$55^{\\circ}$",
+        "$65^{\\circ}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "4. If $\\sin \\theta=\\frac{5}{13}$ and $\\frac{\\pi}{2}<\\theta<\\pi$, then what is the value of $\\frac{\\tan \\theta+\\sec (-\\theta)}{\\cot \\theta+\\operatorname{cosec}(-\\theta)}$ ?",
+      "options": [
+        "$\\frac{2}{15}$",
+        "$\\frac{3}{10}$",
+        "$-\\frac{2}{15}$",
+        "$-\\frac{15}{2}$",
+        "$-\\frac{3}{10}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "5. If $A=\\left[\\begin{array}{cc}1 & -1 \\\\ 2 & 3\\end{array}\\right], B=\\left[\\begin{array}{lll}1 & 3 & 0 \\\\ 2 & 0 & 1\\end{array}\\right], C=\\left[\\begin{array}{l}2 \\\\ 3 \\\\ 4\\end{array}\\right]$, then what is the value of $(A B) C$ ?",
+      "options": [
+        "$\\left[\\begin{array}{c}3 \\\\ 14\\end{array}\\right]$",
+        "$\\left[\\begin{array}{l}4 \\\\ 9\\end{array}\\right]$",
+        "$\\left[\\begin{array}{c}5 \\\\ 16\\end{array}\\right]$",
+        "$\\left[\\begin{array}{c}3 \\\\ 16\\end{array}\\right]$",
+        "None"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "6. When a batsman hits a cricket ball, it somehow crosses over two vertical walls of heights 20 m and d m located at a distance of d m and 20 m respectively from the point of projection. If the range $\\mathrm{R}=38 \\mathrm{~m}$, then what will be the value of d ?",
+      "options": [
+        "20 m and 30 m",
+        "30 m and 40 m",
+        "40 m and 50 m",
+        "12 m and 18 m",
+        "15 m and 25 m"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "7. If $\\sin 3 x+\\sin 3 y=3$ and $\\cos 3 x+\\cos 3 y=0$, then which one is the correct relationship between $x$ and $y$ ?",
+      "options": [
+        "$x+y=0$",
+        "$x+y=\\frac{\\pi}{2}$",
+        "$x+y=\\frac{3 \\pi}{2}$",
+        "$x+y=\\pi$",
+        "$x+y=\\frac{\\pi}{3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "8. An ellipse of eccentricity $\\frac{4}{5}$ passes through a point $\\left(\\frac{7}{3}, \\sqrt{5}\\right)$ and its axes are along the axes of coordinates, which one is the equation of the ellipse?",
+      "options": [
+        "$\\frac{x^{2}}{49}+\\frac{y^{2}}{9}=1$",
+        "$\\frac{x^{2}}{9}+\\frac{y^{2}}{49}=1$",
+        "$\\frac{9 \\mathrm{x}^{2}}{174}+\\frac{25 \\mathrm{y}^{2}}{174}=1$",
+        "$\\frac{5 x^{2}}{174}+\\frac{3 y^{2}}{174}=1$",
+        "$49 x^{2}+25 y^{2}=5$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "9. Find the length of the common chord of two circles whose equations are: $x^{2}+y^{2}-2 x+$ $4 y=0=x^{2}+y^{2}-3 x+5 y+2$.",
+      "options": [
+        "$3 \\sqrt{2}$",
+        "$\\sqrt{2}$",
+        "$\\sqrt{6}$",
+        "$\\sqrt{3}$",
+        "$2 \\sqrt{3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "10. Find the equation of the circles that touches $x$ axis at $(4,0)$ and it cuts a chord of 6 -units length from the $y$ axis.",
+      "options": [
+        "$\\left(x^{2}+y^{2}-8 x+10 y+16=0\\right)$",
+        "$\\left(x^{2}+y^{2} \\pm 8 x \\pm 10 y+16=0\\right)$",
+        "$\\left(x^{2}+y^{2}-8 x \\pm 10 y+16=0\\right)$",
+        "$\\left(x^{2}+y^{2}+8 x \\pm 10 y+16=0\\right)$",
+        "$\\left(x^{2}+y^{2} \\pm 8 x+10 y+16=0\\right)$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "11. Two trains, A and B moving in opposite direction, cross one another. The lengths of train $A$ and $B$ are 100 m and 75 m respectively. At the time of crossing, train A is moving at $8.5 \\mathrm{~m} / \\mathrm{s}$ speed with a constant acceleration of $0.1 \\mathrm{~m} / \\mathrm{s}^{2}$ and train B has a uniform speed of $6.5 \\mathrm{~m} / \\mathrm{s}$. how much time will it take to cross each other?",
+      "options": [
+        "9.35 sec",
+        "13.25 sec",
+        "15.28 sec",
+        "11.24 sec",
+        "17.23 sec"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "12. What is the equation of the bisector of the acute angle between the lines $3 x+4 y=11$ and $12 x-$ $5 y=2$ ?",
+      "options": [
+        "$11 x+3 y=27$",
+        "$11 x-3 y=27$",
+        "$3 x-11 y=17$",
+        "$3 x-11 y+19=0$",
+        "$11 x+3 y=17$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "13. What is the value of $\\int_{\\mathrm{e}}^{\\mathrm{b}} \\frac{\\mathrm{dx}}{\\mathrm{x} \\log \\mathrm{x}}$ ?",
+      "options": [
+        "$\\log b$",
+        "$\\frac{1}{\\log b}$",
+        "$\\frac{1}{\\log \\log b}$",
+        "$\\log \\log b$",
+        "$\\frac{1}{b \\log b}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "14. What is the value of $\\int_{a}^{b} f(x) d x$ ?\nHere, $f(x)=x^{3}-4 x^{2}+4 x$ cuts $x$-axis at two points $\\mathrm{a}, \\mathrm{b}>\\mathrm{a}$.",
+      "options": [
+        "$-\\frac{4}{3}$",
+        "$\\frac{1}{3}$",
+        "$-\\frac{2}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "15. A particle in motion comes to a rest with a deceleration of $5 \\mathrm{ft} / \\mathrm{sec}^{2}$ after by an acceleration of $25 \\mathrm{ft} / \\mathrm{sec}^{2}$ at its first. What was the highest velocity this particle achieved in the way of travelling a distance of 192 ft from rest?",
+      "options": [
+        "$40 \\mathrm{ft} / \\mathrm{sec}$",
+        "$60 \\mathrm{ft} / \\mathrm{sec}$",
+        "$20 \\mathrm{ft} / \\mathrm{sec}$",
+        "$30 \\mathrm{ft} / \\mathrm{sec}$",
+        "$50 \\mathrm{ft} / \\mathrm{sec}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "16. A rectangular span of the Padma Bridge is placed on the four pillars; the coordinates of the two pillars are $(2,0)$ and $(4,2)$. If one pillar of the span is on the $y$-axis, what is the area of the span?",
+      "options": [
+        "2 sq unit",
+        "4 sq unit",
+        "8 sq unit",
+        "16 sq unit",
+        "12 sq unit"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "17. The focal distance of a point on the parabola $\\mathrm{y}^{2}=12 \\mathrm{x}$ is 12 , what is the coordinate of that point?",
+      "options": [
+        "$(8, \\pm 2 \\sqrt{3})$",
+        "$(6, \\pm 4 \\sqrt{3})$",
+        "$(4, \\pm 2 \\sqrt{3})$",
+        "$(7, \\pm 6 \\sqrt{3})$",
+        "$(9, \\pm 6 \\sqrt{3})$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "18. In $\\triangle \\mathrm{ABC}, \\mathrm{BC}=\\mathrm{a}=3 \\mathrm{~cm}, \\mathrm{CA}=\\mathrm{bcm}, \\mathrm{AB}=\\mathrm{c}=$ 4 cm and $\\angle B=60^{\\circ}$, then what are the values of $b$ and $\\angle A$ ?",
+      "options": [
+        "$18 \\mathrm{~cm}, 74^{\\circ} 9^{\\prime} 15^{\\prime \\prime}$",
+        "$3.6 \\mathrm{~cm}, 46^{\\circ} 13^{\\prime} 11^{\\prime \\prime}$",
+        "$165 \\mathrm{~cm}, 35^{\\circ} 10^{\\prime}$",
+        "$18 \\mathrm{~cm}, 70^{\\circ} 30^{\\prime}$",
+        "$64 \\mathrm{~cm}, 78^{\\circ} 10^{\\prime}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "19. What are the maximum and minimum values of $\\mathrm{f}(\\mathrm{x})=1-\\mathrm{x}+\\frac{1}{2-\\mathrm{x}}$ ?",
+      "options": [
+        "$1,-3$",
+        "$-1,-3$",
+        "$-3,1$",
+        "1,3",
+        "$-\\frac{1}{2},-3$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "20. Which one is the correct answer given below for $y=x^{\\frac{4}{3}}+x^{\\frac{-4}{3}}$ ?",
+      "options": [
+        "$9 x \\frac{d^{2} y}{d x^{2}}-3 \\frac{d y}{d x}=32 x^{-\\frac{1}{3}}$",
+        "$9 x \\frac{d^{2} y}{d x^{2}}-3 \\frac{d y}{d x}=32 x^{-\\frac{7}{3}}$",
+        "$9 x \\frac{d^{2} y}{d x^{2}}-3 \\frac{d y}{d x}=32 x^{\\frac{1}{3}}$",
+        "$9 x \\frac{d^{2} y}{d x^{2}}+\\frac{d y}{d x}=32 x^{\\frac{-1}{3}}$",
+        "$9 x \\frac{d^{2} y}{d x^{2}}+21 \\frac{d y}{d x}=32 x^{\\frac{-1}{3}}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "21. The difference between two roots of equation $\\frac{1}{x}+$ $\\frac{1}{2 p-x}=1$ is $\\sqrt{5}$. What are the values of $p$ ?",
+      "options": [
+        "$-2, \\frac{5}{2}$",
+        "$\\frac{1}{2},-\\frac{5}{2}$",
+        "$\\frac{1}{2}, \\frac{5}{2}$",
+        "$-\\frac{1}{2},-\\frac{5}{2}$",
+        "$-\\frac{1}{2}, \\frac{5}{2}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "22. A man is moving with a speed of $20 \\mathrm{~m} / \\mathrm{s}$ during the rain. If the rain falls at a speed of $10 \\mathrm{~m} / \\mathrm{s}$ in a vertically downward direction, in which direction he needs to hold an umbrella to save himself from rain?",
+      "options": [
+        "$25^{\\circ}$",
+        "$26.57^{\\circ}$",
+        "$30.31^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "23. $\\frac{x}{a}+\\frac{y}{b}=1$ and $x \\cos \\alpha+y \\sin \\alpha=p$ both the equations represent the same straight line. What is the relationship among $\\mathrm{a}, \\mathrm{b}$ and p ?",
+      "options": [
+        "$\\frac{1}{\\mathrm{p}^{2}}=\\frac{1}{\\mathrm{a}^{2}}+\\frac{1}{\\mathrm{~b}^{2}}$",
+        "$\\mathrm{p}^{2}=\\mathrm{a}^{2}+\\mathrm{b}^{2}$",
+        "$\\frac{1}{\\mathrm{p}}=\\frac{1}{\\mathrm{a}}+\\frac{1}{\\mathrm{~b}}$",
+        "$p=a+b$",
+        "$\\frac{2}{\\mathrm{p}^{2}}=\\frac{1}{\\mathrm{a}^{2}}+\\frac{1}{\\mathrm{~b}^{2}}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "24. Two weights of 12 kg and 8 kg are hanging from the two ends $\\mathrm{A} \\& \\mathrm{~B}$ of a weightless bar AB of 200 cm length. If the weights interchange their position, how much will the resultant force be displaced?",
+      "options": [
+        "160 cm",
+        "120 cm",
+        "80 cm",
+        "40 cm",
+        "200 cm"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "25. Which one is the image of the straight line $3 \\mathrm{x}-$ $4 y+12=0$ with respect to the axis?",
+      "options": [
+        "$3 x-4 y-12=0$",
+        "$4 x-3 y+12=0$",
+        "$4 x+3 y+12=0$",
+        "$3 x+4 y+12=0$",
+        "$3 x+4 y-12=0$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "1. What change in the effective length of a simple pendulum is to be made for increasing its time period by $35 \\%$ ?",
+      "options": [
+        "$125 \\%$",
+        "$96 \\%$",
+        "$87.75 \\%$",
+        "$82.25 \\%$",
+        "$84.5 \\%$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "2. A man of 80 kg mass takes 1 min to rise the second floor of a building by using stair. The number of steps of stair are 40 and height of each step is 12 cm . What is the horse power of the man?",
+      "options": [
+        "0.094 HP",
+        "0.480 HP",
+        "0.048 HP",
+        "0.840 HP",
+        "0.084 HP"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "3. In Young's double-slit experiment, the distance between slits is 0.4 mm . The screen is placed 1.5 m away from the slit. The distance between the produced central bright fringe and $8^{\\text {th }}$ bright fringe is 6.5 mm in air medium. If this arrangement is submerged in water, what will be the width of the fringe? $\\left({ }_{\\mathrm{a}} \\mu_{\\mathrm{w}}=\\frac{4}{3}\\right)$",
+      "options": [
+        "$2.907 \\times 10^{-4} \\mathrm{~m}$",
+        "$3.056 \\times 10^{-4} \\mathrm{~m}$",
+        "$4.068 \\times 10^{-4} \\mathrm{~m}$",
+        "$3.875 \\times 10^{-4} \\mathrm{~m}$",
+        "$3 \\times 10^{-4} \\mathrm{~m}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "4. An object falls freely from 1 km height. At what height from the ground the potential energy of the object becomes $\\frac{3}{4}$ of its kinetic energy?",
+      "options": [
+        "429 m",
+        "333 m",
+        "420 m",
+        "500 m",
+        "750 m"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "5. In Physics laboratory, a student charging two spheres of 0.4 m and 0.6 m radius, the spheres were placed 1 m away from each other after elevating the potentials to 5 V and 10 V . Where is the value of intensity of electric field will be zero in the connecting line of two spheres?",
+      "options": [
+        "37.0 m",
+        "0.47 m",
+        "0.37 m",
+        "0.36 m",
+        "36 m"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "6. An electric oven of $60 \\Omega$ resistance is connected with 220 V supply line. How much time is needed to raise the temperature of 1.2 kg of water from $22^{\\circ} \\mathrm{C}$ to $100^{\\circ} \\mathrm{C}$ ? Suppose all the power is used for heating the water. (The specific heat of water $1 \\mathrm{Cal} / \\mathrm{gm}^{\\circ} \\mathrm{C}$ and $\\mathrm{J}=4.2 \\mathrm{~J} / \\mathrm{Cal}$.)",
+      "options": [
+        "6 m 7.5 s",
+        "370 s",
+        "7 m 45 s",
+        "480 s",
+        "8 m 7.34 s"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "7. Some amount of radioactive materials with halflife of 20d enters in a room due to a nuclear accident. After testing, it is seen that the level of radiation intensity of the room is 70 times higher than the permissible limit. After how many days the room will be safe to use?",
+      "options": [
+        "120.05 days",
+        "222.6 days",
+        "121.6 days",
+        "122.6 days",
+        "123.5 days"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "8. The knee voltage of Si and Ge diodes are 0.7 V and 0.3 V respectively and they are connected as shown in the figure. Calculate the value of current that will flow through $5.5 \\mathrm{k} \\Omega$ resistor. If the Ge diode is reversely connected, what will be the voltage across the $5.5 \\mathrm{k} \\Omega$ resistor?\n[IMG: https://assets.chorcha.net/LgU1xU3YrpbeKTEEBhLPx.png]",
+      "options": [
+        "2.0 mA and 0 V",
+        "2.0 mA and 0.7 V",
+        "2.0 A and 0 V",
+        "2.0 mA and 0.3 V",
+        "2.0 mA and 11.3 V"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "9. The diagonals of a parallelogram are represented by $\\vec{R}_{1}=3 \\hat{i}-2 \\hat{j}+7 \\hat{k}$ and $\\vec{R}_{2}=5 \\hat{i}+6 \\hat{j}-3 \\hat{k}$, find the area of the parallelogram.",
+      "options": [
+        "$32.14 \\mathrm{~m}^{2}$",
+        "18.55 units",
+        "31.68 units",
+        "$33.64 \\mathrm{~cm}^{2}$",
+        "29.05 units"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "10. Mr. Rafiq dropped and ice piece of 255 gm and $0^{\\circ} \\mathrm{C}$ temperature from a certain height. After falling down, it melts $10 \\%$ due to principle of conservation of energy. If this ice piece is converted into steam at $100^{\\circ} \\mathrm{C}$ then how much the entropy will be changed? [The specific latent heat of fusion of ice is $3360 \\mathrm{~kJ} / \\mathrm{kg}$ and specific heat of water is $4.2 \\mathrm{~kJ} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1}$ respectively]",
+      "options": [
+        "$2150.16 \\mathrm{JK}^{-1}$",
+        "$2193.04 \\mathrm{JK}^{-1}$",
+        "$2195.04 \\mathrm{JK}^{-1}$",
+        "$1514.74 \\mathrm{JK}^{-1}$",
+        "None"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "11. Mr. Zulkarnine's house has 10 bulbs each of $800 \\Omega$ resistance, 3 fans each of 60 W , a refrigerator of 100 W and a pump of 1 HP . On an average each bulb is used for 4 hrs , each fan is used for 10 hrs , the refrigerator is for 2 hrs and the pump for 1 hr and 30 mins per day. If the price of each unit electricity is 5.75 Tk and the voltage of distribution line is of 220 V , what will be the electric bill of Mr. Zulkarnine's house in the month of January?",
+      "options": [
+        "398.25 Tk",
+        "398.925 Tk",
+        "378.3 Tk",
+        "887.326 Tk",
+        "987.326 Tk"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "12. $\\mathrm{CO}_{2}$ gas of density $100 \\mathrm{~kg} \\mathrm{~m}^{-3}$ is confined in a gas chamber of pressure 1 atm at temperature $29^{\\circ} \\mathrm{C}$. When the pressure in the chamber approaches to 2 atm , the chamber blasts. What will be the change in density when the chamber reaches at its final temperature? [ $\\gamma=1.33]$",
+      "options": [
+        "$68.4 \\mathrm{~kg} \\mathrm{~m}^{-3}$",
+        "$69.4 \\mathrm{~kg} \\mathrm{~m}^{-3}$",
+        "$168.4 \\mathrm{~kg} \\mathrm{~m}^{-3}$",
+        "$85.4 \\mathrm{~kg} \\mathrm{~m}^{-3}$",
+        "$78.4 \\mathrm{~kg} \\mathrm{~m}^{-3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "13. An air conditioner draws outside air with $40^{\\circ} \\mathrm{C}$ temperature and $75 \\%$ relative humidity into a room and converts to $20^{\\circ} \\mathrm{C}$ temperature and $54 \\%$ relative humidity. How much water vapor is condensed per cubic meter in this case? The densities of saturated water vapor at $40^{\\circ} \\mathrm{C}$ and $20^{\\circ} \\mathrm{C}$ are $45 \\mathrm{gm} \\mathrm{m}^{-3}$ and $17 \\mathrm{gm} \\mathrm{m}^{-3}$",
+      "options": [
+        "23.57 gm",
+        "25.57 gm",
+        "34.57 gm",
+        "24.57 gm",
+        "22.57 gm"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "14. A radiation of wavelength $6600 \\AA$ is falling on a layer of barium oxide at a rate of $3 \\times 10^{-8}$ Watt. Calculate the number of photoelectrons emitted per second, assuming that every photon incident on the number of barium oxide layer illustrates photo-electric effect.",
+      "options": [
+        "$3 \\times 10^{8}$",
+        "$10^{8}$",
+        "$10^{11}$",
+        "$66 \\times 10^{18}$",
+        "$6.6 \\times 10^{3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "15. A string of length 1 m is fixed with a stand at one end and hangs a mass of 100 gm at the other end. The string makes $\\frac{2}{\\pi}$ revolution per second with respect to vertical axis of the other end. Calculate the linear velocity of the mass. [ $\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}$ ]",
+      "options": [
+        "$1.22 \\mathrm{~ms}^{-1}$",
+        "$3.16 \\mathrm{~ms}^{-1}$",
+        "$4.0 \\mathrm{~ms}^{-1}$",
+        "$0.28 \\mathrm{~ms}^{-1}$",
+        "$2.45 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "16. Two wires of different materials each of 2 m long and diameter of 2 mm are joined in series to form a composite wire. What force is needed to apply to the wire for its extension of 0.9 mm ?\n\n$\\left[\\mathrm{Y}_{1}=2 \\times 10^{11} \\mathrm{Nm}^{-2}\\right.$ and $\\mathrm{Y}_{2}=11 \\times$ $\\left.10^{11} \\mathrm{Nm}^{-2}\\right]$",
+      "options": [
+        "879.2 N",
+        "8792 N",
+        "219.8 kN",
+        "2198 N",
+        "219.8 N"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "17. A suspended object of mass 450 gm is hit by a bullet of mass 50 gm from below. The object rises to the height of 1.8 m and bullet remains inside the object. Find the velocity of the bullet\n[Here, $\\mathrm{g}=10 \\mathrm{~ms}^{-2}$ ]",
+      "options": [
+        "$59 \\mathrm{~ms}^{-1}$",
+        "$42.4 \\mathrm{~ms}^{-1}$",
+        "$60 \\mathrm{~ms}^{-1}$",
+        "$50 \\mathrm{~ms}^{-1}$",
+        "$65 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "18.  Rooppur nuclear power plant has a production capacity of 2400 MW. It will use $\\mathrm{U}^{235}$ as fuel. After one year, $9.2755 \\times 10^{11}$ atoms will be decayed from one mole fuel. 200 MeV energy is obtained from a fission. What amount of fuel will be consumed in the plant in a year?",
+      "options": [
+        "1536.1 kg",
+        "1436.1 kg",
+        "936.1 kg",
+        "921.6 kg",
+        "977.3 kg"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "19. The emitter and base current of a common base connected transistor are 5 mA and 0.5 mA respectively. What is the current gain in the transistor if the emitter and base current are increased 5 and 3 times respectively?",
+      "options": [
+        "0",
+        "6.67",
+        "9",
+        "15.67",
+        "24.67"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "20. A student, standing on a scale in a lift at rest, he observed that his weight is 950 N . When the elevator lifts, his weight increases to 1250 N , then returns to normal condition. When the lift stops at the $10^{\\text {th }}$ floor, his weight drops to 590 N and returns to normal condition. What were the accelerations of the lift while it starts to move upward and then to be stopped being slow?",
+      "options": [
+        "$18.5 \\mathrm{~ms}^{-2}$ and $-12.5 \\mathrm{~ms}^{-2}$",
+        "$22.7 \\mathrm{~ms}^{-2}$ and $15.89 \\mathrm{~ms}^{-2}$",
+        "$19.6 \\mathrm{~ms}^{-2}$ and $17.5 \\mathrm{~ms}^{-2}$",
+        "$6.8 \\mathrm{~ms}^{-2}$ and $-4.7 \\mathrm{~ms}^{-2}$",
+        "$3.1 \\mathrm{~ms}^{-2}$ and $-3.72 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "21. Bangabandhu artificial satellite-1 is rotating around the earth at a distance of 1500 km from the surface. Calculate the period of rotation. [Radius of the earth $=6400 \\mathrm{~km}$ and $\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}$ ]",
+      "options": [
+        "1 h 13 m 52 s",
+        "1 h 43 m 6 s",
+        "1 h 56 m 2 s",
+        "2 h 7 m 55 s",
+        "2 h 15 m 15 s"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "22. Two particles execute simple harmonic motion (SHM) of the same amplitude and frequency along the same straight line. When they return, their displacement becomes half of their amplitude at the time of their crossing each other. What is the phase difference between the particles?",
+      "options": [
+        "$120^{\\circ}$",
+        "$0^{\\circ}$",
+        "$180^{\\circ}$",
+        "$45^{\\circ}$",
+        "$90^{\\circ}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "23. The number of lines in a diffraction grating is 15000 per inch. A light of wavelength $5500 \\AA$ passes through the grating. Find the difference of diffraction angles of first and third maximum.",
+      "options": [
+        "$77^{\\circ}$",
+        "$21.5^{\\circ}$",
+        "$40.5^{\\circ}$",
+        "$58^{\\circ}$",
+        "$19^{\\circ}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "24. An astronaut, at the age of 35 years went to investigate the milky-way by spaceship moving with a velocity of $1.8 \\times 10^{8} \\mathrm{~ms}^{-1}$ and returns to the earth at the age of 60 years according to the calendar of earth. What will be the age of astronaut?",
+      "options": [
+        "80 years",
+        "83 years",
+        "48 years",
+        "72 years",
+        "85 years"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "25. If 70 small spherical rain drops, each of radius 8 cm and charge having 1.5 C , produce a big spherical drop, what is the electric potential of the big drop?",
+      "options": [
+        "$2.86 \\times 10^{12} \\mathrm{~V}$",
+        "$28.60 \\times 10^{12} \\mathrm{~V}$",
+        "$8.26 \\times 10^{12} \\mathrm{~V}$",
+        "$2.68 \\times 10^{11} \\mathrm{~V}$",
+        "$26.08 \\times 10^{13} \\mathrm{~V}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "1. If butane is combusted in a fuel cell at 1 atm pressure and $25^{\\circ} \\mathrm{C}$ temperature the following equation is obtained.\n$\\mathrm{C}_{4} \\mathrm{H}_{10}(\\mathrm{~g})+\\frac{13}{2} \\mathrm{O}_{2}(\\mathrm{~g}) \\rightarrow 4 \\mathrm{CO}_{2}(\\mathrm{~g})+5 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})$\nIf $\\Delta G^{\\circ}=-2762 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$ calculate the standard electromotive force of the cell.",
+      "options": [
+        "2.3010 V",
+        "0.7810 V",
+        "0.9102 V",
+        "1.1008 V",
+        "0.7132 V"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "2. $0.01 \\mathrm{M} \\mathrm{CH}_{3} \\mathrm{COOH}$ acid is ionized $1.45 \\%$ at $25^{\\circ} \\mathrm{C}$ temperature. What is the dissociation constant of the acid?",
+      "options": [
+        "$2.13 \\times 10^{-5}$",
+        "$2.13 \\times 10^{-6}$",
+        "$1.81 \\times 10^{-5}$",
+        "$1.81 \\times 10^{-6}$",
+        "$2.81 \\times 10^{-3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "3. Express in percentage of $0.2 \\mathrm{M} \\mathrm{Na}_{2} \\mathrm{CO}_{3}$ solution.",
+      "options": [
+        "$1.6 \\%$",
+        "$2.12 \\%$",
+        "$3.12 \\%$",
+        "$1.8 \\%$",
+        "$4.5 \\%$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "4. At $45^{\\circ} \\mathrm{C}$ the rate constant of a reaction becomes double if the temperature is elevated from $35^{\\circ} \\mathrm{C}$ to $45^{\\circ} \\mathrm{C}$. Calculate the activation energy of that reaction.",
+      "options": [
+        "$65.54 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "$56.45 \\mathrm{kJmol}^{-1}$",
+        "$156.55 \\mathrm{kJmol}^{-1}$",
+        "$65.45 \\mathrm{kJmol}^{-1}$",
+        "$165.54 \\mathrm{kJmol}^{-1}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "5. A gold anode is used in gold sall ( $\\mathrm{Au}{ }^{3+}$ ) solution and 5,0 A electricity is passed for 10 minutes to provide gold coating of 10 cheap metal chains. If the price of each 10 g gold is TK. 50,000 , what is the price of gold used in each chain? (Atomic mass of $\\mathrm{Au}=196.97$ )",
+      "options": [
+        "Tk. 850",
+        "Tk. 1990",
+        "Tk. 1530",
+        "Tk. 1770",
+        "Tk. 1020"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "6. At $17^{\\circ} \\mathrm{C}$ temperature $500 \\mathrm{~mL}_{2}$ with $350 \\mathrm{~mm}(\\mathrm{Hg})$ pressure, $700 \\mathrm{~mL} \\mathrm{O}_{2}$ with $700 \\mathrm{~mm}(\\mathrm{Hg})$ pressure and $300 \\mathrm{~mL} \\mathrm{H}_{2}$ with $760 \\mathrm{~mm}(\\mathrm{Hg})$ pressure mixed in a 2.4 L empty jar. What will be the pressure of the mixer at $35^{\\circ} \\mathrm{C}$ temperature?",
+      "options": [
+        "$372.08 \\mathrm{~mm}(\\mathrm{Hg})$",
+        "$595.33 \\mathrm{~mm}(\\mathrm{Hg})$",
+        "$395.18 \\mathrm{~mm}(\\mathrm{Hg})$",
+        "$632.28 \\mathrm{~mm}(\\mathrm{Hg})$",
+        "$760.22 \\mathrm{~mm}(\\mathrm{Hg})$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "7. 0.16 A electric current is passed through a $\\mathrm{CuSO}_{4}$ solution for 2400 sec . How many copper atoms will be deposited to the electrode?",
+      "options": [
+        "$1.2851 \\times 10^{21}$",
+        "$1.1256 \\times 10^{21}$",
+        "$1.2134 \\times 10^{21}$",
+        "$1.3154 \\times 10^{21}$",
+        "$1.1981 \\times 10^{21}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "8. Which one of the following reactions is used to find the quantity of $\\mathrm{Fe}^{2+}$ ion in presence of $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ and $\\mathrm{KMnO}_{4}$ ?",
+      "options": [
+        "$2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{Fe}^{2+}+8 \\mathrm{H}^{+} \\rightarrow \\mathrm{Mn}^{2+}+5 \\mathrm{Fe}^{3+}+$ $4 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{Fe}^{2+}+8 \\mathrm{H}^{+} \\rightarrow \\mathrm{Mn}^{2+}+4 \\mathrm{Fe}^{2+}+$ $3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{MnO}_{4}^{-}+5 \\mathrm{Fe}^{2+}+6 \\mathrm{H}^{+} \\rightarrow \\mathrm{Mn}^{2+}+4 \\mathrm{Fe}^{2+}+$ $3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{MnO}_{4}^{-}+5 \\mathrm{Fe}^{2+}+8 \\mathrm{H}^{+} \\rightarrow \\mathrm{Mn}^{2+}+4 \\mathrm{Fe}^{2+}+$ $4 \\mathrm{H}_{2} \\mathrm{O}$",
+        "none"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "9. A buffer solution contains 0.015 mole of $\\mathrm{NH}_{4} \\mathrm{OH}$ and 0.025 mole of $\\mathrm{NH}_{4} \\mathrm{Cl}$. Calculate the pH value of the solution. Dissociation constant of $\\mathrm{NH}_{4} \\mathrm{OH}$ at room temperature $=1.80 \\times 10^{-5}$.",
+      "options": [
+        "9.0335",
+        "11.2012",
+        "12.9201",
+        "7.2801",
+        "13.8031"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "10. Electricity is produced reacting $\\mathrm{H}_{2}$ and $\\mathrm{O}_{2}$ in a fuel cell. How long is needed for $89.4 \\mathrm{~L} \\mathrm{H}_{2}$ at STP to be oxidized to produce electric current at an average value of 950 A ?",
+      "options": [
+        "311 sec",
+        "511 sec",
+        "711 sec",
+        "811 sec",
+        "911 sec"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "11. At 298 K temperature, 38 g of a salt is dissolved in its 75 mL solution. If the specific gravity of the salt solution is 1.5 , what will be the solubility of the salt at that temperature?",
+      "options": [
+        "81.45",
+        "75.30",
+        "76.25",
+        "76.50",
+        "None"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "12. At $0^{\\circ} \\mathrm{C}$ temperature and 760 mm pressure, the density of oxygen $\\mathrm{O}_{2}(\\mathrm{~g})$ is $1.43 \\mathrm{~g} / \\mathrm{L}$. What will be the density of oxygen at $23^{\\circ} \\mathrm{C}$ and 720 mm pressure?",
+      "options": [
+        "$5.21 \\mathrm{~g} / \\mathrm{L}$",
+        "$2.25 \\mathrm{~g} / \\mathrm{L}$",
+        "$1.25 \\mathrm{mg} / \\mathrm{L}$",
+        "$1.25 \\mathrm{~g} / \\mathrm{L}$",
+        "$3.25 \\mathrm{~g} / \\mathrm{L}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "13. The heat of combustion of ethylene at constant volume and at $17^{\\circ} \\mathrm{C}$ temperature is -332.19 kCal . What will be the heat of combustion at constant pressure? (Water will be at liquid state and $\\mathrm{R}=$ 2 Cal)",
+      "options": [
+        "-433.3 kCal",
+        "-333.3 Cal",
+        "-332.5 kCal",
+        "334.3 kCal",
+        "-333.3 kCal"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "14. How much volume of $0.1 \\mathrm{M} \\mathrm{KMnO}_{4}$ will be required to remove chlorine completely from 25.0 $\\mathrm{cm}^{3} 0.1 \\mathrm{M} \\mathrm{NaCl}$ solution?",
+      "options": [
+        "$2.5 \\mathrm{~cm}^{3}$",
+        "$4.0 \\mathrm{~cm}^{3}$",
+        "$5.0 \\mathrm{~cm}^{3}$",
+        "$6.4 \\mathrm{~cm}^{3}$",
+        "$3.8 \\mathrm{~cm}^{3}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "15. What will be the average kinetic energy of 32.0 g of methane molecules at $27^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "5322.4 J",
+        "7482.6 J",
+        "4988.4 J",
+        "1558.5 J",
+        "9432.8 J"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "16. The vapor pressures of ethanol and methanol at constant temperature are 6.0 kPa and 11.8 kPa , respectively. What will be the total vapor pressure of the solution if an ideal solution has been prepared from 40 gm methanol and 60 gm ethanol at that temperature?",
+      "options": [
+        "5.78 kPa",
+        "8.84 kPa",
+        "3.06 kPa",
+        "6.12 kPa",
+        "11.58 kPa"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "17. What is the Cetane number of petrol?",
+      "options": [
+        "10-20",
+        "$10-15$",
+        "20-25",
+        "15-20",
+        "none"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "18. The saturated solution of a salt prepared at $85^{\\circ} \\mathrm{C}$ is cooled to $30^{\\circ} \\mathrm{C}$. If the solubilities of the salt at $85^{\\circ} \\mathrm{C}$ and $30^{\\circ} \\mathrm{C}$ are $150 \\mathrm{~g} / 100 \\mathrm{~g} \\mathrm{H}_{2} \\mathrm{O}$ and $85 \\mathrm{~g} / 100 \\mathrm{~g}$ $\\mathrm{H}_{2} \\mathrm{O}$ respectively, then how much gm of salt will be precipitated from the saturated solution prepared with that salt in 70 mL water?",
+      "options": [
+        "45.5 g",
+        "55.5 g",
+        "65.5 g",
+        "65.5 g",
+        "82.3 g"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "19. Calculate the energy emitted when electrons of 1.0 g-atom of hydrogen undergo transition giving the spectral line of lowest energy in the visible region of its atomic spectrum. $\\left[R_{H}=1.1 \\times 10^{7} \\mathrm{~m}^{-1}\\right]$",
+      "options": [
+        "$2.715 \\times 10^{19} \\mathrm{~J}$",
+        "$2.06 \\times 10^{7} \\mathrm{~J}$",
+        "$1.82 \\times 10^{5} \\mathrm{~J}$",
+        "$3.03 \\times 10^{-19} \\mathrm{~J}$",
+        "$1.02 \\times 10^{5} \\mathrm{~J}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "20. Which one of the following reactions is considered as the confirmation test for $\\mathrm{Fe}^{3+}$ ion?",
+      "options": [
+        "$\\begin{array}{l} 4 \\mathrm{Fe}^{3+}(\\mathrm{aq})+3 \\mathrm{~K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right](\\mathrm{aq}) \\\\ =\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}+12 \\mathrm{~K}^{+}(\\mathrm{aq}) \\end{array}$",
+        "$\\begin{array}{l} \\mathrm{Fe}^{3+}(\\mathrm{aq})+3 \\mathrm{NH}_{4} \\mathrm{CNS}(\\mathrm{aq}) \\\\ =\\mathrm{Fe}(\\mathrm{CNS})_{3}(\\mathrm{aq})+3 \\mathrm{NH}_{4}^{+}(\\mathrm{aq}) \\end{array}$",
+        "$\\begin{array}{l} \\mathrm{Fe}^{3+}(\\mathrm{aq})+3 \\mathrm{NH}_{4} \\mathrm{CNS}(\\mathrm{aq}) \\\\ =\\mathrm{Fe}(\\mathrm{OH})_{3}(\\mathrm{aq})+3 \\mathrm{NH}_{4}^{+}(\\mathrm{aq}) \\end{array}$",
+        "$\\begin{array}{l} \\mathrm{Fe}^{3+}(\\mathrm{aq})+3 \\mathrm{~K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{2}\\right](\\mathrm{aq}) \\\\ =\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{2}\\right]_{3}+6 \\mathrm{~K}^{+}(\\mathrm{aq}) \\end{array}$",
+        "$\\begin{array}{l} 2 \\mathrm{Fe}^{3+}(\\mathrm{aq})+3 \\mathrm{~K}_{2}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right] \\mathrm{aq} \\\\ =\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}+6 \\mathrm{~K}^{+}(\\mathrm{aq}) \\end{array}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "21. Which one of the followings is the correct to form electropositive ion?",
+      "options": [
+        "$\\mathrm{Fe}(\\mathrm{s}) \\xrightarrow{\\mathrm{I}_{3}} \\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Fe}(\\mathrm{s}) \\xrightarrow{\\mathrm{s}} \\mathrm{Fe}(\\mathrm{g}) \\xrightarrow{3 \\mathrm{I}} \\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Fe}(\\mathrm{s}) \\xrightarrow{\\mathrm{S}} \\mathrm{Fe}(\\mathrm{g}) \\xrightarrow{\\mathrm{I}_{1}} \\mathrm{Fe}^{1+} \\xrightarrow{\\mathrm{I}_{2}} \\mathrm{Fe}^{2+} \\xrightarrow{\\mathrm{I}_{3}} \\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Fe}(\\mathrm{s}) \\xrightarrow{\\mathrm{D}} \\mathrm{Fe}$ (g) $\\xrightarrow{3 \\mathrm{I}} \\mathrm{Fe}^{3+}$",
+        "Fe (s) $\\xrightarrow{\\mathrm{D}} \\mathrm{Fe}^{+}(\\mathrm{g}) \\xrightarrow{\\mathrm{I}_{2}} \\mathrm{Fe}^{2+} \\xrightarrow{\\mathrm{I}_{3}} \\mathrm{Fe}^{3+}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "22. In a laboratory $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ solution is reserved in two different reagent bottles. The strength of one solution is 0.25 M and the same for another solution is 0.4 M . To prepare alkaline solution of 0.32 M , in what ratio of valume of two samples is to be mixed?",
+      "options": [
+        "$2: 3$",
+        "$3: 2$",
+        "$6: 8$",
+        "$4: 5$",
+        "8:7"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "23. Which one of the followings is the electronic distribution of Cesium (Cs)?",
+      "options": [
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 4 s^{2} 3 d^{10} 4 p^{6} 5 s^{2} 4 d^{10} 5 p^{3}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 4 s^{2} 3 d^{10} 4 p^{6} 5 s^{2} 4 d^{10} 5 p^{4}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 4 \\mathrm{~s}^{2} 3 \\mathrm{~d}^{10} 4 \\mathrm{p}^{6} 5 \\mathrm{~s}^{2} 4 \\mathrm{~d}^{10} 5 \\mathrm{p}^{5}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 4 s^{2} 3 d^{10} 4 p^{6} 5 s^{2} 4 d^{10} 5 p^{6}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 4 s^{2} 3 d^{10} 4 p^{6} 5 s^{2} 4 d^{10} 5 p^{6} 6 s^{1}$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "24. What percentage of water is in Blue-Vitriol?",
+      "options": [
+        "$36 \\%$",
+        "$37 \\%$",
+        "$63 \\%$",
+        "$38 \\%$",
+        "$42 \\%$"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "Chemistry(25)",
+      "question": "25. If the actual mass of ${ }_{2}^{4} \\mathrm{He}$ is 4.00260 amu , what will be the binding energy per nucleon (in Mev)? Given that the mass of proton and neutron are 1.007825 amu and 1.008655 amu respectively.",
+      "options": [
+        "6.05 amu",
+        "6.80 amu",
+        "7.07 amu",
+        "7.98 amu",
+        "8.09 amu"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "1. Fill in the blank with appropriate option for the sentence- \"When I was young, I ——swim very well.\"",
+      "options": [
+        "can",
+        "may",
+        "might",
+        "could",
+        "should"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "2. The verb form of the word \"Symbol\" is-",
+      "options": [
+        "Symbolize",
+        "Symbolic",
+        "Symbolical",
+        "Symbolically",
+        "Symbol"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "3. Change into direct speech of the statement: Karim wisheci that the old man might have some food.",
+      "options": [
+        "Karim said \"Let the old man may have some food\".",
+        "Karim asked \"Give some food to the old man\".",
+        "Karim said \"The old man may have some food\".",
+        "Karim says \"Let the old man have some food\".",
+        "Karim insists \"Let the old man give some food\"."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "4. Had I been a bird …… Complete the sentence with appropriate clause.",
+      "options": [
+        "I could flew in the sky.",
+        "I had had flown in the sky.",
+        "I would have flew in the sky.",
+        "I might have flew in the sky.",
+        "I would have flown in the sky."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "5. Which one should be the correct preposition in the blank space of the sentence- \"The wall of our house have been painted ———— green\".",
+      "options": [
+        "by",
+        "in",
+        "to",
+        "with",
+        "no preposition"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "6. Choose the correct underlined part to make the sentence correct and meaningful- Previously thought to have been extinct, a team of biologists rediscovered The Somali Sengi in 2020.",
+      "options": [
+        "a team of biologists rediscovered The Somali Sengi in 2020.",
+        "a team of biologists, in 2020, rediscovered The Somali Sengi.",
+        "in 2020, The Somali Sengi was rediscovered by a team of biologists.",
+        "in 2020, a team of biologists rediscovered The Somali Sengi.",
+        "The Somali Sengi was rediscovered by a team of biologists in 2020."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "7. In which sentence has a 'phrase modifier' been used?",
+      "options": [
+        "The clouds that looked scary changed shapes rapidly.",
+        "The pollution caused by city traffic created smog in the streets.",
+        "The annual day celebrations to be held next week got postponed.",
+        "Her baby, whose eyes were blue in color, smiled at me.",
+        "Unlike most birds, vultures do not have feathers on their heads and necks."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "8. Which one is a coordinating conjunction?",
+      "options": [
+        "So that",
+        "Lest",
+        "As",
+        "So",
+        "Since"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "9. The antonym of the word \"Urbane\" is-",
+      "options": [
+        "Rural",
+        "Urban",
+        "Uncouth",
+        "Sophisticated",
+        "Shore"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "10. Choose an appropriate preposition in the blank of the sentence- \"An ignorant person has prejudice ——new ideas\".",
+      "options": [
+        "against",
+        "to",
+        "with",
+        "from",
+        "in"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "11. Which sentence does not have a Gerund?",
+      "options": [
+        "The baby, crying, woke his mother.",
+        "I am tired of waiting.",
+        "His hobby, collecting old watches, is rather expensive.",
+        "He has finished ironing.",
+        "Let's start working."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "12. Use a correct connector for the following sentence- The night before my admission test I was careful enough not to waste a single moment in vain ——-I was serious about the exam.",
+      "options": [
+        "therefore",
+        "since",
+        "indeed",
+        "besides",
+        "neither"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "13. Which punctuation mark is used between sentences that are grammatically independent?",
+      "options": [
+        "colon",
+        "semicolon",
+        "comma",
+        "hyphen",
+        "slash"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "14. Do you like travelling——train?",
+      "options": [
+        "with",
+        "by",
+        "in",
+        "on",
+        "to"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "15. What is lotted———choose the option that complete the proverb.",
+      "options": [
+        "cannot be clotted.",
+        "cannot be blotted.",
+        "cannot be happened",
+        "cannot be soughted.",
+        "cannot be avoided"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "16. A child ……… is burnt is afraid of fire. Fill the blank with the appropriate connector.",
+      "options": [
+        "who",
+        "whom",
+        "when",
+        "in case",
+        "that"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "17. What is the noun of the verb 'Depart'?",
+      "options": [
+        "Departed",
+        "Department",
+        "Departing",
+        "Departure"
+      ],
+      "tag": "CKRUET 23-24,DCU C 22-23"
+    },
+    {
+      "subject": "English(25)",
+      "question": "18. The doctor asked me to drink tepid water. Here 'tepid' means —",
+      "options": [
+        "tap water",
+        "cold",
+        "treated properly",
+        "slightly warm",
+        "slightly cold"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "19. This is where I live. Identify the underlined clause:",
+      "options": [
+        "Adverb clause",
+        "Noun clause",
+        "Principal clause",
+        "Adjective clause",
+        "Co-ordinate clause"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "20. Choose the correct form of verb in the blank space to complete the sentence- \"The father with his three daughters …… left the dwelling\".",
+      "options": [
+        "were",
+        "have",
+        "has",
+        "would",
+        "will"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "21. Choose the correct indirect speech of the statement- Babul said, \"Tell me, boy, is the miller within\"?",
+      "options": [
+        "Addressing the boy, Babul asked him (boy) to tell him that the miller was within",
+        "Addressing the boy, Babul said him (boy) to tell him if the miller was within.",
+        "Addressing the boy, Babul said to him (boy) to tell him that the miller was within.",
+        "Addressing the boy, Babul asked him (boy) to tell him if the miller was within.",
+        "Babul said him addressing as a boy whether the miller was inside."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "22. Which one of the following is correct?",
+      "options": [
+        "Kamal is a good driver, moreover, he is a very friendly one.",
+        "Kamal is a good driver. Moreover, he, is a very friendly one.",
+        "Kamal is a good driver: moreover, he is a very friendly one.",
+        "Kamal is a good driver; Moreover, he is a very friendly one.",
+        "Kamal is a good driver; moreover, he is a very friendly one."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "23. Which one is the best translation of the sentence\"সে এমনভাবে কথা বলে মনে হয় সব জানে\"।",
+      "options": [
+        "He talks after knowing everything.",
+        "He talks like he knows everything.",
+        "He talks as if he knew everything.",
+        "He talks knowing everything.",
+        "He talks like everything known to him."
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "24. Complete the sentence with a suitable word/phrase:\nDon't talk ____ you knew everything. Remember, all the others there are highly educated people.",
+      "options": [
+        "so that",
+        "like that",
+        "looks like",
+        "as if",
+        "would rather"
+      ],
+      "tag": "CKRUET 23-24"
+    },
+    {
+      "subject": "English(25)",
+      "question": "25. Choose the correct conjunction to combine the sentences: \"I study hard ____ I should fail in the examination.\"",
+      "options": [
+        "or",
+        "lest",
+        "unless",
+        "so that",
+        "if not"
+      ],
+      "tag": "CKRUET 23-24"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "title": "DU 'Ka' Admission Test 2023-2024 Written",
+  "questions": [
+    {
+      "subject": "Physics(Written)(4)",
+      "question": "1. If the vector $\\vec{F}=\\left(4 y-c_{1} z\\right) \\hat{i}+\\left(5 z+c_{2} x\\right) \\hat{j}+\\left(c_{3} y-3 x\\right) \\hat{k}$ represents a conservative force field, find the values of the constants $c_{1}, c_{2}$ and $c_{3}$.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Physics(Written)(4)",
+      "question": "2. Show that the loss of potential energy of a body with mass $m$, falling freely under gravity, is equal to $\\frac{1}{2} m g^{2}(2 n-1)$ during the $n$-th second.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Physics(Written)(4)",
+      "question": "3. Two point charges q and 9 q are placed a distance d apart: Determine a location on the line-segment connecting these two charges such that the net force on a third charge 5q placed at that point is zero.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Physics(Written)(4)",
+      "question": "4. An electron in a hydrogen atom makes a transition from the energy level $n_{1}=4$ to some other level $n_{2}$. The time period of the electron in the initial state is eight times. Find the value of $n_{2}$.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Chemistry(Written)(4)",
+      "question": "1. (a) What is electron affinity? Why is the first electron affinity of oxygen negative and the second electron affinity positive.\n(b) Compare the hybridization, shape and bond angle of $\\mathrm{NH}_{3}$ and $\\mathrm{BF}_{3}$ ?",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Chemistry(Written)(4)",
+      "question": "2. (a) Under what conditions, a real gas behaves ideally? Why does the behaviour of $\\mathrm{NH}_{3}$ deviate from ideal state more than $\\mathrm{CO}_{2}$ under the same temperature and pressure?)\n(b) For the cell, $\\mathrm{Pb}(\\mathrm{s}) / \\mathrm{Pb}^{2+}(\\mathrm{aq}) \\| \\mathrm{Ag}(\\mathrm{aq}) / \\mathrm{Ag}^{+}(\\mathrm{s})$, explain with reason which of the following is/are $\\mathrm{n}_{0}$ suitable as salt bridge- $\\mathrm{K}_{2} \\mathrm{SO}_{4} \\cdot \\mathrm{KCl}$ and $\\mathrm{KNO}_{3}$.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Chemistry(Written)(4)",
+      "question": "3. (a) Write down the name and formula of the main organic compounds ( $\\mathrm{A}, \\mathrm{B}$ and C ) formed in the following reactions. $\\mathrm{CH}_{3} \\mathrm{COOH}+\\mathrm{NH}_{3} \\longrightarrow \\mathrm{~A} \\xrightarrow{\\mathrm{Br}_{2}+\\mathrm{NaOH}} \\mathrm{B} \\xrightarrow{\\mathrm{CHCl}_{3}+\\mathrm{KOH} \\text { (alc) }} \\mathrm{C}$\n(b) Explain with reaction how would you distinguish experimentally between an alcohol and a carboxylic acid.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Chemistry(Written)(4)",
+      "question": "4. (a) Explain the role of UV radiation to identify the fake note of currency.\n(b) Write down the reactions involved in acid rain formation.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Higher Math(Written)(4)",
+      "question": "1. Find the value of $k$ if the ratio of roots of $x^{2}+k x+1=0$ is equal to the ratio of roots of $x^{2}-2 x+9=0$ $3 x-y+7=0$",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Higher Math(Written)(4)",
+      "question": "2. Find the equation of the straight line passing through the point $(-1,2)$ and making an angle $45^{\\circ}$ with the line 3x - y +7=0",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Higher Math(Written)(4)",
+      "question": "3. Solve for $\\theta: 3 \\sec ^{4} \\theta+8=10 \\sec ^{2} \\theta, 0<\\theta<2 \\pi$.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Higher Math(Written)(4)",
+      "question": "4. A bullet loses its $\\frac{1}{3}$ velocity after penetrating 6 cm into a sand bag. How many centimeters does it penetrate into the sand bag before it finally stops?",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Biology(Written)(4)",
+      "question": "1. Write five differences between bacterial flagella and pili.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Biology(Written)(4)",
+      "question": "2. What is gene cloning? Mention the steps of recombinant DNA technology.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Biology(Written)(4)",
+      "question": "3. How can animals be classified based on their lifestyle? Briefly explain.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Biology(Written)(4)",
+      "question": "4. Mention the parts of an ideal cnidocyte in Hydra.",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Bangla(Written)(3)",
+      "question": "1. পরিভাষাযোগে বাক্য গঠন কর: অ্যাডহক; রেয়াত; ডেপুটেশন; প্রোক্টর; নথি; তিলার্ধ",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Bangla(Written)(3)",
+      "question": "2. উপসর্গযোগে ছয়টি শব্দ তৈরি কর: গর; প্রতি; অভি; অজ; পাতি; নিম",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "Bangla(Written)(3)",
+      "question": "3. ভাবসম্প্রসারণ কর: যে সহে, সে রহে",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "English(Written)(3)",
+      "question": "1. Make meaningful sentences with the following words: superfluous, intrinsic, idiosyncratic, apprehensive",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "English(Written)(3)",
+      "question": "2. Read the following extract, and answer the questions that follow:\nAll people dream, but not equally.\nThose who dream by night in the dusty recesses of their mind, Wake in the morning to find that it was vanity.\nBut the dreamers of the day are dangerous people, For they dream their dreams with open eyes, And make them come true.\n\"Dreams,\" D.H. Lawrence\na. What do people who 'dream by night' dream about?\nb. Why are dreamers with 'open eyes' considered dangerous?\nc. What does \"recesses\" suggest?",
+      "options": [],
+      "tag": "DU A 23-24"
+    },
+    {
+      "subject": "English(Written)(3)",
+      "question": "3. Write a well-organised paragraph on \"The perils of Artificial Intelligence (AI)\" in the space provided, considering the elements of a paragraph, such as topic sentence, supporting detail sentences and conclusion.",
+      "options": [],
+      "tag": "DU A 23-24"
+    }
+  ]
+}

@@ -1,0 +1,1887 @@
+{
+  "title": "DU 'Ka' Admission Test 2016-2017",
+  "questions": [
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "1. Determine the position where the kinetic energy of the freely falling body from 30 m of height will be twice of its potential energy.",
+      "options": [
+        "10 m",
+        "25 m",
+        "28 m",
+        "None of these"
+      ],
+      "tag": "RU C 21-22 (GROUP 2),BUTEX 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "2. Which is the correct unit of torque?",
+      "options": [
+        "$Dyne/cm^2$",
+        "N m Nm N m",
+        "$N/m$",
+        "$N/m.s$"
+      ],
+      "tag": "CU A 17-18,CU A 16-17,BUET 9-10,RUET 11-12,RUET 10-11,RUET 12-13,JU A 22-23 (SET N),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 16-17 (SET 12),Tofazzal Sir,Ishaque Sir,Tapan Sir,Pramanik Sir,Tapan Sir,Ishaque Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "3. The emission of two vibrating particles respectively x = A sin ⁡ ω t x=A\\sin\\omega t x = A sin ω t and x = A cos ⁡ ω t x=A\\cos\\omega t x = A cos If ω t , the state difference between them will be-",
+      "options": [
+        "2 Pi 2\\pi 2 p.m",
+        "p \\pi p",
+        "Pi 2 \\frac{\\pi}{2} 2  p",
+        "Pi 4 \\frac{\\pi}{4} 4  p"
+      ],
+      "tag": "DCC 24,BB 23,DB 21,RB 21,JB 21,DIN.B 19,DU A 19-20,DU A 16-17,BUET 7-8,JU A 19-20 (SET P),Tofazzal Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "4. diameter of a gas molecule 2 × 1 0 - 10 m 2\\times10^{-10}m 2 × 1 0 − 10 m and the number of molecules per cubic centimeter 3 × 1 0 19 3\\times10^{19} 3 × 1 0  If 19 , what will be the mean free path of gas molecules?",
+      "options": [
+        "$3\\times10^{-3}\\ cm$",
+        "$3\\times10^{-4}\\ cm$",
+        "$3\\times10^{-5}\\ cm$",
+        "$3\\times10^{-6}\\ cm$"
+      ],
+      "tag": "FCC 24,DU A 16-17,KUET 17-18,KUET 13-14,JU A 15-16 (SET 4),BUTEX 17-18"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "5. 20 kg water of $20^{\\circ} \\mathrm{C}$ is changed into vapour.\nChange of entropy occured in the above mentioned process-",
+      "options": [
+        "$2.02 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$6.1 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$12.13 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$14.15 \\times 10^{4} \\mathrm{JK}^{-1}$"
+      ],
+      "tag": "MBSTU 17-18,DU A 17-18,DU A 16-17,BUET 10-11,CKRUET 20-21,CKRUET 21-22,KUET 17-18"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "6. If the resistance of a copper wire is R, what is the resistance of a copper wire twice its length and twice its radius?",
+      "options": [
+        "R/2",
+        "R/4",
+        "R",
+        "2R"
+      ],
+      "tag": "RCC 24,BMARPC 24,DCC 24,MB 23,MB 21,CB 21,DB 19,BB 19,All.B 18,JUST 17-18,HSTU 19-20,HSTU 17-18,HSTU 16-17,MBSTU 19-20,NSTU 19-20,BSMRSTU 18-19,Agri. GST 19-20,Agri. GST 20-21,MAT 14-15,DU A 14-15,DU A 11-12,DU A 16-17,BUET 13-14,JU A 20-21 (SET B),Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "7. For what value of ' $a$ ' the two vectors $a \\hat{i}-2 \\hat{j}+\\hat{k}$ and $2 a \\hat{i}-a \\hat{j}-4 \\hat{k}$ will be perpendicular to each other?",
+      "options": [
+        "2,1",
+        "-2,-1",
+        "-2,1",
+        "2,-1"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 16-17 (SET 4),Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "8. A heat engine operates between the steam point and a temperature of 27°C. What is the maximum efficiency of the engine?",
+      "options": [
+        "29.5%",
+        "21.75%",
+        "15.52%",
+        "19.57%"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A (SET A),Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "9. The ratio of the coulomb electric force $\\mathrm{F}_{\\mathrm{B}}$ to the gravitational force $\\mathrm{F}_{\\mathrm{G}}$ between two electrons in vacuum is-",
+      "options": [
+        "$4.2 \\times 10^{62}$",
+        "$4.2 \\times 10^{52}$",
+        "$4.2 \\times 10^{42}$",
+        "$4.2 \\times 10^{32}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "10. The frequency of $6.63 \\mathrm{cV}$ photon is-",
+      "options": [
+        "$1.6 \\times 10^{15} \\mathrm{~s}^{-1}$",
+        "$6.63 \\times 10^{34} \\mathrm{~s}^{-1}$",
+        "$4.14 \\times 10^{15} \\mathrm{~s}^{-1}$",
+        "$4.14 \\times 10^{34} \\mathrm{~s}^{-1}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "11. How much force is applied on an object of mass 60 kg whose velocity is 10 after 1 minute? m s - 1 ms^{-1} ms _  will be − 1 ?",
+      "options": [
+        "10 N",
+        "05 N",
+        "40N",
+        "20 N"
+      ],
+      "tag": "MAT 16-17,DAT 18-19,DU A 16-17,KUET 14-15,JU A 22-23 (SET I),JU A (SET A),JU A 15-16 (SET 4),Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "12. An artificial satellite is orbiting the earth in an orbit of radius $7000 \\mathrm{~km}$. If the time period of the satellite is $2 \\mathrm{~h}$, what is its centripetal acceleration?",
+      "options": [
+        "$1.331 \\mathrm{~ms}^{-2}$",
+        "$2.663 \\mathrm{~ms}^{-2}$",
+        "$5.325 \\mathrm{~ms}^{-2}$",
+        "$10.650 \\mathrm{~ms}^{-2}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "13. 9.11 × 1 0 - 31 k g 9.11\\times10^{-31}\\kg 9.11 × 1 0 − 31 If an electron of mass k g 2.5 × 1 0 6 m / s 2.5\\times10^6\\ m/s 2.5 × 1 0 6 m / s speed. Then what is the wavelength of the de Broglie wave for ?",
+      "options": [
+        "$2.9\\times10^{-4}\\ m$",
+        "$2.4\\times10^{-8}\\ m$",
+        "$2.9\\times10^{-10}\\ m$",
+        "$2.4\\times10^{-39}\\ m$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "14. The following equation shows the fission reaction of (U-235). Which of the following numbers will be in the empty box?\n[IMG: https://assets.chorcha.net/z7AeQj9Hx_-3XKfCoKmsW.jpg]",
+      "options": [
+        "141",
+        "142",
+        "143",
+        "144"
+      ],
+      "tag": "DU A 16-17,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "15. Half of a well of $16 \\mathrm{~m}$ depth and $6 \\mathrm{~m}$ diameter was filled with water. A pump of $2 \\mathrm{~kW}$ power and $80 \\%$ efficiency was used to empty the well. But the pump broke down after lifting half of the water. Another pump of $3 \\mathrm{HP}$ power can empty the remaining water within 2 hours.",
+      "options": [],
+      "tag": "RU C 22-23 (SHIFT 3),BUTEX 17-18"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "16. If a person weighing 60 kg sits on a swing of 4 m in length and swings in a 3 m amplitude, then what will be the maximum kinetic energy of the person?",
+      "options": [
+        "660 J",
+        "680 J",
+        "700 J",
+        "720 J"
+      ],
+      "tag": "DU A 16-17,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "17. Which of the following has the lowest frequency?",
+      "options": [
+        "UV rays",
+        "infrared rays",
+        "x-ray",
+        "gamma rays"
+      ],
+      "tag": "RCC 24,BCC 24,BISCM 24,CB 24,DB 21,MB 21,RB 21,DIN.B 21,DIN.B 19,SB 17,MAT 20-21,MAT 22-23,DAT 22-23,DAT 19-20,DU A 16-17,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "18. Resistance in the given circuit  R R How much is R ?\n[IMG: https://assets.chorcha.net/3CLa5XnRrSS7oso51a-Zu.jpg]",
+      "options": [
+        "15 Oh 15h 15h",
+        "20 Oh 20 Ω 20 Ω",
+        "25 Oh 25 Ω 25 Ω",
+        "30 Oh 30 Ω 30 Ω"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "19. The binary equivalent of the decimal number 368 is-",
+      "options": [
+        "101110000",
+        "110110000",
+        "111010000",
+        "111100000"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "20. Resistance of semiconductor to rise in temperature-",
+      "options": [
+        "decreases",
+        "It increases",
+        "remains unchanged",
+        "None of them"
+      ],
+      "tag": "PUST 17-18,NSTU 19-20,DU A 16-17,CU A 16-17,Ishaque Sir,Pramanik Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "21. Light can travel through optical fibers in curves. Which of the following phenomena can explain this?",
+      "options": [
+        "dispersion",
+        "inversion",
+        "Total-internal reflection",
+        "adultery"
+      ],
+      "tag": "JUST 17-18,MAT 22-23,DU A 16-17,Ishaque Sir,Pramanik Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "22. Which one of the following is a base unit?",
+      "options": [
+        "Coulomb",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "tag": "DU A 16-17,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "23. A man throws a ball up a steep hill with a velocity of 48 ms -1 . How long will the ball remain at zero and how high will it rise?",
+      "options": [
+        "9.8 sec & 117.5 m",
+        "8.9 sec & 117.5 m",
+        "9.8 sec & 171.5 m",
+        "8.9 sec & & 171.5 m"
+      ],
+      "tag": "PUST 16-17,NSTU 16-17,MAT 15-16,MAT 19-20,DU A 14-15,DU A 11-12,DU A 16-17,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "24. Velocity is",
+      "options": [
+        "The area under the displacement-time diagram",
+        "The area under the force-time diagram",
+        "Slope of displacement-time diagram",
+        "The slope of the acceleration-time diagram"
+      ],
+      "tag": "DU A 18-19,DU A 16-17,Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "25. If a stationary wave has a wavelength of 40 cm, then the distance between two adjacent resonant or non-resonant points will be-",
+      "options": [
+        "20 cm",
+        "10 cm",
+        "40 cm",
+        "80 cm"
+      ],
+      "tag": "CU A 17-18,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "26. The unit of electric flux is-",
+      "options": [
+        "Newton - meter $^{2} /$ Coulomb",
+        "Newton-meter Coulomb ${ }^{-1}$",
+        "Newton Coulomb ${ }^{-1}$",
+        "Newton meter ${ }^{-2}$"
+      ],
+      "tag": "CTG.B 22,JB 22,DU A 16-17"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "27. A projectile is thrown with an initial velocity v0 at an angle θ with horizontal. What is the velocity and acceleration of the projectile at its maximum height?",
+      "options": [
+        "$\\frac{3}{2} \\mathrm{~ms}^{-1}$",
+        "$\\frac{\\sqrt{3}}{2} \\mathrm{~ms}^{-1}$",
+        "$3 \\mathrm{~ms}^{-1}$",
+        "$0 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "DU A 16-17,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "28. If the refractive index of the glass is 1.5, what will be the speed of light in the glass?",
+      "options": [
+        "3.99×108 ms-2",
+        "2 × 108 ms-1",
+        "3 × 108 ms-2",
+        "1.33 × 108 ms-2"
+      ],
+      "tag": "JnU 16-17,MBSTU 18-19,NSTU 18-19,BSMRSTU 18-19,DU A 14-15,DU A 16-17,Ishaque Sir,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "29. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics (MCQ)(30)",
+      "question": "30. The decay constant of a radioactive element is $0.01 \\mathrm{~s}^{-1}$. Its half-life period is-",
+      "options": [
+        "$0.693 \\mathrm{~s}$",
+        "$6.93 \\mathrm{~s}$",
+        "$69.3 \\mathrm{~s}$",
+        "$693 \\mathrm{~s}$"
+      ],
+      "tag": "DU A 16-17,Ishaque Sir"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "1. Read the passage and answer the question.\nThe pioneers of science education imagined that its introduction into the curriculum would erase conventionality, artificiality and prejudice. So, too in their time had the humanists thought that the study of the classics would banish pedantry and superstition.\nThe chief claim for the use of science in the learning process is that it teaches young ones some truths about the universe that we are part of, acquaints them with the highlights of scientific discoveries, and at the same time prepares them to think logically and rationally. To some extent, these goals have been reached only in the first of these aims. Young people who have been given this sort of science education will know the basics of physics and chemistry. However, they will know not much more than what they would have learned by picking up scientific hobbies or using everyday scientific appliances.\nWhat goal has been reached through science teaching in schools by now?",
+      "options": [
+        "teaching them about important scientific discoveries",
+        "teaching them to think logically and correctly",
+        "teaching young people some truths about the universe",
+        "teaching them about scientific appliances"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "2. Read the passage and answer the question.\nThe pioneers of science education imagined that its introduction into the curriculum would erase conventionality, artificiality and prejudice. So, too in their time had the humanists thought that the study of the classics would banish pedantry and superstition. The chief claim for the use of science in the learning process is that it teaches young ones some truths about the universe that we are part of, acquaints them with the highlights of scientific discoveries, and at the same time prepares them to think logically and rationally. To some extent, these goals have been reached only in the first of these aims. Young people who have been given this sort of science education will know the basics of physics and chemistry. However, they will know not much more than what they would have learned by picking up scientific hobbies or using everyday scientific appliances.\n'Highlights' is used in the sentence as-",
+      "options": [
+        "a noun",
+        "an adjective",
+        "an adverb",
+        "a participle"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "3. According to some studies, dolphins, whales and___other sea creatures use highly sophisticated navigation systems.",
+      "options": [
+        "any",
+        "a little",
+        "many",
+        "much"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "4. We have to do some research in order to ____ the possible factors that could affect the outcome of the project.",
+      "options": [
+        "determine",
+        "refuse",
+        "diminish",
+        "remain"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "5. Choose the correct option to fill in the blank.\nMany people who live near nuclear plants are concerned. ____ go wrong, the impact on the surrounding area could be disastrous.",
+      "options": [
+        "Something would",
+        "Something will",
+        "Should something",
+        "Does something"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "6. Supposedly, digital versatile disks, or DVD as they are called, are             resistant to scratching            records.",
+      "options": [
+        "much, than",
+        "so, as",
+        "such, that",
+        "far more, than"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "7. These differences between the two photographs___with the help of computer programs.",
+      "options": [
+        "should removed",
+        "must be removed",
+        "have to removed",
+        "could have been removed"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "8. The government___that the projects___with great success.",
+      "options": [
+        "is confirming, maintained",
+        "confirms, have been maintained",
+        "was confirmed, have been maintained",
+        "confirms, are maintaining"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "9. The skill of safe driving___necessary to avoid collisions, which___many thousands of people annually.",
+      "options": [
+        "is, hurt",
+        "was, will hurt",
+        "will be, were hurt",
+        "would be, is hurt"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "10. Salma could not tell ___ books were left on the table.",
+      "options": [
+        "whose",
+        "who's",
+        "who",
+        "who is"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "11. They like to keep their old houses rather than build new ones ____ it is very difficult and expensive to maintain them.",
+      "options": [
+        "because",
+        "even though",
+        "on the contrary",
+        "for example"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "12. Fill in the blank with the correct option.\nHydrogen peroxide___as a bleaching agent because it effectively whitens a variety of fibres and surfaces.",
+      "options": [
+        "used",
+        "is used",
+        "is using",
+        "that it use"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "13. ___can be grown on arid land.",
+      "options": [
+        "Only a few crops",
+        "Only few crop",
+        "Only a little crops",
+        "Only little crop"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "14. There are three kinds of solar eclipses: one is total, another is annular, and___.",
+      "options": [
+        "the another is partial",
+        "the partial is other",
+        "other is partial",
+        "the other is partial"
+      ],
+      "tag": "DU A 16-17,CU C 3-4"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "15. The Disney Amusement Park in Japan is ____ Florida or California.",
+      "options": [
+        "the largest than the ones in",
+        "larger than the ones in",
+        "larger the ones in",
+        "the largest of the ones in"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "16. He learned to read and write quite ----- in his life.",
+      "options": [
+        "lately",
+        "late",
+        "latest",
+        "taste"
+      ],
+      "tag": "DU A 16-17,DU B 06-07,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "17. Do you know the solution___the problem?",
+      "options": [
+        "to",
+        "into",
+        "for",
+        "about"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "18. The man was ____ for murder",
+      "options": [
+        "hanging",
+        "hung",
+        "hanged",
+        "hang"
+      ],
+      "tag": "BUET 10-11,DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "19. The correct passive form of \"Does he speak English well?\" is-",
+      "options": [
+        "Is English spoke well by him?",
+        "Was English spoken well by him?",
+        "Is English spoken well by him?",
+        "Is English spoken well to him?"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "20. What is the verb form of the word 'acquisition'?",
+      "options": [
+        "acquiesce",
+        "acquisite",
+        "acquire",
+        "acquirement"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "21. Choose the correct sentence:",
+      "options": [
+        "Who belongs to the book?",
+        "Whom does the book belong?",
+        "To who the book belong?",
+        "Who does the book belong to?"
+      ],
+      "tag": "BUP FSSS 17-18,DU A 16-17,DU C 19-20,DU C 05-06,GST B 21-22,JnU 17-18,DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "22. Choose the correct spelling.",
+      "options": [
+        "Entreprenor",
+        "Entrepreneor",
+        "Entrepreneur",
+        "Enterpreneur"
+      ],
+      "tag": "MAT 20-21"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "23. An antonym of 'altruism' is-",
+      "options": [
+        "honesty",
+        "philanthropy",
+        "tolerance",
+        "selfishness"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "24. A synonym for 'sanguine' is-",
+      "options": [
+        "careful",
+        "cheerful",
+        "sacred",
+        "sparkle"
+      ],
+      "tag": "NSTU C 18-19"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "25. What is the Noun form of the word 'defer'?",
+      "options": [
+        "deference",
+        "deferment",
+        "difference",
+        "deferrant"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "English (MCQ)(26)",
+      "question": "26. The correct translation of ‘ভালুকটি তােমার কানে কানে কী বললাে?' is -",
+      "options": [
+        "What did the bear say to you?",
+        "What did the bear tell to your ear?",
+        "What did the bear whisper to you?",
+        "What did the bear whisper to your ear?"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "1. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "2. The roots of the equation $6 x^{2}-5 x+1=0$ are $\\alpha, \\beta$ then what is the equation having the roots $\\frac{1}{a}, \\frac{1}{\\beta}$ ?",
+      "options": [
+        "$x^{2}-5 x+6=0$",
+        "$x^{2}-2 x+1=0$",
+        "$x^{2}-4 x+3=0$",
+        "$x^{2}-11 x+30=0$"
+      ],
+      "tag": "RU F (GROUP 1),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 15-16 (SET 3),JU A 15-16 (SET 5),BUTEX 17-18"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "3. If $z=x+i y$, then $|z-5|+|z+5|=16$ represents-",
+      "options": [
+        "Circle",
+        "Parabola",
+        "Hyperbola",
+        "Ellipse"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "4. If $\\frac{1}{a+i}=\\frac{1}{a-1}$, then the value of $a$ is-",
+      "options": [
+        "1",
+        "$\\frac{1}{2}$",
+        "-1",
+        "$-\\frac{1}{2}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "5. $\\frac{3 x-1}{(x+1)\\left(x^{2}+1\\right)}=\\frac{A}{x+1}+\\frac{B x+1}{x^{2}+1}$ In the identity $(A, B)$ equals-",
+      "options": [
+        "$(-2,-2)$",
+        "$(-2,2)$",
+        "$(2,-2)$",
+        "$(2,2)$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "6. What is the value of $\\cos A+\\cos \\left(120^{\\circ}\\right.$ $-\\mathrm{A})+\\cos \\left(120^{\\circ}+\\mathrm{A}\\right)$ ?",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$0$",
+        "$\\frac{1}{2}$",
+        "$1$"
+      ],
+      "tag": "MSSCB 24,DIN.B 23,SB 23,DU A 18-19,DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "7. If $9 \\theta=\\pi$, then the value of $\\cos \\theta \\cos 2 \\theta \\cos 4 \\theta$ is-",
+      "options": [
+        "$\\frac{1}{9}$",
+        "$\\frac{1}{8}$",
+        "8",
+        "9"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "8. The foci of the ellipse $4{x}^{2}+9{y}^{2}=1$ are",
+      "options": [
+        "$\\left( \\pm \\cfrac { \\sqrt { 3 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 3 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 6 } ,0 \\right)$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A 16-17 (SET 4),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "9. If both $a x+b y=c$ and $x \\cos \\alpha+y \\sin \\alpha=p$ represents the same straight line then what is the value of $p$ ?",
+      "options": [
+        "$\\pm \\frac{c}{\\sqrt{a^{2}-b^{2}}}$",
+        "$\\pm \\frac{c}{\\sqrt{b^{2}-a^{2}}}$",
+        "$\\pm \\frac{c}{\\sqrt{a^{2}+b^{2}}}$",
+        "$\\pm c \\sqrt{a^{2}-b^{2}}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "10. The angle between the lines $y-x+5=0$ and $\\sqrt{3}x-y+7=0$ is/are:",
+      "options": [
+        "${15}^{o}$",
+        "${60}^{o}$",
+        "${165}^{o}$",
+        "${75}^{o}$"
+      ],
+      "tag": "MB 22,RB 22,RB 21,JB 21,CTG.B 19,BB 19,JUST 19-20,MBSTU 19-20,Agri. GST 19-20,Agri. GST 20-21,DU A 18-19,DU A 22-23,DU A 16-17,BUET 6-7"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "11. The intercept of $y$ - axis made by a straight line is 3 and this line is perpendicular to the straight line $2 x+$ $3 y+5=0$. What is the equation of this line?",
+      "options": [
+        "$3 x-2 y+6=0$",
+        "$3 x-2 y-5=0$",
+        "$3 x-2 y+5=0$",
+        "$3 x+2 y+13=0$"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),JU A 21-22 (SET I),JU A (SET A)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "12. The eq. of the circle which touches the exes of y at a distance of $4$ from the origin and cuts the intercepts of $6$ units from the axis of x is",
+      "options": [
+        "$x^2 +y^2 \\pm 10x \\pm 8y + 16=0$",
+        "$x^2 +y^2 \\pm 5x \\pm 4y + 16=0$",
+        "$x^2 +y^2 \\pm 10x \\pm 8y - 16=0$",
+        "$x^2 +y^2 \\pm 5x \\pm 4y - 16=0$"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),JU A 22-23 (SET N),JU A 18-19 (SET P),JU H 16-17 (SET 3),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "13. The lengths of the major and minor axes of the ellipse $4 x^{2}+y^{2}=2$ are respectively-",
+      "options": [
+        "4 and 2",
+        "2 and 4",
+        "$\\sqrt{2}$ and $2 \\sqrt{2}$",
+        "$2 \\sqrt{2}$ and $\\sqrt{2}$"
+      ],
+      "tag": "CTG.B 23,DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "14. If $\\int_{1}^{4} f(x) d x=5$, what is the value of $\\int_{0}^{1} f(3 x+1) d x ?$",
+      "options": [
+        "$\\frac{5}{4}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{5}{3}$",
+        "None of the above"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),BUTEX 17-18,BUTEX 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "15. Area of the region in the first quadrant enclosed by the x-axis, the line $y = x$ and the circle $x^{2} + y^{2} = 32$ is",
+      "options": [
+        "$16\\pi \\ sq units$",
+        "$4\\pi \\ sq units$",
+        "$32\\pi \\ sq units$",
+        "$24\\pi \\ sq units$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 14-15 (G-EVEN),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 21-22 (SET F)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "16. Slope of $y=x+\\frac{1}{x}$ will be zero for what value of $x$ ?",
+      "options": [
+        "1",
+        "0",
+        "$\\pm 1$",
+        "$\\pm \\frac{1}{2}$"
+      ],
+      "tag": "Agri. GST 20-21,Agri. GST 21-22,DU A 16-17,DU A 13-14"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "17. A particle is projected with and initial velocity $32 \\mathrm{fts}^{-1}$ making an angle $30^{\\circ}$ with the horizon. Its time of flight is-",
+      "options": [
+        "$0.5 \\mathrm{~s}$",
+        "$1 \\mathrm{~s}$",
+        "$1.5 \\mathrm{~s}$",
+        "$2 \\mathrm{~s}$"
+      ],
+      "tag": "MBSTU 17-18,DU A 16-17,BUET 13-14"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "18. Solution of $\\left|x^{2}+1\\right|<10$ is-",
+      "options": [
+        "$-3 <\\mathrm{x}<3$",
+        "$-3 \\leq \\mathrm{x}<3$",
+        "$-3<\\mathrm{x} \\leq 3$",
+        "$-3 \\leq x \\leq 3$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "19. How many three digit numbers formed by $1,2,0$ are divisible by 2 ?",
+      "options": [
+        "6",
+        "18",
+        "4",
+        "12"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "20. If $f(x)=\\sin x$ and $g(x)=x^{2}$, then the value of $(f \\circ g)\\left(\\frac{\\sqrt{\\pi}}{2}\\right)$ is-",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\sqrt{2}$"
+      ],
+      "tag": "DU A 09-10,DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "21. If $A=\\{1,2,3,5,9\\}$ and $B=\\{1,2,9,10\\}$, then $(A \\backslash B) \\cup(B \\backslash A)$ equals-",
+      "options": [
+        "$\\{3,5\\}$",
+        "$\\{1,2,9\\}$",
+        "$\\{3,5,10\\}$",
+        "$\\{1,2,3,5,9,10\\}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "22. What is the expansion of the series $\\frac{1}{2}\\left(e^{x}-e^{-x}\\right)$ ?",
+      "options": [
+        "$x-\\frac{x^{3}}{3 !}+\\frac{x^{5}}{5 !}-\\cdots$",
+        "$x+\\frac{x^{3}}{3 !}+\\frac{x^{5}}{5 !}+\\cdots$",
+        "$1+x+\\frac{x^{3}}{3 !}+\\frac{x^{5}}{5 !}+\\cdots$",
+        "$-x-\\frac{x^{3}}{3 !}-\\frac{x^{5}}{5 !}-\\cdots$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "23. Projection of vector $\\vec{Q}=2 \\hat{i}+\\hat{j}-2 \\hat{k}$ on $\\vec{P}=5 \\hat{i}-3 \\hat{j}+2 \\hat{k}$ is-",
+      "options": [
+        "$\\frac{5}{\\sqrt{38}}$",
+        "$\\frac{3}{\\sqrt{38}}$",
+        "$\\frac{2}{\\sqrt{38}}$",
+        "$\\frac{1}{\\sqrt{38}}$"
+      ],
+      "tag": "IU 18-19,DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "24. The term independent of x in the expansion of $( x+ \\frac {1}{x})^{10}$ is",
+      "options": [
+        "210",
+        "252",
+        "504",
+        "756"
+      ],
+      "tag": "RU H 14-15 (G-ODD),JU H 16-17 (SET 3)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "25. In how many ways the letters of the word 'MATHEMATICS' can be arranged when the first and the last place will be fixed for ' $T$ '?",
+      "options": [
+        "10080",
+        "9680",
+        "50720",
+        "90720"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "26. The magnitude of the resultant of the three velocities of $6,10,14$ units acting at a point along three sides of an equilateral triangle in the same sense is-",
+      "options": [
+        "$4 \\sqrt{3}$ units",
+        "$7 \\sqrt{3}$ units",
+        "$10 \\sqrt{3}$ units",
+        "$15 \\sqrt{3}$ units"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Higher Math (MCQ)(27)",
+      "question": "27. There are 3 red balls, 3 green balls and 2 blue balls in a box. If 3 balls are taken randomly, then what is the probability of 2 balls to be green?",
+      "options": [
+        "$\\frac{15}{56}$",
+        "$\\frac{3}{7}$",
+        "$\\frac{28}{65}$",
+        "$\\frac{13}{22}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "1. Aqueous solution of which ion is colorless?",
+      "options": [
+        "$\\mathrm{Zn}^{2+}$",
+        "$\\mathrm{Ni}^{2+}$",
+        "$\\mathrm{Cu}^{2+}$",
+        "$\\mathrm{Fe}^{2+}$"
+      ],
+      "tag": "CB 17,DU A 16-17,CU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "2. Ethyl iodide on reaction with aqueous $\\mathrm{KOH}$ produces-",
+      "options": [
+        "Ethyne",
+        "Ethene",
+        "Ethanol",
+        "Ethane"
+      ],
+      "tag": "DU A 16-17,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "3. The reaction $3 \\mathrm{Fe}(\\mathrm{s})+4 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{g}) \\rightleftharpoons 4 \\mathrm{H}_{2}(\\mathrm{~g})+\\mathrm{Fe}_{3} \\mathrm{O}_{4}(\\mathrm{~s}) ; \\Delta \\mathrm{H}=35 \\mathrm{KJ} \\mathrm{mol}^{-1}$ is in equilibrium. What happens to it when pressure increases?",
+      "options": [
+        "Equilibrium constant increases",
+        "Equilibrium shifts to left",
+        "Equilibrium is unaltered",
+        "Equilibrium shifts to right"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "4. A complex having coordination number 4 is-",
+      "options": [
+        "$\\mathrm{K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$",
+        "$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right] \\mathrm{Cl}_{3}$",
+        "$\\left[\\mathrm{Fe}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right] \\mathrm{Cl}_{3}$",
+        "$\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{4}\\right] \\mathrm{Cl}_{2}$"
+      ],
+      "tag": "DU A 16-17,Guha Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "5. Which one is not a periodic property?",
+      "options": [
+        "Atomic radius",
+        "Electronegativity",
+        "Electron affinity",
+        "Melting temperature"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "6. What type of organic compound can be detected by carbylamines test?",
+      "options": [
+        "Primary amine",
+        "Aldehyde",
+        "Amide",
+        "Primary alcohol"
+      ],
+      "tag": "RB 22,DU A 16-17,Lingcon Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "7. How many secondary alcoholic groups are present in glucose molecule having open chain structure?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tag": "CU A 18-19,Lingcon Sir,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "8. Differentiation between $\\mathrm{HCHO}$ and $\\mathrm{CH}_{3} \\mathrm{CHO}$ requires-",
+      "options": [
+        "Iodoform test",
+        "Carbylamine test",
+        "Ninhydrin test",
+        "Tollen's reagent"
+      ],
+      "tag": "DU A 16-17,Lingcon Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "9. Which of the following is the correct order of thermal dissociation?",
+      "options": [
+        "$\\mathrm{BaCO}_{3}<\\mathrm{SrCO}_{3}<\\mathrm{CaCO}_{3}<\\mathrm{MgCO}_{3}<$ $\\mathrm{BeCO}_{3}$",
+        "$\\mathrm{BeCO}_{3}>\\mathrm{MgCO}_{3}>\\mathrm{CaCO}_{3}>\\mathrm{SrCO}_{3}>$ $\\mathrm{BaCO}_{3}$",
+        "$\\mathrm{BaCO}_{3}>\\mathrm{SrCO}_{3}>\\mathrm{CaCO}_{3}>\\mathrm{MgCO}_{3}>$ $\\mathrm{BeCO}_{3}$",
+        "$\\mathrm{MgCO}_{3}>\\mathrm{CaCO}_{3}>\\mathrm{SrCO}_{3}>\\mathrm{BeCO}_{3}>$ $\\mathrm{BaCO}_{3}$"
+      ],
+      "tag": "DU A 16-17,Guha Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "10. What is the product of Hoffman degradation reaction of benzamide?",
+      "options": [
+        "Aniline",
+        "Nitrobenzene",
+        "Nitroanilide",
+        "Diphenyl amide"
+      ],
+      "tag": "DU A 16-17,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "11. Predict the ions present when $5 \\mathrm{~mL} 0.1 \\mathrm{M} \\mathrm{NaOH}$ is added to $10 \\mathrm{~mL} 0.1 \\mathrm{M} \\mathrm{HCl}$ solution-",
+      "options": [
+        "$\\mathrm{OH}^{-}, \\mathrm{Cl}^{-}, \\mathrm{Na}^{+}$",
+        "$\\mathrm{OH}^{-}, \\mathrm{Cl}^{-}, \\mathrm{H}^{+}$",
+        "$\\mathrm{H}^{+}, \\mathrm{Cl}^{-}, \\mathrm{Na}^{+}$",
+        "$\\mathrm{H}^{+}, \\mathrm{Cl}^{-}, \\mathrm{Na}^{+}, \\mathrm{OH}^{-}$"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "12. In which compound, Chlorine has highest oxidation number?",
+      "options": [
+        "$\\mathrm{HClO}$",
+        "$\\mathrm{HClO}_{2}$",
+        "$\\mathrm{HClO}_{3}$",
+        "$\\mathrm{HClO}_{4}$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 15-16 (G-ODD),JU A 22-23 (SET N),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 15-16 (SET 5),JU D 21-22 (SET H),JU D 18-19 (SET N),JU D 15-16 (SET 5),Guha Sir,Hazari Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "13. Density of a gas can be determined using-",
+      "options": [
+        "Arrhenius equation",
+        "Ideal gas equation",
+        "Einstein equation",
+        "Faraday equation"
+      ],
+      "tag": "DU A 16-17,Guha Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "14. What is the chemical formula of cholro picrin?",
+      "options": [
+        "$\\mathrm{F}_{2} \\mathrm{ClC}-\\mathrm{CClF}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CN}$",
+        "$\\mathrm{CCl}_{3}-\\mathrm{NO}_{2}$",
+        "$\\left(\\mathrm{CH}_{3}\\right)_{3} \\mathrm{C}-\\mathrm{OH}$"
+      ],
+      "tag": "DU A 16-17,CUET 10-11"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "15. Which is not true in case of free radical?",
+      "options": [
+        "Produced by the homolytic fission of $\\sigma$-bond",
+        "Produced by the heterolytic fission of $\\sigma$-bond",
+        "It is very unstable",
+        "Number of protons and electrons are equal in it"
+      ],
+      "tag": "DU A 16-17,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "16. The number of electrons in M-shell of an element having atomic number 26 is-",
+      "options": [
+        "12",
+        "18",
+        "14",
+        "16"
+      ],
+      "tag": "DU A 16-17,Lingcon Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "17. At what condition real gases follows the ideal gas equation?",
+      "options": [
+        "Low temperature and high pressure",
+        "High temperature and low pressure",
+        "Absolute zero temperature",
+        "High pressure"
+      ],
+      "tag": "CU A 19-20,Hazari Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "18. What is the pH of $2 \\%\\left(\\frac{W}{V}\\right) \\mathrm{Na}_{2} \\mathrm{CO}_{3}$ solution?",
+      "options": [
+        "10.6",
+        "12.6",
+        "13.6",
+        "14.0"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),Guha Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 16-17,BUTEX 15-16"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "19. Ethyl alcohol is heated with conc. $\\mathrm{H}_{2} \\mathrm{SO}_{4}$. The product formed is-",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{2}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{6}$"
+      ],
+      "tag": "DU A 16-17,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "20. In which compound there are carbons with multiple types of hybridization?",
+      "options": [
+        "Cyclohexane",
+        "Benzene",
+        "Toluene",
+        "n-butane"
+      ],
+      "tag": "BSMRSTU 17-18,DU A 16-17,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "21. What is the molarity of 5% $Na_2CO_3$?",
+      "options": [
+        "0.98 M",
+        "0.89 M",
+        "0.79 M",
+        "0.471 M"
+      ],
+      "tag": "RU H 15-16 (G-EVEN),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 19-20 (SET P),Lingcon Sir,Guha Sir,Hazari Sir,Lingcon Sir,Guha Sir,Kabir Sir,Kabir Sir,BUTEX 16-17,BUTEX 15-16"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "22. Poly Vinyl Chloride (PVC) can be prepared from which one?",
+      "options": [
+        "$\\mathrm{CH}_{2}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CH} \\equiv \\mathrm{CH}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{3}$"
+      ],
+      "tag": "JnU 16-17,DU A 16-17,Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "23. In which form plants absorb urea from soil through their roots?",
+      "options": [
+        "$\\mathrm{H}_{2} \\mathrm{NCONH}_{2}$",
+        "$\\mathrm{NH}_{4} \\mathrm{OH}$",
+        "$\\mathrm{NO}_{3}^{-}$salt",
+        "$\\mathrm{NO}_{2}^{-}$salt"
+      ],
+      "tag": "DU A 16-17,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "24. The compound used to increase the $\\mathrm{pH}$ of the soil is-",
+      "options": [
+        "Potassium nitrate",
+        "TSP",
+        "Dolomite",
+        "Silica"
+      ],
+      "tag": "BB 19,DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "25. Which of the following methods is used to separate mixtures of two or more liquids with nearer boiling point?",
+      "options": [
+        "Distillation",
+        "Steam distillation",
+        "Sublimation",
+        "Fractional distillation"
+      ],
+      "tag": "DU A 16-17,CUET 10-11,JU A 21-22 (SET I),JU A 21-22 (SET F),JU D 19-20 (SET A),Guha Sir,Kabir Sir,Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "26. Which equation correctly represents the rate equation for $A+2 B \\rightarrow P$ reaction?",
+      "options": [
+        "$-d[A] / d t=k[A][B]$",
+        "$-\\mathrm{d}[\\mathrm{B}] / \\mathrm{dt}=\\mathrm{k}[\\mathrm{A}][\\mathrm{B}]^{2}$",
+        "$\\mathrm{d}[\\mathrm{P}] / \\mathrm{dt}=\\mathrm{k}[\\mathrm{P}]^{\\alpha}$",
+        "$\\mathrm{d}[\\mathrm{P}] / \\mathrm{dt}=\\mathrm{k}[\\mathrm{A}]^{\\alpha}[\\mathrm{B}]^{\\beta}$"
+      ],
+      "tag": "DU A 16-17,Lingcon Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "27. In the IR spectrum -OH and $>\\mathrm{C}=\\mathrm{O}$ radicals form the absorption band in which wave number?",
+      "options": [
+        "$3400-1700 \\mathrm{~cm}^{-1}$",
+        "$2800-1700 \\mathrm{~cm}^{-1}$",
+        "$3400-1400 \\mathrm{~cm}^{-1}$",
+        "$2500-1000 \\mathrm{~cm}^{-1}$"
+      ],
+      "tag": "DU A 16-17,JU A 19-20 (SET P),Kabir Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "28. The conversion of solid state directly into a gaseous state without passing through liquid state is called-",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Freezing",
+        "Boiling"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "29. Which of the following reactions has concentration-time plot different from others?",
+      "options": [
+        "First order",
+        "Zero order",
+        "Fractional order",
+        "Second order"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "30. What type of coal is found is Barapukuria mine?",
+      "options": [
+        "Lignite",
+        "Sub-bituminous",
+        "Anthracite",
+        "Bituminous"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "31. In which stage of cell division, nuclear membrane is disappeared?",
+      "options": [
+        "Prophase",
+        "Pro-metaphase",
+        "Metaphase",
+        "Anaphase"
+      ],
+      "tag": "DB 22,DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "32. Gene from which bacteria is added in genetically modified BT Brinjal?",
+      "options": [
+        "Bacillus subtillis",
+        "Lactobacillus vulgaris",
+        "Bacillus thuringiensis",
+        "Agobacterium tumefaciens"
+      ],
+      "tag": "CU A 20-21"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "33. By which process of the following can disease free plants be produced?",
+      "options": [
+        "Anther culture",
+        "Pollen culture",
+        "Meristem culture",
+        "Embryo culture"
+      ],
+      "tag": "DB 23,RB 22,BB 17,Agr. GST 22-23,DU A 16-17,Azibur Sir,Alim Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "34. Which one is the first stable compound of $C_4$ plant?",
+      "options": [
+        "Malic acid",
+        "Oxaloacetic acid",
+        "Pyruvic acid",
+        "Phosphoglyceric acid"
+      ],
+      "tag": "RU C 19-20 (GROUP 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "35. Which one is the placentation of Poaceae family?",
+      "options": [
+        "Axile",
+        "Basal",
+        "Superficial",
+        "Marginal"
+      ],
+      "tag": "MCC 24,DRMC 24,MSSCB 24,JB 23,CB 22,JB 22,DB 21,MB 21,CTG.B 21,DIN.B 19,DIN.B 17,SB 17,MAT 21-22,MAT 15-16,DU A 16-17,JU D 21-22 (SET H),JU D 21-22 (SET G)"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "36. Protein-storing leukoplasts are called:",
+      "options": [
+        "Chromoplasts",
+        "Chloroplasts",
+        "Elyoplast",
+        "Alluroplasts"
+      ],
+      "tag": "MAT 16-17,DU A 16-17,Azibur Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "37. What type of tissue is jute fiber?",
+      "options": [
+        "apical meristem tissue",
+        "primary xylem tissue",
+        "secondary xylem tissue",
+        "secondary phloem tissue"
+      ],
+      "tag": "CU A 20-21"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "38. Where from rhizophore originates?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Rhizoid"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "39. Which one of the following is the example of haploid parthenogenesis?",
+      "options": [
+        "Solanum nigrum",
+        "Solanum melongena",
+        "Parthenium argentatum",
+        "Taraxacum albidum"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "40. Which one of the following mechanism produces 3 PGA?",
+      "options": [
+        "Krebs cycle",
+        "Hatch and slack cycle",
+        "Calvin cycle",
+        "Cyclic photophosphorylation"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "41. Which of the following are sex linked characteristics?",
+      "options": [
+        "Complexion",
+        "Color blindness",
+        "Eye color",
+        "Cystic fibrosis"
+      ],
+      "tag": "DU A 16-17,Ashraf Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "42. Which one of the following is not a fish?",
+      "options": [
+        "Carp",
+        "Bombay duck",
+        "Silverfish",
+        "Catfish"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "43. Which is the covering of bone?",
+      "options": [
+        "Periosteum",
+        "Perichondrimn",
+        "Pericardium",
+        "Pleura"
+      ],
+      "tag": "RU F (GROUP 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "44. Which of the following is not required for the blood clotting?",
+      "options": [
+        "Platelets",
+        "Fibrinogen",
+        "Insulin",
+        "Prothrombin"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "45. Jellyfish are animals of what kind?",
+      "options": [
+        "Nidaria",
+        "Arthropoda",
+        "Platyhelminthis",
+        "Mollusks"
+      ],
+      "tag": "CU A 20-21,JU D 15-16 (SET 5),Alim Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "46. The body of Latimeria fish is covered by which type of scales?",
+      "options": [
+        "Ganoid",
+        "Cteniod",
+        "Cycloid",
+        "Placoid"
+      ],
+      "tag": "RU C 19-20 (GROUP 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "47. Malarial parasite with multiple nucleus is called-",
+      "options": [
+        "Phenerozoite",
+        "Schizont",
+        "Merozoite",
+        "Trophozoite"
+      ],
+      "tag": "JB 23,DU A 16-17,Azibur Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "48. Which of the following is not found in Hydra?",
+      "options": [
+        "Mesoglea",
+        "Coelenteron",
+        "Mesoderm",
+        "Cnidocyte"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "49. The name of the order of rohu fish is-",
+      "options": [
+        "Cypriniformes",
+        "Clupeiformes",
+        "Siluriformes",
+        "Channiformes"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "50. Which of the following helps in protecting us from diseases?",
+      "options": [
+        "Erythrocytes",
+        "Leucocytes",
+        "Platelets",
+        "Globin"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "51. Which one is responsible for scab disease of potato?",
+      "options": [
+        "Xanthomonous",
+        "Streptomyces scabirs",
+        "Escherichia",
+        "Clostridlum botulinum"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "52. Which one of the following has viviparous germination?",
+      "options": [
+        "Nerium odoratum",
+        "Nymphaea nouchali",
+        "Calotropis procera",
+        "Rhizophora conjugate"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "53. In which of the following are akinetes and heterocysts found?",
+      "options": [
+        "Escherichia",
+        "Nostoc",
+        "Zygnema",
+        "Chlorella"
+      ],
+      "tag": "DU A 20-21,DU A 16-17,RU A 22-23,RU C 22-23 (SHIFT 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "54. When is tube nucleus developed?",
+      "options": [
+        "Development of female gametophyte",
+        "Fertillization",
+        "Pollination",
+        "Development of male gamete"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "55. Which one of the following produces penicillin commercially?",
+      "options": [
+        "Penicillium notatum",
+        "Penicillium chrysogenum",
+        "Penicillium roqueforti",
+        "Penicillium camemberti"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "56. Which of the following produces sperm?",
+      "options": [
+        "Spermatogonia",
+        "Scrotum",
+        "Epididymis",
+        "Prostate gland"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "57. Where renin is produced?",
+      "options": [
+        "In intestine",
+        "In stomach",
+        "In adrenal gland",
+        "In kidney"
+      ],
+      "tag": "DU A 16-17,DU A  10-11"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "58. In which part of the ear 'Organ of Corti' is found?",
+      "options": [
+        "Saccular",
+        "Cochlea",
+        "Middle ear",
+        "External ear"
+      ],
+      "tag": "DU A 14-15,DU A 16-17,Ashraf Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "59. The parasite that causes elephantiasis is-",
+      "options": [
+        "Entamoeba histolytica",
+        "Wuchereria bancrofti",
+        "Aedes fatigans",
+        "Culex quinquefasciatus"
+      ],
+      "tag": "DU A 12-13,DU A 16-17"
+    },
+    {
+      "subject": "Biology (MCQ)(60)",
+      "question": "60. The hormone related to the bone of human is-",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Parathormone",
+        "Somatotropin"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "1. নিচের কোন গুচ্ছ অর্ধ-তৎসম শব্দ ?",
+      "options": [
+        "ভক্তি, ধুলো",
+        "ঘাম, শপথ",
+        "রোদ, জনম",
+        "নদী, লবণ"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "2. কোনটি সংকর শব্দ নয়?",
+      "options": [
+        "কালিকলম",
+        "ভোটদাতা",
+        "ফুলদানি",
+        "উদয়াচল"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "3. 'শরীরের প্রতি লক্ষ রেখ'। এ বাক্যে 'প্রতি'র ব্যাকরণিক পরিচয় কী?",
+      "options": [
+        "বিশেষণের বিশেষণ",
+        "প্রকৃতি",
+        "অনুসর্গ",
+        "ক্রিয়ামূল"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "4. অভিধানে 'ক্ষ' বর্ণ কোথায় থাকে ?",
+      "options": [
+        "খ-বর্ণের সঙ্গে",
+        "হ-বর্ণের পরে",
+        "ষ-বর্ণের পরে",
+        "ক-বর্ণের সঙ্গে"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "5. 'সে সকাল থেকেই যাই যাই করছে।' এ বাক্যের 'যাই যাই' কোন ধরনের পদ?",
+      "options": [
+        "ক্রিয়া",
+        "ক্রিয়া বিশেষ্য",
+        "ধ্বন্যাত্মক বিশেষণ",
+        "ক্রিয়া বিশেষণ"
+      ],
+      "tag": "DU A 16-17,DU A 07-08,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "6. উত্তম পুরুষের ক্রিয়াপদের উদাহরণ কোনটি?",
+      "options": [
+        "বলেছ,করেছ",
+        "করেছি, খেয়েছি",
+        "বলেছিস, খেয়েছিস",
+        "এসেছেন, করেছেন"
+      ],
+      "tag": "ঢাবি (ক): ১৬-১৭,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "7. কোনটি শব্দের উদাহরণ?",
+      "options": [
+        "ষ",
+        "ট",
+        "খ",
+        "ক্ষ"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "8. 'সরিষাভোর' শব্দটি কোন রচনায় পাওয়া যায়?",
+      "options": [
+        "বিড়াল",
+        "চাষার দুক্ষু",
+        "অপরিচিতা",
+        "সেই অস্ত্র"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "9. 'রুশীয় সমাজে এর প্রচলন লক্ষ করা যায়।'- এ বাক্যে কী ধরনের অপপ্রয়োগ ঘটেছে?",
+      "options": [
+        "সন্ধিজাত",
+        "প্রত্যয়জাত",
+        "বানানগত",
+        "তথ্যগত"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "10. 'গাঙ্গেয়' শব্দের প্রসারিত রূপ কোনটি?",
+      "options": [
+        "গঙ্গাজলস্নাত",
+        "গঙ্গার দিকে",
+        "গঙ্গার মতো পবিত্র",
+        "গঙ্গার অপত্য"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "11. 'লক্ষ্মীর বরযাত্রী' বাগধারাটির অর্থ-",
+      "options": [
+        "মঙ্গলের সূচনা",
+        "ভাগ্যবান লোক",
+        "ধনাঢ্য ব্যক্তি",
+        "সুসময়ের বন্ধু"
+      ],
+      "tag": "DU A 16-17,জবি (ক): ১৬-১৭"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "12. নিচের কোনটি অবস্থাবাচক নাম বিশেষণের উদাহরণ?",
+      "options": [
+        "হলুদ ফসল",
+        "মেটে কলসি",
+        "তাজা মাছ",
+        "চৌকস লোক"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "13. 'সমভিব্যাহারে' শব্দের অর্থ কী?",
+      "options": [
+        "সমতাভিত্তিক সম্পর্ক",
+        "সমবেত সঙ্গীত",
+        "একত্র গমন",
+        "সমান ব্যবহার"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "14. 'বিভীষণের প্রতি মেঘনাদ' কবিতায় কাকে বাসবত্রাস বলা হয়েছে?",
+      "options": [
+        "বিভীষণকে",
+        "রামকে",
+        "রাবণকে",
+        "মেঘনাদকে"
+      ],
+      "tag": "DU A 19-20"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "15. ‘জিহ্বায় উচ্চারিত প্রতিটি ___ শব্দ কবিতা'। শূন্যস্থানে কোন শব্দ বসবে ?",
+      "options": [
+        "সুন্দর",
+        "সত্য",
+        "শ্রুতিমধুর",
+        "যুক্ত"
+      ],
+      "tag": "DU A 16-17,RU B 17-18 (অ-বাণিজ্য),BRU C 19-20,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "16. রবীন্দ্রনাথের মতে, “মনুষ্যত্বের বেদনা উপলব্ধ হয়__”",
+      "options": [
+        "ফুলের ফোটায়",
+        "বৃক্ষের ফুল ফোটানােয়",
+        "পাখির গানে",
+        "নদীর গতিতে"
+      ],
+      "tag": "CU B 21-22 (EVENING),DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "17. নিত্য মূর্ধন্য-ণ বাচক শব্দ—",
+      "options": [
+        "গৃহিণী",
+        "উষ্ণ",
+        "সমৰ্পণ",
+        "পুণ্য"
+      ],
+      "tag": "DU A 23-24,DU C 12-13,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "18. ‘জবড়জং' শব্দের অর্থ-",
+      "options": [
+        "পারিপাট্যহীন",
+        "জাঁকালো",
+        "অতিমূল্যবান",
+        "পরিচ্ছন্ন"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "19. 'চলনসই' শব্দের 'সই' -",
+      "options": [
+        "বাংলা কৃৎ প্রত্যয়",
+        "বাংলা তদ্ধিত প্রত্যয়",
+        "সংস্কৃত কৃৎ প্রত্যয়",
+        "বিদেশি তদ্ধিত প্রত্যয়"
+      ],
+      "tag": "DU A 21-22,DU A 16-17,RU B 22-23 (অ-বাণিজ্য),DU A 21-22,DU A 16-17,13TH BJS"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "20. এবারের সংগ্রাম স্বাধীনতার সংগ্রাম।' এ বাক্যের অন্তর্গত ‘স্বাধীনতার' শব্দটি কোন কারকে কোন বিভক্তি?",
+      "options": [
+        "করণে ষষ্ঠী",
+        "অপাদানে ষষ্ঠী",
+        "নিমিত্তার্থে ষষ্ঠী",
+        "অধিকরণে ষষ্ঠী"
+      ],
+      "tag": "DU A 16-17,DU C 19-20,DU A 16-17,17th NTRCA_SCHOOL"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "21. 'কৌমুদী' শব্দের প্রতিশব্দ হলো-",
+      "options": [
+        "চাঁদ",
+        "জ্যোৎস্না",
+        "পদ্মফুল",
+        "মুকুল"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "22. নিচের কোনটি হিন্দি শব্দ?",
+      "options": [
+        "ফুফা",
+        "হিল্লে",
+        "বিবি",
+        "কানুন"
+      ],
+      "tag": "ঢাবি (ক): ১৬-১৭,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "23. 'ক্রেঙ্কার' কী?",
+      "options": [
+        "অশ্বের ডাক",
+        "হাতির ডাক",
+        "ময়ূরের ডাক",
+        "রাজহাঁসের ডাক"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "24. 'অপরিচিতা' গল্পে কোন বয়সটা না দৈর্ঘ্যের না গুণে বড়?",
+      "options": [
+        "আঠারো বছর",
+        "উনিশ বছর",
+        "সাতাশ বছর",
+        "বত্রিশ বছর"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "25. নিচের কোনটি ‘প্রতীক্ষা' এর প্রতিশব্দ?",
+      "options": [
+        "নিবর্তক",
+        "বিলম্বন",
+        "সমাপন্ন",
+        "এন্তেজার"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "26. ‘লােক-লােকান্তর' কবিতায় কবির চেতনায় পাখি কোথায় বসে আছে?",
+      "options": [
+        "পানলতায়",
+        "চন্দনের ডালে",
+        "ঝােপের ওপর",
+        "সুপারি গাছে"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "27. 'রেইনকোট' গল্পে অধ্যক্ষ মহোদয়ের পিয়নের নাম কী?",
+      "options": [
+        "আবু ইসহাক",
+        "আবুল ইসহাক",
+        "ইসহাক মিয়া",
+        "ইসহাক কবির"
+      ],
+      "tag": "DU A 16-17,DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "28. ‘একুশের কৃষ্ণচূড়া আমাদের চেতনারই রং'- এ চরণটি কোন কবিতাভুক্ত?",
+      "options": [
+        "আমি কিংবদন্তির কথা বলছি",
+        "ফেব্রুয়ারি ১৯৬৯",
+        "লোক-লোকান্তর",
+        "রক্তে আমার অনাদি অস্থি"
+      ],
+      "tag": "DU A 16-17"
+    },
+    {
+      "subject": "Bangla (MCQ)(29)",
+      "question": "29. 'তাদের দলে নতুন নতুন খেলোয়ার আসিয়াছে' চলিত রীতির বাক্যটিতে ভুলের সংখ্যা-",
+      "options": [
+        "তিন",
+        "চার",
+        "দুই",
+        "এক"
+      ],
+      "tag": "DU C 14-15,DU A 16-17"
+    }
+  ]
+}

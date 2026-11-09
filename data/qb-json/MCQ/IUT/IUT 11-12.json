@@ -1,0 +1,1072 @@
+{
+  "title": "IUT 11-12",
+  "questions": [
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "1. A player throws a ball from a height of 3.5 meters. The ball flies at a speed of 9.8 m/sec creating an angle of 30° parallel to the surface. Another player catches the ball 2.1 meters from the surface. What is the distance between those two players? Note: g = 9.8 m/sec2",
+      "options": [
+        "10.44111m",
+        "15.55m",
+        "20.22m",
+        "30m"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "2. A thin glass sheet can just carry a mass of 5.5 kg. The sheet was raised with an increasing acceleration with an object on it and was found to break down when the acceleration equals 1.2 m/sec. What is the mass of the object? Note: g = 9.8 m/ sec2",
+      "options": [
+        "5.45kg",
+        "4.15kg",
+        "4.5kg",
+        "4.9kg"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "3. In a carnival ride, the passengers travel in a circle of radius 5.0 m making one complete circle in 4 s. What is the acceleration of the ride?",
+      "options": [
+        "14.34ms-2",
+        "22.34 ms-2",
+        "12.34ms-2",
+        "46.20ms-2"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "4. A marathon runner of mass 70 kg runs up the stairs to the top of the Sears tower which is 443 m high in 15 minutes. What is the average power output of the runner in horsepower (hp)?",
+      "options": [
+        "0.453 hp",
+        "1.5 hp",
+        "0.50 hp",
+        "0.7 hp"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "5. Light rays incident obliquely on the interface of air and water. The angle of incidence is 60°. What is the angle of refraction? The refractive indices of air and water are respectively, 1.34 and 2.4, respectively.",
+      "options": [
+        "18.92°",
+        "48.92°",
+        "28.92°",
+        "38.92°"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "6. ট্রানজিস্টর এর ক্ষেত্রে কোনটি সঠিক.?",
+      "options": [
+        "IE=IB+IC",
+        "IB=IC+IE",
+        "IC=IB+IE",
+        "IC=-IC+IB"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "7. An ammeter with 1Ω  internal resistance can measure 10 A. What would be the value of the shunt in order to measure 100 A using this ammeter?",
+      "options": [
+        "112x10-4Ω",
+        "0.0152x10-4Ω",
+        "111.11x10-3Ω",
+        "0.021x10-4Ω"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "8. At what distance, an object must be placed in front of a concave mirror with a focal length of 12 cm so that the image would be 3 times the object?",
+      "options": [
+        "12.5 cm",
+        "16.75 cm",
+        "16  cm",
+        "18 cm"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "9. Two 10 C charge is placed on the surface of a sphere with a radius 10 cm. Find the potential at the surface.",
+      "options": [
+        "1.8X1012 V",
+        "2.8X1012 V",
+        "1.3X1012 V",
+        "3.8X1012 V"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "10. There capacitors 3µF, 3µF and 1 µF are connected in series and supplied with a 12 V source. What is the total charge stored?",
+      "options": [
+        "11.5µC",
+        "7.2µC",
+        "5.5µC",
+        "12µC"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "11. A glass flask of volume 200 cm3 is just filled with mercury at 2O°C. How much mercury will overflow when the temperature of the system is raised to 100°C? The coefficient of volume expansion of glass and mercury are 1.2 X 10-5(0C-1) and 18x10-5(°C-1), respectively.",
+      "options": [
+        "1.82 cm+3",
+        "2.688 cm+3",
+        "2.32 cm+3",
+        "3.688 cm+3"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "12. Assume that an ideal transformer produces 9 V in the secondary if 180 V is applied to the primary. If a 20-ohm resistance is connected across the secondary, what will be the primary current?",
+      "options": [
+        "0.0225A",
+        "0.225A",
+        "0.035A",
+        "0.054A"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "13. When 5-liter water is heated by a 2100 W immersion of electric heater for 7 minutes the temperature of the water is raised from 30° C to 40°C. What is the mechanical equivalent of heat?",
+      "options": [
+        "1 Jcal-1",
+        "3.2 Jcal-1",
+        "6.21 Jcal-1",
+        "4.2 Jcal-1"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "14. The refractive index of an equilateral prism is 1.414. What is its minimum angle of deviation?",
+      "options": [
+        "30°",
+        "26°",
+        "33°",
+        "45°"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "15. The RMS value of an AC voltage is 220V and frequency is 50 Hz. What is the equation (sine form) of the voltage?",
+      "options": [
+        "220.0 Sin(314t)",
+        "210.0 Sin(314t)",
+        "311.2 Sin(314t)",
+        "390.0 Sin(314t)"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "16. Steel wire has a length of 2m and a cross-sectional area of 1mm2. When 20 N force is applied to the wire its length is increased by 2 x 10-4m. What is Young's modulus for steel?",
+      "options": [
+        "2.5 x 1011 N-m-2",
+        "2.25x 1011 N-m-2",
+        "3.5x 1011 N-m-2",
+        "2x 1011 N-m-2"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "17. নিচের কোনটি সঠিক.?",
+      "options": [
+        "অর্ধায়ু গড়ায়ুর সমান",
+        "গড় আয়ু অর্ধায়ু এর চেয়ে বেশি",
+        "গড় আয়ু অর্ধায়ূর চেয়ে ছোট",
+        "গড় আয়ু অর্ধায়ু ব্যাস্তানুপাতিক"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "18. How much phase difference is created when an electromagnetic wave of frequency 1000 MHz travels a distance of 10 cm?",
+      "options": [
+        "125°",
+        "225°",
+        "120°",
+        "220°"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "19. হাইড্রোজেন পরমাণুর ভূমি অবস্থায় শক্তি - 13 .6 eV। ঋণাত্মক দিয়ে কী বুঝায়?",
+      "options": [
+        "হাইড্রোজেন পরমাণু স্বাধীনভাবে চলতে পারে",
+        "বল প্রয়োগ উত্তেজিত শক্তিস্তরে আছে",
+        "ইলেক্ট্রন উত্তেজিত শক্তিস্তরে আছে",
+        "ইলেক্ট্রন নিউক্লিয়াসের সাথে বন্ধনে আছে"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "20. Two steel wires of length 1.0 mm and 2.0 mm,respectively.If they are stretched by forces of 40 N and 8 N respectively, what is the ratio of their elongation?",
+      "options": [
+        "3:7",
+        "5:2",
+        "10:1",
+        "2:5"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "21. One gram of water becomes 1671 cm3 of steam when boiled at a pressure of 1 atm.The heat of veporization at this pressure is 2256Jg-1.What is the external work?",
+      "options": [
+        "169J",
+        "128J",
+        "445J",
+        "137J"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "22. In a Carnot engine the temperature of the source and sink are respectively 500K and 375K.If the engine consumes 252×104 J per cycle.What is the work done per cycle?",
+      "options": [
+        "63×104 J",
+        "79×$10^4$ J",
+        "89×104 J",
+        "53×104 J"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "23. A proton gains its mass twice of its rest mass while moving in an energy field.What is the velocity of the proton?The rest mass of the proton is 1.67*10-27 kg.",
+      "options": [
+        "$2.567×10^8$ m/s",
+        "$2.018×10^8$ m/s",
+        "$2.79×10^8$ m/s",
+        "$2.99×10^8$ m/s"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "24. The pilot of a private plane flies 20.0 km in a direction 60 ° north of east, then 30.0 km straight east, then 10.0 km straight north. How far the plane is from the starting point?",
+      "options": [
+        "58.44 km",
+        "38.44 km",
+        "48.44 km",
+        "46.44 km"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "25. An electron with velocity 4.8*107 m/s enters in a magnetic field with flux density of 0.32 T.What is the radius of the path of the electron?",
+      "options": [
+        "9.5*10-4 m",
+        "7.5*10-4 m",
+        "10.5*10-4 m",
+        "8.5*10-4 m"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "26. A coil of 300 turns has self-inductance of 10 mH.If the current flowing through the coil is 3 A,what will be magnetic flux?",
+      "options": [
+        "10-4wb",
+        "10-3wb",
+        "120-7 wb",
+        "10-5 wb"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "27. An overhead electrical conductor is carrying a current of 500 A. What is the magnitude of the magnetic field 1.5 m below the conductor?",
+      "options": [
+        "66.7µT",
+        "78.7µT",
+        "56.7µT",
+        "60.7µT"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "28. নিম্নে কোন তরঙ্গটি তড়িৎ অথবা চুম্বকীয় ক্ষেত্র দ্বারা গঠিত নয় ?",
+      "options": [
+        "আলোক তরঙ্গ",
+        "বেতার তরঙ্গ",
+        "শব্দ তরঙ্গ",
+        "এক্সরে তরঙ্গ"
+      ],
+      "tag": "CUET 09-10,IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "29. A student can read a book when placed 8 cm in front his eyes.If he wants to read the book at distance equal to the least distance of distinct vision what would be the power of the lens?",
+      "options": [
+        "-5.5D",
+        "-9.5D",
+        "-8.5D",
+        "-7.5D"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "30. Against which axis does the vector   $2 \\hat{i} - \\hat{j} + 2 \\hat{k}$   produce an angle of $\\cos^{- 1}{\\left ( - \\frac{1}{3} \\right )} ?$",
+      "options": [
+        "x-axis",
+        "y-axis",
+        "z-axis",
+        "None of them"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "1. A man carries, on his shoulder, a load at the end of a stick. The distance of the load and his hand from his shoulder is 1 meter and 0.25 meter, respectively. If the thrust on his shoulder is R, then what is the weight of the load?",
+      "options": [
+        "5R",
+        "R/5",
+        "4R",
+        "R/4"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "2. Two cars start their journey from the same point at a velocity of 1 km/hour and 2 km/hour, respectively.If the angle between their travel paths is 60° then what is their distance after 2 hours?",
+      "options": [
+        "$\\sqrt{10} k m$",
+        "$2 \\sqrt{2} k m$",
+        "$2 \\sqrt{3} k m$",
+        "4km"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "3. From a deck of cards if you pick four cards, what is the probability of getting four Aces?",
+      "options": [
+        "$\\frac{24}{50 \\times 51 \\times 52 \\times 53}$",
+        "$\\frac{24}{52 \\times 51 \\times 50 \\times 49}$",
+        "$\\frac{24}{52 \\times 52 \\times 52 \\times 52}$",
+        "$\\frac{265}{52 \\times 52 \\times 52 \\times 52}$"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "4. Which quadratic equation has a root   $- 1 - \\sqrt{- 5}$",
+      "options": [
+        "x²+2x+26=0",
+        "x²-2x+24=0",
+        "x²+2x-26=0",
+        "x²-2x-24=0"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "5.\n\nGiven, $A=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 3\\end{array}\\right]$ and $A B=\\left[\\begin{array}{lll}-1 & 2 & 1 \\\\ -2 & 4 & 2 \\\\ -3 & 6 & 3\\end{array}\\right]$ which one of the following is matrix $B$ ?",
+      "options": [
+        "$\\left [ \\begin{matrix} - 1 \\\\ 2 \\\\ 1 \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} - 1 & 2 & 1 \\\\ - 2 & 4 & 3 \\\\ - 3 & 6 & 3 \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} - 1 & - 1 & - 1 \\\\ 2 & 2 & 2 \\\\ 1 & 1 & 1 \\end{matrix} \\right ]$",
+        "[-1 2 1]"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "6. Let n be a positive integer.  Then the value of   $\\sum_{k = 0}^{n} \\left ( - 1 \\right )^{k} \\left ( \\frac{n}{k} \\right )$    is --",
+      "options": [
+        "- 1",
+        "0",
+        "1",
+        "None of them"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "7. The value of- $2 \\cos{\\left ( \\frac{π}{13} \\right )} \\cos{\\left ( \\frac{9 π}{13} \\right )} + \\cos{\\left ( \\frac{3 π}{13} \\right )} + \\cos{\\left ( \\frac{5 π}{13} \\right )}$ is-",
+      "options": [
+        "1",
+        "-1",
+        "½",
+        "0"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "8. Solve : $\\sin{x} + \\cos{x} = \\sqrt{2}$ ; -π<x<π",
+      "options": [
+        "$\\frac{π}{2}$",
+        "$\\frac{π}{4}$",
+        "$- \\frac{π}{2}$",
+        "$- \\frac{π}{4}$"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "9. For any triangle ABC, if $c^{4}-2\\left(a^{2}+b^{2}\\right) c^{2}+a^{4}+a^{2} b^{2}+b^{4}=0$ then how many solutions are there for C?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "10. If the lines 4x+3y−1=0 ; x−y+5=0 and kx+5y−3=0 are concurrent then k =",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "11. If point (a, 5) has equal distances from both the y-axis and a point (7, 2), then the of value of a is?",
+      "options": [
+        "49",
+        "29",
+        "$\\frac{49}{29}$",
+        "$\\frac{29}{7}$"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "12. For which value of k the line 3x+4y=k will touch the circle x² + y² = 10x?",
+      "options": [
+        "40",
+        "-10",
+        "Both a & b",
+        "None of them"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "13. The standard equation of the Hyperbola is-",
+      "options": [
+        "$\\frac{x^{2}}{a^{2}} + \\frac{y^{2}}{b^{2}} = 1$",
+        "$\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1$",
+        "y²=4ax",
+        "x²=4ay"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "14. Evaluate   $\\lim_{x \\rightarrow 0} \\frac{a^{x} - 1}{x}$",
+      "options": [
+        "0",
+        "$e^{a}$",
+        "a",
+        "ln(a)"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "15. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "16. If $y = \\cot^{- 1}{\\left ( \\frac{x^{2}}{e^{x}} \\right )} + \\cot^{- 1}{\\left ( \\frac{e^{x}}{x^{2}} \\right )}$  then   $\\frac{dy}{dx} = ?$",
+      "options": [
+        "1",
+        "0",
+        "e",
+        "-1"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "17. If the slope of a curve at a point (x, y) is x2-2 and that curve passes through a point (3, 8), then the equation for that curve is-",
+      "options": [
+        "y=⅓x³-2x+5",
+        "y=x³-2x",
+        "y=x³-2x+5",
+        "y=⅓x³-2x"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "18. Each side of a square box increases at the rate of 0.5 cm/sec. If the length of each side is 100cm then the rate of increase of its area is-",
+      "options": [
+        "100cm/sec",
+        "50cm/sec",
+        "20cm2/sec",
+        "100cm2/sec"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "19. If the area enclosed by the curves\ny = sinx + cosx and y = |cosx - sinx| over the interval [0, π/2] is :",
+      "options": [
+        "4 ($\\sqrt{2}$-1)",
+        "$2 \\sqrt{2}(\\sqrt{2}-1)$",
+        "2 ( $\\sqrt{2}$ + 1)",
+        "$2 \\sqrt{2}(\\sqrt{2}+1)$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "20. A car and a truck start from rest at the same instant, with the car initially at some distance behind the truck. The truck has a constant acceleration of 2 ms-2 and the car has an acceleration of 3ms-2. The car overtakes the truck after the truck has moved 75 m. How far was the car behind the truck?",
+      "options": [
+        "37.9m",
+        "33.8m",
+        "48.5m",
+        "37.5m"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "21. A marksman fires a  0.22 caliber rifle horizontally at a target. The bullet has a muzzle velocity of 300ms-1. How much does the bullet drop in flight if the target is 150 m away?",
+      "options": [
+        "13.85m",
+        "1.050m",
+        "1.225m",
+        "1.630m"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "22.   $\\frac{1}{3} i$  এর বর্গমূল কোনটি?",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right )$"
+      ],
+      "tag": "AGRI GST 20-21, CB 19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "23. 200 students have taken both math and physics exams. Among them, 40 students fail in math and 20 students fail in physics exam. In both exams, 10 students have failed. If you randomly pick a student, what is the probability that he has failed in math exam and has passed in physics exam?",
+      "options": [
+        "3/20",
+        "4/20",
+        "2/20",
+        "1/20"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "24. If f(x)=2x⁴-4 and $g{=} \\sqrt{\\frac{x - 2}{\\sqrt{2}}}$  then what is the value of fog(5)?",
+      "options": [
+        "$\\sqrt[²]{2}$",
+        "5",
+        "2",
+        "$\\sqrt[²]{5}$"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "25. How many ways can you arrange the letters ABCDEFGH so that the word will contain the string ABC ?",
+      "options": [
+        "40320",
+        "720",
+        "120",
+        "None of them"
+      ],
+      "tag": "IUT 13-14,IUT 11-12"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "26.   1+1/(2!)+1/(4!)+1/(6!)+........ .to infinity=?",
+      "options": [
+        "$e + \\frac{1}{2 e}$",
+        "$\\frac{e^{2} + 1}{2 e}$",
+        "$e - \\frac{1}{e}$",
+        "$2 \\left ( \\frac{e^{2} + 1}{e} \\right )$"
+      ],
+      "tag": "KUET 08-09,IUT 11-12,IUT 10-11,অসীম স্যার"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "27. A person on the street wants to throw an 8 kg book up to a person Iearning out of a window 5m above street level. At what velocity the person should throw the book so that it reaches the person in the window?",
+      "options": [
+        "8 m/s",
+        "10 m/s",
+        "40 m/s",
+        "5 m/s"
+      ],
+      "tag": "IUT 18-19,IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "1. A child should not be______as being either very shy or over aggressive.",
+      "options": [
+        "distracted",
+        "categorized",
+        "instructed",
+        "intoned"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "2. Despite assorted effusion to the contrary, there is no necessary link between scientific skill and humanism,and quite possibly, there may be something of a_______ between them",
+      "options": [
+        "dichotomy",
+        "congruity",
+        "reciprocity",
+        "generosity"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "3. Ecology, like economics, concerns itself with the movement of valuable ________ through a complex network of producers and consumers.",
+      "options": [
+        "nutrients",
+        "dividends",
+        "communications",
+        "artifacts"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "4. It would be difficult for one so_______ to be led to believe that all men are equal and that we must disregard race, color and creed.",
+      "options": [
+        "tolerant",
+        "intolerant",
+        "democratic",
+        "broadminded"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "5. If the books ____ last week, why haven't they been placed on the shelf?",
+      "options": [
+        "have been cataloged",
+        "would have been cataloged",
+        "was cataloged",
+        "were cataloged"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "6. The helium-filled balloon______.",
+      "options": [
+        "rose in the air.",
+        "was rising in the air.",
+        "was in the air",
+        "rose into the air."
+      ],
+      "tag": "IUT 15-16,IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "7. ANGLE: DEGREE",
+      "options": [
+        "area: square inch",
+        "milk: quart",
+        "society : classes",
+        "letter: alphabet"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "8. CONFIRMED: INVETERATE::?",
+      "options": [
+        "knowledge: supposed",
+        "financial: bankrupt",
+        "immature: callow",
+        "credible: incredible"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "9. SAW: CARPENTER",
+      "options": [
+        "Scissors: tailor",
+        "Wagon: farmer",
+        "Brush: painter",
+        "Typewriter: author"
+      ],
+      "tag": "IUT 11-12,Bangladesh Bank (AD)-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "10. LURK: WAIT",
+      "options": [
+        "boost: elevate",
+        "deplete: drain",
+        "abscond: depart",
+        "bilk: cheat"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "11. NEEDLE: KNIT",
+      "options": [
+        "bait: fish",
+        "match: fire",
+        "loom: weave",
+        "soap: wash"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "12. The Curies_______ collaboration helped to unlock the secrets of the atom.",
+      "options": [
+        "friendly",
+        "competitive",
+        "courteous",
+        "industrious"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "13. Marie had a bright mind and a________ personality.",
+      "options": [
+        "strong",
+        "lighthearted",
+        "humorous",
+        "strange"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "14. Marie______ by leaving Poland and traveling to France to enter the Sorbonne",
+      "options": [
+        "challenged authority",
+        "showed intelligence",
+        "behaved",
+        "was distressed"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "15. ____ she remembered their joy together.",
+      "options": [
+        "Dejectedly",
+        "Worried",
+        "Tearfully",
+        "Happily"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "16. Even though she became fatally ill from  working with radium, Marie Curie was never______.",
+      "options": [
+        "troubled",
+        "worried",
+        "disappointed",
+        "sorrowful"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "17. The word TOUT means —?",
+      "options": [
+        "praise or promote enthusiastically",
+        "deny the relevance of",
+        "withhold consent",
+        "misrepresent"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "18. QUOTA:",
+      "options": [
+        "Anonymous remark",
+        "decisive action",
+        "debatable issue",
+        "limited number"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "19. Choose the antonym of TURBULENCE.",
+      "options": [
+        "immunity",
+        "tranquility",
+        "meditation",
+        "coordination"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "English(20)",
+      "question": "20. The word most nearly opposite in meaning to OPPORTUNIST is—",
+      "options": [
+        "Man of principle",
+        "fatalist",
+        "fledgling",
+        "colleague"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "1. MSDS কী?",
+      "options": [
+        "Material safety Data Scale",
+        "Material Safety Data Sheet",
+        "Material Safety Data Schedule",
+        "Material Service Data sheet"
+      ],
+      "tag": "DIN.B 17,IUT 11-12,কবীর স্যার,হাজারী ও নাগ স্যার"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "2. A flask of volume 0.3 m3 contains a gas 'X' at a pressure of 60KPa.Another flask of volume 0.6m3 contains a gas 'Y' at a pressure of 94KPa.Flasks are connected by a stop cock. If the temperature remains constant and the stop cock is opened, the percentage volume of gas 'X' in the mixture is-",
+      "options": [
+        "26.31%",
+        "73.69%",
+        "796.9%",
+        "None"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "3. একটি প্রথম ক্রম বিক্রিয়ার 15% সম্পন্ন হতে 20 মিনিট লাগলে 60%সম্পন্ন হতে কত সময় প্রয়োজন?",
+      "options": [
+        "80 মিনিট",
+        "60 মিনিট",
+        "112 মিনিট",
+        "120 মিনিট"
+      ],
+      "tag": "NSTU B 18-19"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "4. The electronic configuration of an element is given as:1s2 2s2 2p6 3s2 3p6 3d5 4s1.The position of the element in the periodic table is-",
+      "options": [
+        "IA;4th",
+        "IB;4th",
+        "VIB;4th",
+        "VIB;3rd"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "5. 38.50 gm of dry salt is produced after evaporation of 1 liter of sea water. If the specific gravity of seawater is 1.03, then the percentage of dry substance in the sea water will be-",
+      "options": [
+        "3.53%",
+        "4.10%",
+        "3.74%",
+        "3.85%"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "6. The relation between Kp and Kc the reaction N2(g)+3H2(g)=2NH3 is-",
+      "options": [
+        "Kp=Kc(RT)-1",
+        "Kp=Kc(RT)-2",
+        "Kp=Kc(RT)",
+        "Kp=Kc(RT)2"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "7. If pH of a solution decreases to 2 from 5, how many times will the concentration of $H^+$ increase or decrease?",
+      "options": [
+        "decrease 1000 times",
+        "increase 100 times",
+        "decrease 100 times",
+        "increase 1000 times"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "8. How much current is required to relese 10gm of iodine from a KI solution in 1 hour?",
+      "options": [
+        "3A",
+        "4.22A",
+        "2.11A",
+        "1.22A"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "9. A half cell has following data:E° for Zn =0.758:Zn/ZnCl2=(0.09M).The emf of the half cell at 55°C is-",
+      "options": [
+        "1.0792V",
+        "0.792V",
+        "17.92V",
+        "20V"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "10. The half life of a first order reaction is 28 sec. In how many seconds will the concentration of the reactant be reduced to one eight of the initial value?",
+      "options": [
+        "28sec",
+        "56sec",
+        "84sec",
+        "223sec"
+      ],
+      "tag": "IUT 18-19,IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "11. What is the hybridization state of Xe in XeF2?",
+      "options": [
+        "sp3d",
+        "sp3",
+        "d2sp3",
+        "fsp2"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "12. What is the mostly used reagent in the analysis of inorganic salt?",
+      "options": [
+        "CuS",
+        "BaSO4",
+        "H2S",
+        "AgNO3"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "13. The reaction :3Cl-(aq)=2Cl-(aq)+ClO-13(aq) is knows as-",
+      "options": [
+        "Dissociation",
+        "Disproportion",
+        "Displacement",
+        "Oxidiation-Reduction"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "14. Which one of the following produces urea after reacting with ammomia",
+      "options": [
+        "CO2",
+        "H2O",
+        "CH4",
+        "C6H6"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "15. Following of which is produced after reacting CH3l with metallic sodium?",
+      "options": [
+        "C3H8",
+        "C2H6",
+        "C2H4",
+        "C3H6"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "16. Which of the following regent will not respond to iodoform test?",
+      "options": [
+        "CH3CHO",
+        "CH3COCH3",
+        "CH3OH",
+        "CH3CH2CHO"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "17. Which is the following product is formed when ethanol is oxidized by a strong oxidizing agent?",
+      "options": [
+        "CH3CHO",
+        "CH3COOH",
+        "CH3CH2OOCCH3",
+        "CH3CH3"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "18. Which of the following compound forms red precipitate when treated with Fehling's solution?",
+      "options": [
+        "RCH2X",
+        "RCH2CHO",
+        "CH3CH2OH",
+        "RCOOH"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "19. Which functional group is meta directing?",
+      "options": [
+        "-NH2",
+        "-Cl",
+        "-OH",
+        "-NO2"
+      ],
+      "tag": "IUT 11-12"
+    },
+    {
+      "subject": "রসায়ন(20)",
+      "question": "20. Natural rubber is a polymer, its monomer is?",
+      "options": [
+        "Ethylene",
+        "Propylene",
+        "Isoprene",
+        "Styrene"
+      ],
+      "tag": "IUT 11-12"
+    }
+  ]
+}

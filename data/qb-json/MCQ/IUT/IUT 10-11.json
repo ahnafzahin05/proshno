@@ -1,0 +1,979 @@
+{
+  "title": "IUT 10-11",
+  "questions": [
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "1. A lift is going down with an acceleration of 4.8 m/s². A ball is released 2 m height from the floor of the lift. How much time it will take to hit the floor by the ball?",
+      "options": [
+        "2 sec",
+        "0.894 sec",
+        "1.5 sec",
+        "0.965 sec"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "2. (x+α )(x-β)+(x-β)(x+ɤ)+(x+ɤ)(x+α )=0 সমীকরণের মূলগুলির যোগফল শূন্য হবে, যদি",
+      "options": [
+        "$\\beta=\\alpha-\\gamma$",
+        "$\\beta=2\\alpha-\\gamma$",
+        "$\\beta=\\alpha+\\gamma$",
+        "$2\\beta=3\\alpha+4\\gamma$"
+      ],
+      "tag": "RUET 09-10,IUT 10-11,কেতাব স্যার"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "3. The value of the determinant $\\displaystyle \\left | \\begin{matrix} 1 &\\omega ^{3} &\\omega ^{5} \\\\ \\omega ^{3}&1 &\\omega ^{4} \\\\ \\omega ^{5}&\\omega ^{4} &1 \\end{matrix} \\right |$ , where $\\omega$ is an imaginary cube root of unity, is-",
+      "options": [
+        "$\\displaystyle (1-\\omega )^{2}$",
+        "3",
+        "-3",
+        "none of these"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "4. যদি$\\cos A=\\frac{4}{5}$হয়, তবে$\\frac{1+\\tan^2A}{1-\\tan^2A}$এর মান-",
+      "options": [
+        "$\\frac{-25}{7}$",
+        "$\\frac{7}{5}$",
+        "$\\frac{25}{7}$",
+        "$\\frac{-7}{5}$"
+      ],
+      "tag": "JUST 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "5. How many solutions are there for sec4θ - sec2θ = 2; [0°<θ<180°]",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "9"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "6. Evaluate :   $\\tan^{- 1}{\\left ( \\frac{m}{n} \\right )} - \\tan^{- 1}{\\left ( \\frac{m - n}{m + n}) \\right.}$   .",
+      "options": [
+        "$\\frac{π}{3}$",
+        "$\\frac{π}{2}$",
+        "$\\frac{π}{9}$",
+        "$\\frac{π}{4}$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "7. If a moving point P ≡ (a sinθ,b cosθ), then the locus of P will be a -",
+      "options": [
+        "Parabola",
+        "Circle",
+        "Ellipse",
+        "Straight line"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "8. If the points (2, 2-2x),  (1, 2) and (2, b - 2x) are collinear, the value of b is -",
+      "options": [
+        "- 1",
+        "1",
+        "2",
+        "- 2"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "9. If the equation of a given circle is x2 + y2 = 36 , then the length of the chord which lies along the line 3x + 4y - 15 = 0 is-",
+      "options": [
+        "$3 \\sqrt{6}$",
+        "$2 \\sqrt{3}$",
+        "$6 \\sqrt{3}$",
+        "None"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "10. What is the distance between the lines 4x + 3y + 16 = 0 and 4x + 3y + 26 = 0 ?",
+      "options": [
+        "10",
+        "2",
+        "5",
+        "4"
+      ],
+      "tag": "IUT 13-14,IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "11. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "12. if $f(x) = e^x, g(x) = sin^{-1}x, h(x) = f(g(x)), then \\frac{h^{\\prime}}{h(x)} = ?$",
+      "options": [
+        "$e^{\\sin^{- 1}{x}}$",
+        "$\\frac{1}{\\sqrt{1 - x^{2}}}$",
+        "sin-1x",
+        "$\\frac{1}{1 - x^{2}}$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "13.\n\nIf $\\tan y = \\frac{2t}{1 - t^{2}} , \\sin x = \\frac{2t}{1 + t^{2}}$ then $\\frac{dy}{dx} = ?$",
+      "options": [
+        "$\\frac{1}{\\sqrt{2}}$",
+        "1",
+        "∞",
+        "0"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "14. The radius of a circular plate increases at the rate of 0.25 cm/sec when heat is applied . If the radius of the plate is 7 cm., the area increase rate is -",
+      "options": [
+        "$10\\ cm^2\\sec^{-1}$",
+        "$11\\ cm^2\\sec^{-1}$",
+        "$0.5\\ cm^{2\\ }\\sec^{-1}$",
+        "$12\\ cm^{2\\ }\\sec^{-1}$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "15. If $y=\\dfrac{1}{2}(\\sin^{-1}x)^{2}$, then find $(1-x^{2})y_{2}-xy_{1}$. ;\n\nWhere $y_{1}$ and $y_{2}$ denote first and second derivatives of $y$ respectively.",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$1$",
+        "$2$"
+      ],
+      "tag": "RU C 16-17 (G-ODD),হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "16.  $\\int_{0}^{\\frac{\\pi}{2}}\\cos^{3}x\\sqrt{\\sin x}dx$",
+      "options": [
+        "$\\frac{5}{21}$",
+        "$- \\frac{8}{21}$",
+        "$\\frac{9}{21}$",
+        "$\\frac{8}{21}$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "17. The area of the region enclosed by the curves y2 = x and y = x2 is -",
+      "options": [
+        "$\\frac{1}{12} s q . u n i t$",
+        "$\\frac{1}{3} s q . u n i t$",
+        "$\\frac{1}{2} s q . u n i t$",
+        "$\\frac{1}{6} s q . u n i t$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "18. The resultant of two forces 3P and 2P  is R. If the first force is doubled,  then the resultant is also doubled. The angle between the force is -",
+      "options": [
+        "60°",
+        "30°",
+        "180°",
+        "120°"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "19. The extremities of an 8m long straight bamboo pole rest on two smooth pegs P and Q in the same horizontal line. A heavy load hangs from a point R of the pole. If PR = 3RQ and the pressure at Q be 325 gm-wt more than that of P,  the weight of the load is -",
+      "options": [
+        "500 gm-wt",
+        "600 gm-wt",
+        "650 gm-wt",
+        "700 gm-wt"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "20. A car is moving at a velocity of 8 km/hour.  A body is thrown outside the car at a velocity of 16 km/hour. If the body moves perpendicular to the car,  what is the angle at which the body was thrown ?",
+      "options": [
+        "63°",
+        "90°",
+        "120°",
+        "145°"
+      ],
+      "tag": "IUT 10-11,Agr. GST 23-24"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "21. The value of   $\\sqrt[4]{- 81}$   is -",
+      "options": [
+        "$\\pm \\frac{3}{\\sqrt{2}} \\left ( 1 \\pm i \\right )$",
+        "$\\pm \\frac{3}{\\sqrt{2}} \\left ( 1 \\pm 2 i \\right )$",
+        "$\\pm \\frac{3}{\\sqrt{2}} \\left ( 2 \\pm i \\right )$",
+        "$\\pm \\frac{3}{\\sqrt{2}} \\left ( 1 \\pm 4i \\right )$"
+      ],
+      "tag": "SCC 25,ACC 23,BUET 8-9,IUT 10-11,কেতাব স্যার,BAU 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "22. All 120 students in a class play either cricket or football or both the games. Out of 120 students,  75 students play cricket only and 60 students play football only. How many students play both games ?",
+      "options": [
+        "13",
+        "15",
+        "25",
+        "23"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "23. A committee of 4 members is to be formed from 5 engineering and 3 arts students. In how many ways can this be done so that the committee contains at least one engineering and at least one arts students.",
+      "options": [
+        "60",
+        "65",
+        "70",
+        "75"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "24. If two consecutive coefficient in the expansion of (1+x)24 are in the ratio of 4:1,  the terms are.",
+      "options": [
+        "5, 6",
+        "4, 5",
+        "20, 21",
+        "a & c"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "25.   1+1/(2!)+1/(4!)+1/(6!)+........ .to infinity=?",
+      "options": [
+        "$e + \\frac{1}{2 e}$",
+        "$\\frac{e^{2} + 1}{2 e}$",
+        "$e - \\frac{1}{e}$",
+        "$2 \\left ( \\frac{e^{2} + 1}{e} \\right )$"
+      ],
+      "tag": "KUET 08-09,IUT 11-12,IUT 10-11,অসীম স্যার"
+    },
+    {
+      "subject": "উচ্চতর গণিত(26)",
+      "question": "26. Which of the following is even function -",
+      "options": [
+        "$f{\\left ( x \\right )} = \\frac{a^{x} + 1}{a^{x} - 1}$",
+        "$f{\\left ( x \\right )} = x \\frac{a^{x} - 1}{a^{x} + 1}$",
+        "$f{\\left ( x \\right )} = \\frac{a^{x} - a^{- x}}{a^{x} + a^{- x}}$",
+        "f(x) = sin x"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "1. If the kinetic energy of a body is increased by 300%, its momentum is increased by.",
+      "options": [
+        "100%",
+        "150%",
+        "300%",
+        "400%"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "2. A ball of iron of weight 0.05 kg is revolving by fastening it at the end of a thread of length of 2 m. The moment of inertia.",
+      "options": [
+        "2 kg-m²",
+        "0.2 kgm²",
+        "0.4 kgm²",
+        "1.4 kg-m²"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "3. A second-pendulum reads correct time on the earth surface. What will be the time period of it if it is placed on the moon's surface? The radius and mass of the earth is 4 times and 81 times that of the moon respectively.",
+      "options": [
+        "5.4 sec",
+        "4.5 sec",
+        "2.5 sec",
+        "3.5 sec"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "4. A weight of 15 kg is hung with a wire of cross-sectional area 2 mm². The length of the wire is 4 m at the time of hanging the weight. Taking Young's modulus of the wire as 1.3 x 10¹⁰ N/m², find the reduction of length of the wire when the weight is withdrawn.",
+      "options": [
+        "0 m",
+        "Increase in length by 5cm",
+        "0.025 m",
+        "0.0225 m"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "5. দুটি স্থানে অভিকর্ষজ ত্বরণের মান যথাক্রমে 9.8 m/s² ও 9.78 m/s² হলে, ঐ দুই স্থানে সেকেন্ড দোলকের দৈর্ঘ্যের পার্থক্য কত হবে?",
+      "options": [
+        "0.005 m",
+        "0.003 m",
+        "0.002 m",
+        "0.004 m"
+      ],
+      "tag": "RUET 14-15,IUT 10-11,তপন স্যার"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "6. A metal rod of length 20 cm and diameter 1 cm is covered with non-conducting substance. One of its end is maintained at 100°C,  while the other end is put in ice at 0°C. It is found that 25 gm of ice melts in 5 minutes . Calculate the co-efficient of thermal conductivity of the metal in cm-1°C-1S-1. [ specific latent heat of ice : 80 cal/g/°C]",
+      "options": [
+        "1.697",
+        "0.564",
+        "2.634",
+        "1.765"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "7. It takes 5 minutes to decrease the temperature of a material from 80°C to 64°C and it takes 10 minutes to decrease from 80°C to 52°C. What is the ambient temperature ?",
+      "options": [
+        "10°C",
+        "14°C",
+        "16°C",
+        "12°C"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "8. The resistances of the first and the second arms of a Wheatstone bridge are 10 ohm and 12 ohm respectively. The third arm contains an unknown resistance. When two parallel resistances each of 20 ohm are connected to the fourth arm of the bridge,  it attains  null condition. Find out the value of unknown resistance.",
+      "options": [
+        "3.33 ohm",
+        "5.33 ohm",
+        "8.33 ohm",
+        "10.33 ohm"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "9. A carnot engine takes heat at 227°C and releases at 77°C. The efficiency of the engine is -",
+      "options": [
+        "70%",
+        "35%",
+        "30%",
+        "66%"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "10. A progressive wave is described by the following equation : y= 10 sin(140πt - 0.08πx) . Where units of x and y are cm and units of t is in second. Find the frequency in Hz.",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "11. If the speed of sound in air at normal pressure and temperature is 330 m/s, what is the speed of sound in hydrogen?\n (Mass of one liter of hydrogen = 0.896×10 -3 kg)",
+      "options": [],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "12. The electric potential at the surface of an atomic nucleus (z = 50) of radius 9.0×10-13 cm is -",
+      "options": [
+        "9 V",
+        "60 V",
+        "9×105 V",
+        "8×106 V"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "13. A current of $4.8A$ flows through an automobile headlight. How many coulombs of charge flow through in two hours ?",
+      "options": [
+        "$7 \\times 10^{-4}C$",
+        "$3.45 \\times 10^{4}C$",
+        "$1.7 \\times 10^{-4}C$",
+        "$0.35 \\times 10^{-4}C$"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "14. A heater is connected with a line of 120 volt and the power absorbed is 1000 watt.How much resistance should be added to reduce the 10% of power ?",
+      "options": [
+        "2 ohm",
+        "0.5 ohm",
+        "1.0 ohm",
+        "1.6 ohm"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "15. In a house an electric meter is rated as 10 A- 220 V. How many 60 watt lamp can be connected in the house maintaining proper safety ?",
+      "options": [
+        "36",
+        "37",
+        "38",
+        "40"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "16. The dip circle is placed in such a way that the pick remains vertical. The dip circle is moved 30° vertically and the apparent angle of the dip becomes 45°. Find the actual value of the dip.",
+      "options": [
+        "10.323°",
+        "27.92°",
+        "26.565°",
+        "28.656°"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "17. A transformer has primary to secondary turn ratio 20:1. A 20 ohm load is connected across the Secondary. If the applied voltage across the primary is 220 V, then the current through the Primary is -",
+      "options": [
+        "0.55 mA",
+        "2.75 mA",
+        "27.5 mA",
+        "5.5 mA"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "18. The angle of minimum deviation of a prism is 30°. If the reflective angle of the prism of 60°,  what is refractive index ?",
+      "options": [
+        "1.414",
+        "2.414",
+        "2.141",
+        "1.214"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "19. A slit is illuminated by a light of wavelength of 650 nm. The first minimum is Obtained at θ = 30°. The width of the slit is -",
+      "options": [
+        "320 nm",
+        "1.3 micron",
+        "6.5×10-4 mm",
+        "2.6×10-4 cm"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "20. What is the temperature in Celsius scale at which the root mean square velocity of Cl2 is equal to that SO2 gas at NTP?[C-2.1, IUT:10-11]",
+      "options": [
+        "39.86°",
+        "29.86°",
+        "40.86°",
+        "50.86°"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "21. The maximum value of the resultant of two vectors is 7 units and minimum value of those is 1 unit. When two vectors are acting on a point at right angle, the resultant will be-",
+      "options": [
+        "2 units",
+        "3 units",
+        "4 units",
+        "5 units"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "22. A truck of mass 1000 kg moving at 20ms -1 hits a stationary truck of mass 1500 kg with a combined velocity of -",
+      "options": [
+        "12.5 ms-1",
+        "10 ms-1",
+        "8 ms-1",
+        "7.5 ms-1"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "23. If the length of the minute arm of a wrist watch is 2 cm, what will be linear speed at the mid-point of the arm?",
+      "options": [
+        "1.745 x 10-5 m/s",
+        "1.745 x 5 x 10-3 m/s",
+        "1.775 x 10-4 m/s",
+        "1.74 x 10-1 m/s"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "24. The radius of curvature of a rail-line is 450 m and the distance between two rails is 1 m. How much should be the height of outside rail compared to inner rail for necessary raking of a running a train at the speed of 7.5 km/hr.",
+      "options": [
+        "0.1 m",
+        "0.012 m",
+        "3 m",
+        "1 mm"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "25. There are some clouds in the sky 1.5 km from the earth surface. The cloud is converted to rain and deposited as water on the surface on earth of area 1×106 m2 with a depth of 1 cm. Calculate the amount of work required to convert the rain from the cloud.",
+      "options": [
+        "15.7×105 J",
+        "14.7×1019 J",
+        "14.7×1010 J",
+        "50 J"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "26. A loud speaker used in an open field produces 250 W of power. Find the reduction in sound in dB at the points of 20 m and 30 m straight apart from the loud speaker.",
+      "options": [
+        "3.2",
+        "- 3.52",
+        "4",
+        "- 4"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "27. A coil of 300 turns has self-inductance of 10 mH. If the current flow in the coil is 3 amperes , what will be the magnetic flux?",
+      "options": [
+        "10-3 Wb",
+        "10-4 Wb",
+        "10-5 Wb",
+        "10-2 Wb"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "28. An object is placed at a distance of 3f in front of a concave mirror of focal length f.what is the size of the mage with respect to size of the object ?",
+      "options": [
+        "0.5 times size of the object",
+        "2 times size of the object",
+        "0.25 times size of the object",
+        "2 times size of the object"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "29. A boy cannot see any object at distance beyond 60 cm due his eye defect. What is the power of the lens required to see distant objects beyond that distance ?",
+      "options": [
+        "- 25",
+        "- 1.67",
+        "2.5",
+        "1.6"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(30)",
+      "question": "30. The component of the vector   $\\vec{B} = 5 \\hat{i} - 3 \\hat{j} + 2 \\hat{k}$   along the vector   $\\vec{A} = 2 \\hat{i} + \\hat{j} - 2 \\hat{k}$   will be -",
+      "options": [
+        "0",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\sqrt{2}$",
+        "1"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "1. Which of the following is not electromagnet wave ?",
+      "options": [
+        "Radio wave",
+        "Microwave",
+        "Ultrasound wave",
+        "Ultraviolet wave"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "2. Which of the following d-block elements contain one 4s electron?",
+      "options": [
+        "Mn(25)",
+        "Fe(26)",
+        "Ni(28)",
+        "Cu(29)"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "3. The most active metal is -",
+      "options": [
+        "Hg",
+        "Na",
+        "Fe",
+        "Cs"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "4. If 0.3 mol Zn is added to HCl containing 0.52 mol HCl, how many moles of H2 are produced?",
+      "options": [
+        "0.3 mole",
+        "0.52 mole",
+        "0.26 mole",
+        "0.6 mole"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "5. Which property is generally considered as the characteristic of organic compound?",
+      "options": [
+        "It is very rare",
+        "High melting point",
+        "Solubility in polar solvent",
+        "Insolubility in  polar solvent"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "6. At 17° temperature and fixed volume, heat of reaction of the following reaction: C(s) +   $\\frac{1}{2} O_{2} \\left ( g \\right )$   = CO(g) is found as -122.55 KJ. What is the heat of reaction at fixed pressure?",
+      "options": [
+        "-122.55 KJ",
+        "-1221.989 KJ",
+        "-121.344 KJ",
+        "0 KJ"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "7. Which of the following three metals from stainless steel?",
+      "options": [
+        "Cu,Zn,Sn",
+        "Fe,Cr,Ni",
+        "Fe,Cr,Cu",
+        "Cu,Pb,Sn"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "8. 1 mole of each C2H5OH and CH3CO2H are allowed to react in 1 litre of solvent (dioxane), equilibrium is established when one-third of a mole of each of the reactants remains.What is the equilibrium constant K of the reaction at this state?",
+      "options": [
+        "0.25",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "9. If the hydrogen ion concentration of a fruit juice is 3.3×10-2 M ,What is the pH?",
+      "options": [
+        "2.48",
+        "3.48",
+        "2.18",
+        "1.48"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "10. What is the emf of the following half cell of 47°C?[E for Fe=0.036V ]: Fel FeCl3 (0.25 M)",
+      "options": [
+        "0.0478 V",
+        "0.0487 V",
+        "0.0742 V",
+        "0.04781 V"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "11. The rate of reaction A+ B→ product is K [A] [B]. What is the unit of the rate constant?",
+      "options": [
+        "mol2dm-6s-1",
+        "mol-2dm-6s-1",
+        "mol-1dm3s-1",
+        "mol2dm-6s-1"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "12. From which of the following species, removal of an electron requires maximum energy?",
+      "options": [
+        "Ar",
+        "PF3",
+        "AlCl3",
+        "Cl-"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "13. A person inhales 200 mg of air once. If the air contains 20% (weight) of oxygen then how many oxygen atoms takes in?",
+      "options": [
+        "18.234×1012",
+        "7.528×1012",
+        "18.234×1020",
+        "1.51×1021"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "14. Glauber salt is-",
+      "options": [
+        "ZnSO4.7H2O",
+        "CuSO4.5H2O",
+        "Na2SO4.10H2O",
+        "[Cu(NH3)4]SO4"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "15. Which region of atmosphere does contain Ozone layer?",
+      "options": [
+        "Troposphere",
+        "Thermosphere",
+        "Mesosphere",
+        "Stratosphere"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "16. Which of the following metal makes an alloy called German silver?",
+      "options": [
+        "Zn,Cu,Sn",
+        "Cu,Zn,Fe",
+        "Cu,Sn",
+        "Cu,Zn,Ni"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "17. Which of the following of the functional group of ketone?",
+      "options": [
+        "-OH",
+        ">C=O",
+        "-CHO",
+        "-COOH"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "রসায়ন(18)",
+      "question": "18. Which of the following mixture is petrol?",
+      "options": [
+        "Aromatic hydrocarbons",
+        "Alkanes",
+        "Alkynes",
+        "Alkenes"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "1. Which of the following phrases is most suitable that completes the sentence.  \" I am afraid that my success as an engineer was just a........ \"",
+      "options": [
+        "bolt from the blue",
+        "flash in the pan",
+        "cock and blue sky",
+        "broad day light"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "2. The passive form of the sentence : \" It is time to close the door \" is -",
+      "options": [
+        "It is to be time for closing the door.",
+        "It is time for the door be closed.",
+        "It is time for the door to be closed.",
+        "It is time to be closed the door"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "3. The simple form of the following complex sentence: \"Wait here till I arrive\"",
+      "options": [
+        "Wait here till mine arrive",
+        "Wait here till I am arrived",
+        "You wait up to my arrival",
+        "Wait here till my arrival"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "4. The negative form of the sentence \"Everybody is liable to error\" is:",
+      "options": [
+        "Everyman is not correct",
+        "Nobody is free from error",
+        "Everyone is subjected to error",
+        "None of these"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "5. Which one is the correct form of English?",
+      "options": [
+        "A man can be relieved of his anxiety from revealing his secret to his friends.",
+        "A man can be relieved of his anxiety by revealing his secret to his friends.",
+        "A man can relieve of his anxiety to his reveal his secret through his friends",
+        "All of the above"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "6. Where lays the mistake in the sentence.... \"They saw me write.\"",
+      "options": [
+        "Subject",
+        "Principal verb",
+        "Participle",
+        "Gerund"
+      ],
+      "tag": "KUET 09-10,IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "7. Study hard if you want to pass the admission test at KUET. In this sentence, the word \"hard\" is used as ______",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Preposition",
+        "Redundancy"
+      ],
+      "tag": "KUET 08-09,IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "8. The antonym of the word “Trivial” is___",
+      "options": [
+        "unusual",
+        "important",
+        "unexpected",
+        "uncertain"
+      ],
+      "tag": "DAT 22-23,KUET 08-09,IUT 10-11,RU-E 15-16: Set-2,DU C 03-04,CU C 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "9. In 2025, the population of Bangladesh is projected to be 200 million. \nChoose a word which would best keep the meaning of the given sentence if it was substituted for the word Projected -",
+      "options": [
+        "updated",
+        "devoted",
+        "estimated",
+        "crowded"
+      ],
+      "tag": "KUET 07-08,IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "10. \"We squander health in search of wealth.\" The word squander can best be replaced by -",
+      "options": [
+        "frugalise",
+        "economize",
+        "use",
+        "waste"
+      ],
+      "tag": "KUET 07-08,IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "11. Choose the best option for the gap: \"The audience ______ his lecture.\"",
+      "options": [
+        "turned a deaf eye to",
+        "turned deaf to",
+        "turned a deaf ear to",
+        "turned an eye to"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "12. The appropriate preposition in the gap of the sentence. I never thought_____playing cards.",
+      "options": [
+        "In",
+        "Of",
+        "About",
+        "from"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "13. Though he is rich, he is unhappy. The correct compound form of the sentence is—",
+      "options": [
+        "He is rich so he is unhappy",
+        "He is rich so that he is unhappy",
+        "He is rich that is why he is unhappy",
+        "He is rich but unhappy"
+      ],
+      "tag": "KUET 14-15"
+    },
+    {
+      "subject": "English(15)",
+      "question": "14. Her forehead was as white as a lily. The comparative form of the sentence.",
+      "options": [
+        "A lily was not whiter than her forehead.",
+        "A lily was as white as her forehead",
+        "A lily was whiter than her forehead",
+        "A lily was not more whiter as her forehead"
+      ],
+      "tag": "IUT 10-11"
+    },
+    {
+      "subject": "English(15)",
+      "question": "15. The great Pyramid was built thousands of years ago for a king called Khufu. It is located on the west bank of the Nile river not far from Cairo. In fact all pyramids along the Nile are on the west bank. The ancient Egyptians compared the rising of the sun to the beginning of the life and setting of sun to the end of life. This is why they buried the dead on the West bank of the Nile.\nIn the light of the above passage, choose the right answer.\nThe dead were buried on the west bank of the Nile river because the ancient Egyptians believed that ____.",
+      "options": [
+        "they could see the setting sun",
+        "they could see the rising sun",
+        "the sun setting in the west resembles the end of life",
+        "one can escape death"
+      ],
+      "tag": "IUT 10-11"
+    }
+  ]
+}

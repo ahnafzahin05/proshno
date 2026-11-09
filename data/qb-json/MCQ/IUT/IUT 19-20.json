@@ -1,0 +1,973 @@
+{
+  "title": "IUT 19-20",
+  "questions": [
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "1. A spring balance is attached to the ceiling of a lift. A man hangs his bag on the spring, and the spring reads 49 N when the lift is stationary. If the lift moves downward with an acceleration of 5m/s2 , the reading of the spring balance will be-",
+      "options": [
+        "24 N",
+        "74 N",
+        "15 N",
+        "49 N"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "2. A ball of mass 0.2 kg is thrown vertically upwards by hand. If the hand moves 0.2 m which applying the force and the ball goes up to 2 m height further, find the magnitude of the force.\n[Consider g = 10 ms-2]",
+      "options": [
+        "22 N",
+        "4N",
+        "16N",
+        "20N"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "3. When a rubber -band is stretched by a distance x,it exerts a restoring force of magnitude $F= ax + bx^2$ where a and b are constants. the work done is stretching the unstretched rubber band by L is : ;",
+      "options": [
+        "$\\dfrac {aL^{2}}{2}+\\dfrac{bL^{3}}{3}$",
+        "$\\dfrac{1}{2} \\begin {pmatrix} \\dfrac{aL^2}{2} + \\dfrac{bL^3}{3}\\end {pmatrix}$",
+        "$aL^2 + bL^3$",
+        "$\\dfrac {1}{2} ( aL^2 + bL^3)$"
+      ],
+      "tag": "DU A 21-22,IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "4. At time t=0s a particle starts moving along the x axis. If the kinetic energy increases uniformly with time 't', the net force acting on it must be proportional to",
+      "options": [
+        "$\\frac{1}{\\sqrt{t}}$",
+        "$\\sqrt{2}$",
+        "constant",
+        "t"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "5. The height at which the acceleration due to gravity becomes   $\\frac{g}{9}$   (where g = the acceleration due to gravity on the surface of the earth) in terms of R, the radius of the earth, is-",
+      "options": [
+        "$\\frac{R}{2}$",
+        "$\\sqrt{2} R$",
+        "2R",
+        "$\\frac{R}{\\sqrt{2}}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "6. Two bodies of masses m and 4m are placed at a distance r. The gravitational potential at A point on the line joining them, where the gravitational field is zero, is",
+      "options": [
+        "$- \\frac{4 G m}{r}$",
+        "$- \\frac{6 G m}{r}$",
+        "$- \\frac{9 G m}{r}$",
+        "$0$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "7. A particle performs simple harmonic motion with amplitude A. Its angular speed is tripled at the instant that it is at a distance from equilibrium position. ($x = \\frac{2A}{3}$)The new amplitude of the motion is:",
+      "options": [
+        "3A",
+        "$A \\sqrt{3}$",
+        "$\\frac{7 A}{3}$",
+        "$\\frac{A}{3} \\left ( \\sqrt{41} \\right )$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "8. The length of a simple pendulum executing simple harmonic motion is increased by 21%. The percentage increase in the time period of the pendulum of increased length is",
+      "options": [
+        "11%",
+        "21%",
+        "42%",
+        "10%"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "9. The temperature of an open room of volume 30 m³ increases from 17°C to 27°C due to the sunshine. The atmospheric pressure in the room remains 1 x 105 Pa. If n, and n, are the number of molecules in the room before and after heating, then ni , nf will be:",
+      "options": [
+        "-2.5 x 1025",
+        "-1.61 x 1023",
+        "1.38 x 1023",
+        "2.5 x 1025"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "10. A charge Q is placed at each of the opposite corners of a square. A charge q is placed at each of the other two corners. If the net electrical force on Q is zero,   $\\frac{Q}{q}$ then equals",
+      "options": [
+        "1",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$- 2 \\sqrt{2}$",
+        "-1"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "11. The resistance of a bulb filament is 100Ω  at temperature of 100°C. If its temperature coefficient of resistance be 0.005 per °C, its resistance will be 200Ω  at a temperature of",
+      "options": [
+        "200°C",
+        "300°C",
+        "400°C",
+        "500°C"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "12. The half life of a radioactive substance is 20 minutes. The approximate time interval (t2 - t₁) between the time t₂ when of   $\\frac{2}{3}$  of it has decayed and the time t1 and   $\\frac{1}{3}$   of it had decayed is:",
+      "options": [
+        "14 min",
+        "20 min",
+        "28 min",
+        "7 min"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "13. The muzzle velocity of a 3.30 g bullet fired from a rifle is 965 ms-1 just as it leaves the 45.0 cm barrel. Assume that the barrel is frictionless and a constant horizontal acceleration of the bullet in the barrel. What is the force exerted by the rifle on the bullet while it is in the barrel?",
+      "options": [
+        "3314.5 N",
+        "3514.50 N",
+        "3414.50 N",
+        "3427.50 N"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "14. A marathon runner with mass 60.0 kg runs up the stairs to the tallest building of the world Burj Khalifa of height 828 m in 30.0 minutes. What is his average power output in horsepower?",
+      "options": [
+        "0.423 hp",
+        "0.363 hp",
+        "0.462 hp",
+        "0.333 hp"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "15. An armature shooter holds a 4.50 kg rifle loosely ,allowing it to recoil freely when fired,and fires a bullet of mass 4.20 g horizontally with a speed of 900 ms-1.What is the recoil speed of the rifle?",
+      "options": [
+        ".84 ms-1",
+        ".86ms-1",
+        ".89ms-1",
+        ".82ms-1"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "16. A slab of ice floates on a freshwater lake .What minimum volume must the slab have for a 55.0 kg woman to be able to stand on it without getting her feet wet?Density of ice is 0.92 times of that of water.",
+      "options": [
+        ".6558m3",
+        ".6756m3",
+        "0.6875m3",
+        "0.6335m3"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "17. A student wants to cool 250g of diet 7-up initially at 27 degree celcious by adding ice initially at -18 degree C. How much ice should he add so that the final temperature will be 0 degree C with all the ice melted?\n[Assume that the container is not taking any heat and specific heat of 7 up 4186 J/K.degree Celcious.specific heat of ice =2000 J/K degree Celcious and the latent heat of ice =3.34*105]",
+      "options": [
+        "78.4g",
+        "73.4g",
+        "77.5 g",
+        "76.4g"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "18. A developed country generates about 5.0*1016j of electrical energy a day. If this energy is generated by a power plant with an average efficiency of 30%, how much heat is dumped into the environment each day?",
+      "options": [
+        "$5 \\times 1016$",
+        "$1.167 \\times 1017 J$",
+        "$1.67 \\times 10$  16J",
+        "$1.87 \\times 1016 J$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "19. An automobile starter motor is connected to a 12.0 V battery. When the starter is activated it draws 140A of current, and the battery voltage drops to 8.5 V.What is the battery's internal resistance?",
+      "options": [
+        "26  $m \\Omega$",
+        "22  $m \\Omega$",
+        "25m  $\\Omega$",
+        "27m  $\\Omega$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "20. Bangladesh  uses $1.2 \\times 10^{17} \\mathrm{~J}$ of electrical energy per year.If all this energy came from the fission of ${ }^{235} \\mathrm{U}$ at Ruppur nuclear power plant which releases $200 \\mathrm{MeV}$ per fission event .How many killogramof ${ }^{235} \\mathrm{U}$ would be used per year?\n$\\left(1 \\mathrm{amu}=1.6605 * 10^{-27} \\mathrm{~kg}\\right)$",
+      "options": [
+        "1463.87kg",
+        "1250.65kg",
+        "1360.56 kg",
+        "1420.55kg"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "21. In a still water lake fish emits a 2.0m3 bubble at a depth of 1.5 m. What is the volume of the bubble when it reaches the surface of the lake. Atmospheric pressure is 100kPa. Assume that the temperature remains constant.",
+      "options": [
+        "4.94 mm3",
+        "4.74mm3",
+        "4.34mm3",
+        "2.294mm3"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "22. A transformer of a small electrical device takes an AC voltage of 220 V as its input and supplies 12.0 V to the device. The primary winding of the transformer has 3300 turns. When the device is operating, it consumes 5.0 W. What is the current taken from the 220 V line? Voltages are in RMS value",
+      "options": [
+        "26 mA",
+        "23mA",
+        "18mA",
+        "17mA"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "23. A bipolar junction transistor is used as a common emitter amplifier. If base current is neglected. What will be the of α?",
+      "options": [
+        ".99",
+        ".95",
+        "0.88",
+        "1.00"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "24. What will be the density of   $C O_{2}$   gas at 100°C temperature and 1.0526 atm pressure?",
+      "options": [
+        "3.514 g/L",
+        "2.514 g/L",
+        "1.514 g/L",
+        "0.514 g/L"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "25. A car of mass 1.5 ton is pushed horizontally from the edge of a cliff of height 500m. The velocity of the car is 15 m/s at the edge, find the time it hits the ground.",
+      "options": [
+        "8.69s",
+        "10.10s",
+        "6.42s",
+        "7.5s"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "26. Forces 5N, 7N and 8N are making balance acting on a body. What is the angle between the forces 5N and 8N?",
+      "options": [
+        "120°",
+        "30°",
+        "60°",
+        "90°"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "27. A box has edges from (0,0,0) to (3,1,3) and (1,3,1) and (1,1,3). Find its volume.",
+      "options": [
+        "8",
+        "32",
+        "4",
+        "16"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "28. Without repeating any digits, how many numbers can be formed using the digits {0,2,5,7,9} which are greater than 6000?",
+      "options": [
+        "144",
+        "192",
+        "120",
+        "96"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "29.\nIf $\\vec{A}=\\hat{i}-\\hat{j}+\\hat{k}$ and $\\vec{B}=\\sqrt{3} \\hat{i}+3 \\hat{j}-2 \\hat{k}$ are the adjacent sides of a triangle, what is the area of the triangle in square unit?",
+      "options": [
+        "$\\frac{\\sqrt{20+10 \\sqrt{3}}}{2}$",
+        "$\\frac{1}{2} \\left ( \\sqrt{22 + \\sqrt{3}} \\right )$",
+        "$\\frac{1}{2} \\left ( \\sqrt{22 - \\sqrt{3}} \\right )$",
+        "$\\frac{1}{\\sqrt{2}} \\left ( \\sqrt{22 + \\left ( \\sqrt{3} \\right )} \\right )$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "30. A ball is released from the top of a tower of height h metres. It takes T seconds to reach the ground. What is the position of the ball in   $\\frac{T}{3}$  seconds from the ground?",
+      "options": [
+        "$\\left ( \\frac{h}{9} \\right ) m$",
+        "$\\left ( \\frac{7 h}{9} \\right ) m$",
+        "$\\left ( \\frac{8 h}{9} \\right ) m$",
+        "$\\left ( \\frac{17 h}{18} \\right ) m$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "31. The flux linked with a coil at any instant 't' is given by   $\\phi$  =10t2-50t+250.The induced emf at t=3s is-",
+      "options": [
+        "190V",
+        "-190V",
+        "-10V",
+        "10V"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "32. The image of an illuminated square is obtained on a screen with the help of a converging lens. The distance of the square from the lens is 40 cm. The area of the image is 9 times that of the square. The focal length of the lens is---",
+      "options": [
+        "36cm",
+        "27cm",
+        "60cm",
+        "30cm"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "33. A woodpecker is pecking a tree. Its head comes to a stop from an initial velocity of 0.600m/s at a distance of only 4.00 mm. What is the magnitude of acceleration?",
+      "options": [
+        "50m/s2",
+        "45m/s2",
+        "55m/s2",
+        "35m/s2"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "34. Doppler ultrasound is used to measure the speed of blood flow. The reflected found interferes with the emitted sound ,producing beats, If  the speed of red blood cells is 0.1m/s, the ultrasound frequency is 5.0MHz and the speed of sound in blood is 1570m/s.What is beat frequency?",
+      "options": [
+        "620Hz",
+        "678Hz",
+        "637 Hz",
+        "647 Hz"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "35. An electron in the beam of a TV picture tube is accelerated through a potential difference of 2.00kV. It then passes into a magnetic field prependicular to its path,where it moves in a circular arc of diameter 0.36m.What is the magnitude of this magnetic field?",
+      "options": [
+        "838   $\\mu T$",
+        "850  $\\mu T$",
+        "875  $\\mu T$",
+        "848  $\\mu T$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "36. The focal length of a digital camera is 7.50 cm.It focuses on an object 1.85m tall which is 4.25 m away from the lens.How far must the lens be from the sensor array?",
+      "options": [
+        "7.83cm",
+        "7.63cm",
+        "7.53cm",
+        "7.25cm"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(37)",
+      "question": "37. A bird sings in a meadow can be considered as an ideal point source of sound.When you double your distance from the position of the bird,how much does the sound intensity level drop?",
+      "options": [
+        "-3.5dB",
+        "-6dB",
+        "-9dB",
+        "-12dB"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "1. On which side of the line 4x-3y-10= 0, does the point (3.-2) lie?",
+      "options": [
+        "Negative",
+        "Positive",
+        "On the line",
+        "Undefined"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "2. At x=0, the function f(e-x2 )= is:",
+      "options": [
+        "minimum",
+        "maximum",
+        "increasing",
+        "decreasing"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "3. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "4. A rectangular plot of farmland will be bounded on one side by a river and on the other three sides by a single-strand electric fence. With 800 m of wire at your disposal, what is the largest area you can enclose and what are its dimensions?",
+      "options": [
+        "50m x 700m",
+        "100m x 600m",
+        "120m x 560m",
+        "None of Above"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "5. Find the area of the region between the x -axis and the graph of $f(x)=x^{3}-x^{2}-2 x,-1 \\leq x \\leq 2$.",
+      "options": [
+        "$\\frac{12}{37}$",
+        "$\\frac{9}{4}$",
+        "$\\frac{37}{12}$",
+        "$\\frac{4}{9}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "6. If regular polygon with n sides has any of its angle represented in both radian and degree representations,then the difference between those two values will be:",
+      "options": [
+        "(π-180)(n-2)",
+        "(π-180)(1-2/n)",
+        "(π-180)(1/n-1)",
+        "(π-180)(1+2/n)"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "7. During midnight, a car is traveling south at the speed of 8km/hour for 30 minutes and then turns west. A flashlight located at the point of departure has been tracking the car. How fast is the flashlight rotating I hour after departure?",
+      "options": [
+        "1 radh-1",
+        "0.5 radh-1",
+        "2 radh-1",
+        "0.4 radh-1"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "8. If the roots of the equation (4-k)x²+26kx+5= 0 are inverse of each other then find the  value of k?",
+      "options": [
+        "1",
+        "i",
+        "-1",
+        "-i"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "9. The ratio of the ordinates of a point and its corresponding point is $\\frac { 2 \\sqrt { 2 } } { 3 }$ then eccentricity is ____________________.",
+      "options": [
+        "$\\frac { 1 } { 3 }$",
+        "$\\frac { 2 } { 3 }$",
+        "$\\frac { \\sqrt { 2 } } { 3 }$",
+        "$\\frac { 2\\sqrt { 2 } } { 3 }$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "10.  A bird flies against the wind blowing at 5 kmh-1 for a distance of 10 km and then flies back in the direction of wind. If the whole flight time is 2 hours, find the bird's flying speed in still air.",
+      "options": [
+        "2.03 kmh-1",
+        "10 kmh-1",
+        "12.07 kmh-1",
+        "5 kmh-1"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "11. Two buses of length 15m and 25m have started their journey from Board Bazar towards Dhaka at the speed of 5.2 km/h and 5 km/h, respectively. When will they cross each other?",
+      "options": [
+        "5 minutes",
+        "8 minutes",
+        "10 minutes",
+        "12 minutes"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "12.   $\\frac{1}{3} i$  এর বর্গমূল কোনটি?",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right )$"
+      ],
+      "tag": "AGRI GST 20-21, CB 19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "13. In the triangle ABC, AB = 5 cm, BC = 6 cm and area of triangle is 11.25 cm². What is the value of angle ∠ABC?",
+      "options": [
+        "$\\sin^{- 1}{\\left ( \\frac{4}{5} \\right )}$",
+        "$\\sin^{\\_}{1} \\left ( \\frac{3}{5} \\right )$",
+        "$\\sin^{- 1}{\\left ( \\frac{3}{4} \\right )}$",
+        "$\\sin^{- 1}{\\left ( \\frac{4}{5} \\right )}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "14. If A+B+C=(2n+1)π/2 for n  then value of tan A tan B + tan B tan C + tan C tan A is-",
+      "options": [
+        "√3/2",
+        "1",
+        "1/√3",
+        "√3"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "15. Straight line y = 6 intersects the line x = 5 at A and the curve y²=6(x-7) at B. What is the length of AB?",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "11"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "16. If the circle x²+ y²+8x+2ky+c=0 touches both the axes then possible valued of k and C are.",
+      "options": [
+        "k=8,c=4",
+        "k = 8, c = 16",
+        "k=±4,c=16",
+        "k= ±4,c=4"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "17. Ordinate of a point P on the parabola y2= 9x is 12. What is the focal distance of the point P?",
+      "options": [
+        "$18 \" \\frac{1}{4}$",
+        "$15 \" \\frac{1}{2}$",
+        "$17 \" \\frac{1}{2}$",
+        "$16 \" \\frac{1}{4}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "18. Equation of asymptote of the hyperbola, $\\frac{y^2}{3}-\\ \\frac{x^2}{4}=\\ 0$ is-",
+      "options": [
+        "√3y=12x",
+        "3y = +4x",
+        "4y=13x",
+        "2y= ±√3x"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "19.   $\\lim_{n → ∞} \\frac{1}{n^{4}} ∑_{r = 1}^{n} r^{3} = ?$",
+      "options": [
+        "3/4",
+        "1/2",
+        "4",
+        "1/4"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "20. Differentiation of $√ \\left ( x √ \\left ( x √ \\left ( x √ x \\ldots ∞ \\right ) \\right ) \\right ) i s -$",
+      "options": [
+        "√x",
+        "1",
+        "√2",
+        "√3"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "21. If tan x=b/a, then value of (a2+ b²) sin 2x is-",
+      "options": [
+        "2ab",
+        "$\\frac{a b}{a^{2} + b^{2}}$",
+        "$\\frac{2 a b}{a^{2} + b^{2}}$",
+        "$\\frac{1}{2 a b}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "22. If the sum of two numbers is 8, then what is the maximum value of its product?",
+      "options": [
+        "15",
+        "10",
+        "8",
+        "16"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "23. If 1+√2i is a root of quadratic equation, which one is that equation?",
+      "options": [
+        "x²+2x-1=0",
+        "x²+2x+3=0",
+        "x²-2x-1=0",
+        "x²-2x+3=0"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "24. If f(x)=|x-2|+1/3, then the lowest value of f(x)=?",
+      "options": [
+        "5/3",
+        "1/3",
+        "-1/3",
+        "-5/3"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "25. Find the domain of the function   $f{\\left ( x \\right )} = \\sqrt{x^{2} - 4 x + 3}$",
+      "options": [
+        "x≤3",
+        "1≤x≤3",
+        "x≥3 or x≤1",
+        "None of above"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "26. Suppose in a room there are five doors. One Bangladeshi, one Canadian, one Japanese and one Australian want to enter into that room. Find the probability of their entering through different doors.",
+      "options": [
+        "0.008",
+        "0.0048",
+        "0.1172",
+        "0.192"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "27. The probability that a person going to a hospital will have his blood group checked is 0.12; the probability that he will check his blood pressure is 0.29 and the probability that he will ask to have both of them checked is 0.07. Find the probability that a person who will check his blood pressure, will also have his blood group checked.",
+      "options": [
+        "0.241",
+        "0.583",
+        "0.07",
+        "0.0348"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "28. The isosceles right triangle has a side AC of length 5 cm and PQ shows the arc of a circle centered at A. Find the area of the shaded region given below.\n[IMG: https://assets.chorcha.net/WV80E-kqt9od6KU9.webp]",
+      "options": [
+        "1.2547 cm²",
+        "2.4142 cm²",
+        "1.8174 cm²",
+        "2.6825 cm²"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "29. Seven IUTian boys and seven IUTian girls together all meet up for a meal. To commemorate the occasion. they arranged for a photograph to be taken of all 14 of them standing in a line. How many different arrangements are there if the 7 boys all stand together and 7 girls all stand together?",
+      "options": [
+        "50403242",
+        "50405646",
+        "50803200",
+        "50804932"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "30. The co-ordinates of a moving particale at any time t are given by x= $\\alpha$ t3 and y= $\\beta$ t3.The speed to the particle at time t is given by -----",
+      "options": [
+        "3t  $3 t \\sqrt{\\left ( \\alpha 2 + \\beta 2 \\right.}$",
+        "$3 t^ 2 \\sqrt{\\left ( \\alpha 2 + \\beta 2 \\right.}$",
+        "$t \\sqrt{\\alpha} + \\sqrt{\\beta}$",
+        "$\\sqrt{\\left ( \\alpha 2 + \\beta 2 \\right.}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "1. Which of the following molecule has tetrahedal shape?",
+      "options": [
+        "$X e F_{4}$",
+        "$S i F_{4}$",
+        "CO2",
+        "$I C l_{4}$"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "2. For the reaction $N_{2}(g)+3 H_{2}(g)=2 NH_{3}(g), \\mathbf{K}_{\\mathrm{p}}$ is $4.3 \\times 10^{-4}$ at $375^{\\circ} \\mathrm{C}$. Calculate $\\mathbf{K}_{c^{}}$",
+      "options": [
+        "0.023",
+        "0.86",
+        "0.013",
+        "1.217"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "3. Which is the main product following the reaction? [IMG: https://assets.chorcha.net/DaodSpvnU3U5EFWESrHti.png]",
+      "options": [
+        "[IMG: https://assets.chorcha.net/lYNk-Kf0ChQppUAzE4TZn.png]",
+        "[IMG: https://assets.chorcha.net/xRuWOeTFXdlKMHKGQy41G.png]",
+        "[IMG: https://assets.chorcha.net/hhidMyBti7yT1f4msnLd6.png]",
+        "[IMG: https://assets.chorcha.net/UVYJOscRHm0-ySJvCwpge.png]"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "4. Which is not a limitation of Bohrs atom model?",
+      "options": [
+        "Multiple lines in atomic spectrum",
+        "Zeeman effect",
+        "H-spectrum",
+        "Angular momentum"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "5. Which on of the following properties is not the general property of p-block element?",
+      "options": [
+        "Most of the p-block elements are electronegative nonmetals.",
+        "In a period from left to right reducing property of element decreas gradually.",
+        "In a period from left to right, the oxidizing property of the element decreases gradually.",
+        "In a period from left to right atomic size of element decreas gradually."
+      ],
+      "tag": "IUT 19-20,IUT 18-19,IUT 16-17"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "6. The concentration of hydronium ion in a water solution is 2.5x10-3 M. The solution will be-",
+      "options": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "None of above"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "7. How many grams of sodium acetate is to be mixed with 1.0  $d m^{3}$  0.4 molar acetic acid solution to have hydrogen ion concentration,   $\\left [ H^{+} \\right ] = 2 × 10^{- 4} g$  ion   $d m^{- 3}$  in the solution?   $K_{a} = 1.8 × 10^{- 5} ]$",
+      "options": [
+        "24.52 g",
+        "0.036 g",
+        "2.952 g",
+        "82 g"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "8. The heat of combustion of ethane is -337 kcal at 25°C, the heat of the reaction when 3g of ethane is burnt completely is_",
+      "options": [
+        "-3.37kcal",
+        "-33.7kcal",
+        "+34.7kcal",
+        "+33.7kcal"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "9. To decompose of 50% reactant of a first order needs 400 sec. After the initiation of the reaction, when one eighth of the reactant remain undecomposed?",
+      "options": [
+        "$1.732 × 10^{3} \\sec{}$",
+        "$1.2 × 10^{3} \\sec{}$",
+        "$400 \\sec{}$",
+        "800 sec"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "10. Which of the following statement is incorrect?",
+      "options": [
+        "The neuclosides obtained from DNA all contain 2-deoxy-d-ribose as their sugar component",
+        "Adenine,guanine, cytosine and thyamine are the four heterocyclic base of DNA neucleosides.",
+        "The heterocyclic base of a nucleotide is attached through an N-glycoside linkage to Cl of the ribose or deoxyribose unit, and the lingkage is always the α - linkage",
+        "The central portion of nucleotide is a five monosaccharides known as furanosides"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "11. Which reaction is not possible?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/CnrmBdbzYp3NB82-NOre4.png]",
+        "[IMG: https://assets.chorcha.net/TCm5rKPxOHqAp5mZcFSlf.png]",
+        "[IMG: https://assets.chorcha.net/IVD6KGkwKe0y19d2HDDK-.png]",
+        "[IMG: https://assets.chorcha.net/t1HME8mSUuQZx5-u_BY2O.png]"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "12. In the decomposition of hydrogen peroxide, phosphoric acid acts as a-",
+      "options": [
+        "Positive catalyst",
+        "Negative catalyst",
+        "Auto catalyst",
+        "Induced catalyst"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "13. Polymerization reaction is not possible from which of the followings?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/Zy9qtuTSKeJEcF1k3DXNd.png]",
+        "[IMG: https://assets.chorcha.net/byJh5UCHQv0iy1lLf27aM.png]",
+        "[IMG: https://assets.chorcha.net/btc7Y6v7UPrQo0vOyU45D.png]",
+        "[IMG: https://assets.chorcha.net/6alzDbkVDXDPjKpLttHtA.png]"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "14. The statements above,if true, best support which is following as conclusion?",
+      "options": [
+        "The location in the the bedrock,Where microbial life was found was not near a system of volcanic vents through which hydrogen and other gases roses from the interior of earth.",
+        "Bacteria are able to exist at the molten center of earth",
+        "A Through survey of a planet's surface is insufficient to establish beyond a doubt that the plabets contains no life",
+        "None of them"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "1. Choose the synonym of 'Subversive'.",
+      "options": [
+        "Anarchist",
+        "Fatalist",
+        "Colleagues",
+        "None"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "2. Antonym of Unequivocal?",
+      "options": [
+        "Clear",
+        "Perspicuous",
+        "Lucid",
+        "Ambiguous"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "3. What is the synonym of “Diatribe”?",
+      "options": [
+        "Eulogy",
+        "Tirade",
+        "Dilemma",
+        "Harangue"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "4. Choose the word that is most nearly similar in meaning to 'auspicious'.",
+      "options": [
+        "Lucky",
+        "Guileless",
+        "Unpromising",
+        "Cryptic"
+      ],
+      "tag": "IUT 19-20,IUT 17-18"
+    },
+    {
+      "subject": "English(7)",
+      "question": "5. Choose the word closest in meaning to: Epigram",
+      "options": [
+        "Formula",
+        "Aphorism",
+        "Fecund",
+        "Abundant"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "6. What is the synonym of the word “Destitute”?",
+      "options": [
+        "Affluent",
+        "Broke",
+        "Stubborn",
+        "Skeptical"
+      ],
+      "tag": "IUT 19-20"
+    },
+    {
+      "subject": "English(7)",
+      "question": "7. Choose the synonym of 'Prodigious'.",
+      "options": [
+        "Common",
+        "Comfort",
+        "Excite",
+        "Miraculous"
+      ],
+      "tag": "IUT 19-20"
+    }
+  ]
+}

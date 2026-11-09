@@ -1,0 +1,1119 @@
+{
+  "title": "RUET 13-14",
+  "questions": [
+    {
+      "subject": "Mathematics(26)",
+      "question": "1. If $\\mathrm{A}=\\left[\\begin{array}{ccc}1 & \\omega & \\omega^{2} \\\\ \\omega & \\omega^{2} & 1 \\\\ \\omega^{2} & 1 & \\omega\\end{array}\\right]$, then what is the value of $\\operatorname{det}(\\mathrm{A})$ ?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "$\\omega$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 22-23 (SET N),JU H 20-21 (SET A),JU H 19-20 (SET E),BUTEX 16-17"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "2. Determine $A^{-1}: A=\\left[\\begin{array}{cc}1 & 4 \\\\ 2 & -6\\end{array}\\right]$.",
+      "options": [
+        "$\\frac{1}{14}\\left[\\begin{array}{cc}6 & 4 \\\\ -2 & 1\\end{array}\\right]$",
+        "$\\frac{1}{14}\\left[\\begin{array}{cc}-6 & -4 \\\\ 2 & 1\\end{array}\\right]$",
+        "$\\frac{1}{14}\\left[\\begin{array}{cc}6 & 4 \\\\ -2 & -1\\end{array}\\right]$",
+        "$\\frac{1}{-14}\\left[\\begin{array}{cc}-6 & -4 \\\\ 2 & 1\\end{array}\\right]$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "3. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "4. A train passes $\\left(3 t+\\frac{t^{2}}{8}\\right) \\mathrm{m}$ distance in $\\mathrm{t}$ seconds. What will be its velocity after 5 minutes?",
+      "options": [
+        "$78 \\mathrm{~ms}^{-1}$",
+        "$87 \\mathrm{~ms}^{-1}$",
+        "$75 \\mathrm{~ms}^{-1}$",
+        "$85 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "DRMC 24,JUST 18-19,BUET 6-7,RUET 13-14,JU A 19-20 (SET P)"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "5. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "6. Two forces 3 N and 5 N are acting at a point of opposite direction. What is the resultant of two forces?",
+      "options": [
+        "12 N",
+        "10 N",
+        "8 N",
+        "2 N",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "7. Determine the value $\\left[\\begin{array}{ccc}1 & 1 & 1 \\\\ 1 & a & a b \\\\ 1 & a b & a b^{2}\\end{array}\\right]$",
+      "options": [
+        "$a(1-b)^{2}$",
+        "$b(1-a)^{2}$",
+        "$-a(b-1)^{2}$",
+        "$-b(a-1)^{2}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "8. The equation of the straight line perpendicular to the lines joining $(a, b)$ and $(-a,-b)$ and passing through $(-b, a)$ is-",
+      "options": [
+        "$a x+b y+a^{2}+b^{2}=0$",
+        "$a x+b y=a^{2}+b^{2}$",
+        "$a x+b y-a b=0$",
+        "$a x+b y=0$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "9. The polar equation $r=\\sin \\theta$ represents a-",
+      "options": [
+        "parabola, focus $(1,0)$",
+        "parabola, focus $(0,1)$",
+        "circle, centre $\\left(\\frac{1}{2}, 0\\right)$",
+        "circle, centre $\\left(0, \\frac{1}{2}\\right)$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "10. $|x-1+i y|+|x+1+i y|=4$ represents a curve-",
+      "options": [
+        "$x^{2}+y^{2}=7$",
+        "$y^{2}=4 x$",
+        "$y^{2}=x^{2}+1$",
+        "$\\frac{x^{2}}{4}+\\frac{y^{2}}{3}=1$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "11. The solution of equation $\\frac{1}{x-\\sqrt{3} k}+\\frac{1}{x}+\\frac{1}{x+\\sqrt{3} k}=0$ is-",
+      "options": [
+        "$0, \\pm \\sqrt{3} \\mathrm{k}$",
+        "$0, \\pm \\sqrt{-3} k$",
+        "$0, \\pm \\mathrm{k}$",
+        "$\\pm \\frac{\\mathrm{k}}{\\sqrt{3}}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "12. Two forces F and 4 F act on a point. If these forces are changed respectively by 2 F and $4 \\mathrm{~F}+8$, the direction of the resultant is unchanged. The value of $F$ is-",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "13. The maximum value of $f(x)=x(2 a-x)$ is-",
+      "options": [
+        "a",
+        "2a",
+        "$2 \\mathrm{a}^{2}$",
+        "$\\mathrm{a}^{2}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "14. Evaluate $\\operatorname{lt}_{x \\rightarrow 0} \\frac{x(\\cos 2 x+\\cos 3 x)}{2 \\sin x} ?$",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "15. The value of $\\int_{0}^{\\pi / 2} \\frac{\\cos x}{4-\\sin x} d x$ is-",
+      "options": [
+        "$\\frac{1}{2} \\ln (2)$",
+        "$\\frac{1}{4} \\ln \\left(\\frac{1}{3}\\right)$",
+        "$\\frac{1}{4} \\ln (3)$",
+        "$\\ln \\left(\\frac{1}{3}\\right)$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "16. If two straight lines $5 x+4 y-6=0$ and $2 x-k y+6=0$ are perpendicular to each other, then what is the value of $k$ ?",
+      "options": [
+        "$-\\frac{2}{5}$",
+        "$-\\frac{8}{5}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{2}{5}$"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU A 22-23 (SET N),JU A 16-17 (SET 12),BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "17. If $\\tan 2 \\theta \\tan \\theta=1$, find the value of $\\theta$.",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\pm \\frac{\\pi}{6}$",
+        "$n \\pi \\pm \\frac{\\pi}{6}$",
+        "$n \\pi \\pm \\frac{\\pi}{4}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "18. Two trains are moving in a same rail line from opposite directions at velocity $44 \\mathrm{ft} / \\mathrm{sec}$ and $66 \\mathrm{ft} / \\mathrm{sec}$ respectively. When they are 1573 ft apart from each other, brakes are applied to avoid the collision. The retardation of both engines is same. What is the minimum value of retardation?",
+      "options": [
+        "$5 \\mathrm{ft} / \\mathrm{sec}^{2}$",
+        "$\\frac{5}{2} \\mathrm{ft} / \\mathrm{sec}^{2}$",
+        "$3 \\mathrm{ft} / \\mathrm{sec}^{2}$",
+        "$2 \\mathrm{ft} / \\mathrm{sec}^{2}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "19. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "20. The values of the series respectively $\\frac{1}{1.2}+\\frac{1}{2.3}+\\frac{1}{3.4}+\\ldots$ and $1-\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\ldots \\ldots$",
+      "options": [
+        "$1, \\ln 2$",
+        "$1 \\ln 2$",
+        "$\\mathrm{e}^{-1}, \\ln 2$",
+        "$\\mathrm{c}, \\mathrm{e}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "21. The domain and range of $f(x)=\\frac{x+3}{1-2 x},(x$ real $)$ are respectively-",
+      "options": [
+        "Range $\\backslash\\left\\{\\frac{1}{2}\\right\\}$, Range $\\backslash\\left\\{-\\frac{1}{3}\\right\\}$",
+        "Range $\\backslash\\left\\{-\\frac{1}{2}\\right\\}$, Range $\\backslash\\left\\{\\frac{1}{2}\\right\\}$",
+        "Rangle $\\backslash\\left\\{\\frac{1}{2}\\right\\}$, Range $\\backslash\\left\\{\\frac{1}{2}\\right\\}$",
+        "Rangle $\\backslash\\left\\{-\\frac{1}{2}\\right\\}$, Range $\\backslash\\left\\{-\\frac{1}{2}\\right\\}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "22. If $\\vec{AB} = 2 \\hat{i} + \\hat{j} , \\vec{BC} = 3 \\hat{i} - \\hat{j} + 5 \\hat{k}$ , but what is the area of the parallelogram drawn through the adjacent sides AB and AC?",
+      "options": [
+        "8√5",
+        "5√6",
+        "3√6",
+        "6√5"
+      ],
+      "tag": "CU A 19-20,BUET 9-10,RUET 14-15,RUET 13-14,KUET 18-19,CUET 15-16,Tapan Sir,BUTEX 17-18"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "23. How many permutation can be possible by the letters of \"courage\" which will be started by consonants?",
+      "options": [
+        "720",
+        "2106",
+        "2160",
+        "1260",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "24. A box has 8 red, 4 black and 3 white balls. If 3 balls are picked randomly, what will be the probability that at least 2 of them are red?",
+      "options": [
+        "$\\frac{1}{15}$",
+        "$\\frac{36}{65}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{8}{15}$"
+      ],
+      "tag": "CU A 19-20,RUET 11-12,RUET 13-14,KUET 10-11,CUET 15-16,CUET 10-11,JU H 19-20 (SET E)"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "25. Find the coefficient of $x$ for the expression of $\\left(3 x^{2}-\\frac{1}{3 x}\\right)^{5}$.",
+      "options": [
+        "$\\frac{10}{3}$",
+        "$\\frac{5}{3}$",
+        "$-\\frac{10}{3}$",
+        "$-\\frac{1}{3}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Mathematics(26)",
+      "question": "26. $[A \\cup(A-B)] \\cap\\left[\\left(A^{\\prime}-B\\right)\\right]=?$",
+      "options": [
+        "$B$",
+        "$A^{\\prime}$",
+        "$B^{\\prime}$",
+        "$\\phi$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "1. What should be the velocity of a cyclist turning over a circular track of 60 m radius such that his inclination to the vertical is $30^{\\circ}$ ?",
+      "options": [
+        "$8.18 \\mathrm{~ms}^{-1}$",
+        "$1.88 \\mathrm{~ms}^{-1}$",
+        "$81.84 \\mathrm{~ms}^{-1}$",
+        "$18.43 \\mathrm{~ms}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "2. If radius of earth is $R=6.4 \\times 10^{6} \\mathrm{~m}$ and acceleration due to gravity is $9.8 \\mathrm{~ms}^{-2}$ then what will be the escaping velocity of an object from the earth surface?",
+      "options": [
+        "$1.12 \\times 10^{.4} \\mathrm{~ms}^{-1}$",
+        "$11.2 \\times 10^{4} \\mathrm{~ms}^{-1}$",
+        "$2.11 \\times 10^{4} \\mathrm{~ms}^{-1}$",
+        "$21.12 \\times 10^{4} \\mathrm{~ms}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "3. A wire of 2 m long and area of cross section $1 \\mathrm{~mm}^{2}$ is applied by a force of 20 N at one end. What will be the increment of length of wire? [Given $Y=2 \\times 10^{11} \\mathrm{Nm}^{-2}$ ]",
+      "options": [
+        "$0.2 \\times 10^{-4} \\mathrm{~m}$",
+        "$2.0 \\times 10^{-4} \\mathrm{~m}$",
+        "$2.0 \\times 10^{-5} \\mathrm{~m}$",
+        "$0.2 \\times 10^{-5} \\mathrm{~m}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "4. What is the electrochemical equivalent of Aluminum?",
+      "options": [
+        "$2.8 \\times 10^{-5} \\mathrm{~g} / \\mathrm{c}$",
+        "$9.33 \\times 10^{-5} \\mathrm{~g} / \\mathrm{c}$",
+        "$1.4 \\times 10^{-4} \\mathrm{~g} / \\mathrm{c}$",
+        "$2.8 \\times 10^{-4} \\mathrm{~g} / \\mathrm{c}$"
+      ],
+      "tag": "MCC 24,BNMPC 24,MB 22,RB 22,CTG.B 22,CTG.B 21,SB 21,DB 19,DIN.B 17,RUET 13-14,JU A 15-16 (SET 3),BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "5. What will be the kinetic energy of photon of wavelength $6650 \\times 10^{-10} \\mathrm{~m}$ ?",
+      "options": [
+        "9.186 eV",
+        "6.169 eV",
+        "18.69 eV",
+        "1.869 eV",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "6. of a common emitter transistor β = 100 \\beta=100 β = 100 and I B = 50 μ A I_B=50\\mu A I B =  If 50 μ A , α \\alpha What is α ?",
+      "options": [
+        "1.01",
+        "0.99",
+        "1.00",
+        "1.10"
+      ],
+      "tag": "BUET 16-17,BUET 22-23,BUET 21-22,RUET 18-19,RUET 13-14,KUET 14-15,JU H 20-21 (SET A),BUTEX 23-24,BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "7. A lift is moving downward at an acceleration of $1 \\mathrm{~ms}^{-2}$. If a man of weight 65 kg is standing inside the lift, what force will he feel?",
+      "options": [
+        "475 N",
+        "572 N",
+        "590 N",
+        "350 N",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "8. A ball falls from a height of 80 m and $20 \\%$ of its energy is lost on impact with the floor, what height will it rise from the floor?",
+      "options": [
+        "50 m",
+        "56 m",
+        "61 m",
+        "64 m",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "9. Consider two pendulums $A$ and $B$. If the length of $A$ is twice that of $B$ and if the time period of $B$ is 3 s , what will be the time period of $A$ ?",
+      "options": [
+        "5.24 s",
+        "4.24 s",
+        "4.55 s",
+        "3.45 s",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "10. 1000 small droplets of water of $10^{-4} \\mathrm{~m}$ diameter combined to form a large droplet. What is the radius of the large droplet?",
+      "options": [
+        "$10^{-2} \\mathrm{~m}$",
+        "$\\frac{1}{10} \\mathrm{~m}$",
+        "$5 \\times 10^{-4} \\mathrm{~m}$",
+        "None of the above"
+      ],
+      "tag": "DAT 19-20,RUET 13-14,Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "11. What is the maximum possible efficiency of an engine working between $127^{\\circ} \\mathrm{C}$ and $417^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$29.74 \\%$",
+        "$42 \\%$",
+        "$42.86 \\%$",
+        "$48 \\%$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "12. 4 capacitors of $4 \\mu \\mathrm{F}$ each are connected in series. What will be their equivalent capacitance?",
+      "options": [
+        "$1 \\mu \\mathrm{F}$",
+        "$2 \\mu \\mathrm{F}$",
+        "$4 \\mu \\mathrm{F}$",
+        "$16 \\mu \\mathrm{F}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "13. 5 bulbs of 100 watt each are glowing 6 hours daily. If the cost of each unit of electricity is Tk. 2.50, what will be the bill for one month?",
+      "options": [
+        "210.00 Tk.",
+        "220.00 Tk.",
+        "225.00 Tk.",
+        "230.00 Tk.",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "14. The half-life of an object is 1500 years. After how many days the total object will become half?",
+      "options": [
+        "$2.555 \\times 10^{5}$ days",
+        "$3.655 \\times 10^{5}$ days",
+        "$4.475 \\times 10^{5}$ days",
+        "$5.476 \\times 10^{5}$ days",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "15. An apple on a tree is attracting the earth as F'. Earth is attracting apples to F. Which of the following is correct?",
+      "options": [
+        "F >> F'",
+        "F = F'",
+        "F < F'",
+        "F > F'"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "16. At what temperature does the Fahrenheit and Kelvin scale give the same reading?",
+      "options": [
+        "500.250",
+        "550.250",
+        "565.250",
+        "574.250"
+      ],
+      "tag": "DU A 17-18,RUET 13-14,RUET 12-13,JU A 18-19 (SET P),BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "17. How much heat is required to vaporize 0.5 kg of ice from 0 0 C to 100 0 C? [Latent heat of vaporization 22.68×10 5 Jkg -1 , The latent heat of water is 4.2×10 3 Jkg -1 K -1 and the latent heat of melting of ice is 33.4 10 4 Jkg -1",
+      "options": [
+        "1011kJ",
+        "1511kJ",
+        "5111kJ",
+        "711.1kJ"
+      ],
+      "tag": "RUET 13-14,KUET 13-14,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "18. In a whitston bridge 4 resistances are $8 \\Omega, 12 \\Omega, 16 \\Omega$ and $20 \\Omega$ respectively. What amount of resistance is to be added with the 4 th resistance to maintain equilibrium?",
+      "options": [
+        "$20 \\Omega$ series",
+        "$4 \\Omega$ series",
+        "$24 \\Omega$ series",
+        "$20 \\Omega$ series"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU H 17-18 (SET 6),Ishaque Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "19. A galvanometer of resistance 100Ω is connected to a circuit with a shunt of 5Ω. If a current of 0.5 A is obtained through the galvanometer, what is the original current in the circuit?",
+      "options": [
+        "1.05 A",
+        "10.5 A",
+        "105 A",
+        "0.105 A"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "20. A boy applies $\\overrightarrow{\\mathrm{F}}=(9 \\hat{i}-2 \\hat{j}+2 \\hat{k}) N$ force on his toy and its displacement occurs $\\overrightarrow{\\mathrm{d}}=(2 \\hat{i}+2 \\hat{j}-\\hat{k}) \\mathrm{m}$. What is the amount of work done by the boy?",
+      "options": [
+        "18 J",
+        "9 J",
+        "6 J",
+        "12 J",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "21. At what temperature the volume of a fixed amount of gas at $27^{\\circ} \\mathrm{C}$ will be twice at a constant pressure?",
+      "options": [
+        "159 K",
+        "300 K",
+        "600 K",
+        "900 K",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "22. A man throws a ball vertically with $48 \\mathrm{~ms}^{-1}$ velocity. How many time of flight and what will be maximum height of the ball?",
+      "options": [
+        "$9.8 \\mathrm{sec}~ \\&~ 117.55 \\mathrm{~m}$",
+        "$8.9 \\mathrm{sec}~ \\& ~117.55 \\mathrm{~m}$",
+        "$9.8 \\mathrm{sec} ~\\&~ 171.55 \\mathrm{~m}$",
+        "$8.9 \\mathrm{sec} ~\\& ~171.55 \\mathrm{~m}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "23. Earth magnetic field at any place is $22.5 \\mu \\mathrm{T}$ and dip is $30^{\\circ}$.\nWhat is the value of horizontal component of earth magnetic field?",
+      "options": [
+        "$1.95 \\times 10^{-5} \\mathrm{~T}$",
+        "$2.95 \\times 10^{-5} \\mathrm{~T}$",
+        "$2.59 \\times 10^{-5} \\mathrm{~T}$",
+        "$1.95 \\times 10^{-4} \\mathrm{~T}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "24. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "25. An object is placed at a distance of 18 cm from a concave mirror, for what focal length the magnification will be 5 times?",
+      "options": [
+        "15 cm",
+        "18 cm",
+        "20 cm",
+        "23 cm",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "26. A fish at the bottom surface of a pond is seen at 3 m deep. If the refractive index of water is $\\frac{4}{3}$, what is the actual depth of the pond?",
+      "options": [
+        "9 m",
+        "6 m",
+        "8 m",
+        "4 m",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "27. The refractive index of water and diamond are 1.33 and 2.4 respectively. What is speed of light in diamond, if that is in water $2.28 \\times 10^{8} \\mathrm{~ms}^{-1}$ ?",
+      "options": [
+        "$2.26 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$3.26 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$1.26 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$3.28 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "Option E"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "28. A wire of length L carrying a current 1 is bent into a circle. What will be the magnitude of the magnetic field at the centre of the circle?",
+      "options": [
+        "$\\frac{\\mu_{0} I}{\\pi L}$",
+        "$\\frac{\\mu_{0} \\mathrm{I}}{2 \\pi \\mathrm{I}}$",
+        "$\\frac{\\mu_{0} \\mathrm{l}}{2 \\mathrm{~L}}$",
+        "$\\frac{\\pi \\mu_{0} I}{L}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "29. A train is moving towards a platform at a speed of 90km/h blowing its whistle. A passenger on the platform hears a sound of frequency 650Hz. What is the actual frequency of the whistle? (Speed of sound in air is 325m/s)",
+      "options": [
+        "190 Hz",
+        "550 Hz",
+        "650 Hz",
+        "600 Hz"
+      ],
+      "tag": "RUET 13-14,KUET 11-12,KUET 15-16,CUET 11-12"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "30. Young's coefficient of iron is 2.205×10 11 N/m 2 and its density is 7.85×10 3 kg/m 3 . What is the speed of sound inside the iron?",
+      "options": [
+        "5300 m/sec",
+        "530 m/sec",
+        "53 m/sec",
+        "5.3 m/sec"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "1. A gas occupies a volume of $0.1 \\mathrm{~m}^{3}$ at a temperature of $20^{\\circ} \\mathrm{C}$ and a pressure of 1.5 bar. Find the final temperature of the gas, if it is compressed to a pressure of 7.5 bar and occupies a volume of $0.04 \\mathrm{~m}^{3}$.",
+      "options": [
+        "$293^{\\circ} \\mathrm{C}$",
+        "$313^{\\circ} \\mathrm{C}$",
+        "$586^{\\circ} \\mathrm{C}$",
+        "$213^{\\circ} \\mathrm{C}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "2. If the wave length of red-ray is 700 nm , then calculate the wave number of the ray.\n[velocity of light $=$ $3.0 \\times 10^{8} \\mathrm{~ms}^{-1}$ ].",
+      "options": [
+        "$2.439 \\times 10^{4} \\mathrm{~cm}^{-1}$",
+        "$4.95 \\times 10^{4} \\mathrm{~cm}^{-1}$",
+        "$24.39 \\times 10^{4} \\mathrm{~cm}^{-1}$",
+        "$49.50 \\times 10^{4} \\mathrm{~cm}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "3. No. of elements in Lanthanides and Actinides series are?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "4. $\\begin{array}{l} \\mathrm{FeSO}_{4}+\\mathrm{KMnO}_{4}+\\mathrm{H}_{2} \\mathrm{SO}_{4} \\longrightarrow \\\\ \\mathrm{Fe}_{2}\\left(\\mathrm{SO}_{4}\\right)_{3}+\\mathrm{K}_{2} \\mathrm{SO}_{4}+\\mathrm{MnSO}_{4}+\\mathrm{H}_{2} \\mathrm{O} \\end{array}$\nWhat is the ratio of mole number of reductant and oxidant in the balanced equation of above reaction?",
+      "options": [
+        "$5: 2$",
+        "$1: 5$",
+        "$5: 1$",
+        "$2: 5$"
+      ],
+      "tag": "MCC 24,BB 23,DIN.B 22,DIN.B 19,RUET 13-14,Hazari Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "5. From the following arrangements of electrons in the atoms of the elements, identify $\\mathrm{Sn}(50)$.",
+      "options": [
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{10} 4 \\mathrm{~s}^{2} 4 \\mathrm{p}^{10} 4 \\mathrm{~d}^{10} 5 \\mathrm{~s}^{2} 5 \\mathrm{p}^{6} 6 \\mathrm{~s}^{1}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{10} 4 s^{2} 4 p^{6} 4 d^{10} 5 s^{2} 5 p^{2}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{10} 4 s^{2} 4 p^{6} 4 d^{10} 5 s^{2} 5 p^{1}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{10} 4 \\mathrm{~s}^{2} 4 \\mathrm{p}^{6} 4 \\mathrm{~d}^{10} 5 \\mathrm{~s}^{2} 5 \\mathrm{p}^{6}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "6. Which one of the following is correct?\n[IMG: https://assets.chorcha.net/sOCkCL48i3JPvRlNb0DZB.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "7. From which of the following Schiff base is produced.",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}+\\mathrm{NH}_{2} \\mathrm{OH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}+\\mathrm{NH}_{3}$",
+        "$\\mathrm{HCHO}+\\mathrm{NH}_{3}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CHO}+\\mathrm{CH}_{3} \\mathrm{NH}_{2}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "8. Which of the following solutions is used to detect the presence of $\\mathrm{Fe}($ III)?",
+      "options": [
+        "$\\mathrm{NH}_{4} \\mathrm{OH}$",
+        "$\\mathrm{NH}_{4} \\mathrm{SCN}$",
+        "$\\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}$",
+        "$\\mathrm{KMnO}_{4}$"
+      ],
+      "tag": "RUET 13-14,Guha Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "9. $0.361 \\mathrm{~g} \\mathrm{CO}_{2}$ and $0.147 \\mathrm{~g} \\mathrm{H}_{2} \\mathrm{O}$ is produced when 0.202 g of a substance is burned, Calculate the percentage of oxygen.",
+      "options": [
+        "$48.74 \\%$",
+        "$56.82 \\%$",
+        "$43.18 \\%$",
+        "$68.04 \\%$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "10. How much amount of copper will deposit on cathode if 2 A current is passed for 60 min through the solution of $\\mathrm{CuSO}_{4}[\\mathrm{Cu}=63.54]$",
+      "options": [
+        "2.368 g",
+        "2.30 g",
+        "3.268 g",
+        "3.30 g",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "11. Which one is not correct?",
+      "options": [
+        "$2 \\mathrm{NH}_{3}(\\mathrm{~g})+3 \\mathrm{CuO}$ (s) $=3 \\mathrm{Cu}(\\mathrm{s})+3 \\mathrm{H}_{2}(\\mathrm{~g})+\\mathrm{N}_{2} \\mathrm{O}_{3}(\\mathrm{~g})$",
+        "$\\mathrm{PtCl}_{4}+2 \\mathrm{HCl}=\\mathrm{H}_{2} \\mathrm{PtCl}_{6}$",
+        "$2 \\mathrm{PbO}_{2}+2 \\mathrm{H}_{2} \\mathrm{SO}_{4}=2 \\mathrm{PbSO}_{4}+\\mathrm{O}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{SO}_{2}+\\mathrm{Cl}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=\\mathrm{H}_{2} \\mathrm{SO}_{4}+2 \\mathrm{HCl}$",
+        "$2 \\mathrm{KMnO}_{4}+3 \\mathrm{H}_{2} \\mathrm{SO}_{4}+5 \\mathrm{H}_{2} \\mathrm{~S}=\\mathrm{K}_{2} \\mathrm{SO}_{4}+2 \\mathrm{MnSO}_{4}+8 \\mathrm{H}_{2} \\mathrm{O}+5 \\mathrm{~S}$"
+      ],
+      "tag": "RUET 13-14,KUET 11-12"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "12. Which one of the following is gasoline or petrol according to carbon chain length?",
+      "options": [
+        "$\\mathrm{C}_{6}-\\mathrm{C}_{7}$",
+        "$\\mathrm{C}_{5}-\\mathrm{C}_{12}$",
+        "$\\mathrm{C}_{5}-\\mathrm{C}_{6}$",
+        "$C_{12}-C_{15}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "13. Calculate the density of $\\mathrm{CO}_{2}$ gas at $100^{\\circ} \\mathrm{C}$ temperature and 1.0526 atm pressure.",
+      "options": [
+        "$1.512 \\mathrm{~gL}^{-1}$",
+        "$2.120 \\mathrm{~gL}^{-1}$",
+        "$10.101 \\mathrm{~gL}^{-1}$",
+        "$5.329 \\mathrm{~gL}^{-1}$",
+        "None"
+      ],
+      "tag": "BNMPC 24,MB 23,RB 21,RUET 13-14,RUET 10-11"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "14. What is the amount of $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ required to prepare 200 mL 0.075 M solution?",
+      "options": [
+        "1.59 g",
+        "10.60 g",
+        "2.18 g",
+        "0.53 g",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "15. The value of $K_{P}$ at $25^{\\circ} \\mathrm{C}$ for the following reaction is $1.9 \\times 10^{3} \\mathrm{~atm}^{-1}$.\nCalculate the value of $\\mathrm{K}_{C}$ at the same temperature. $2 \\mathrm{NO}(\\mathrm{g})+\\mathrm{Cl}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NOCl}(\\mathrm{g})$.",
+      "options": [
+        "$4.6 \\times 10^{4}$",
+        "$3.2 \\times 10^{-3}$",
+        "$5.9 \\times 10^{3}$",
+        "$10.2 \\times 10^{3}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "16. Determine the pH of $0.020 \\mathrm{MBa}(\\mathrm{OH})_{2}$ solution.",
+      "options": [
+        "12.60",
+        "5.36",
+        "8.12",
+        "11.24",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "17. Which compound shows Geometric isomerism?",
+      "options": [
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CCl}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CH}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}=\\mathrm{CHCl}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)_{2}$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 18-19 (SET P),JU A 17-18 (SET 3),Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "18. $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$ is oxidized to produce $\\mathrm{Z}$, which produces ester with $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$. What is $\\mathrm{Z}$ ?",
+      "options": [
+        "$\\mathrm{HCOOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{COOH}$"
+      ],
+      "tag": "DU A 21-22,RUET 13-14,Hazari Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "19. Which one is rectified sprit?",
+      "options": [
+        "$90 \\%$ ethanol and $10 \\%$ water",
+        "$95.6 \\%$ ethanol and $4.4 \\%$ water",
+        "$70 \\%$ ethanol and $30 \\%$ water",
+        "$98 \\%$ ethanol and $2 \\%$ water",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "20. What is produced when phenol is heated with ammonia in presence of $\\mathrm{ZnCl}_{2}$ at $300^{\\circ} \\mathrm{C}$ temperature and high pressure?",
+      "options": [
+        "Benzene",
+        "Benzoic acid",
+        "Glucose",
+        "Nucleic acid",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "21. What is boiling point of Xe?",
+      "options": [
+        "165.05 K",
+        "87.02 K",
+        "119.70 K",
+        "317.15 K",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "22. Which one of the following components of glass is used to manufacture glass bulb of a glass electrode pH meter.",
+      "options": [
+        "$72 \\% \\mathrm{SiO}_{2}, 22 \\% \\mathrm{Na}_{2} \\mathrm{O}$ and $6 \\% \\mathrm{CaO}$",
+        "$72 \\% \\mathrm{SiO}_{2}, 22 \\% \\mathrm{Na}_{2} \\mathrm{O}$ and $6 \\% \\mathrm{Hg}$",
+        "$70 \\% \\mathrm{SiO}_{2}, 24 \\% \\mathrm{Fe}(\\mathrm{OH})_{3}$ and $6 \\% \\mathrm{Fe}_{2} \\mathrm{O}_{3}$",
+        "$72 \\% \\mathrm{SiO}_{2}, 20 \\% \\mathrm{Na}_{2} \\mathrm{O}$ and $8 \\% \\mathrm{CaO}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "23. $30 \\%$ of a first order reaction is completed at the end of 140 s . What is the rate constant of the reaction?",
+      "options": [
+        "$0.000256 \\mathrm{~s}^{-1}$",
+        "$0.0256 \\mathrm{~s}^{-1}$",
+        "$0.00256 \\mathrm{~s}^{-1}$",
+        "$2.56 \\mathrm{~s}^{-1}$"
+      ],
+      "tag": "RUET 13-14,Guha Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "24. How much $\\mathrm{CH}_{4}$ (methane) will require to produce 1335.45 KJ of heat if the enthalpy of combustion of $\\mathrm{CH}_{4}$ is $-890.3 \\mathrm{KJ~mol}^{-1}$.",
+      "options": [
+        "24.4 g",
+        "2.44 g",
+        "24.0 g",
+        "25.0 g",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "25. Which one act as at +ve catalyst of the following reactions.",
+      "options": [
+        "$2 \\mathrm{H}_{2} \\mathrm{O}_{2}$ (aq) $\\xrightarrow{25^{\\circ} \\mathrm{C}} 2 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})+\\mathrm{O}_{2}$ (g)",
+        "$2 \\mathrm{H}_{2} \\mathrm{O}_{2}$ (aq) $\\xrightarrow{\\mathrm{H}_{3} \\mathrm{PO}_{4}} 2 \\mathrm{H}_{2} \\mathrm{O}(\\mathrm{l})+\\mathrm{O}_{2}$ (g)",
+        "$2 \\mathrm{KClO}_{3}(\\mathrm{~s}) \\xrightarrow{\\mathrm{AMnO}_{2}} 2 \\mathrm{KCl}(\\mathrm{s})+3 \\mathrm{O}_{2}$ (g)",
+        "$5(\\mathrm{COOH})_{2}+2 \\mathrm{KMnO}_{4}+3 \\mathrm{H}_{2} \\mathrm{SO}_{4} \\rightarrow \\mathrm{K}_{2} \\mathrm{SO}_{4}+2 \\mathrm{MnSO}_{4}+10 \\mathrm{CO}_{2}+8 \\mathrm{H}_{2} \\mathrm{O}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "26. The bond present between amino acid units in protein molecule is-",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "tag": "JUST 17-18,MAT 14-15,DU A 19-20,RUET 13-14,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "27. Insulin is a-",
+      "options": [
+        "Amino acid",
+        "Protein",
+        "Glucose",
+        "Nucleic acid",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "28. Complete the following reaction ${ }_{13}^{27} \\mathrm{Al}+{ }_{2}^{4} \\mathrm{He} \\rightarrow{ }_{15}^{30} \\mathrm{P}+\\ldots \\ldots$.",
+      "options": [
+        "${ }_{0}^{2} \\mathrm{n}$",
+        "${ }_{-1}^{0} \\mathrm{e}$",
+        "${ }_{1}^{1} \\mathrm{H}$",
+        "${ }_{2}^{4} \\mathrm{H}$",
+        "None"
+      ],
+      "tag": "DU A  10-11,RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "29. Identify the acid from the following.",
+      "options": [
+        "$\\left[\\mathrm{Al}(\\mathrm{OH})\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{5}\\right]^{2+}$",
+        "$\\left[\\mathrm{Al}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{6}\\right]^{3+}$",
+        "$\\left[\\mathrm{Fe}(\\mathrm{OH})_{2}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{4}\\right]^{+}$",
+        "$\\left[\\mathrm{Cu}(\\mathrm{OH})\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{3}\\right]^{+}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "30. Identify Carnalite compound from the following chemical formula.",
+      "options": [
+        "$\\mathrm{Na}_{2} \\mathrm{~B}_{4} \\mathrm{O}_{7} \\cdot 10 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{KCl} \\cdot \\mathrm{MgCl}_{2} \\cdot 6 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{FeSO}_{4} \\cdot\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{SO}_{4} \\cdot 6 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{K}_{2} \\mathrm{O}. \\mathrm{Al}_{2} \\mathrm{O}_{3} \\cdot 6 \\mathrm{SiO}_{2}$",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "1. Choose the correct answer for translation of the following sentence into English.\n“তিনি অসুস্থতার জন্য স্কুলে আসতে পারেননি।”",
+      "options": [
+        "He could not come to school for illness.",
+        "He could not come to school on account for illness.",
+        "He could not come to school due to his illness.",
+        "He could come to school because of illness."
+      ],
+      "tag": "RUET 13-14,RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. Select the correct answer for translation of the following sentence into Bengali. Too much courtesy too much craft.",
+      "options": [
+        "অতিরিক্ত নিয়ম ধ্বংস সাধন করে",
+        "মাত্রাতিরিক্ত ভদ্রতা অতিরিক্ত শিষ্ঠতার পরিচায়ক",
+        "অতিভক্তি চোরের লক্ষণ",
+        "বেশি বেশি নম্রতা বেশি বেশি অবাধ্যতার লক্ষণ"
+      ],
+      "tag": "RUET 13-14,RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. Choose the correct antonym of the word 'Tall'",
+      "options": [
+        "Sort",
+        "Long",
+        "Small",
+        "Dwarf",
+        "None"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4.  Choose the appropriate word to fill in the blank of the following sentence . Change is the ----- of the day .",
+      "options": [
+        "Requirement",
+        "Demand",
+        "Entertainment",
+        "Interest"
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. Find the most correct \"passive voice\" for the following \"active voice\".  \n\"One should keep one's promise\".",
+      "options": [
+        "A promise should be kept by me.",
+        "A promise should be kept",
+        "One's promise must be kept by one.",
+        "None of these"
+      ],
+      "tag": "DAT 16-17,RUET 13-14,CUET 11-12,RU-F 17-18: Set-1,RU C 17-18 (অ-বিজ্ঞান),KU B 19-20,DAT 16-17,RUET 13-14,CUET 11-12"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. Choose the sentence with the correct form of the verb: If I had seen him, I (tell) him the matter.",
+      "options": [
+        "If I had seen him, I told him the matter.",
+        "If I had seen him, I would tell him the matter.",
+        "If I had seen him, I might have told him the matter.",
+        "If I had seen him, I could tell him the matter."
+      ],
+      "tag": "RUET 13-14,RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. Choose the correct sentence:",
+      "options": [
+        "You will forget him gradually.",
+        "You will forget him by and by.",
+        "You will forget him slowly.",
+        "You will forget him slow by slow."
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. What kind of noun is the word 'infantry'?",
+      "options": [
+        "Proper",
+        "Common",
+        "Collective",
+        "Material"
+      ],
+      "tag": "RUET 13-14,RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. Choose the right answer for conversion of the following sentence as directed. When it was daylight, I was half awakened by the sound of chopping. (Make it simple)",
+      "options": [
+        "At daylight I was half awakened by the sound of chopping.",
+        "The sound of chopping makes me half awakened.",
+        "Day light awakened half me through sound of chopping.",
+        "The sound of chopping half awakened me during daylight."
+      ],
+      "tag": "RUET 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. Read the following passage carefully and then choose the correct answer to the question that follows:\nProduction of corn and Soya beans has increased dramatically in the last years as an eco-friendly alternative to fossil fuels but environmental and human right campaigners are worried that this will lead to destruction of rain forests. Food prices could also go up as there is increased competition for crops as both food stuffs and sources of fuel. Recently, the UN warned that bio-fuels could have dangerous side effects and said that steps need to be taken to make sure that land converted to grow bio-fuels does not damage the environment or cause civil unrest. There is already great concern about palm oil, which is used in many foods in addition to being an important bio-fuel, as rain forests are being cleared in some countries and people driven from their homes to create palm oil plantations.\nQuestion: What is the effect of increased production of bio-fuels?",
+      "options": [
+        "It just affects the environment.",
+        "It just affects the food price.",
+        "It just affects the land.",
+        "It just affects the people.",
+        "It affects both people and the environment."
+      ],
+      "tag": "RUET 13-14"
+    }
+  ]
+}

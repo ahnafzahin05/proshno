@@ -1,0 +1,245 @@
+{
+  "title": "MIST 24-25",
+  "questions": [
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "1. The excited electron of the hydrogen atom is transferred from the 2nd orbit to the 1st orbit. In this case, calculate the wave number, wavelength, and frequency of the emitted radiation.\n\n[$\\text{R}_\\text{H} = 1.09678 \\times 10^{-2} \\text{nm}^{-1}$$\\text{c} = 3.0 \\times 10^8 \\text{ms}^{-1}$ ]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "2. How can primary, secondary and tertiary alcohols be distinguished?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "3. What is meant by heat of combustion? If the heat of combustion of methane is $-890.3 \\text{ KJ mol}^{-1}$, how many grams of methane $\\text{CH}_{4}$ and what volume of oxygen at STP will be required to produce $1335.45 \\text{ KJ}$ of heat?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "4. 100 gm mole of $\\text{CH}_4$ gas is being completely combusted in air. What will be the volume of the combustible gas at $0^\\circ\\text{C}$ temperature and 760 mm Hg pressure? (Air contains 29% v/v $\\text{N}_2$ and 21% v/v $\\text{O}_2$)",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "5. Show the half-cell reactions and overall cell reactions for the following electrochemical cells:\n(a) $\\text{Zn} \\mid \\text{Zn}^{++} \\text{ (aq)} \\mid \\text{Cl}^{-} \\text{ (aq)} \\mid \\text{Hg}_{2}\\text{Cl}_{2} \\text{ (s)} \\mid \\text{Hg}$\n(b) $\\text{Pb} \\mid \\text{PbSO}_{4} \\text{ (s)}, \\text{H}_{2}\\text{SO}_{4} \\text{ (aq)} \\mid \\text{PbO}_{2}, \\text{Pb}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "CHEMISTRY-6 (6)",
+      "question": "6. Write down the Van der Waals equation for n moles of a real gas. What is the value of the compressibility factor for 1 mole of such a real gas at its critical point if it obeys the Van der Waals equation?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "1. If $\\alpha$ and $\\beta$ are distinct and $\\alpha^2 = 5\\alpha - 3$ and $\\beta^2 = 5\\beta - 3$, then determine the quadratic equation whose roots are $\\frac{\\alpha}{\\beta}$ and $\\frac{\\beta}{\\alpha}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "2. Determine the area of the region bounded by the curves x=1, y = x - 2 and y2= x.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "3. If the line $\\frac{x}{a} + \\frac{y}{b} = 1$ passes through the point of intersection of the lines $2x - y = 1$ and $3x - 4y + 6 = 0$ and is parallel to the line $4x + 3y - 6 = 0$, then find the values of a and b.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "4. The equation of the directrix of the parabola with vertex $(-1, 1)$ and focus $(2, -3)$ is",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "5. A body falling freely from the top of a tower crosses $\\frac{4}{9}$ of the tower's height in the last second. What is the height of the tower?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "6. Determine the maximum and minimum values of the function $f(x) = x^5 - 5x^4 + 5x^3 - 1$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "7. If $x = a(\\theta + \\sin\\theta)$ and $y = a(1 - \\cos\\theta)$, then find $\\frac{d^2y}{dx^2}$ in terms of $\\frac{\\theta}{2}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "8. In $\\Delta ABC$, if $\\angle A = 105^\\circ$, $\\angle B = 15^\\circ$ and $c = \\sqrt{3} - 1$, then find the sides of the triangle.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "9. $\\lim_{x \\to 0} \\frac{\\sqrt{1+3x} - \\sqrt{1+cx}}{cx} = 1$ if, determine the value of c.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "10. Determine the equation of the ellipse if the coordinates of the foci are $(0, \\pm 3)$ and the equation of the directrix is $3y = \\pm 25$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "11. Evaluate the value of $\\int \\frac{dx}{\\sqrt{x} + \\sqrt{1-x}}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "12. In the equilateral triangle ABC, three concurrent medians of magnitude 3N, 2N, and SN are acting parallel to the sides AB, BC, and CA respectively. Determine the magnitude of their resultant.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "13. The equation $x^2 + ax + b = 0$ and $2x^2 + ax + 16 = 0$ have one common root and if the other root of $2x^2 + ax + 16 = 0$ is $2$, then find the values of $a$ and $b$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "14. The circle $x^2 + y^2 + px + qy + 2 = 0$ has its center on the line $ax - y = 3$. Find the values of $a$, $p$, and $q$ if the circle passes through the points $(0, -2)$ and $(-2, 0)$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "15. Determine the value of $z$ from the equation $|z + 1| = z + 2 (1 + i)$, where $z$ is a complex number.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "16. Determine the square root of: $1 - i\\sqrt{x^2 - 1}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "17.  $4(\\sin^2\\theta + \\cos\\theta) = 5$, where $-2\\pi < \\theta < 2\\pi$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "MATH-18(18)",
+      "question": "18.  $2\\tan^{-1} \\left(\\frac{x-1}{x+1}\\right) = \\tan^{-1} \\frac{1}{\\sqrt{3}}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "ENGLISH-2(2)",
+      "question": "1. Fill in the blank with appropriate word/phrase:",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "ENGLISH-2(2)",
+      "question": "2. Write five sentences on the basis of 'Interim-Government'.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "1. A water-filled pond has a depth of 10 meters, a length of 10 meters, and a width of 5 meters. How many horsepower pumps need to be used to empty the pond of water in 30 minutes? [(g = 980 cms-2)]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "2. The velocity of a simple harmonically vibrating object is $3 \\text{ ms}^{-1}$ when the displacement is 4 meters. Again, the velocity is $4 \\text{ ms}^{-1}$ when the displacement is 3 meters. Determine the amplitude and time period of the vibration.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "3. What magnitude of current should flow through a resistor of $200 \\Omega$ for 42 minutes to produce the heat necessary to raise the temperature of $7.5 \\text{ kg}$ of water from $0^\\circ\\text{C}$ to the boiling point? The specific heat of water is $4200 \\text{ J/kgK}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "4. A motorboat has a speed of 14 kilometers per hour. In which direction should the boat be steered to cross a river? If the width of the river is 12.125 km, how long will it take to cross it? [The current of the river is 7 km per hour]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "5.  In Young's double-slit experiment, the frequency of light is $6\\times 10^{14}$ Hz. The distance between the centers of two adjacent bright fringes is $0.75$ mm. If the screen is at a distance of $1.55$ m, what is the distance between the slits?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "6. Radiation (luminous rays) of 6600A wavelength is incident on a layer of barium oxide at a rate of $3 \\times 10^{-8}$ Watt. Determine the number of photo-electrons emitted per second. Assume that each photon incident on barium oxide exhibits photo-electric action.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "7. The entropy change to convert 1 kg of ice at $\\theta$°C to steam at 100°C is to be determined.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "8. For a transistor with $\\alpha = 0.95$ and $I_E = 1 \\text{ mA}$, find $I_B$. The symbols used here are in their conventional sense.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "9. An object was at rest. A force of 15 N acted on it for 4 sec and then no longer acted. The object then traveled 54 m in 9 sec. Find the mass of the object.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "10. The half-life of radioactive radon is 3.8 days. How much time will it take for 30% of the original atoms to decay?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "11. The radius of our earth is 12800 km. A satellite is revolving in a circular orbit at a speed of $7.8 \\text{ kms}^{-1}$. If the gravitational acceleration of the circular orbit is $9.0 \\text{ ms}^{-2}$, then (a) determine the height of the circular orbit and the time period of one complete revolution.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "12. In a cylinder, the volume of the stored oxygen gas is $1\\times 10^{-2}$ m$^{3}$, the temperature is 300 K, and the pressure is $2.5 \\times 10^{5}$ Nm$^{-2}$. By keeping the temperature constant, some oxygen is released. As a result, the pressure decreases to $1.3\\times 10^{5}$ Nm$^{-2}$. Determine the mass of the used oxygen.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "13. [IMG: https://assets.chorcha.net/JolhO868bsZWiS0ZlUSrd.png]What is the amount of energy stored in the capacitor?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "PHYSICS-14(14)",
+      "question": "14. The normal density of lead is $11.4 \\text{ gcm}^{-3}$ and bulk modulus is $0.8 \\times 10^{10} \\text{ Nm}^{-2}$, what will be the density of lead at a pressure of $3 \\times 10^{8} \\text{ Nm}^{-2}$?",
+      "options": [],
+      "tag": ""
+    }
+  ]
+}

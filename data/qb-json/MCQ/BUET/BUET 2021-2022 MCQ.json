@@ -1,0 +1,996 @@
+{
+  "title": "BUET 2021-2022 MCQ",
+  "questions": [
+    {
+      "subject": "Mathematics(25)",
+      "question": "1. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "2. If the sum and product of the roots of the equation $\\mathrm{kx}^{2}+8 \\mathrm{x}+(\\mathrm{k}+2)=0$ are equal, then what is the value of $\\mathrm{k}$ ?",
+      "options": [
+        "$-10$",
+        "$10$",
+        "$6$",
+        "$-6$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "3. What is the product of slopes of two straight lines which are perpendicular to one another?",
+      "options": [
+        "$1$",
+        "$-1$",
+        "$0$",
+        "$\\text{None}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "4. If $\\left[\\begin{array}{cc}a-3 & -1 \\\\ -8 & a+4\\end{array}\\right]$ is an singubar matrix, then $\\mathrm{a}=$ ?",
+      "options": [
+        "$4,-5$",
+        "$-4,5$",
+        "$-4,-5$",
+        "4,5"
+      ],
+      "tag": "FCC 24,JGCC 24,DCC 24,CPSCM 24,DB 23,CTG.B 23,DB 22,CTG.B 22,JB 21,All.B 18,DU A 09-10,DU A 11-12,BUET 21-22,RU A 22-23,RU C 22-23 (SHIFT 1)"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "5. What is the value of $\\int_{0}^{\\frac{\\pi}{2}} \\sin 2 x \\cdot \\ln (\\tan x) d x$ ?",
+      "options": [
+        "$1$",
+        "$-1$",
+        "$0$",
+        "$\\text{None}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "6. Find the polar coordinate of $(-2 \\sqrt{3}, 2)$.",
+      "options": [
+        "$\\left(4,-30^{\\circ}\\right)$",
+        "$\\left(4,150^{\\circ}\\right)$",
+        "$\\left(4,30^{\\circ}\\right)$",
+        "$\\left(4,210^{\\circ}\\right)$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),JU A 22-23 (SET N),JU A 18-19 (SET A),JU A 16-17 (SET 4),JU A 16-17 (SET 12),BUTEX 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "7. In what ratio does the $y$-axis intersect the line joining the points $(5,2)$ and $(-4,3)$ internally?",
+      "options": [
+        "$2: 3$",
+        "$3: 2$",
+        "$5: 4$",
+        "$4: 5$"
+      ],
+      "tag": "MB 22,BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "8. What is the smallest integral value of $k$ such that $2x (kx - 4) - x^{2} + 6 = 0$ has no real roots?",
+      "options": [
+        "$-1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "9. For what value of $x$ can we get an extreme point of $f(x)=\\frac{1}{3} x^{3}-\\frac{7}{2} x^{2}+10 x+5$ ?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$"
+      ],
+      "tag": "RB 17,BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "10. At what point of $x^{3}+y^{3}=3 x y$ is a tangent parallel to the $x$-axis?",
+      "options": [
+        "$\\left(2^{\\frac{2}{3}}, 2^{\\frac{1}{3}}\\right)$",
+        "$\\left(2^{-\\frac{1}{3}}, 2^{\\frac{2}{3}}\\right)$",
+        "$\\left(2^{\\frac{1}{3}}, 2^{\\frac{2}{3}}\\right)$",
+        "$\\left(2^{\\frac{1}{6}}, 2^{\\frac{1}{3}}\\right)$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "11. The point $(u, v)$ on the $x$-axis is equidistant from $(-10,0)$ and $\\mathrm{(-5,5) . u+v=}$ ?",
+      "options": [
+        "$5$",
+        "$-5$",
+        "$6$",
+        "$-6$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "12. The vertex of $y=a x^{2}+b x+c$ is $(2,3)$ and it passes through $(0,5)$, Then $(a, b, c)$ ?",
+      "options": [
+        "$\\left(\\frac{1}{2}, 2,-5\\right)$",
+        "$\\left(\\frac{1}{2}, 2,5\\right)$",
+        "$\\left(-\\frac{1}{2}, 2,5\\right)$",
+        "$\\left(\\frac{1}{2},-2,5\\right)$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "13. If the foci of $\\mathrm{ \\frac{x^{2}}{144}-\\frac{y^{2}}{81}=1 }$ and $\\mathrm{ \\frac{x^{2}}{256}+\\frac{y^{2}}{b}=1}$ are the same then $b=$ ?",
+      "options": [
+        "$-31$",
+        "$32$",
+        "$31$",
+        "$-32$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "14. Determine the equation of the asymptotes of the hyperbola, $4 x^{2}-9 y^{2}-16 x+18 y-29=0$",
+      "options": [
+        "$2 x-3 y+7=0 \\\\ 2 x-3 y+1=0$",
+        "$\\begin{array}{l}2 x+3 y-7=0 \\\\ 2 x-3 y-1=0\\end{array}$",
+        "$2 x-3 y+1=0 \\\\  2 x-3 y-7=0$",
+        "None"
+      ],
+      "tag": "NDCD 24,RB 23,MB 22,MBSTU 18-19,BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "15.  Find the equation of the straight line passing through the point of intersection of the two lines $2 x+3 y=$ 1 and $3 x+2 y=1$ and the point $(1,1)$.",
+      "options": [
+        "$\\mathrm{ x+y=0}$",
+        "$\\mathrm{x-y=0}$",
+        "$\\mathrm{x}+\\mathrm{y}=1$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "16. If $A=\\left(\\begin{array}{cc}-2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2}\\end{array}\\right)$, then $A^{-1}$ is-",
+      "options": [
+        "$\\left(\\begin{array}{ll}1 & 3 \\\\ 2 & 4\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}1 & 0 \\\\ 0 & 1\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}3 & 4 \\\\ 1 & 2\\end{array}\\right)$",
+        "$\\left(\\begin{array}{ll}1 & 2 \\\\ 3 & 4\\end{array}\\right)$"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 22-23 (SET I),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5)"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "17. $\\left|\\begin{array}{lll}1 & 2 & 3 \\\\ 2 & 3 & 1 \\\\ 3 & 3 & 4\\end{array}\\right|=$ ?",
+      "options": [
+        "$-10$",
+        "$10$",
+        "$0$",
+        "$\\text{None}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "18. The major and minor axes of an ellipse are 36 units and 20 units respectively. What is the distance between the two foci?",
+      "options": [
+        "$\\sqrt{\\frac{14}{9}}$ unit",
+        "$8 \\sqrt{14}$ unit",
+        "$4 \\sqrt{28}$ unit",
+        "$\\frac{8 \\sqrt{14}}{9}$ unit"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "19. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "20. [IMG: https://assets.chorcha.net/t1hj36eWH3FGiBe-2psSo.png]If a wooden frame of mass $5 \\mathrm{~kg}$ is suspended by two ropes $\\mathrm{AB}, \\mathrm{AC}$ of equal length in the figure, then the tension of each rope $\\mathrm{T}=$ ?",
+      "options": [
+        "$\\frac{5}{\\sqrt{2}} \\mathrm{~kg}-\\mathrm{wt}$",
+        "$5 \\sqrt{2} \\mathrm{~kg} \\mathrm{-wt}$",
+        "$\\frac{\\sqrt{2}}{\\mathrm{~s}} \\mathrm{~kg}-\\mathrm{wt}$",
+        "$\\frac{5}{2} \\mathrm{~kg}\\mathrm{-wt}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "21. A $4 \\mathrm{~m}$ long plank weighing $15 \\mathrm{~kg}$ is horizontally stable on two pillars. One of the pillars is at the $A$ end and the other one is located $50 \\mathrm{~cm}$ inwards from the $B$ end. If a boy manages to go from end $A$ to $B$ without turning the plank upside down then what will be the weight of the boy?",
+      "options": [
+        "30kg",
+        "35 kg",
+        "40 kg",
+        "45 kg"
+      ],
+      "tag": "BUET 21-22,JU H 20-21 (SET A)"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "22. Find the distance of the point $(2,3)$ from the line $4 x+2 y=1$.",
+      "options": [
+        "$\\frac{13 \\sqrt{5}}{\\sqrt{10}}$ unit",
+        "$\\frac{13 \\sqrt{10}}{\\sqrt{5}}$ unit",
+        "$\\frac{\\sqrt{13}}{10}$ unit",
+        "$\\frac{13 \\sqrt{5}}{10}$ unit"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "23. $1+\\sec ^{2}\\left(\\cot ^{-1} 2\\right)+1+\\operatorname{cosec}^{2}\\left(\\tan ^{-1} 2\\right)=$ ?",
+      "options": [
+        "$7$",
+        "$8$",
+        "$9$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "24. Equation of the parabola having focus $(3,2)$ and Vertex $(-1,2)$ is ;",
+      "options": [
+        "$(x+1)^2=16(y-2)$",
+        "$(x-1)^2=16(y+2)$",
+        "$(y-2)^2=16(x+1)$",
+        "$(y+2)^2=16(x-1)$"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),JU A 18-19 (SET P),JU H 16-17 (SET 3)"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "25. What is the area bounded by the curve $\\sqrt{x}+\\sqrt{y}=1$ between the two axes?",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{12}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "1. Which one is correct in case of inertial frame of reference?",
+      "options": [
+        "Follows Newton's laws of motion",
+        "Moves with non-uniform velocity",
+        "Does not follow the law of inertia",
+        "Has acceleration"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "2. A motor lifts $60 \\mathrm{~L}$ of water per minute to a roof $100 \\mathrm{~m}$ high. If the efficiency of the motor is $70 \\%$, what is its power?",
+      "options": [
+        "$1400 \\mathrm{~W}$",
+        "$0.14 \\mathrm{~kW}$",
+        "$14 \\mathrm{MW}$",
+        "$0.14 \\mathrm{MW}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "3. Frequency of a simple pendulum with amplitude $6.2 \\mathrm{~m}$ and velocity $0.32 \\mathrm{~ms}^{-1}$ -",
+      "options": [
+        "$0.82 \\mathrm{~s}^{-1}$",
+        "$0.082 \\mathrm{~s}^{-1}$",
+        "$0.0082 \\mathrm{~s}^{-1}$",
+        "$0.8 \\mathrm{~s}^{-1}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "4. What is the coefficient of performance of a refrigerator that rejects $700 \\mathrm{~J}$ heat to the heat sink and removes $400 \\mathrm{~J}$ heat from the cold chamber?",
+      "options": [
+        "$1.83$",
+        "$1.15$",
+        "$0.55$",
+        "$1.33$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "5. A vector $\\vec{A}$ acts at an angle of $30^{\\circ}$ to the positive $x$-axis. Another vector $\\vec{B}$ is directed towards the negative $\\vec{y}$ axis. If $|A|=4,|B|=8$, what is the resultant vector?",
+      "options": [
+        "$2 \\sqrt{3 \\hat{i}}+6 \\hat{\\mathbf{j}}$",
+        "$\\sqrt{7} \\hat{i}-3 \\hat{j}$",
+        "$2 \\sqrt{3 \\hat{i}}-6 \\hat{\\mathrm{j}}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "6. Determine the position where the kinetic energy of the freely falling body from 30 m of height will be twice of its potential energy.",
+      "options": [
+        "10 m",
+        "25 m",
+        "28 m",
+        "None of these"
+      ],
+      "tag": "RU C 21-22 (GROUP 2),BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "7. If $\\vec{a}$ and $\\vec{b}$ act perpendicularly, then how much is the dot product of $(\\vec{a}+\\vec{b})$ and $(\\vec{a}-\\vec{b})$ ?",
+      "options": [
+        "$0$",
+        "$4 \\mathrm{a}$",
+        "$2 \\mathrm{a}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "8. If a stationary $\\mathrm{e}^{-}$moves at a velocity of $0.98 \\mathrm{c}$, by what percentage will its mass increase?",
+      "options": [
+        "$457$",
+        "$407$",
+        "$721$",
+        "$615$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "9. If linear momentum of a body is increased by 50% then what % of kinetic energy will increase?",
+      "options": [
+        "25%",
+        "50%",
+        "150%",
+        "125%"
+      ],
+      "tag": "RU H 16-17 (G-ODD)"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "10. What is the Boltzmann's equation of mean free path?",
+      "options": [
+        "$\\frac{1}{\\sqrt{2} n \\pi \\sigma^{2}}$",
+        "$\\frac{3}{4 n \\pi \\sigma^{2}}$",
+        "$\\frac{1}{n \\pi \\sigma^{2}}$",
+        "$\\frac{4}{3 n \\pi \\sigma^{2}}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "11. In Young's two-crack test, the distance between the cracks is 2.0 mm. Find the wavelength of the light if the distance between the stripes is 0.295 mm above the screen at a distance of 1 m from this point.",
+      "options": [
+        "5.90 Å",
+        "59.0 Å",
+        "5900 Å",
+        "59000 Å"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU H 20-21 (SET A),BUTEX 22-23,BUTEX 21-22,BUTEX 13-14,BUTEX 05-06"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "12. What is the total kinetic energy of $3 \\mathrm{~g}$ nitrogen at $29^{\\circ} \\mathrm{C}$ temperature in Joule unit?",
+      "options": [
+        "323",
+        "383",
+        "403",
+        "423"
+      ],
+      "tag": "DCC 24,MB 23,CTG.B 19,JUST 19-20,JUST 18-19,JUST 16-17,BUET 21-22,RU A 22-23,RU C 22-23 (SHIFT 1),JU A 22-23 (SET N)"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "13. An object is being pulled by a force of $15 \\mathrm{~N}$ at an angle of $40^{\\circ}$ with the horizontal. What is the acceleratior if the mass of the object is $3.5 \\mathrm{~kg}$ and the coefficient of friction between the object and the floor is 0.25 ?",
+      "options": [
+        "$1.522 \\mathrm{~ms}^{-2}$",
+        "$1.183 \\mathrm{~ms}^{-2}$",
+        "$1.575 \\mathrm{~ms}^{-2}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "14. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "15. A vector in the xy plane makes an angle of $130^{\\circ}$ with the $x$-axis. How much angle does it make with the negative $y$-axis?",
+      "options": [
+        "$-130^{\\circ}$",
+        "$40^{\\circ}$",
+        "$140^{\\circ}$",
+        "$-40^{\\circ}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "16. An object of mass $m$ is being lifted up with a velocity $v$. What is the applied power?",
+      "options": [
+        "$\\mathrm{mv}$",
+        "$\\mathrm{mgv}$",
+        "$\\frac{\\mathrm{mg}}{\\mathrm{v}}$",
+        "$\\frac{\\mathrm{mv}^{2}}{2 \\mathrm{~g}}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "17. What will be the equivalent resistance when three $30 \\Omega$ resistances are in parallel?",
+      "options": [
+        "$\\frac{3}{10} \\Omega$",
+        "$10 \\Omega$",
+        "$\\frac{1}{10} \\Omega$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "18. The resistance of a galvanometer is $90 \\Omega$. If $80 \\%$ of current flows through the shunt, what is the resistance of the shunt?",
+      "options": [
+        "$22 \\Omega$",
+        "$22.4 \\Omega$",
+        "$22.5 \\Omega$",
+        "$22.3 \\Omega$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "19. If the heat absorbed is ΔQ = 700 J and the work done is ΔW = 200 J, how much will the internal energy of a system increase?",
+      "options": [
+        "900 J",
+        "700 J",
+        "600 J",
+        "500 J"
+      ],
+      "tag": "PCC 24,FGCC 24,BISCM 24,SB 23,JB 21,SB 19,CB 17,BUET 21-22,RUET 12-13,JU A 18-19 (SET A)"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "20. Volume of Hellium at $15^{\\circ} \\mathrm{C}$ gas is suddenly increased by 8 times. What will be the new temperature? $\\left[\\gamma=\\frac{5}{3}\\right]$",
+      "options": [
+        "$120^{\\circ} \\mathrm{C}$",
+        "$-12^{\\circ} \\mathrm{C}$",
+        "$-201^{\\circ} \\mathrm{C}$",
+        "$201^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "IU 19-20,BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "21. Transistor can be used as-",
+      "options": [
+        "A rectifier",
+        "An amplifier",
+        "A switch",
+        "Amplifier and switch"
+      ],
+      "tag": "BUET 21-22,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "22. Phase difference of input and output signal in common emitter circuit",
+      "options": [
+        "$0^{\\circ}$",
+        "$45^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "tag": "RU C 21-22 (GROUP 1)"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "23. A particle performing $SHM$ is found at its equilibrium at $t=1\\ sec$ and it is found to have a speed of $0.25\\ m/s$ at $t=2\\:s$. If the period of oscillation is $6\\ sec$, calculate amplitude of oscillation.",
+      "options": [
+        "$\\displaystyle\\frac{3}{2\\pi}\\:m$",
+        "$\\displaystyle\\frac{3}{4\\pi}\\:m$",
+        "$\\displaystyle\\frac{6}{\\pi}\\:m$",
+        "$\\displaystyle\\frac{3}{8\\pi}\\:m$"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),Tofazzal Sir,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "24. The period of simple pendulum is measured as $T$ in a stationary lift. If the lift moves upward with an acceleration of ; $5\\ g$, the period will be",
+      "options": [
+        "The same",
+        "Increased by $3/5$",
+        "Decreased by $2/3$ times",
+        "None of the above"
+      ],
+      "tag": "BUET 21-22,BUET 5-6"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "25. A car moving at $50 \\mathrm{kmh}^{-1}$ stops suddenly. By doing this, a passenger of mass $50 \\mathrm{~kg}$ sitting inside the car leans forward $61 \\mathrm{~cm}$. What is the force applied to the upper part of the passenger's body?",
+      "options": [
+        "$7905.756 \\mathrm{~N}$",
+        "$7905.788 \\mathrm{~N}$",
+        "$7906.887 \\mathrm{~N}$",
+        "$7905.787 \\mathrm{~N}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "26. Which two of the following gates are called universal gates?",
+      "options": [
+        "NAND & NOR",
+        "AND & OR",
+        "OR & NOT",
+        "NAND & X-NOR"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),Ishaque Sir,Tapan Sir,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "27. What is the value of R in SI units?",
+      "options": [
+        "0.082 $\\left(Jk\\right)^{- 1}\\left(mol\\right)^{- 1}$",
+        "1.987 $\\left(Jk\\right)^{- 1}\\left(mol\\right)^{- 1}$",
+        "8.314 $Jk^{-1}mol^{-1}$",
+        "None"
+      ],
+      "tag": "RU F (GROUP 1)"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "28. The distance between any two legs of a spherometer is $51 \\mathrm{~mm}, 47 \\mathrm{~mm}, 52 \\mathrm{~mm}$ respectively. If the height of curvature of a planoconvex lens is $3.82 \\mathrm{~mm}$ above the plane surface, what is the radius of curvature of the lens?",
+      "options": [
+        "$11.985 \\mathrm{~mm}$",
+        "$110.986 \\mathrm{~mm}$",
+        "$110.985 \\mathrm{~mm}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "29. What is the frequency of[IMG: https://assets.chorcha.net/CZdQQQE0V_2Q9EEEENyDI.png]",
+      "options": [
+        "$\\frac{1}{2 \\pi} \\sqrt{\\frac{M}{k_{1}+k_{2}}}$",
+        "$\\frac{1}{2 \\pi} \\sqrt{\\frac{k_{1}+k_{2}}{M}}$",
+        "$2 \\pi \\sqrt{\\frac{M}{k_{1}+k_{2}}}$",
+        "$2 \\pi \\sqrt{\\frac{k_{1}+k_{2}}{M}}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "30. The resistance vs temperature graph of Conductor-",
+      "options": [
+        "[IMG: https://assets.chorcha.net/PvLbGNW7xAKjkI-nDaMvr.png]",
+        "[IMG: https://assets.chorcha.net/hTFxlNPbdLolmViUnXp7h.png]",
+        "[IMG: https://assets.chorcha.net/DmriSufQuK4kADQPhw5oP.png]",
+        "[IMG: https://assets.chorcha.net/RU7XwYQvdYL9XmMwGOG7X.png]"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "31. Which is not an electromagnetic wave?",
+      "options": [
+        "visible light",
+        "X-rays",
+        "gamma rays",
+        "Alpha rays"
+      ],
+      "tag": "RU C 15-16 (G-EVEN),Ishaque Sir,Tapan Sir,Tofazzal Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "32. Each of two masses having $0.05 \\mathrm{~kg}$ is attached of in and of same element suspended from firm support. he diameters of the wires are respectively $2 \\mathrm{~mm}$ and $4 \\mathrm{~mm}$ (young’s modulus = $2\\ \\times10^{11}Nm^{-2}$)",
+      "options": [],
+      "tag": "RU C 20-21 (GROUP 1),Ishaque Sir,Pramanik Sir,BUTEX 20-21,BUTEX 18-19,BUTEX 09-10"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "33. Which one of the following is called thermal radiation?",
+      "options": [
+        "IR-radiation",
+        "X-radiation",
+        "$\\gamma$-radiation",
+        "UV-radiation"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "1. Which of the following has the highest proportion of greenhouse gases?",
+      "options": [
+        "Carbon dioxide",
+        "CFC",
+        "Hydrogen peroxide",
+        "Nitrous oxide"
+      ],
+      "tag": "RU C 17-18 (GROUP 1),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 16-17 (SET 4),Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "2. Number of molecules in $1.008 \\mathrm{~g} \\mathrm{H}_{2}-$",
+      "options": [
+        "$6.023 \\times 10^{23}$",
+        "$12.046 \\times 10^{23}$",
+        "$3.0115 \\times 10^{23}$",
+        "$6.023 \\times 10^{22}$"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU D 19-20 (SET F),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "3. Kinetic energy of 1 mol gas is-",
+      "options": [
+        "$\\frac{3 \\mathrm{RT}}{\\mathrm{N}_{\\mathrm{A}}}$",
+        "$\\frac{3 n R T}{2}$",
+        "$\\frac{3 \\mathrm{R}}{\\mathrm{N}_{\\mathrm{A}}}$",
+        "$\\frac{3 R T}{2}$"
+      ],
+      "tag": "RB 23,MB 22,BB 17,BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "4. How many hydrogen atoms when arranged side by side will have a length of $1 \\mathrm{~m}$ ? [Assume, the radius of each hydrogen atom to be $0.53 \\AA$ ]",
+      "options": [
+        "$1.8 \\times 10^{10}$",
+        "$1.8868 \\times 10^{10}$",
+        "$1.787 \\times 10^{10}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "5. Which ion is colorless?",
+      "options": [
+        "$\\mathrm{Sc}^{3+}$",
+        "$\\mathrm{Fe}^{2+}$",
+        "$\\mathrm{No}^{2+}$",
+        "$\\mathrm{Fe}^{3+}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "6. Which is Lucas reagent?",
+      "options": [
+        "$\\mathrm{HI}+\\mathrm{ZnCl}_{2}$",
+        "$\\mathrm{HCl}+\\mathrm{ZnCl}_{2}$",
+        "$\\mathrm{HI}+\\mathrm{ZnO}$",
+        "$\\mathrm{HCl}+\\mathrm{ZnO}$"
+      ],
+      "tag": "DRMC 24,PUST 16-17,BUET 21-22,RUET 10-11"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "7. Which one is true for the following $\\mathrm{e}^{-}$configuration?[IMG: https://assets.chorcha.net/qRcMoU8LFloeP22oOwkyf.png]",
+      "options": [
+        "Didn't follow Hund's rule",
+        "Aufbau principle is violated",
+        "Pauli's exclusion principle is violated",
+        "None of the above"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "8. What is the amount of $\\mathrm{Na}^{+}$in $1000 \\mathrm{~mL} 0.1 \\mathrm{M} \\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3}$ ?",
+      "options": [
+        "$2.3 \\mathrm{~g}$",
+        "$0.46 \\mathrm{~g}$",
+        "$0.23 \\mathrm{~g}$",
+        "$4.6 \\mathrm{~g}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "9. Which one forms the most compounds?",
+      "options": [
+        "$\\mathrm{O}$",
+        "$\\mathrm{H}$",
+        "$\\mathrm{S}$",
+        "$\\mathrm{C}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "10. Gives quick reaction with the Lucas reagent-",
+      "options": [
+        "$3^{\\circ}$ alcohol",
+        "$2^{\\circ}$ alcohol",
+        "$1^{\\circ}$ alcohol",
+        "Primary alcohol"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "11. Which metal is present in snake venom?",
+      "options": [
+        "$\\mathrm{Pb}$",
+        "$\\mathrm{Zn}$",
+        "$\\mathrm{Cr}$",
+        "$\\mathrm{Fe}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "12. If $0.34 \\mathrm{gm}$ of any compound is burned and $0.14 \\mathrm{gm} \\mathrm{CO}_{2}$ is obtained, what is the percentage composition of $\\mathrm{C}$ in that compound?",
+      "options": [
+        "$11.19 \\%$",
+        "$11.32 \\%$",
+        "$11.23 \\%$",
+        "$11.45 \\%$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "13. What concentration of $490 \\mathrm{~mL} \\mathrm{HCl}$ has a $\\mathrm{pH}$ of 2.87 ?",
+      "options": [
+        "$1.35 \\times 10^{-3} \\mathrm{M}$",
+        "$1.35 \\times 10^{-4} \\mathrm{M}$",
+        "$1.35 \\times 10^{-2} \\mathrm{M}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "14. Which metal can be solid in winter but liquid in summer at normal temperature in Bangladesh?",
+      "options": [
+        "$\\text{Cs}$",
+        "$\\mathrm{Mg}$",
+        "$\\mathrm{Na}$",
+        "$\\mathrm{K}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "15. What is used in detection of $\\mathrm{Ca}^{2+}$ ?",
+      "options": [
+        "$\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$",
+        "$\\mathrm{K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$",
+        "$\\mathrm{KOH}+\\mathrm{K}_{2}\\left[\\mathrm{HgI}_{4}\\right]$",
+        "Cu grains"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "16. In structure of $\\mathrm{PCl_5}$,what type of hybridization happens in $\\mathrm{`P’}$",
+      "options": [
+        "$\\mathrm{sp}^{2}$",
+        "$\\mathrm{sp}$",
+        "$\\mathrm{sp}^{3} \\mathrm{~d}$",
+        "$\\mathrm{sp}^{3}$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),JU A 19-20 (SET P),Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "17. Which of the following is a meta indicator?",
+      "options": [
+        "Br",
+        "-NO2",
+        "NH2",
+        "NHCOCH3"
+      ],
+      "tag": "MAT 11-12,BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "18. Which one of the following reactions has the same value of $K_{p}$ and $K_{c}$ ?",
+      "options": [
+        "$\\mathrm{N}_{2}$ (g) $+3 \\mathrm{H}_{2}$ (g) $\\rightleftharpoons 2 \\mathrm{NH}_{3}(\\mathrm{~g})$",
+        "$\\mathrm{PCl}_{5}(\\mathrm{~g}) \\rightleftharpoons \\mathrm{PCl}_{3}(\\mathrm{~g})+\\mathrm{Cl}_{2}(\\mathrm{~g})$",
+        "$\\mathrm{I}_{2}(\\mathrm{~g})+\\mathrm{H}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{HI}(\\mathrm{g})$",
+        "$\\mathrm{N}_{2} \\mathrm{O}_{4}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NO}_{2}(\\mathrm{~g})$"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "19. The value of $\\mathrm{pK}_{\\mathrm{a}}$ of four acids are given : $\\mathrm{A} \\rightarrow 3.1, \\mathrm{~B} \\rightarrow 4.2, \\mathrm{C} \\rightarrow 6.5, \\mathrm{D} \\rightarrow 1.8$; Which acid the most powerful?",
+      "options": [
+        "$\\text{D}$",
+        "$\\text{C}$",
+        "$\\text{A}$",
+        "$\\text{B}$"
+      ],
+      "tag": "RB 21,BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "20. At $38.5^{\\circ} \\mathrm{C}$ the pressure in the gas cylinder is $6 \\mathrm{~atm}$. The cylinder explodes at a temperature of $350^{\\circ} \\mathrm{C}$ when it is thrown into a fire. What is the maximum pressure it withstands?",
+      "options": [
+        "$4 \\mathrm{~atm}$",
+        "$6 \\mathrm{~atm}$",
+        "$8 \\mathrm{~atm}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "21. If $\\mathrm{K}_{\\mathrm{p}}=5.36, \\mathrm{~K}_{\\mathrm{c}}=4.2 \\times 10^{-2}$, what is the temperature of the reaction $\\mathrm{PCl}_{5} \\rightleftharpoons \\mathrm{PCl}_{3}+\\mathrm{Cl}_{2}$ ?",
+      "options": [
+        "$1282 \\mathrm{~K}$",
+        "$1555^{\\circ} \\mathrm{C}$",
+        "$1828 \\mathrm{~K}$",
+        "$1282^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "22. How many grams of $\\mathrm{C}_{6} \\mathrm{H}_{12} \\mathrm{O}_{6}$ are present in $0.01 ~\\mathrm{M}~ 600~ \\mathrm{~mL}$ solution?",
+      "options": [
+        "$1.08 \\mathrm{~g}$",
+        "$10.8 \\mathrm{~g}$",
+        "$0.108 \\mathrm{~g}$",
+        "$1.8 \\mathrm{~g}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "23. Which one is produced in the acylation reaction of benzene?",
+      "options": [
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COCl}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COCH}_{3}$",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "24. Which one of the following has the highest solubility?",
+      "options": [
+        "$\\mathrm{NaF}$",
+        "$\\mathrm{RbF}$",
+        "$\\mathrm{LiF}$",
+        "$\\mathrm{CsF}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "25. How many grams $\\mathrm{MgO}$ can be obtained from $2.4 \\mathrm{~g} \\mathrm{Mg}$ ?\n$2 \\mathrm{Mg}+\\mathrm{O}_{2}=2 \\mathrm{MgO}$",
+      "options": [
+        "$4 \\mathrm{~g}$",
+        "$0.4 \\mathrm{~g}$",
+        "$4.2 \\mathrm{~g}$",
+        "$2.1 \\mathrm{~g}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "26. Question",
+      "options": [
+        "Option A",
+        "Option B",
+        "$-0.63 \\mathrm{~V}$",
+        "$0.63 \\mathrm{~V}$"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "27. Which one acts as both oxidant and reductant?",
+      "options": [
+        "$\\mathrm{FeSO}_{4}$",
+        "$\\mathrm{KI}$",
+        "$\\mathrm{H}_{2}$",
+        "$\\mathrm{H}_{2} \\mathrm{O}_{2}$"
+      ],
+      "tag": "RCC 24,JGCC 24,RUMC 24,DCC 24,RB 23,JB 23,DB 22,JB 22,BB 17,HSTU 16-17,MBSTU 19-20,MBSTU 18-19,MBSTU 16-17,Agri. GST 19-20,MAT 17-18,MAT 19-20,MAT 22-23,CU A 16-17,BUET 21-22,BUET 11-12,BUET 10-11,CKRUET 22-23,JU D 15-16 (SET 5),Lingcon Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "28. Which of the following is used to detect Na+ ions in solution?",
+      "options": [
+        "(NH4)2C2O4",
+        "K2H2Sb2O7",
+        "Na2H2Sb2O7",
+        "AgNO3"
+      ],
+      "tag": "CTG.B 23,CTG.B 17,MAT 16-17,DAT 16-17,BUET 21-22,BUET 22-23,JU A 16-17 (SET 12),JU D 16-17 (SET 3)"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "29. Which is produced when $\\mathrm{CH}_{3} \\mathrm{COOH}$ is reduced by $\\mathrm{LiAlH}_{4}$ ?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$ cannot be reduced",
+        "None"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "30. What is used as a raw material for the industrial production of Portland cement?",
+      "options": [
+        "$3 \\mathrm{CaO} \\cdot \\mathrm{SiO}_{2}$",
+        "$\\mathrm{CaSO}_{4} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "MgO",
+        "$3 \\mathrm{CaO} \\cdot \\mathrm{Al}_{2} \\mathrm{O}_{3}$"
+      ],
+      "tag": "SB 17,JUST 18-19,HSTU 18-19,BUET 21-22,JU A 15-16 (SET 3)"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "31. What happens to a food of $35 \\%$ relative humidity when it is placed in a solution of $80 \\%$ humidity?",
+      "options": [
+        "Food will rot quickly",
+        "Food will rot slowly",
+        "No change of food will take place",
+        "None of the above"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "32. The temperature of stratosphere is higher, because-",
+      "options": [
+        "it is very close to the Earth",
+        "it is very close to the Sun",
+        "special chemical reaction takes place",
+        "for absorption of lays by ozone layer"
+      ],
+      "tag": "BUET 21-22"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "33. Which one has more food value?",
+      "options": [
+        "Water",
+        "Sugar",
+        "Meat",
+        "Cheese"
+      ],
+      "tag": "BUET 21-22"
+    }
+  ]
+}

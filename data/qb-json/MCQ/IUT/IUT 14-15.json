@@ -1,0 +1,979 @@
+{
+  "title": "IUT 14-15",
+  "questions": [
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "1. On a planet with an unknown value of g, the period of a 0.65 m long pendulum is 2.8 s . What is g for this planet?",
+      "options": [
+        "2.27ms-2",
+        "2.95ms-2",
+        "3.95ms-2",
+        "3.27ms-2"
+      ],
+      "tag": "IUT 16-17,IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "2. A 75kg boy and a 60kg girl use an elastic rope while engaged in a tug of war on a frictionless surface.If the acceleration of the girl toward the boy is $3.0\\ ms^{-2}$, what is the magnitude of acceleration of the boy toward the girl ?",
+      "options": [
+        "2.75ms-2",
+        "5.6ms-2",
+        "3.25ms-2",
+        "2.40ms-2"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "3. A 615kg racing car completes one lap in 14.3s around a circular track with a radius of 50m.The car moves at constant speed.What is the centripetal acceleration of the car ?",
+      "options": [
+        "9.65ms-2",
+        "9.80ms-2",
+        "10.25ms-2",
+        "9.25ms-2"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "4. The moon has a period of 27.3 days and has a mean distance of 3.90 x 105km from the centre of Earth. What is the period of an artificial satellite that is in an orbit 6.70 x 103km from the centre of Earth ?",
+      "options": [
+        "90.52 min",
+        "78.52 min",
+        "88.52 min",
+        "82.52 min"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "5. A 1325kg car moving north at 27.0ms-1 collides with a 2165kg car moving east at 17.0ms-1.They stick together.With what speed do they move after collision?",
+      "options": [
+        "12.7ms -1",
+        "13.7ms -1",
+        "10.2ms-1",
+        "14.7ms -1"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "6. The third floor of a house is 8.0m above the street level. How much work is needed to move a 150kg refrigerator to this third floor?",
+      "options": [
+        "9.5 kJ",
+        "10.8 kJ",
+        "11.8 kJ",
+        "12.8 kJ"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "7. A 6 x 102g sample of water at 90oC is mixed with 4.00 x 102g of water at 22oC.Assume no heat loss at the surroundings. What is the final temperature of this mixture?",
+      "options": [
+        "66.8oC",
+        "62.8oC",
+        "42.5oC",
+        "52.8oC"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "8. A 4.2g lead bullet moving at 275ms-1 strikes a steel plate and stops. If all its kinetic energy is coverted to thermal energy and none leaves the bullet, what is its temperature change? [Specific heat of lead is 130 j/kgoC]",
+      "options": [
+        "255oC",
+        "291oC",
+        "300oC",
+        "272oC"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "9.  A boy is floating in a freshwater lake with his head just above the water . If he weights 600N, what is the volume of the submerged part of his body?",
+      "options": [
+        "0.061m3",
+        "0.085m3",
+        "0.091m3",
+        "0.075m3"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "10. A light source is located 2.0m below the surface of a swimming pool and 1.5m from one edge of the pool.The pool is filled to the top with water. At what angle does the light reaching the edge of the pool leave the water?",
+      "options": [
+        "63 o",
+        "45 o",
+        "53 o",
+        "65 o"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "11. A jeweler inspects a watch with a diameter of 3.0cm by placing it 8.0m in front of a concave mirror of 12.0cm focal length. Where will the image of the watch appear?",
+      "options": [
+        "-24cm",
+        "-18cm",
+        "-19cm",
+        "-22cm"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "12. What work is done when 5.0C charge is moved through an electric potential difference of 1.5V?",
+      "options": [
+        "8.3J",
+        "8.5J",
+        "7.5J",
+        "7.8J"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "13. A 2.2μF capacitor is first charged so that the electric potential difference is 6.0V. How much additional charge is needed to increase the electric potential difference to 15.0V?",
+      "options": [
+        "18.7μC",
+        "19.4μC",
+        "18.8μC",
+        "19.8μC"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "14. How many more minutes would it take light from the Sun to reach Earth if the space between then were filled with water rather than vacuum? [The sun is 1.5 x 108km from Earth.]",
+      "options": [
+        "2.25 min",
+        "2.78 min",
+        "3.75 min",
+        "2.60 min"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "15. A heating coil of resistance 4ohm and operates at 220V AC.If the coil is immersed in an insulated container holding 20 kg of water for 5 minutes,what will be the increase of temperature of water? Assume that 100% heat is observed by water.",
+      "options": [
+        "43.21°C",
+        "49.25°C",
+        "46.25°C",
+        "45.50°C"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "16. Mohammed needs 5V for some Inegrated circuit experiments.He uses a 6 V battery and two resistors to make a potential divider. One resistor is 330 ohm.He decides to make the other resistors smaller,what value should it have?",
+      "options": [
+        "60 ohm",
+        "78 ohm",
+        "66 ohm",
+        "76 ohm"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "17. The amplitude of an AC current is 50 A and It's frequency is 50 Hz.How much time  will it be required to reach the first peak?[P-2.3, IUT : 2014-15]",
+      "options": [
+        "5 ms",
+        "4 ms",
+        "6 ms",
+        "4.5 ms"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "18. A space ship is 98m long.How first would it have to moving to appear only 49m?",
+      "options": [
+        "2.25×108 m/s",
+        "2.75×108 m/s",
+        "2.60×108 m/s",
+        "1.85×108 m/s"
+      ],
+      "tag": "IUT 14-15,IUT 13-14"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "19. A tank of helium gas is used to inflate a toy ballon is at 15.5×106 pa pressure at 293 k. It's volume is 0.20m3. How large ballon would fill it at 1 atmosphere at 323k.",
+      "options": [
+        "33.70 m3",
+        "3.40m3",
+        "4.70m3",
+        "4.30m3"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "20. A 50gm mass vibrating up and down at the end of a spring has its position given by y=0.150Sin3t(m) for it is in second.What is the force acting on the mass give this motion.",
+      "options": [
+        "-0.0807Sin3t",
+        "-0.507Sin3t",
+        "-0.0675 sin 3t",
+        "-0.675 3t"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "21. A 10kg mass is suspended by a metallic string with cross-sectional area of $1.0mm^2$. The length of the wire with the mass suspended is 4.02m. When the mass is removed, the length is reduced by 0.02m. What is the modulus of elasticity of the wire?",
+      "options": [
+        "$2.96\\times{10}^{10}Nm^{-2}$",
+        "$1.96\\times{10}^{10}Nm^{-2}$",
+        "$1.86\\times{10}^{10}Nm^{-2}$",
+        "$1.76\\times{10}^{10}Nm^{-2}$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "22. A diffraction greating has 6000lines/cm.If light of wavelength 5896A° is incident on the greating.What is the diffraction angle for the second maximum?",
+      "options": [
+        "48°",
+        "53°",
+        "43°",
+        "45°"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "23. The radioactive isotope 37CO decays by electron capture with a half-life of 272 days. What is the decay constant?",
+      "options": [
+        "2.23×10-8 s-1",
+        "2.95×10-8 s-1",
+        "1.95×10-8 s-1",
+        "None"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "24. A plastic tube 25 m long and 4 cm in diameter is dipped into a silver solution,depositing a layer of silver 0.100 mm thick uniformly on the outer surface of the tube.If the coated tube is then connected to a 12 V battery,what will be the current? [Specific resistance of silver=1.47×10-8 ohm m]",
+      "options": [
+        "425 A",
+        "435 A",
+        "410 A",
+        "445A"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "25. What is the β of a transistor whose ɑ=0.98?",
+      "options": [
+        "50",
+        "49",
+        "39",
+        "30"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "26. At a constant pressure of valoume of a definite mass of a gass at 100°C is 200cm3 .The volume of that gas at the same pressure and 0°C will be-",
+      "options": [
+        "146.384cm3",
+        "22.4×103 cm3",
+        "4.46L",
+        "146.384 L"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "27. A test tube standing vertically in a test tube rack contains 2.5cm of oil ( densitiy = 0.81 g.cm3) and 6.5 cm of water. What is the pressure on the bottom of the test tube?",
+      "options": [
+        "845, however",
+        "827 however",
+        "836 however",
+        "817 however"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "28. If you clap your hands and hear the echo from a distant wall 0.20s later,how far away is the wall? [ Velocity of sound in air = 343ms-1]",
+      "options": [
+        "34.3m",
+        "33.0m",
+        "43.5 m",
+        "37.3m"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "29. A student wants to compare the luminous flux from a bulb with that of a 1750Lm lamp. The bulb illuminates a sheet of paper equally.The 1750 Lm lamp is 1.25m away ; the unknown bulb is 1.08m away. what is the luminous flux of the bulb?",
+      "options": [
+        "1506 Lm",
+        "1306 Lm",
+        "1200 Lm",
+        "1356 Lm"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "30. A surveyor uses a steel tape that is exactly 50 m long at a temperature of 20°C.What is the length on a hot summer day when the temperature at 35°C.[Cofficeant of linear expression of steel is 1.2×10-5 mk-1]",
+      "options": [
+        "50.009m",
+        "50.09 m",
+        "50.08m",
+        "49.009m"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "31. The height, in feet, to which a golf ball rises when it is short upward from ground level is described by $h\\left(t\\right)\\ =\\ -16t^2\\ +\\ 48t$. Where,  t is the time elapsed in seconds.  Use the discriminant to determine whether the golf ball can reach a height of 32 feet or not,  and if it can then how many times it reaches that height.",
+      "options": [
+        "Not possible",
+        "Possible to reach the height 2 times",
+        "Possible only once",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "32. In a DC circuit consisting of two resistors in series, the power P delivered to resistor R2 is    $\\frac{V^{2} R_{2}}{\\left ( R_{1} + R_{2} \\right )^{2}} .$   If V and R1 are constants,  what is the value of R2 that priduces a maximum power in this resistor ?",
+      "options": [
+        "R2 = R1",
+        "R2 = - R1",
+        "R2 = 2R1",
+        "R2 = 2R1"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "33. In a flood hit area relief supplies are dropped in a 20kg bag from a helicopter is flying parallel to the ground at 200km/h and is 80m above the ground when the package is dropped. How much horizontal distance does the bag travel before it hits the ground ? [Assume g = 10ms-2]",
+      "options": [
+        "$\\frac{2}{9} k m$",
+        "$\\frac{32}{9} k m$",
+        "$\\frac{2}{5} k m$",
+        "$\\frac{32}{5} k m$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "34. A particle with a charge of $-1.24 \\times 10^{8} \\mathrm{C}$ is moving with instantaneous velocity $\\vec{v}=\\left(14.19 \\times 10^{4}\\right) \\hat{i}+\\left(-3.85 \\times 10^{4}\\right) \\hat{j} \\frac{\\mathrm{m}}{\\mathrm{s}}$ what is the force exerted on this particle by a magnetic field $\\vec{B}=(1.40) \\hat{i} T$",
+      "options": [
+        "$\\left ( - 6.884 × 10^{- 4} \\right ) \\vec{K} N$",
+        "$\\left ( - 6.684 × 10 - 4 \\right ) \\vec{k} N$",
+        "$\\left ( - 6.84 × 10^{- 4} \\right ) \\vec{k} N$",
+        "None"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "35. A wire 75 cm long carrying a DC current of 6A is at right angle to uniform magnetic field.The magnitude of the force acting on the wire is 0.6N.What is the strength of the magnetic field?",
+      "options": [
+        "0.130 T",
+        "0.18T",
+        "0.15T",
+        "0.166T"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(36)",
+      "question": "36. Find a unit vector normal to the plane ABC as shown in the figure given below. Note that a vector normal to the plane will be perpendicular to any two of AB,  AC and BC vectors. \n[IMG: https://assets.chorcha.net/zHyBZS44k2SZpYMd.webp]",
+      "options": [
+        "$\\frac{1}{\\sqrt{6}} \\left ( \\hat{i} + 2 \\hat{j} + \\hat{k} \\right )$",
+        "$\\frac{1}{\\sqrt{3}} \\left ( \\hat{i} + \\hat{j} + \\hat{k} \\right )$",
+        "$\\frac{1}{\\sqrt{2}} \\left ( \\hat{i} + \\hat{k} \\right )$",
+        "$\\frac{1}{\\sqrt{2}} \\left ( \\hat{i} + \\hat{j} \\right )$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "1. A mass of 8 kgs hangs in equilibrium , suspended by two light , inelastic strings making angles of 30o and 45o with the horizontal. Calculate the tension in the two strings.",
+      "options": [
+        "5.096N and 7.24N",
+        "57.44N and 70.31N",
+        "5.32N and 6.83N",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "2. Two children are swinging from a 12 ft jungle gym that weights 50 Ibs as shown in the figure given below. The child at C weights 70 Ibs and the child at D weights 60 Ibs. Calculate the reactions for the pin at A and the roller at B.[In the figure , c.g. refers to center of gravity.]\n[IMG: https://assets.chorcha.net/5RgoYT9QdD16RNRs.webp]",
+      "options": [
+        "78 Ibs 102 Ibs",
+        "78 Ibs and 112",
+        "68 Ibs and 112 Ibs",
+        "68 Ibs and 102 Ibs"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "3.\nIf $i^{2}=-1$, then the value of $\\frac{2-3 i}{2 i}=$ ?",
+      "options": [
+        "$- \\frac{3}{2} + i$",
+        "$\\frac{3}{2} + i$",
+        "$- \\frac{3}{2} - i$",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "4. If A and B are two sets, and the complements of A and B are A' and B',  respectively,  then A' - B' is-",
+      "options": [
+        "$A - B$",
+        "$A \\cap B$",
+        "$A \\cap B^{'}$",
+        "$B - A$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "5.  If   $\\left \\lvert \\begin{matrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{matrix} \\right \\rvert = - 6$    then   $\\left \\lvert \\begin{matrix} 3 a & 3 b & 3 c \\\\ - d & - e & - f \\\\ 4 g & 4 h & 4 i \\end{matrix} \\right \\rvert = ?$",
+      "options": [
+        "72",
+        "- 72",
+        "6",
+        "24"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "6.\n$\\mathrm{px}+\\mathrm{qy}+\\mathrm{rz}=1$\n\n$p^{2} x+q^{2} y+r^{2} z=a$\n\n$\\left(\\mathrm{p}^{3}-1\\right) \\mathrm{x}+\\left(\\mathrm{q}^{3}-1\\right) \\mathrm{y}+\\left(\\mathrm{r}^{3}-1\\right) \\mathrm{z}=\\mathrm{a}^{2}$",
+      "options": [],
+      "tag": "JU A 19-20 SET-C"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "7. If   $2 \\cos^{2}{\\theta} - \\sin{\\theta} = 1$   then the value of   $\\theta$   is --",
+      "options": [
+        "$\\frac{π}{6} \\quad\\text{and}\\quad \\frac{5 π}{6}$",
+        "$\\frac{3 π}{2}$",
+        "Both a and b",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "8.   $\\tan^{- 1}{x} + \\tan^{- 1}{\\left ( \\frac{1 - x}{1 + x} \\right )} = ?$",
+      "options": [
+        "$\\frac{π}{2}$",
+        "$\\frac{π}{3}$",
+        "$\\frac{π}{4}$",
+        "Both a and c"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "9. For triangle ABC, a= 2x + 3, b= x2 + 3x + 3 and c = x2 + 2x. The largest angle of the triangle is --",
+      "options": [
+        "110°",
+        "120°",
+        "135°",
+        "160°"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "10. Assume that the point A (5,6) is a reflection of the point B(-1, 8) in a line,  when a mirror is placed along the line. The equation of the line is -",
+      "options": [
+        "3x - y - 23=0",
+        "x + 3y - 23=0",
+        "3x - y + 1=0",
+        "x + 3y - 1 =0"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "11. The equation of the circle whose two diameters are the lines $x+y=4$ and $x-y=2$ and which passes through $(4 , 6 )$ is",
+      "options": [
+        "$x^2+y^2-6x-2y-16=0$",
+        "$x^2+y^2-6x-2y=15$",
+        "$x^2+y^2=0$",
+        "$5(x^2+y^2)-4x=16$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "12. A cross-section of a parabolic reflector is shown in the figure below. The light source at the focus of the parabola and the opening of the focus is 10 cm. The equation of the parabola is-[IMG: https://assets.chorcha.net/LecAVEDrGnl3zvcutisnP.png]",
+      "options": [
+        "$y^2\\ =22x$",
+        "y2 = 5x",
+        "y2 =10x",
+        "y2 = 17x"
+      ],
+      "tag": "IUT 22-23,IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "13. A man made satellite orbits the earth in an elliptical path whose center is at the center of the earth. If the altitude of the satellite ranges from 1000 to 2000 miles,  find the equation of its path. The radius of the earth is approximately 4000 miles.",
+      "options": [
+        "$\\frac{x^{2}}{\\left ( 2000 \\right )^{2}} + \\frac{y^{2}}{\\left ( 1000 \\right )^{2}} = 1$",
+        "$\\frac{x^{2}}{\\left ( 4000 \\right )^{2}} + \\frac{y^{2}}{\\left ( 3000 \\right )^{2}} = 1$",
+        "$\\frac{x^{2}}{0.9 × 10^{7}} + \\frac{y^{2}}{0.4 × 10^{7}} = 1$",
+        "$\\frac{x^{2}}{3.6 × 10^{7}} + \\frac{y^{2}}{2 . 5 × 10^{7}} = 1$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "14.\n\nWhich of the following statement is /are correct ?\n(i)The number L is the limit of f(x) as $x \\rightarrow a$ if, given any $\\in > 0$, there exists\na value of x for which $|f(x)-L|<\\in$\n(ii) The number L is the limit of f(x) as $x \\rightarrow a$, if for every number , $\\in > 0$\nthere exists a corresponding number $\\delta>0$ such that for all x, if 0<|x - a|< $\\delta$\nthen $|f(x)-L|<\\in$.\n(iii) The number L is the limit of f(x) as $x \\rightarrow a$, if f(x) gets closer to L as x\napproaches a.\n(iv) The number L is the limit of f(x) as $x \\rightarrow a$, if the values of f(x) can be made as\nclose as we like to L by making x sufficiently close to a ( but not equal to a) .",
+      "options": [
+        "ii",
+        "iii",
+        "ii, iv",
+        "All are correct"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "15. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "16. A farmer has an adjustable electric fence that is 100 m long.  He uses this fence to enclose a rectangular area on three sides as show in the figure given below. The fourth side is kept open. The maximum area that he can enclose is - \n[IMG: https://assets.chorcha.net/HJ5cabCtJzCopc9o.webp]",
+      "options": [
+        "1050 m2",
+        "1200 m2",
+        "1250 m2",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "17. Find the area of the region enclosed by   $y = \\sqrt{2 - x}$ and y = -x as shown in the figure given below ?\n[IMG: https://assets.chorcha.net/w0YDKSmj0N_YVguo.webp]",
+      "options": [
+        "$\\frac{22}{3}$",
+        "$\\frac{10}{3}$",
+        "$\\frac{9}{2}$",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "18. Find the area bounded by the curves y = x2 and y = 2x",
+      "options": [
+        "$\\frac{4}{3}$",
+        "$\\frac{5}{3}$",
+        "$\\frac{3}{5}$",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "19. An Olympic long jumper leaves the ground at an angle of 23o and travels through the air for a horizontal distance of 8.7m before landing. The takeoff speed of the jumper is-[Assume g = 9.8ms-2]",
+      "options": [
+        "19.8ms-1",
+        "14.7ms-1",
+        "17.3ms-1",
+        "10.9ms-1"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "20. A ball is thrown vertically upwards with speed 7.7ms-1 from the top of a sheer cliff of height 21m.The time taken by the ball to reach the foot of the cliff is-[Assume g = 9.8ms-2]",
+      "options": [
+        "$\\frac{10}{7} s$",
+        "$\\frac{11}{7} s$",
+        "$5 s$",
+        "3s"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "21. A mother would like to balance her son on the teetor totter as shown in the figure give below . Calculate the distance d so that the system is in equilibrium.\n[IMG: https://assets.chorcha.net/mD7lHC3NygQO0McX.webp]",
+      "options": [
+        "0.7 ft",
+        "1.2 ft",
+        "1.9 ft",
+        "1.4 ft"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "22. A tennis ball is thrown straight up with an initial speed of 22.5ms-1. It is caught at the same distance above the ground. How high does the ball rise ?",
+      "options": [
+        "38.5m",
+        "25.8m",
+        "16.5m",
+        "20.8m"
+      ],
+      "tag": "IUT 16-17,IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "23. You and your friend each drive 50.0km. You travel at 90kmh-1 and Your friend travel at 95km/h. How long will your friend wait for you at the end of the trip ?",
+      "options": [
+        "1.75 min",
+        "3.75 min",
+        "2.25 min",
+        "1.35 min"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "24. Determine whether one or more of the following situations is/are permutations(s): \n(i) Creating a password for a computer using any 8 alphabet letters.\n(ii) Determining how many different ways you can elect a Chairman and Co -Chairman of a committee from a group of 10 people \n(iii)  Voting to allow 10 new members to join a club when there are 25 persons who are interested to join the club. \n(iv) Finding different ways to arranges a line up for batsman on a cricket team.",
+      "options": [
+        "i",
+        "i, ii, iv",
+        "iii",
+        "i, iv"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "25. Suppose 7 students are staying in a room of a hostel and they are allotted 7 beds placed one after another. Among them X does not want a bed next to Y, because he snores. Then, in how many ways,  can you allot the beds ?",
+      "options": [
+        "609",
+        "1200",
+        "2400",
+        "3600"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "26. The coefficient of $x^{n}$ in the expansion of $\\dfrac{1}{(1-x)(1-2x)(1-3x)}$ is ;",
+      "options": [
+        "$\\dfrac{1}{2}(2^{n+2}-3^{n+3}+1)$",
+        "$\\dfrac{1}{2}(3^{n+2}-2^{n+3}+1)$",
+        "$\\dfrac{1}{2}(2^{n+3}-3^{n+2}+1)$",
+        "$none\\ of\\ these$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "27. Find the sum of the first n terms of the series :   $1 + \\frac{5}{2.3} 2 + \\frac{10}{3.4} 2^{2} + \\frac{17}{4.5} 2^{3} + \\ldots$",
+      "options": [
+        "$\\left ( \\frac{2^{n + 1}}{n + 1} \\right )$",
+        "$\\frac{n 2^{n}}{n + 1}$",
+        "$\\frac{2^{n + 1}}{3}$",
+        "$\\frac{n 2^{n + 1}}{3 \\left ( n - 1 \\right )}$"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "উচ্চতর গণিত(28)",
+      "question": "28. From the set of all families with two children , a child is selected at random and is found to be a girl . The probability that the sescond child of this family is also a girl is-",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "None of these"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "1. Natural radio active elements continuously emit radiation. The ultimate product of this radiation is-",
+      "options": [
+        "13C",
+        "82Pb",
+        "84PO",
+        "92U"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "2. Radium(at no.88) is converted to Rn(At no.86) by the emissions of radioactive rays.Which ray has been emitted from Radium?",
+      "options": [
+        "ɑ-ray",
+        "β-ray",
+        "Canal ray",
+        "None of them"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "3. The atomic mass of H atom is 1 and that of Cl atom is 35.5.The diffusion rate of H atom through the same orifice will be x times higher than that of Cl atom.The value of x is-",
+      "options": [
+        "35.5",
+        "5.96",
+        "58.6",
+        "3.5"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "4. Which group of periodic table has the lowest number of s-block elements?",
+      "options": [
+        "Gr-1(I-A)",
+        "Gr-2(II-A)",
+        "Gr-11(IB)",
+        "Gr-18(VIIIA)"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "5. The density of a solution of NaOH is 1.10 g/mL.The concentration of the solution is 0.1M.The percentage(is mass)of water present in the solution is-",
+      "options": [
+        "90.9g",
+        "95.5g",
+        "99.63g",
+        "99.9g"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "6. What is the solubility product of $\\mathrm{CaF}_{2}$ if the concentration of fluoride ions in a saturated aqueous solution of $\\mathrm{CaF}_{2}$ is $0.00655 \\mathrm{gL}^{-1}$ ?",
+      "options": [
+        "$3.7 \\times 10^{-13}$",
+        "$2.048 \\times 10^{-10}$",
+        "$2.048 \\times 10^{-11}$",
+        "$3.7 \\times 10^{-12}$"
+      ],
+      "tag": "RU C 18-19 (GROUP 1),Guha Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "7. Which of the following salt of Calcium is not dissolved by H2O,HCl",
+      "options": [
+        "Ca-silicate",
+        "Ca-carbonate",
+        "Ca- oxalate",
+        "Ca- nitrate"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "8. Lime stone reacts with HCl with the liberation of CO2 gas.Which of the following factors does not have any effect rate of this reaction?",
+      "options": [
+        "Concentration",
+        "Temperature",
+        "Pressure",
+        "Surface Area"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "9. A colorless organic compound contains 59.2% C,13.6% H and the rest is Oxygen.The vapour density of the compound is 30.In the presence of H2SO4 the compound reacts with acetic acid and form a compound which has sweer smell of ripe fruit.The compound is",
+      "options": [
+        "Acetone",
+        "Propanaldehyde",
+        "Propanol",
+        "Phenon"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "10. An ester on hydrolysis produces a monobasic acid and an alcohol. 0.185 g of the product acid requires 25mL 0.1N NaOH to neutralize it.The Molecular formula of the acid is-",
+      "options": [
+        "HCOOH",
+        "CH3COOH",
+        "C2H5COOH",
+        "C3H7COOH"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "11. 0.535 g of a mixture of acetaldehyde and ethanol reacts with fehlings solution and form  precipitate.The percentage of acetaledehyde present into the mixture is\n[w of Cu₂O=1.2g]",
+      "options": [
+        "69℅",
+        "60%",
+        "55.67%",
+        "50℅"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "12. What is the oxidation number of sulfur in Al2(SO4)3?",
+      "options": [
+        "3",
+        "6",
+        "2",
+        "None"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "13. The atomic weight of oxygen is 16.How many grams of electron are there in 1 mol oxygen atom?",
+      "options": [
+        "6.023×10-23 g",
+        "1.95×10-18 g",
+        "4.03×10-3 g",
+        "None"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "রসায়ন(14)",
+      "question": "14. Which of the following metals produces medically usable alkaline oxides when burns in oxygen?",
+      "options": [
+        "Na",
+        "Ca",
+        "Mg",
+        "K"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "1. Peripheral is most nearly opposite in meaning to-\n[IUT : 2014-15]",
+      "options": [
+        "Redial",
+        "Central",
+        "Concrete",
+        "Axial"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "2. Disingenuous is most nearly opposite in meaning to:\n[IUT: 2014-15]",
+      "options": [
+        "transparent",
+        "parched",
+        "blank",
+        "ingratiating"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "3. Untoward is most nearly opposite in meaning to-\n [IUT : 2014-15]",
+      "options": [
+        "proactive",
+        "abstemious",
+        "expected",
+        "egregious"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "4. Potable is most similar in meaning to-",
+      "options": [
+        "Bland",
+        "Unsavory",
+        "Drinkable",
+        "Distilled"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "5. ‘Undermine’ is most similar in meaning to-\n[IUT : 2014-15]",
+      "options": [
+        "impose",
+        "apprehend",
+        "glorify",
+        "weaken"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "6. Destitute is most similar in meaning to -",
+      "options": [
+        "desolate",
+        "affluent",
+        "impoverished",
+        "meticulous"
+      ],
+      "tag": "JnU C 13-14"
+    },
+    {
+      "subject": "English(11)",
+      "question": "7. Read the following sentences and try to choose the best definition for the underlined and italicized word by searching for context clues in the sentence.\nThe intermittent  rain soaked the garden many different times during the day --",
+      "options": [
+        "Protracted",
+        "Periodic",
+        "Incredulous",
+        "Light"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "8. Excited about winning an award, Marium walked up to the podium and delivered an animated acceptance speech.Choose the option that is similar in meaning to the underlined word:",
+      "options": [
+        "Abbreviated",
+        "Courteous",
+        "Reserved",
+        "Lively"
+      ],
+      "tag": "IUT 14-15,IUT 13-14"
+    },
+    {
+      "subject": "English(11)",
+      "question": "9. Choose the word nearest in meaning to the underlined word: The air in the rainforest was humid, making the heat seem even more oppressive than before.",
+      "options": [
+        "Hot",
+        "Damp",
+        "Hazy",
+        "Volatile"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "10. The Sami are an indigenous people living in the northern parts of Norway, Sweden, Finland, and Russia's Kola peninsula. Originally, the Sami religion was animistic: that is, for them, nature and objects had a conscious life spirit. Therefore, one was expected to move quietly in the wilderness and avoid making a Khan is said to have declared that the Sami were one people he would never try to fight again. Because the Sami were not warriors and did not believe in war, they simply disappeared in times of conflict. They were known as 'peaceful retreaters.'\nBased on the tone of the passage, which of the following words best describes the author's attitude toward the Sami people?",
+      "options": [
+        "Admiring",
+        "Pitying",
+        "Contemptuous",
+        "Patronizing"
+      ],
+      "tag": "IUT 14-15"
+    },
+    {
+      "subject": "English(11)",
+      "question": "11. Read the passage and answer the question.\nThe Sami are an indigenous people living in the northern parts of Norway, Sweden, Finland, and Russia's Kola Peninsula. Originally, the Sami religion was animistic; that is, for them, nature and natural objects had a conscious life, a spirit. Therefore, one was expected to move quietly in the wilderness and avoid making a disturbance out of courtesy to these spirits. Genghis Khan is said to have declared that the Sami were one people he would never try to fight again. Because the Sami were not warriors and did not believe in war, they simply disappeared in times of conflict. They were known as \"peaceful retreaters.\"\nThe closest meaning of the underlined word animistic, as it is used in the passage, is—",
+      "options": [
+        "The irrational belief in supernatural beings.",
+        "The belief that animals and plants have souls.",
+        "The belief that animals are gods.",
+        "The primitive belief that people can be reincarnated as animals."
+      ],
+      "tag": "IUT 14-15"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "title": "BUET 2007-2008 MCQ",
+  "questions": [
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "1. The square root of $-8-6 \\sqrt{-1}$ is-",
+      "options": [
+        "$\\pm(1+3 i)$",
+        "$\\pm(1-3 \\mathrm{i})$",
+        "$3-\\mathrm{i}$",
+        "$3+\\mathrm{i}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "2.  Find the argument of the complex number, $-2-2 \\mathrm{i}$.",
+      "options": [
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{2 \\pi}{3}$",
+        "$\\frac{5 \\pi}{4}$",
+        "$\\frac{\\pi}{3}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "3. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "4. The value of the following integral is: $\\int_{0}^{\\log 2} \\frac{e^{x} d x}{1+e^{x}}$",
+      "options": [
+        "$e^{\\frac{3}{2}}$",
+        "$\\log \\frac{3}{2}$",
+        "$\\log 2$",
+        "$\\mathrm{e}^{2}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "5. If $\\sec \\theta=-2$ and $\\frac{\\pi}{2}<\\theta<\\pi$, then what is the value of $\\theta$ ?",
+      "options": [
+        "$-\\frac{2 \\pi}{3}$",
+        "$\\frac{2 \\pi}{3}$",
+        "$-\\pi$",
+        "$\\pi$"
+      ],
+      "tag": "RB 22,BUET 7-8,JU A 15-16 (SET 5)"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "6. A circle whose centre is at $(4,3)$ passes through the origin. Which of the following points is not on the circle?",
+      "options": [
+        "$(-1,3)$",
+        "$(9,3)$",
+        "$(0,3)$",
+        "$(8,0)$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "7. Area of the region in the first quadrant enclosed by the x-axis, the line $y = x$ and the circle $x^{2} + y^{2} = 32$ is",
+      "options": [
+        "$16\\pi \\ sq units$",
+        "$4\\pi \\ sq units$",
+        "$32\\pi \\ sq units$",
+        "$24\\pi \\ sq units$"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 14-15 (G-EVEN),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 21-22 (SET F)"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "8. If the sides of an equilateral triangle increase by $\\sqrt{3} \\mathrm{~cm}$ per second and its area increases by $12 \\mathrm{sq} . \\mathrm{cm}$ per second, then find the length of the side of the equllateral triangle.",
+      "options": [],
+      "tag": "JUST 17-18,BUET 11-12,BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "9. A man carries a load, on his shoulder, at the end of a stick. The weight of the load is $\\mathrm{W}$ and the distance of the load and his hand from his shoulder are 1 meter and $\\frac{1}{2}$ meters respectively. What is the pressure on his shoulder?",
+      "options": [
+        "$\\text{W}$",
+        "$3 W$",
+        "$1.5 \\mathrm{~W}$",
+        "$2 \\mathrm{~W}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "10. If $\\vec{A}=\\hat{i}+2 \\hat{j}-3 \\hat{k}$ and $\\vec{B}=3 \\hat{i}-\\hat{j}+2 \\hat{k}$, then the angle between $\\vec{A}+\\vec{B}$ and $\\vec{A}-\\vec{B}$ is :",
+      "options": [
+        "$60^{\\circ}$",
+        "$30^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "11.  If $\\overrightarrow{\\mathrm{AB}}=2 \\hat{i}+\\hat{j}$ and, $\\overrightarrow{\\mathrm{AC}}=3 \\hat{i}+\\hat{j}+5 \\hat{k}$, then the area of the parallelogram whose adjacent sides are $A B$ and $\\mathrm{AC}$ will be :",
+      "options": [
+        "$8 \\sqrt{5}$",
+        "$5 \\sqrt{6}$",
+        "$3 \\sqrt{14}$",
+        "$6 \\sqrt{5}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "12. The value of $x$ in the following expression will be- $\\left|\\begin{array}{lll}1 & 4 & x \\\\ 2 & 5 & 8 \\\\ 3 & 6 & 9\\end{array}\\right|=\\left|\\begin{array}{lll}22 & 4 & x \\\\ 26 & 5 & 8 \\\\ 30 & 6 & 9\\end{array}\\right|$",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "13. Which of the following cannot be polarized?",
+      "options": [
+        "Radio wave",
+        "X-rays",
+        "Sound waves in air",
+        "Infrared radiation"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "14. The force required to stretch a copper wire $1 \\mathrm{~cm}^{2}$ in cross-section to double its length is: $\\left[\\mathrm{Y}=2 \\times 10^{11} \\mathrm{Nm}^{-2}\\right]$",
+      "options": [
+        "$10^{7} \\mathrm{~N}$",
+        "$2 \\times 10^{7} \\mathrm{~N}$",
+        "$10^{11} \\mathrm{~N}$",
+        "$2 \\times 10^{11} \\mathrm{~N}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "15. A lead ball of mass $M$ falls through a viscous liquid with a terminal velocity $v$. What is the terminal velocity of another ball of mass $64 \\mathrm{M}$ falling through the same liquid?",
+      "options": [
+        "$\\mathrm{v}$",
+        "$4 \\mathrm{v}$",
+        "$8 \\mathrm{v}$",
+        "$16 \\mathrm{v}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "16. The end $\\mathrm{A}$ of a rod $\\mathrm{AB}$ of length $1 \\mathrm{~m}$ is maintained at $80^{\\circ} \\mathrm{C}$ and the end $\\mathrm{B}$ at $0^{\\circ} \\mathrm{C}$. The temperature at a distance of $60 \\mathrm{~cm}$ from the end $A$ is:",
+      "options": [
+        "$16^{\\circ} \\mathrm{C}$",
+        "$32^{\\circ} \\mathrm{C}$",
+        "$48^{\\circ} \\mathrm{C}$",
+        "$64^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "17. Two electric bulbs of 25 watt and 100 watt are joined in series and connected to mains. Then-",
+      "options": [
+        "100 -watt bulb will glow brighter",
+        "25-watt bulb will glow brighter",
+        "Both will glow with same brightness",
+        "None of the above"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "18. The value of the electric potential on the surface of the nucleus ( $Z=50)$ of an atom of $9.0 \\times 10^{-13} \\mathrm{~cm}$ radius -",
+      "options": [
+        "9 V",
+        "60 V",
+        "$9 \\times 10^{5} \\mathrm{~V}$",
+        "$8 \\times 10^{6} \\mathrm{~V}$"
+      ],
+      "tag": "BUET 7-8,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "19. An oil drop is held stationary by a potential difference of $400 \\mathrm{~V}$. If another oil drop of double in radius but carrying the same charge, is to be held stationary, the potential difference required is-",
+      "options": [
+        "$800 \\mathrm{~V}$",
+        "$1600 \\mathrm{~V}$",
+        "$3200 \\mathrm{~V}$",
+        "$400 \\mathrm{~V}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "20. Two photons A and B are moving in opposite directions with velocity c. What is the relative velocity of A photon to B photon?",
+      "options": [
+        "$\\frac{1}{2}c$",
+        "$c$",
+        "2 vs 2c 2 tbsp",
+        "$\\frac{2}{3}c$"
+      ],
+      "tag": "RCC 24,DU A 8-9,BUET 6-7,BUET 7-8,Ishaque Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "21. When $1 \\mathrm{Kg}$ mass is fully converted into energy, it produces-",
+      "options": [
+        "$9 \\times 10^{16} \\mathrm{~J}$",
+        "$3 \\times 10^{10} \\mathrm{~J}$",
+        "$10^{20} \\mathrm{~J}$",
+        "$10^{16} \\mathrm{~J}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "22. The angle of contact of mercury with glass is-",
+      "options": [
+        "$0^{\\circ}$",
+        "less than $90^{\\circ}$",
+        "$90^{\\circ}$",
+        "more than $90^{\\circ}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "23. A cricketer can throw a ball to a maximum horizontal distance of $100 \\mathrm{~m}$. How high above the ground can the cricketer throw the same ball?",
+      "options": [
+        "$50 \\mathrm{~m}$",
+        "$75 \\mathrm{~m}$",
+        "$100 \\mathrm{~m}$",
+        "$125 \\mathrm{~m}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "24. The emission of two vibrating particles respectively x = A sin ⁡ ω t x=A\\sin\\omega t x = A sin ω t and x = A cos ⁡ ω t x=A\\cos\\omega t x = A cos If ω t , the state difference between them will be-",
+      "options": [
+        "2 Pi 2\\pi 2 p.m",
+        "p \\pi p",
+        "Pi 2 \\frac{\\pi}{2} 2  p",
+        "Pi 4 \\frac{\\pi}{4} 4  p"
+      ],
+      "tag": "DCC 24,BB 23,DB 21,RB 21,JB 21,DIN.B 19,DU A 19-20,DU A 16-17,BUET 7-8,JU A 19-20 (SET P),Tofazzal Sir,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "25. A wire of resistance $4 \\Omega$ is bent into a circle. The resistance between the ends of a diameter of the circle is-",
+      "options": [
+        "$4 \\Omega$",
+        "$1 \\Omega$",
+        "$\\frac{1}{8} \\Omega$",
+        "$\\frac{1}{16} \\Omega$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "26. Four balls are thrown with the same initial velocity at angles $25^{\\circ}, 35^{\\circ}, 45^{\\circ}$ and $69.7^{\\circ}$ with the horizontal. Which ball would come back to the ground at the earliest?",
+      "options": [
+        "The ball thrown at an angle of $35^{\\circ}$",
+        "The ball thrown at an angle of $25^{\\circ}$",
+        "The ball thrown at an angle of $45^{\\circ}$",
+        "The ball thrown at an angle of $67.7^{\\circ}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "27. A motor is capable of raising $400 \\mathrm{~kg}$ of water in 5 minutes from a well $120 \\mathrm{~m}$ deep. What is the borse power of the motor?",
+      "options": [
+        "$3.0 \\mathrm{hp}$",
+        "$2.8 \\mathrm{hp}$",
+        "$2.5 \\mathrm{hp}$",
+        "$2.1 \\mathrm{hp}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "28. The geometric structure of xenon tetrafluoride $\\left(\\mathrm{XeF}_{4}\\right)$-is:",
+      "options": [
+        "Triangular pyramid",
+        "Planar square",
+        "Squaral pyramid",
+        "None of the above"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "29. Which salt of the following ions is able to liberate $\\mathrm{I}_{2}$ from aqueous solution of $\\mathrm{KI}$ ?",
+      "options": [
+        "$\\mathrm{Cu}^{2+}$",
+        "$\\mathrm{Fe}^{2+}$",
+        "$\\mathrm{Mg}^{2+}$",
+        "$\\mathrm{Ag}^{+}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "30. Which of the following mixtures is petrol?",
+      "options": [
+        "Aromatic hydrocarbons",
+        "Alkanes",
+        "Alkynes",
+        "Alkenes"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "31. Which is a monomer of natural rubber?",
+      "options": [
+        "propylene",
+        "butadyne",
+        "styrene",
+        "isoprene"
+      ],
+      "tag": "GST 21-22,NSTU 16-17,CU A 21-22,BUET 13-14,BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "32. Which of the following compounds reacts easily with bromine?",
+      "options": [
+        "$\\mathrm{C}_{3} \\mathrm{H}_{6}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{8}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{2}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{10}$"
+      ],
+      "tag": "BB 23,BUET 7-8,Lingcon Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "33. The name of the element which reacts with glass is:",
+      "options": [
+        "Bromine",
+        "Sodium",
+        "Fluorine",
+        "None"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "34. Which of the following compounds is not formed when excess $\\mathrm{SO}_{3}$ is passed through $100 \\% \\mathrm{H}_{2} \\mathrm{SO}_{4}$ ?",
+      "options": [
+        "Sulfan",
+        "Fuming $\\mathrm{H}_{2} \\mathrm{SO}_{4}$",
+        "Oleum",
+        "$\\mathrm{H}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{7}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "35. In which compound, Chlorine has highest oxidation number?",
+      "options": [
+        "$\\mathrm{HClO}$",
+        "$\\mathrm{HClO}_{2}$",
+        "$\\mathrm{HClO}_{3}$",
+        "$\\mathrm{HClO}_{4}$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 15-16 (G-ODD),JU A 22-23 (SET N),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 15-16 (SET 5),JU D 21-22 (SET H),JU D 18-19 (SET N),JU D 15-16 (SET 5),Guha Sir,Hazari Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "36. According to sommerfeld, the atomic orbit should be:",
+      "options": [
+        "Circular",
+        "Elliptical",
+        "Spiral",
+        "None of the above"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "37. Nature of bonding in diamond is:",
+      "options": [
+        "Coordinate",
+        "Ionic",
+        "Covalent",
+        "Metallic"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "38. What is the maximum number of ether isomers obtained for $\\mathrm{C}_{4} \\mathrm{H}_{10} \\mathrm{O}$ ?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 18-19 (SET P),JU A 15-16 (SET 5),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "39. An example of tricarboxylic acid is:",
+      "options": [
+        "Salicylic acid",
+        "Citric acid",
+        "Propanoic acid",
+        "Cinnamic acid"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "40. By means of which of the following scries of reactions is 1,2-dibromopropane prepared in the laboratory from propan-2-ol?",
+      "options": [
+        "dehydration, then addition",
+        "oxidation, then hydrolysis",
+        "addition, then hydrolysis",
+        "hydrolysis, then addition"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "41. Which of the following factors can change the equilibrium condition?",
+      "options": [
+        "Pressure",
+        "Temperature",
+        "Concentration",
+        "Catalyst"
+      ],
+      "tag": "BB 23,CB 21,DU A 15-16,BUET 6-7,BUET 7-8,Lingcon Sir,Hazari Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "42. Which of the following ions have the highest polarizing power?",
+      "options": [
+        "$\\mathrm{Na}^{+}$",
+        "$\\mathrm{Cs}^{+}$",
+        "$\\mathrm{Li}^{+}$",
+        "$\\mathrm{Rb}^{+}$"
+      ],
+      "tag": "BUET 7-8,Guha Sir,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "43. If the term free from $x$ in the expansion of $\\left (\\sqrt {x} - \\dfrac {k}{x^{2}}\\right )^{10}$ is $405$, then the value of $k$ is",
+      "options": [
+        "$\\pm 1$",
+        "$\\pm 3$",
+        "$\\pm 4$",
+        "$\\pm 2$"
+      ],
+      "tag": "BSMRSTU 16-17,BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "44. Starting from 100 upto 999 , a whole number is taken randomly. What is the probability of that numbers being odd?",
+      "options": [
+        "$\\frac{25}{102}$",
+        "$\\frac{5}{36}$",
+        "$\\frac{25}{36}$",
+        "$\\frac{5}{102}$",
+        "$\\frac{9}{102}$"
+      ],
+      "tag": "JUST 17-18,JUST 16-17,BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "45. A ray of light is incident on a glass plate of 60° cone. If the reflected and refracted rays are perpendicular to each other, what will be the refractive index of the glass?",
+      "options": [
+        "√3",
+        "3/2",
+        "√3/2",
+        "1/2"
+      ],
+      "tag": "DIN.B 19,DU A 17-18,BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "46. The acceleration ' $a$ ' (in $\\mathrm{ms}^{-2}$ ) of a body, starting from rest varries with time ' $\\mathrm{t}$ ' (in $\\mathrm{s}$ ) according to the relation $a=3 t+4$. The velocity of the body at time $t=2 \\mathrm{~s}$ will be-",
+      "options": [
+        "$10 \\mathrm{~ms}^{-1}$",
+        "$12 \\mathrm{~ms}^{-1}$",
+        "$14 \\mathrm{~ms}^{-1}$",
+        "$16 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "47. The distance between two nearest antinodes is-",
+      "options": [
+        "$\\lambda$.",
+        "$\\frac{\\lambda}{2}$",
+        "$\\frac{\\lambda}{4}$",
+        "$0$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "48. An auto catalyst is :",
+      "options": [
+        "One of the products of a reaction which acts as catalyst",
+        "One which starts a reaction",
+        "One which retards the rate of a reaction",
+        "One which increases the rate of a reaction"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "49. Which of the following is the correct expression for the reaction rate constant, $\\mathrm{K}$ ?",
+      "options": [
+        "$K=\\frac{1}{t} \\log \\frac{a}{a-x}$",
+        "$\\mathrm{K}=\\frac{1}{\\mathrm{t}} \\times \\frac{\\mathrm{a}}{\\mathrm{a}-\\mathrm{x}}$",
+        "$K=\\frac{1}{t} \\log _{e} \\frac{C_{0}}{C_{t}}$",
+        "$K=\\frac{1}{t} \\log \\frac{x}{a(a-x)}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "50. An astronaut in a balloon moving vertically upwards has a $5-1 \\mathrm{~b}$ mass on his hand which creates 85 oz-wt pressure. How far will the baloon go up in the first $10 \\mathrm{sec}$ ?",
+      "options": [
+        "$50 \\mathrm{ft}$",
+        "$100 \\mathrm{ft}$",
+        "$200 \\mathrm{ft}$",
+        "$150 \\mathrm{ft}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "51. Subtract the binary numbers: $11001-1001$",
+      "options": [
+        "10000",
+        "1000",
+        "1001",
+        "10101"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "52. The chemical formula of Malachite is-",
+      "options": [
+        "$\\mathrm{CaCO}_{3} \\cdot \\mathrm{Cu}(\\mathrm{OH})_{2}$",
+        "$\\mathrm{CaCO}_{3} \\cdot \\mathrm{CaSO}_{4}$",
+        "$\\mathrm{CuCO}_{3} \\cdot \\mathrm{Ca}(\\mathrm{OH})_{2}$",
+        "$\\mathrm{CuCO}_{3} \\cdot \\mathrm{Cu}(\\mathrm{OH})_{2}$"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "53.\nRead the following passage and answer the question:\nThe American architect and engineer, Buckminster Fuller, was born in 1895 in Massachusetts. He devoted his life to the invention of revolutionary technological designs to solve problems of modern living. He is best known for his development of the geodesic dome, which is a modern living extremely light and yet enormously strong spherical structure composed of triangular pieces. The geodesic dome is an application of his principle of deriving maximum output from a minimum input of material and energy. In the 1950s, many of these domes were built for military and industrial uses. A considerable number of homes also have been built using geodesic dome structures. Fuller was also a controversial writer. Among his many books are Nine Chains to the Moon (1938), Ideas and Integrities (1963 an autobiography), Utopia or Oblivion (1970), and Earth Inc. (1973).\n\nWhich of the following would be the most appropriate title for this passage?",
+      "options": [
+        "The Geodesic Dome",
+        "An American Architect",
+        "American Architecture",
+        "Revolutionary Designs"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "54. Read the following passage and answer the question:\nThe American architect and engineer, Buckminster Fuller, was born in 1895 in Massachusetts. He devoted his life to the invention of revolutionary technological designs to solve problems of modern living. He is best known for his development of the geodesic dome, which is a modern living extremely light and yet enormously strong spherical structure composed of triangular pieces. The geodesic dome is an application of his principle of deriving maximum output from a minimum input of material and energy. In the 1950s, many of these domes were built for military and industrial uses. A considerable number of homes also have been built using geodesic dome structures. Fuller was also a controversial writer. Among his many books are Nine Chains to the Moon (1938), Ideas and Integrities (1963 an autobiography), Utopia or Oblivion (1970), and Earth Inc. (1973).\n\nWhich statement best describes the dome?",
+      "options": [
+        "It uses a lot of material, but takes less energy to construct than traditional structures.",
+        "It takes a lot of energy to build.",
+        "It is very spacious.",
+        "It takes less material and energy than traditional structures."
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "55. Read the following passage and answer the question:\nThe American architect and engineer, Buckminster Fuller, was born in 1895 in Massachusetts. He devoted his life to the invention of revolutionary technological designs to solve problems of modern living. He is best known for his development of the geodesic dome, which is an extremely light and yet enormously strong spherical structure composed of triangular pieces. The geodesic dome is an application of his principle of deriving maximum output from a minimum input of material and energy. In the 1950s, many of these domes were built for military and industrial uses. A considerable number of homes also have been built using geodesic dome structures. Fuller was also a controversial writer. Among his many books are Nine Chains to the Moon (1938), Ideas and Integrities (1963, an autobiography), Utopia or Oblivion (1970), and Earth Inc. (1973).\nA geodesic dome is closest in shape to-",
+      "options": [
+        "a tube",
+        "the end of a box",
+        "a half of a ball",
+        "the tip of a triangle"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "56. Fill in the blank with the appropriate idiomatic expression.\nHe had to ________ for his rudeness.",
+      "options": [
+        "burn the midnight oil",
+        "fan the flame",
+        "eat humble pie",
+        "move heaven and earth"
+      ],
+      "tag": "BUET 7-8"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(57)",
+      "question": "57. Fill in the blank with an appropriate idiomatic expression.\nThe man ____ in an unguarded moment.",
+      "options": [
+        "was true to his salt",
+        "burnt the candle at both ends",
+        "hung in the balance",
+        "let the cat out of the bag"
+      ],
+      "tag": "BUET 7-8"
+    }
+  ]
+}

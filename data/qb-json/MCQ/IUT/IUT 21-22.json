@@ -1,0 +1,995 @@
+{
+  "title": "IUT 21-22",
+  "questions": [
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "1. A force   $\\vec{F} = \\left ( 40 \\hat{i} + 30 \\hat{j} \\right ) N$   is acting an object of mess 10kg. What is the megnitude of acceleration of the object? assume other forces are involved.",
+      "options": [
+        "6ms-2",
+        "5ms-2",
+        "7ms -2",
+        "4ms-2"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "2. When 7500kg diesel engine pull a 25000 kg train along straight and level rails,it produces of acceleration of 2.5ms-2. What will be the acceleration of engine when the mass of the train becames 45000 kg. (neglect the friction)",
+      "options": [
+        "1.55ms-2",
+        "2.30ms-2",
+        "1.85ms-2",
+        "2.18ms-2"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "3. An 80W electric fan is rotating at 300rpm. How much torque is being produced by the electric motor of the fan?",
+      "options": [
+        "3.55Nm",
+        "2.85Nm",
+        "2.55Nm",
+        "2.98Nm"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "4. A flywheel is being driven from rest by an electric motor with a constant torque of 25 Nm.The moment of inertia of the fly wheel is 5kgm2. What is the kinetic energy of the flywheel after 10 second?",
+      "options": [
+        "6250J",
+        "7250j",
+        "5550j",
+        "7238j"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "5. A 12V and 50W lamp is connected 12 volt battery with internal resistance 0.1ohm. what is the actual voltage applied to the lamp terminals?",
+      "options": [
+        "11.60V",
+        "11.35V",
+        "10.95V",
+        "11.85V"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "6. In a construction site a lifting machine on the ground is used to lift bricks to the  8^(th) floor which is 25m high. At a time the machine can lift a 2000kg load is 1min.The power satellite to the engine of the lift is 15HP.what is the efficiency of the lifting machine?[P-1.5, IUT : 2021-22]",
+      "options": [
+        "87%",
+        "73%",
+        "80%",
+        "77%"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "7. To measure the spring constant of a hookean spring constant a 500g mess is hooked up at its end and length of the stretched spring is measured. Then the mass is increased to 550g and observed that the spring is stretched 10cm more. What is the spring constant?",
+      "options": [
+        "4.05Nm-1",
+        "4.08Nm-1",
+        "3.85Nm-1",
+        "4.9Nm-1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "8. A coal fired power plant that operate that an efficiency of 38% generates 750MW of electric power. How much heat does the plant discharge to the environment in one day.",
+      "options": [
+        "1.057×1014j/day",
+        "2.570×1014j/day",
+        "1.570×1014j/day",
+        "2.057×1014j/day"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "9. An old battery with an emf of 9V has terminal voltage of 8.2V when it is supplying a current of 2mA. What is the internal resistance of the battery?",
+      "options": [
+        "420ohm",
+        "400ohm",
+        "450ohm",
+        "480ohm"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "10. A thermometer is made using a carbon resistor having a temperature coefficient of resistivity  of -0.00050Ω°  $C^{- 1}$  .the variation of resistance with temperature in the linear reason is used to measure the temperature. On a cold winter day when the temperature is 8°C,the resistance is 216.8Ω. what is the temperature on a summer day when the resistance is 213.5Ω?",
+      "options": [
+        "33.4°C",
+        "34.4°C",
+        "36.4°C",
+        "38.4°C"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "11. Suppose that NASA wants to explore a distance solar system 200 light years away from the earth. What will be the again of the astronauts travelling in a spaceship with a speed of 0.99c as measures from the spaceships frame of reference, where c is the speed of light in vacuum?",
+      "options": [
+        "14 years",
+        "28 years",
+        "19 years",
+        "22 years"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "12. An npn transistor in CE configuration has ɑ=0.995. what is the base current if the collector current is 4mA?",
+      "options": [
+        "$18 \\mu A$",
+        "$23 \\mu A$",
+        "$28 \\mu A$",
+        "$20 \\mu A$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "13. An automobile battery is charged by a constant current of 2 A for 10 hours. The Terminal voltage of the battery is V=(11+0.5t)V for t  $\\ge 0$  where time t is in hours. What is the total energy delivered to the battery during this time?",
+      "options": [
+        "299Wh",
+        "258Wh",
+        "270Wh",
+        "275Wh"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "14. In one cycle a heat engine absorb 500j from a high temperature reservoir and expels 300 j to a low temperature reservoir.if the efficiency of the engine is 60% of the efficiency of carnot engine, what is the ratio of the low temperature to the high temperature in the Carnot engine?[P-2.1, IUT : 2021-22]",
+      "options": [
+        "1/3",
+        "1/4",
+        "1/5",
+        "1/2"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "15. গামা রশ্মির ভেদন ক্ষমতা X রশ্মির চেয়ে-",
+      "options": [
+        "বেশি",
+        "কম",
+        "সমান",
+        "কোনটিই নয়"
+      ],
+      "tag": "MAT 2-3,IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "16. An electron of mass of   $9.1 × 10^{-31} k g$   is revolting around  a nucleus in a circular path of radius $0.53 × 10^{-10}$  m\nCalculate the angular velocity of the electron.",
+      "options": [
+        "4.13×1016 rad s-1",
+        "4.13×1015 rad s-1",
+        "5.13×1016rad s-1",
+        "5.13×1015rad s-1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "17. The mass of a metallic sphere is 6g, it is fastened at one end of a thread of length of 3m and it rotated 4 times per second.what is its angular momentum ?",
+      "options": [
+        "2.356kgm2s-1",
+        "1.357kgm2s-1",
+        "1.998kgm2s-1",
+        "2.365kgm2s-1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "18. A car of mass 480 kg moving at a speed of 54 kmph, is stopped in 10 s. Calculate the force applied by the brakes.",
+      "options": [
+        "2100 N",
+        "720 N",
+        "2300 N",
+        "277.77N"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "19. An engine pumps 1000kg of water per minute from a well of depth of 100m.if the 24% efficiency of the engine is lost, find the horsepower of the engine.",
+      "options": [
+        "28.81Hp",
+        "47.75Hp",
+        "43.75Hp",
+        "33.75Hp"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "20. A body is allowed to fall freely from a higher of 30m.from the ground where will it's kinetic energy be twice the potential energy?",
+      "options": [
+        "15m",
+        "12 m",
+        "8m",
+        "10m"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "21. In an experiment the value of   $\\frac{L}{\\left ( T \\right )^{2}}$  at a place was found 0.25  $m s^{- 2}$  calculate the value of g at that place?",
+      "options": [
+        "$9.87 m s^{- 2}$",
+        "$9.85 m s^{- 2}$",
+        "$9.88 m s^{- 2}$",
+        "$9.83 m s^{- 2}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "22. Two pendulum having 2 sec time period,one is on the earth and the other is on the moon having the length ratio of 81:16 .if the value of g on the earth surface 9.81  $m s^{- 2}$  find the value of g on the moon's surface.",
+      "options": [
+        "1.538  $m s^{- 2}$",
+        "$1.638 m s^{- 2}$",
+        "$1.938 m s^{- 2}$",
+        "$1.338 m s^{- 2}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "23. Density of the carbon dioxide gas is 1.98 $k g{m}^{- 3}$ at 0°C temperature and 1.0×105Nm-2 pressure.calculate the root mean square of velocity of the molecules of that gas at 30°C temperature and at the same pressure.",
+      "options": [
+        "$414.08 m s^{- 1}$",
+        "$420.08 m s^{- 1}$",
+        "$424.08 m s^{- 1}$",
+        "$410.08 m s^{- 1}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "24. From when height a priece of ice is allowed to fall due to the action of gravity so that 10% of ice will be melt by the heat produce?conceder that all the mechanical of energy has been converted into heat.",
+      "options": [
+        "$5.6 × 10^{5} m$",
+        "$3.4 × 10^{3} m$",
+        "$5.6 × 10^{4} m$",
+        "$3.4 × 10^{4} m$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "25. One afternoon Jamil and his friends were Gissing besides a lake . all on a sudden,Jamil notice that a bubble from the bottom of the lake of transparent water was coming out on the surface of the water.after coming to the surface,the bubble took a large size.size on the bubble of the surface was 5 times and atmosphere pressure was   $10^{5} N m^{- 2}$ .[density of water,p=1000kgm-3] calculate the depth of the lake.",
+      "options": [
+        "38.82m",
+        "40.82m",
+        "42.82m",
+        "44.82m"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "26. There are 10 bulbs of 100W, 5 bulbs of 60W and a heater of 3KW in a house. If the lamps are illuminated or 6 hours and the heater is used for 2 hours daily, how many units of electric energy will be used in the month of January in that house?  [P-2.3, IUT : 2021-22]",
+      "options": [
+        "325.5 KWh",
+        "455.8 KWh",
+        "527.8 KWh",
+        "427.8 KWh"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "27. The third spectral line is produced by a plane diffraction grating  subtends an angle of diffraction of 30°. If there are $3000\\times10^2$ lines per meter length, find the wavelength of light",
+      "options": [
+        "5556A°",
+        "6556A°",
+        "6655A°",
+        "7557A°"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "28. Man can tolerate minimum light of intensity of 10-10 Wm-2 . If the area of the eye ball is 0.4cm2 and frequency of light s 6×1014 Hz, then how many photos will enter into eyes per second? ( Planck's constant, h =6.63×10-34  Js)",
+      "options": [
+        "105",
+        "104",
+        "106",
+        "103"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "29. The following table is of which gate?\n\nA\nB\nX\n0\n1\n1\n1\n0\n1\n1\n1\n0\n0\n0\n1",
+      "options": [
+        "AND Gate",
+        "NOR Gate",
+        "NAND Gate",
+        "OR Gate"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "30. When the switch S in the following figure is closed, the reading of the voltmeter, V will be-\n[IMG: https://assets.chorcha.net/hfb3XbvkC9bCZk7U.webp]",
+      "options": [
+        "0.25E",
+        "0.50E",
+        "0.67E",
+        "0.57E"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "31. If  $\\psi = 2 x y^{4} - x^{2} z ,$  the determine   $\\vec{\\triangle} \\psi$  at the point (2,-1,2).",
+      "options": [
+        "$- \\left ( 16 \\hat{i} + 16 \\hat{j} + 4 \\hat{k} \\right )$",
+        "$- \\left ( 6 \\hat{i} + 4 \\hat{j} + 4 \\hat{k} \\right )$",
+        "$- \\left ( 6 \\hat{i} + 6 \\hat{j} + 4 \\hat{k} \\right )$",
+        "$- \\left ( 6 \\hat{i} + 16 \\hat{j} + 4 \\hat{k} \\right )$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "32. Suppose a soild ball weighs 70N and is hanging from the wall with the help of a string. A horizontal force is applied on the ball make an angle of 30° away from the wall. What is the magnitude of the force F?",
+      "options": [
+        "50.4 N",
+        "65.5N",
+        "80.8 N",
+        "40.4 N"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "33. Suppose the two diagonals of a rhombus ABCD intersect at point O. Four forces 2N, 3N, 4N and 5N are applied along the sides OA, OB, OC and OD respectively. What is resultant force?",
+      "options": [
+        "5 N",
+        "2√2 N",
+        "√2 N",
+        "√5 N"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "34. If   $\\vec{F} = 4 \\hat{i} + 3 \\hat{j} + \\hat{k}$ is the force and   $\\vec{S} = \\hat{i} + 2 \\hat{j} + 5 \\hat{k}$ is the displacement, then what is the amount of work?",
+      "options": [
+        "15 unit",
+        "12 unit",
+        "10 unit",
+        "19 unit"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "35. If S=5+10t+t³ then find acceleration after 2 sec (t is in sec and S is in m).",
+      "options": [
+        "-12 m/s²",
+        "6m/s²",
+        "10m/s²",
+        "None of these"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "36. A particle falls freely from a tower for 4 seconds. What is the distance it crosses in the last 2 seconds?[M-2.9, IUT : 2021-22]",
+      "options": [
+        "128 ft",
+        "16 ft",
+        "96 ft",
+        "192 ft"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "37. According to the kinetic theory of the gas, \n\ni. RMS speed, c=√(3RT/M)\nii. Average speed, c̅ =√(8RT/πM)\niii. Most probable speed, ɑ=√(2RT/3M)\n\nWhich of the following is more appropriate?",
+      "options": [
+        "i & ii",
+        "ii & iii",
+        "i & iii",
+        "i, ii & iii"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "38. A light beam is incident from air on a reflecting surface so that the reflected ray is found to be completely polarized when the angle fo incidence is 48°.Is some of incidents light (at an angle of 48°)passes into the Metarial below the surface, what is the angle of reflection?",
+      "options": [
+        "39°",
+        "42°",
+        "48°",
+        "43°"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(39)",
+      "question": "39. The light from a 10mW laser is concentrated on a 2mm2 area. What is the maximum value of corresponding sinusoidal electric field?  $\\epsilon_0=8.854\\times 10^{12} F m^{-1} \\text{and} \\mu_0=4\\pi \\times10^-7 Hm^{-1}$",
+      "options": [
+        "1.25 kVm-1",
+        "1.65 kVm-1",
+        "2.24 kVm-1",
+        "1.94 kVm-1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "1. If a thin light-ray falls upon the X-axis along the line 5x+5y=3 and gets fully reflected, what will be equation of the line of the reflected  ray?",
+      "options": [
+        "3x-3y=7",
+        "5x - 5y = 7",
+        "3x - 3y = 5",
+        "5x - 5y = 3"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "2. A line intersect another perpendicular line at (2, 4) that goes through the origin. Find The equation of the first line.",
+      "options": [
+        "x + 2y = 10",
+        "7x - y = 10",
+        "2x - y = 0",
+        "x + y = 6"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "3. Given cos-1x/ sin-1x  < 1, find the most appropriate value of x.",
+      "options": [
+        "1 ≥ x > 1/√2",
+        "x > 1/√2",
+        "x < 1/√2",
+        "-1 ≤ x < 1/√2"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "4. The roots of equation  x3 + px2 + qx + r = 0 are a, b and c. Evaluate ∑(a+b)2 .",
+      "options": [
+        "2(p2 - q)",
+        "2(p2-3q3)",
+        "p2",
+        "2(p2 + 3q3)"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "5. Find the cubic equation whose roots are 2 and 1+2i. [M-2.3, IUT : 2021-22]",
+      "options": [
+        "x^3\\ -\\ 4x^2\\ +\\ 9x\\ =\\ 6\\",
+        "$x^3\\ +\\ 4x^2\\ \\ +\\ x\\ =10$",
+        "$x^3\\ -4x^2\\ +x\\ =\\ 10$",
+        "$x^3\\ -\\ 4x^2\\ +\\ 9x\\ =\\ 10$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "6. For the ellipse 5x2 + 4y2 = 20, find the equation of the directrix.",
+      "options": [
+        "y = ±5",
+        "x = ±5",
+        "y =±√5",
+        "x=±√5"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "7. The equation of an ellipse is $4x^2\\ +\\ 9y^2\\ =\\ 36$. The area ( in square unit) bounded by ellipse is-",
+      "options": [
+        "6π",
+        "2π",
+        "8π",
+        "12π"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "8. If A+B+C =π/2 and sinBsinC = -sinA then what is the value of cotA+ cotB+cotC ? [M-1.7, IUT : 2021-22]",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "None of these"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "9. If y = ( m - x) -1, the evaluate yn = dny / dnx .",
+      "options": [
+        "n!/(m-x)n",
+        "n!/(m-x)n+1",
+        "(-1)nn!/(m-x)n",
+        "(-1)n+1 n!/ (m-x)n+1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "10. Find the inverse of   $A = \\left [ \\begin{matrix} 4 & 5 & 0 & 0 \\\\ 3 & 4 & 0 & 0 \\\\ 0 & 0 & 3 & 2 \\\\ 0 & 0 & 4 & 3 \\end{matrix} \\right ]$",
+      "options": [
+        "$\\left [ \\begin{matrix} \\frac{1}{4} & \\frac{1}{5} & 0 & 0 \\\\ \\frac{1}{3} & \\frac{1}{4} & 0 & 0 \\\\ 0 & 0 & \\frac{1}{3} & \\frac{1}{2} \\\\ 0 & 0 & \\frac{1}{4} & \\frac{1}{3} \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} \\frac{1}{4} & - 5 & 0 & 0 \\\\ - 3 & \\frac{1}{4} & 0 & 0 \\\\ 0 & 0 & \\frac{1}{3} & - 2 \\\\ 0 & 0 & - 4 & \\frac{1}{3} \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} 4 & - 3 & 0 & 0 \\\\ - 5 & 4 & 0 & 0 \\\\ 0 & 0 & 3 & - 4 \\\\ 0 & 0 & - 2 & 3 \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} 4 & - 5 & 0 & 0 \\\\ - 3 & 4 & 0 & 0 \\\\ 0 & 0 & 3 & - 2 \\\\ 0 & 0 & - 4 & 3 \\end{matrix} \\right ]$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "11. $\\cos^{-1}\\left(\\cos\\left(\\frac{4\\pi}{3}\\right)\\right)$is equal to-",
+      "options": [
+        "4π/3",
+        "π",
+        "2π/3",
+        "π/3"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "12. Given the matrix, $A = \\left [ \\begin{matrix} 1 & n \\\\ 0 & 1 \\end{matrix} \\right ]$ , what is the resultant of matrix An?",
+      "options": [
+        "$\\left [ \\begin{matrix} 1 & n^{n} \\\\ 0 & 1 \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} 1 & n^{2} \\\\ 0 & 1 \\end{matrix} \\right ]$",
+        "$\\left [ \\begin{matrix} n & n \\\\ 0 & n \\end{matrix} \\right ]$",
+        "$\\left [ \\left [ \\begin{matrix} n & n \\\\ 0 & 1 \\end{matrix} \\right ] \\right.$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "13. If the roots of the equation$6x^2\\ -\\ 5x\\ \\ +1\\ =\\ 0$ are a and b; then the equation with roots 1/a  and 1/b is-",
+      "options": [
+        "$x^2\\ -\\ 5x\\ \\ +7\\ =\\ 0$",
+        "$x^2\\ -4x\\ +\\ 3\\ =\\ 0$",
+        "$x^2\\ -11x+\\ 30=\\ 0$",
+        "$x^2\\ -5x+\\ 6=\\ 0$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "14. The determinants of the reverse identity matrices are defined as follow:\n\n$\\left|J_{1}\\right|=|1|=+1,\\left|J_{2}\\right|=\\left|\\begin{array}{ll} 0 & 1 \\\\ 1 & 0 \\end{array}\\right|=-1,\\left|J_{3}\\right|=$$\\left|\\begin{array}{lll}0 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ 1 & 0 & 0\\end{array}\\right|=-1, \\cdots$ Find the determinant of $\\mathrm{J}_{100}$.",
+      "options": [
+        "+1",
+        "0",
+        "-1",
+        "None of them"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "15. Given $A = \\left [ \\begin{matrix} x + y & - 6 \\\\ a b & 7 \\end{matrix} \\right ] \\quad\\text{and}\\quad B = \\left [ \\begin{matrix} - 3 & a + b \\\\ - 9 & x + y \\end{matrix} \\right ] ,$ where AT+BT=I. What are the values of a and b?",
+      "options": [
+        "3,-3",
+        "-3,-3",
+        "3,3",
+        "-3,3"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "16. Partial fraction of $\\frac{5 x^{2} - 4}{x^{2} \\left ( x - 2 \\right )} i s -$",
+      "options": [
+        "$\\frac{3}{x} + \\frac{1}{x^{2}} + \\frac{4}{x - 2}$",
+        "$\\frac{3}{x^{2}} + \\frac{4}{x - 2}$",
+        "$\\frac{2}{x} + \\frac{1}{x^{2}} + \\frac{4}{x - 2}$",
+        "$\\frac{1}{x} + \\frac{2}{x^{2}} + \\frac{4}{x - 2}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "17. Suppose you want to build a 1125ft3 swimming pool with a square base of x ft on each side and having y ft depth. If the cost of construction is defined as c = 5x2 + 30 xy, the what values of x amd y will minimize the cost?",
+      "options": [
+        "5ft, 15ft",
+        "5ft, 45ft",
+        "15ft, 5ft",
+        "None of others"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "18. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "19. The volume of a cone-shaped metallic object is increasing at a rate of 20 ft³/min. Both the base-diameter and height of the object are always equal. How fast is the height of the object increasing when it is 10 ft tall?",
+      "options": [
+        "0.255 ft/min",
+        "0.064 ft/min",
+        "0.085 ft/min",
+        "0.322 ft/min"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "20. Find the equation of the tangent of the curve xy = 3 at the point (4,¾).",
+      "options": [
+        "16x-3y=24",
+        "3x-16y= 24",
+        "3x+16y= 24",
+        "16x + 3y = 24"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "21. What is the area of the shaded region of the following figure?\n[IMG: https://assets.chorcha.net/kEbmS4R7pXNhKME4.webp]",
+      "options": [
+        "39 sq. unit",
+        "13 sq. unit",
+        "78 sq. unit",
+        "None of these"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "22. A bag contains 10 blue and 15 red balls. If a boy draws 2 balls at random consecutively, which one is the probability of both be of same color?",
+      "options": [
+        "½",
+        "$\\frac{1}{11}$",
+        "$\\frac{10}{99}$",
+        "$\\frac{4}{33}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "23.\n\n$\\int_{0}^{1} \\sqrt{\\frac{1-\\mathrm{x}}{1+\\mathrm{x}}} \\mathrm{dx}$ এর মান কোনটি?",
+      "options": [
+        "$\\frac{ π}{2} -1$",
+        "$\\frac{π}{2}$",
+        "16π",
+        "Can not be determined"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "24. Suppose a pyramid has a square base of length 3 m in each side and a height of 5 m. What is the volume of that pyramid?",
+      "options": [
+        "9 m³",
+        "15m³",
+        "27m³",
+        "45m³"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "25. The sum of all angels of a polygon is 1080. How many  sides does  the polygon have?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "26. Two men are carrying a straight uniform bar of length 8 m and weight 60 kg. One man supports it at a distance of 2 m from one end and the other man at a distance 3 m from the other end. What weight does each man bear?",
+      "options": [
+        "20 kg, 40 kg",
+        "30 kg, 30 kg",
+        "45 kg, 15 kg",
+        "None of these"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "উচ্চতর গণিত(27)",
+      "question": "27. For which value of x, the 21 and 22nd terms are equal in the expansion of (1 + x)⁴⁴?[M-2.5, IUT : 2021-22]",
+      "options": [
+        "6/7",
+        "⅛",
+        "⅞",
+        "⅐"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "1. In ancient times wealth was measured and exchanged in things that could be touched: food, tools, and precious metals and stones. Then the barter system was replaced by coins, which still had real value since they were pieces of rare metal. Coins were followed by fiat money, paper notes that have value only because everyone agrees to accept them.\nToday electronic monetary systems are gradually being introduced that will transform money into even less tangible forms, reducing it to a series of \"bits and bytes\", or units of computerized information, going between machines at the speed of light. Already. electronic fund transfer allows money to be instantly sent and received by different banks, companies, and countries through computers and telecommunications devices.\nAccording to the passage, which of the following was the earliest kind of exchange of wealth?",
+      "options": [
+        "Bartered foods",
+        "Fiat money",
+        "Coin currency",
+        "Intangible forms"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "2. A drug having higher efficacy in treating many types of infection can, at present, be obtained only from the bark of the ibora, a tree that is very rare. It takes the bark of 500 trees to make 100 grams of the drug. It follows, therefore, that continued production of the drug must lead to the ibora's extinction from the planet. Which of the following, if true, most seriously weakens the argument above?",
+      "options": [
+        "The drug made from ibora bark is dispensed to doctors from a central authority.",
+        "The drug made from ibora bark is expensive to produce.",
+        "The leaves of the ibora are used in a number of medical products.",
+        "The ibora can be propagated from cuttings and grown under cultivation."
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "3. A number of scientific theories that are____ today, were once treated with______by the scientific establishment.",
+      "options": [
+        "Dismissed, contempt",
+        "Accepted, approbation",
+        "Unchallenged, disdain",
+        "Unrivalled, reverence"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "4. I am impressed at the length he has gone through to create this detailed report in which he_______the text at several places.",
+      "options": [
+        "annotated",
+        "referred",
+        "interpreted",
+        "inferred"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "5. While filling up the survey, he was very open and ____ in revealing his feelings about the organization's compensation program.",
+      "options": [
+        "astute",
+        "incredulous",
+        "candid",
+        "virile"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "6. Like people living near an active volcano, many of us are             about the possibility of atomic warfare and its attendant destruction.",
+      "options": [
+        "unconcerned",
+        "worried",
+        "irritated",
+        "excited"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "7. Choose the word most similar in meaning to 'INDOMITABLE'.",
+      "options": [
+        "adequate",
+        "improper",
+        "doctrine",
+        "unconquerable"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "8. Choose the synonym of 'DIVULGE'.",
+      "options": [
+        "divert",
+        "reveal",
+        "docile",
+        "deprive"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "English(9)",
+      "question": "9. ACUMEN (synonym)",
+      "options": [
+        "keenness",
+        "brilliance",
+        "swiftness",
+        "greediness"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "1. If R=8.31  $j k g^{- 1}{m} o l^{- 1}$  then find the volume of 20g oxygen at 27°C and 72 cm-Hg pressure.",
+      "options": [
+        "$16.24 × 10^{- 3} m^{3}$",
+        "$26.24 × 10^{- 3} m^{3}$",
+        "$16.24 × 10^{- 2} m^{3}$",
+        "$16.24 × 10^{2} m^{3}$"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "2. Which of the following reaction is incorrect?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/gPAEZ_OhZzKorJPc.webp]",
+        "[IMG: https://assets.chorcha.net/TDtqJtsbil3lCizW.webp]",
+        "[IMG: https://assets.chorcha.net/eSFN4_r3OG9zWNah.webp]",
+        "[IMG: https://assets.chorcha.net/5oawWccgMsFaU20Q.webp]"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "3. Which of the following is true?",
+      "options": [
+        "The order of reactivity in SN2 is CH3X>1°>2°>3°",
+        "The order of reactivity in E2 is CH3X>1°>2°>3°",
+        "Strong base favors the E2 and SN2 reactions",
+        "More polar solvent favors SN1 reaction but less polar solvent E1 reaction."
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "4. How many structural isomers would the compound C6H14 have?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "5. In which reaction is the underlined substance acting as a base?",
+      "options": [
+        "HNO3 + H2SO4  → H2NO3+ + HSO4-",
+        "HSiO3- + HCN → CN- + H2O + SiO2",
+        "HNO2 + HCO3- → H2O + CO2 + NO2-",
+        "C6H5O- + CH2ClCO2H → C6H5OH + CH2ClCO2-"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "6. 80 mL gas is collected over water at 17°C and 750 mm-Hg pressure the same amount of gas is occupies a volume of 72 mL at STP in dry condition. Calculate the vapor pressure at 17°C.[C-2.1, IUT : 2021-22]",
+      "options": [
+        "726.6 mm-Hg",
+        "23.5 mm-Hg",
+        "32.41 mm-Hg",
+        "147.6 mm-Hg"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "7. What will be the values of b and d in the balanced chemical equation? \na MnO4-(aq) + b C2O42- (aq) + c H+(aq) → d Mn2+(aq) + e CO2(aq) + f H2O (l)",
+      "options": [
+        "2,5",
+        "5,2",
+        "2,2",
+        "5,5"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "8. Calculate the solubility of NiCO3 in grams per liter. The value of Ksp for NiCO3= 1.4×10-7, where  118.7 g/mol is the molecular mass of NiCO3.",
+      "options": [
+        "1.96×10-14 gL-1",
+        "3.7×10-4 gL-1",
+        "0.044 gL-1",
+        "0.118 gL-1"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "9. When few drops of Ba(NO3)2 solution is added to a test-tube containing the solution of molecules AB, white precipitate is formed. This precipitate remains insoluble on addition of hot dilute HCl. What would be B?",
+      "options": [
+        "CO32-",
+        "SO42-",
+        "PO43-",
+        "I-"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "10. Consider a cell consisting of Zn(s)|Zn2+ (1.00×10-5 M)|| Ag+(0.10M)|Ag(s) and standard reduction potentials of the cell are E°Zn(red)=-0.76V and E°Ag(red)=0.80V at 25°C. For this cell the following parameters age given\nThe cell reaction is\ni. Zn(s)+2Ag+(aq)=> Zn2+(aq)+2Ag(s)\nii.Ecell=1.6488V\niii.ΔG°=-3.01×105J\nWhich of the following is more appropriate?",
+      "options": [
+        "i & ii",
+        "ii & iii",
+        "i & iii",
+        "i, ii & iii"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "11. Which is topmost layer of atmosphere?",
+      "options": [
+        "Exosphere",
+        "Ionosphere",
+        "Thermosphere",
+        "None of these"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "12. Which of the following is correct?",
+      "options": [
+        "PI5 is a trigonal pyramidal molecule",
+        "XeF4 is a tetrahedral molecule",
+        "ICl5 is a square pyramidal molecule",
+        "SO42- is a square planner molecule"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "13. Structure of 2,3-dibromobutane is-\n H3C-CHBr-CHBr-CH3\nThis structure\n\ni. has two chiral centers\n\nii. shows two optically active isomers\n\niii. shows one optically inactive isomers\nWhich of the following is more appropriate?",
+      "options": [
+        "i & ii",
+        "ii & iii",
+        "i & iii",
+        "i, ii & iii"
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "14. Which a statement about exothermic and endothermic reactions is correct?",
+      "options": [
+        "In an endothermic reactions, energy is used to break bonds but no energy is released when bonds form.",
+        "In an endothermic reactions, energy is released when bound from but more energy is used to break bonds.",
+        "In an exothermic reactions, energy is released both by breaking and by forming bonds.",
+        "In an exothermic reactions, energy is released when bonds form but no energy is needed to break bonds."
+      ],
+      "tag": "IUT 21-22"
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "15. The basis of MRI experiment to detect tumors, strokes, and bleeds-\ni. Proton (H+) resonance occurs due to absorption of radiofrequency.\nii. Affected cells contains more proton which produce more proton (H+) resonance signal.\niii. Mutual interaction occurs between protons and electrons due to application of radiofrequency.\nWhich of the following is more appropriate?",
+      "options": [
+        "i & ii",
+        "ii & iii",
+        "i & iii",
+        "i, ii & iii"
+      ],
+      "tag": "IUT 21-22"
+    }
+  ]
+}

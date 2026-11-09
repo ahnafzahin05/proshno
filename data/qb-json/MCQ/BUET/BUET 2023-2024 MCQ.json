@@ -1,0 +1,1105 @@
+{
+  "title": "23-24 MCQ",
+  "questions": [
+    {
+      "subject": "Physics(33)",
+      "question": "1. If an object is thrown from a 15m high roof with a velocity of 20ms-1 and at an angle of 30° with the horizontal, what is the time required to reach the ground?",
+      "options": [
+        "3.238s",
+        "2.125s",
+        "2.716s",
+        "3.046s"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "2. If the volume is suddenly reduced to 1/3 at the proof temperature, what will be the temperature?",
+      "options": [
+        "0 K",
+        "25 K",
+        "91 K",
+        "118 K"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "3. What does the first law of thermodynamics relate to?",
+      "options": [
+        "Heat and power",
+        "Heat and work",
+        "Heat and speed",
+        "Motion and work"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "4. What is the angle of refraction for the 2nd bright band in a system with a wavelength of 5800Å and a thickness of 0.23mm?",
+      "options": [
+        "0.90°",
+        "0.14°",
+        "0.36°",
+        "0.72°"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "5. If distance between sun and earth is I, period of earth is T, what is mass of sun?",
+      "options": [
+        "$\\frac{4 \\pi^{2} r^{2}}{3 GT^{2}}$",
+        "$\\frac{4 \\pi^{2} \\mathrm{r}^{3}}{\\mathrm{GT}^{2}}$",
+        "$\\frac{4 \\pi r^{3}}{3 \\mathrm{GT}^{2}}$",
+        "$\\frac{3 r^{3}}{4 \\pi GT}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "6. If the transistor's base current is 0.05mA and drain current is 0.85mA, what is the current dissipation factor?",
+      "options": [
+        "0.95",
+        "0.87",
+        "0.84",
+        "0.94"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "7. If a 40 kg object is suspended by two strings at an angle of 45° to the vertical, what will be the tension in the strings?",
+      "options": [
+        "277.186 N",
+        "288.576 N",
+        "196 N",
+        "554.372 N"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "8. What is the maximum kinetic energy of the emitted electrons when light of wavelength 3000 Å is incident on a metal of 2.3eV electronegativity?",
+      "options": [
+        "4.14eV",
+        "1.84 eV",
+        "6.44 eV",
+        "3.34 eV"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "9. A radioactive substance has a half-life of 1.8 hours. How many parts will be left after 5.4 hours?",
+      "options": [
+        "25%",
+        "12.5%",
+        "75%",
+        "None of them"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "10. If the resistances in the first, second and third arms of a Wheatstone bridge are 40, 6Ω and 45 respectively, what value of resistance is added to the fourth arm to keep the bridge in balance?",
+      "options": [
+        "20 $\\Omega$",
+        "16 $\\Omega$",
+        "12 $\\Omega$",
+        "10 $\\Omega$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "11. A Carnot cycle completes work at an initial temperature of 327°C. Minimum temperature and efficiency of the Carnot cycle if the ratio of compression or expansion in each step is 1:6 are respectively [γ = 1.4]",
+      "options": [
+        "0K, 28%",
+        "287.012K, 50.21%",
+        "393.52K, 15.21%",
+        "293.056K, 51.16%"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "12. $(110)_{2} \\times(101)_{2}=\\text { ? }$",
+      "options": [
+        "$(11010)_{2}$",
+        "$(1110)_{2}$",
+        "$(10110)_{3}$",
+        "$(11110)_{2}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "13. If the speed of the meter gauge train is 50.4 kmh¯¹, the radius of the curve is 100 ml and the distance between two parallel lines is 100 cm, how high must a section of railway line be from the ground?",
+      "options": [
+        "19.6 mm",
+        "1.96 mm",
+        "196 mm",
+        "0.196 mm"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "14. Which wave cannot be induced?",
+      "options": [
+        "the heat",
+        "light waves",
+        "water waves",
+        "sound waves"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "15. Which material has a negative coefficient of resistance?",
+      "options": [
+        "Al",
+        "Si",
+        "Cu",
+        "Ni"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "16. What is the change in entropy when 10 kg of water at 0°C is heated to 100°C?",
+      "options": [
+        "4.12 kJK -1",
+        "8.63 kJK -1",
+        "12.15 kJK -1",
+        "13.11 kJK -1"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "17. If the percentage error in measuring the radius of the sphere is 2%, what is the percentage error in measuring the volume?",
+      "options": [
+        "6%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "18. An object breaks and two objects of mass 1 kg are thrown in two directions with a velocity of 0.6 c. What was the mass of the original object?",
+      "options": [
+        "3.2kg",
+        "1.2kg",
+        "2kg",
+        "2.5kg"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "19. [IMG: https://assets.chorcha.net/k5-m1Bd3Ai8S5Uj9XFehY.png]What is T₁: T₂ if three forces T1, T2 and T3 act in the same plane and form equilibrium?",
+      "options": [
+        "1:1",
+        "√2:1",
+        "1:√2",
+        "2: √2"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "20. A fission produces 200 MeV of energy. How many fissions per second must occur to gain 1000 MW of power?",
+      "options": [
+        "$3.125 \\times 10^{19}$",
+        "$6.25 \\times 10^{21}$",
+        "$3.2 \\times 10^{-20}$",
+        "$1.6 \\times 10^{-22}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "21. On a given day the relative humidity of the air is 75%, the dew point is 10°C. If the relative vapor pressure at dew point is 13.64 mm Hg, what is the relative vapor pressure at that temperature on that day?",
+      "options": [
+        "16.53 mm",
+        "18.19 mm",
+        "17.62 mm",
+        "17.33 mm"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "22. Jupiter takes 11.2 years to orbit the Sun. What is the ratio of the distance from the Sun to Jupiter and the Earth?",
+      "options": [
+        "1:5",
+        "2:1",
+        "5:1",
+        "1:2"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "23. If three sides of an acute triangle $1,2, \\sqrt{7}$ are of unit length, what is the obtuse angle?",
+      "options": [
+        "135°",
+        "120°",
+        "105°",
+        "100°"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "24. If the decay constant of a radioactive substance on Earth is $4.02 \\times 10^{-4} \\mathrm{yr}^{-1}$, in a spacecraft moving at 0.9c\n What is the decay constant of radioactive material?",
+      "options": [
+        "$2.83 \\times 10^{-4} \\mathrm{yr}^{-1}$",
+        "$1.75 \\times 10^{-4} \\mathrm{yr}^{-1}$",
+        "$2.25 \\times 10^{-4} \\mathrm{yr}^{-1}$",
+        "$3.75 \\times 10^{-4} \\mathrm{yr}^{-1}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "25. Acceleration of a beam of mass 2 kg, $\\vec{a}=2 \\hat{i}-3 \\hat{j}+2 \\hat{k}$ and deflection, $\\vec{s}=2 \\ hat{i}+4 \\hat{j}+6 \\hat{k}$ then work, $W=$ ?",
+      "options": [
+        "8 J",
+        "10 J",
+        "12 J",
+        "15 J"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "26. What is the magnitude of the gravitational constant G?",
+      "options": [
+        "$\\mathrm{ML}^{3} \\mathrm{~T}^{-2}$",
+        "$\\mathrm{M}^{-1} \\mathrm{~L}^{3} \\mathrm{~T}^{-2}$",
+        "$\\mathrm{M}^{-1} \\mathrm{LT}^{-2}$",
+        "$\\mathrm{ML}^{3} \\mathrm{~T}^{-1}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "27. [IMG: https://assets.chorcha.net/bcYzNYMCmUQdzHKSsezU0.png]$|\\vec{A}|=3,|\\vec{B}|=5 \\therefore|\\vec{A}-\\vec{B}|=$ ?",
+      "options": [
+        "$\\sqrt{13}$",
+        "5.4",
+        "8.6",
+        "7.43"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "28. $3 \\hat{i}-4 \\hat{j}+a \\hat{k}, 4 \\hat{i}-2 \\hat{j}+\\hat{k}, \\hat{i}+2 \\hat{j}-3 \\hat{k}$ What is the value of a if the vector is three planes?",
+      "options": [
+        "-2",
+        "2",
+        "-4",
+        "4"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "29. Equation of motion of a simple rhythmically vibrating particle, $\\mathrm{y}=10 \\sin \\left(6 \\pi t+\\frac{\\pi}{12}\\right)$ What is the frequency of the particle?",
+      "options": [
+        "10 Hz",
+        "6 Hz",
+        "3 Hz",
+        "12 Hz"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "30. [IMG: https://assets.chorcha.net/-ZtzR9odeorDRI4L-3wz1.png]What is the equivalent capacitance between points A and B?",
+      "options": [
+        "$2 \\mu \\mathrm{~F}$",
+        "$0.5 \\mu \\mathrm{~F}$",
+        "$5.4 \\mu \\mathrm{~F}$",
+        "$4.8 \\mu \\mathrm{~F}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "31. A $\\mathrm{e}^{-}\\left(-1.8 \\times 10^{-19} \\mathrm{erg}\\right), \\mathrm{n}=1$ to $\\mathrm{n }=3$ How much energy will be consumed?,",
+      "options": [
+        "$1.22 \\times 10^{-18} \\mathrm{erg}$",
+        "$1.22 \\times 10^{-18} \\mathrm{~J}$",
+        "$1.22 \\times 10^{-20} \\mathrm{~J}$",
+        "$1.22 \\times 10^{-20} \\mathrm{erg}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "32. If the mass of the earth is 5.98 × 10 24 kg and the radius is 6380 km, what is the average density?",
+      "options": [
+        "5464.15 kgm -3",
+        "5497.31 kgm -3",
+        "5.5 x 103 kgm -3",
+        "5.436 × 10 3 kgm -3"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Physics(33)",
+      "question": "33. Which one has the highest entropy?",
+      "options": [
+        "solid matter",
+        "liquid substance",
+        "gaseous substance",
+        "plasma"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "1. What is the level of TDS approved by WHO?",
+      "options": [
+        "10 ppm",
+        "5 ppm",
+        "500 ppm",
+        "100 ppm"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "2. Which of the following is isoelectronic?",
+      "options": [
+        "$\\mathrm{CO}_{3}^{2-}, \\mathrm{SO}_{2}, \\mathrm{H}_{2} \\mathrm{~S}, \\mathrm{CO}$",
+        "$\\mathrm{CN}^{-}, \\mathrm{SO}_{3}, \\mathrm{Kr}, \\mathrm{CO}_{2}$",
+        "$\\mathrm{N}_{2}, \\mathrm{CO}, \\mathrm{CN}^{-}, \\mathrm{NO}^{+}$",
+        "$\\mathrm{N}_{2}, \\mathrm{SO}_{3}, \\mathrm{PO}_{4}^{3-}, \\mathrm{H}_{2} \\mathrm{~ S}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "3. Which has the same diffusion rate?",
+      "options": [
+        "N 2 C 2 H 4",
+        "N 2 CO 2",
+        "HCl, H₂O",
+        "NH 3 , CH 4"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "4. Cobb electrolysis of the compound $\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}_{2}-\\mathrm{COONa}$ produces which compound.",
+      "options": [
+        "$\\mathrm{C}_{5} \\mathrm{H}_{12}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{10}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{14}$",
+        "$\\mathrm{C}_{8} \\mathrm{H}_{18}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "5. $\\mathrm{NH}_{4} \\mathrm{HS}(\\mathrm{s}) \\rightleftharpoons \\mathrm{NH}_{3}(\\mathrm{~g})+\\mathrm{H}_{ 2} \\mathrm{~S}(\\mathrm{~g})$ in the reaction $\\mathrm{K}_{\\mathrm{p}}$ and $\\mathrm{K}_{\\mathrm{c }}$ What is the relation of ?",
+      "options": [
+        "$\\mathrm{K}_{\\mathrm{p}}=\\mathrm{K}_{\\mathrm{c}}(\\mathrm{RT})^{-2}$",
+        "$\\mathrm{K}_{\\mathrm{p}}=\\mathrm{K}_{\\mathrm{c}}(\\mathrm{RT})^{2}$",
+        "$K_{p}=K_{c} RT$",
+        "$\\mathrm{K}_{\\mathrm{p}}=\\mathrm{K}_{\\mathrm{c}}(\\mathrm{RT})^{-1}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "6. In the Winkler method, Mn(OH) 2 , in the presence of KI (0 2 ) reacts with dissolved oxygen to produce what?",
+      "options": [
+        "MnO(OH) 2",
+        "MnO(OH)",
+        "MnSO 4",
+        "CaCO3"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "7. How many grams of FeSO 4 can be titrated by 147 g of K 2 Cr 2 O 7 ?",
+      "options": [
+        "456 g",
+        "599.5 g",
+        "999 g",
+        "1199 g"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "8. Which participates in both aliphatic and aromatic reactions?",
+      "options": [
+        "benzene",
+        "toluene",
+        "Cyclohexane",
+        "None of them"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "9. If two conductors are connected in parallel association, their capacitance will be the multiple of the capacitance if they are connected in class association?",
+      "options": [
+        "2",
+        "¼",
+        "4",
+        "½"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "10. Which is more active in electrophilic substitution reaction?",
+      "options": [
+        "Benzo cyanide",
+        "Phenol",
+        "Benzene sulfonic acid",
+        "Nitrobenzene"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "11. The equilibrium constant of $\\mathrm{N}_{2}+3 \\mathrm{H}_{2} \\rightleftharpoons 2 \\mathrm{NH}_{3}$ is $\\mathrm{K}_{1} and \\frac{1}{3} \\mathrm{~N}_{2}+\\mathrm{H}_{2}$ $\\rightleftharpoons \\frac{2}{3} \\mathrm{NH}_{3} \\text{ if } \\mathrm{K}_{2}$  is the equilibrium constant of $\\mathrm{K}_{1}$ and $\\mathrm{K}_{2}$ Which one is related?",
+      "options": [
+        "$\\mathrm{K}_{2}=\\frac{1}{\\mathrm{~K}_{1}^{3}}$",
+        "$K_{2}=K_{1}^{\\frac{1}{3}}$",
+        "$K_{2}=K_{1}^{3}$",
+        "$\\mathrm{K}_{2}=\\frac{1}{\\mathrm{~K}_{1}}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "12. [IMG: https://assets.chorcha.net/W49E2hfpsTd0t2rd5Ol27.png]",
+      "options": [
+        "remove",
+        "replacement",
+        "addition",
+        "polymerization"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "13. Which is the correct order of wavelengths?",
+      "options": [
+        "Micro > Radio > UV > y",
+        "y > UV > Micro > Radio",
+        "Radio > Micro > y > UV",
+        "Radio > Micro > UV > y-ray"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "14. CH 3 -CH 2 -CH 2 Br + Na; What is produced in the reaction with dry ether?",
+      "options": [
+        "Hexane",
+        "Hexene",
+        "Hexene-2",
+        "Propene"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "15. How many 0, π bonds are there in the compound H 3 C - CH = C = CH 2 ?",
+      "options": [
+        "7,1",
+        "7,2",
+        "9,1",
+        "9,2"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "16. What is the hybridization of SF 6 molecules?",
+      "options": [
+        "sp²d",
+        "sp³d²",
+        "sp³d",
+        "sp³d³"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "17. What will be the pH of a mixture of equal volumes of 1M KOH and 1M HCI?",
+      "options": [
+        "0",
+        "1",
+        "7",
+        "14"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "18. CnH 2n+2 O Which equation is possible by structural notation?",
+      "options": [
+        "Alcohol, Ether",
+        "Aldehyde, ketone",
+        "Acid, Ester",
+        "None"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "19. Which is ortho para indicative?",
+      "options": [
+        "$-\\mathrm{SO}_{3} \\mathrm{H}$",
+        "-Br",
+        "-COOH",
+        "-CHO"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "20. If 0.1M and 1L HCI are required to completely neutralize 50 ml of 200 ml Ca(OH) 2 solution, what is the concentration of Ca(OH) 2 ?",
+      "options": [
+        "0.25 M",
+        "0.5M",
+        "1 M",
+        "1.25 M"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "21. Which is able to play both the role of oxidizing agent and repellant?",
+      "options": [
+        "H 2 O 2",
+        "SO3",
+        "H2S",
+        "H 2 PO 2"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "22. Which bacteria are used to produce alcohol in the fermentation process?",
+      "options": [
+        "Mycoderma aceti",
+        "Helicobacter",
+        "Both a & b",
+        "None of them"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "23. Question",
+      "options": [
+        "[IMG: https://assets.chorcha.net/AvKwXQgyiBmb5ya1tuCVp.png]",
+        "[IMG: https://assets.chorcha.net/bKysAUYI0SZOWzFaCPjrl.png]",
+        "$\\mathrm{CH}_{3}-\\mathrm{CHCl}-\\mathrm{CH}_{2} \\mathrm{Cl}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}_{2}-\\mathrm{CH}_{2} \\mathrm{Cl}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "24. What is the equivalent of cis hex-3-ene?",
+      "options": [
+        "n-hexane",
+        "cyclohexane",
+        "Cyclohex-1,3-diene",
+        "Cyclohex-1,2-diene"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "25. How many unpaired electrons in SO 2 compound?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "5"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "26. How many chiral carbons exist in glucose molecule?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "27. What kind of food preservative is citric acid?",
+      "options": [
+        "Antioxidant",
+        "Antimicrobial",
+        "Chilling Agent",
+        "None"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "28. What is produced when 2-bromobutane is treated with alcoholic KOH solution?",
+      "options": [
+        "Butene-2",
+        "Butene-1",
+        "3-hydroxybutane",
+        "3-bromobutan-2-ol"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "29. Oxidation potential M, N, O respectively 0.36, 0.80, -0.40 Which is the order of oxidation potential?",
+      "options": [
+        "0 > M > N",
+        "M > 0 > N",
+        "N > M > 0",
+        "N > 0 > M"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "30. What is the concentration in ppm if 1ml of 0.001M HCI is required to neutralize CaCO 3 ?",
+      "options": [
+        "500",
+        "50",
+        "36.5",
+        "365"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "31. Which orbital is impossible?",
+      "options": [
+        "$\\mathrm{n}=2, l=1, \\mathrm{~m}=0, \\mathrm{~s}= \\pm \\frac{1}{2}$",
+        "$\\mathrm{n}=2, l=1, \\mathrm{~m}=2, \\mathrm{~s}=\\frac{1}{2}$",
+        "$\\mathrm{n}=3, l=2, \\mathrm{~m}=1, \\mathrm{~s}=\\frac{1}{2}$",
+        "$\\mathrm{n}=3, l=1, \\mathrm{~m}=-1, \\mathrm{~s}=\\frac{1}{2}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "32. Which of the following is like a triangular pyramid?",
+      "options": [
+        "BeCl2",
+        "PCl 5",
+        "H 3 O +",
+        "BCl 3"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Chemistry(33)",
+      "question": "33. In which reaction are the number of carbons equal?",
+      "options": [
+        "Kolbe synthesis",
+        "Wurtz",
+        "Decarboxylation",
+        "None"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "1. $\\cos \\tan ^{-1} \\sin \\cot ^{-1}(\\mathrm{x})=?$",
+      "options": [
+        "$\\sqrt{\\frac{1-x^{2}}{1+x^{2}}}$",
+        "$\\sqrt{\\frac{1+x^{2}}{1-x^{2}}}$",
+        "$\\sqrt{\\frac{1+x^{2}}{x^{2}}}$",
+        "$\\sqrt{\\frac{1+\\mathrm{x}^{2}}{2+\\mathrm{x}^{2}}}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "2. $\\cot \\theta \\cot 2 \\theta=1 \\text { If } \\theta=\\text { how much? }$",
+      "options": [
+        "$\\frac{n \\pi}{2}-\\frac{\\pi}{4}$",
+        "$\\frac{n \\pi}{2}+\\frac{\\pi}{4}$",
+        "$(2 n+1) \\frac{\\pi}{6}$",
+        "$\\frac{n \\pi}{6}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "3. What is the horizontal distance of a projectile thrown from the ground with a velocity of 18.4ms-¹ and at an angle of 30° with the horizontal?",
+      "options": [
+        "28.09 m",
+        "29.92 m",
+        "31.87 m",
+        "33.95 m"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "4. For what nonzero value of $\\left[\\begin{array}{cc}P+3 & 2 \\\\ P & P\\end{array}\\right], P$ will the matrix be exceptional?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "i"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "5. $\\mathrm{i}^{\\mathrm{i}} \\cdot \\mathrm{i}^{\\mathrm{i}^{2}} \\cdot \\mathrm{i}^{\\mathrm{i}^{ 2}} \\ldots \\ldots \\ldots \\mathrm{i}^{\\mathrm{i}^{33}}=$",
+      "options": [
+        "-1",
+        "$i^{-i}$",
+        "$\\mathrm{i}^{\\mathrm{i}}$",
+        "$\\mathrm{i}^{-1}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "6. If the tangent of $x^{2}+y^{2}=20 x$ is $4 x+3 y=k$, then $k=$ ?",
+      "options": [
+        "$\\frac{9}{10}$",
+        "-10",
+        "9",
+        "$-\\frac{10}{9}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "7. What is the epicenter of $\\mathrm{y}^{2}=-2 \\mathrm{mx}$?",
+      "options": [
+        "$\\left(\\frac{m}{2}, 0\\right)$",
+        "$\\left(-\\frac{m}{2}, 0\\right)$",
+        "$\\left(0, \\frac{m}{2}\\right)$",
+        "$\\left(0,-\\frac{m}{2}\\right)$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "8. What is the domain of $\\sin ^{-1}\\left(\\frac{2 x}{3}\\right)$ ?",
+      "options": [
+        "$\\left(-\\frac{3}{2}, \\frac{3}{2}\\right)$",
+        "$\\left(-\\frac{2}{3}, \\frac{2}{3}\\right)$",
+        "$\\left[-\\frac{3}{2}, \\frac{3}{2}\\right]$",
+        "$\\left[-\\frac{2}{3}, \\frac{2}{3}\\right]$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "9. $9 x^{2}-4 y^{2}-36=0$ What are the parametric coordinates of the hyperbola?",
+      "options": [
+        "$(3 \\sec \\theta, 2 \\tan \\theta)$",
+        "$(2 \\sec \\theta, 3 \\tan \\theta)$",
+        "$(2 \\sin \\theta, 3 \\cos \\theta)$",
+        "$(3 \\sin \\theta, 2 \\cos \\theta)$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "10. $\\int \\frac{3 x^{2} d x}{e^{x^{3}}+e^{-x^{3}}}$",
+      "options": [
+        "$\\ln \\left|1+e^{x^{3}}\\right|+c$",
+        "$\\tan ^{-1}\\left(\\mathrm{e}^{\\mathrm{x}^{3}}\\right)+\\mathrm{c}$",
+        "$\\sin ^{-1}\\left(\\mathrm{e}^{\\mathrm{x}^{3}}\\right)+\\mathrm{c}$",
+        "$\\sqrt{1+\\mathrm{e}^{\\mathrm{x}^{3}}}+\\mathrm{c}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "11. A(1, 2), B(0, 3), C(t, 0) and D (0,4) | ABCD is a quadrilateral\n If area = 0, t = ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "12. What is the value of $\\lim _{x \\rightarrow \\infty}\\left(1+\\frac{b}{x}\\right)^{\\frac{x}{a}}$ ?",
+      "options": [
+        "e",
+        "$\\mathrm{e}^{\\frac{a}{b}}$",
+        "$e^{\\frac{b}{a}}$",
+        "$e^{ab}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "13. $x=2+3 \\cos \\theta, y=-1+3 \\sin \\theta$ If the circle $(2,2)$ is a point, what is the coordinate of the other end of that diameter?",
+      "options": [
+        "$(4,-2)$",
+        "$(-2,4)$",
+        "$(2,-4)$",
+        "$(2,-2)$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "14.\nIf $f(x)=\\frac{x}{x^{2}+k}$, for what value of k will the extreme value be found at the point $x=3$?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "1/6"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "15. If one root of the equation $x^{3}-9 x^{2}+32 x+42=0$ is $3+\\sqrt{5} i$, what are the other roots?",
+      "options": [
+        "$3-\\sqrt{5} i, 2$",
+        "$3+\\sqrt{5} i, 1$",
+        "$3-\\sqrt{5} i, 3$",
+        "$3+\\sqrt{5} i,-2$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "16. If the center of a circle touching the x axis is (4,5),\n What is the length of the segment bisected by the y axis of the circle?",
+      "options": [
+        "3 units",
+        "4 units",
+        "6 units",
+        "4 units"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "17. A sound is heard after 2.54 sec after a stone is thrown into a well 30 m deep. What is the speed of sound?",
+      "options": [
+        "$431 \\mathrm{~ms}^{-1}$",
+        "$439 \\mathrm{~ms}^{-1}$",
+        "$457 \\mathrm{~ms}^{-1}$",
+        "$461 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "18. $\\ln \\mathrm{x}=5 \\ln \\mathrm{y}$ and $\\log _{2} \\mathrm{x}=4+\\log _{2} \\mathrm{y}$ If, what is $(\\mathrm{x}, \\mathrm{y})$ ?",
+      "options": [
+        "(16,2)",
+        "$(32,2)$",
+        "$(2,32)$",
+        "$(5,32)$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "19. $\\frac{d}{dx} f(3 x)=6 x \\text { if } \\frac{d}{dx} f(x)=?$",
+      "options": [
+        "$3 x$",
+        "$\\frac{x^{2}}{3}$",
+        "$\\frac{2 x}{3}$",
+        "2x"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "20. If the complex root of $x^{3}-1=0$ is $\\alpha, \\beta$, then $\\left|\\frac{1}{\\alpha}+\\frac{1}{\\beta }\\right|=$ ?",
+      "options": [
+        "0",
+        "1",
+        "$\\frac{-1+\\sqrt{3} i}{2}$",
+        "-1"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "21. $x^{2}+y^{2}+2 x+c=0 \\quad \\text { в } \\quad x^{2}+y^{2}+2 y+c=0$ circle If you touch $\\mathrm{c}=$ ?",
+      "options": [
+        "2",
+        "¼",
+        "½",
+        "½"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "22. If the ratio of the roots of the equation $\\mathrm{x}^{2}+\\mathrm{kx}+1=0$ and the ratio of the roots of the equation $x^{2}-2 x+9=0$ are the same, then $\\mathrm{k}=$ ?",
+      "options": [
+        "$\\pm \\frac{2}{3}$",
+        "$\\pm \\frac{3}{5}$",
+        "$\\pm \\frac{2}{5}$",
+        "$\\pm \\frac{2}{7}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "23. $\\int \\frac{d x}{x\\left(1+8 x^{8}\\right)}=?$",
+      "options": [
+        "$\\frac{1}{8} \\ln \\left|1-\\frac{1}{1+8 x^{8}}\\right|+c$",
+        "$\\frac{1}{8} \\ln \\left|1-\\frac{1}{\\mathrm{x}\\left(1+8 \\mathrm{x}^{8}\\right)}\\right|+\\mathrm{c}$",
+        "$\\frac{1}{8} \\ln \\left|\\frac{1}{x\\left(x+8 x^{8}\\right)^{-1}}\\right|+c$",
+        "$\\frac{1}{8} \\ln \\left|x-\\frac{1}{1+8 x^{7}}\\right|+c$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "24. $25 x^{2}+16 y^{2}=400$ What is the eccentricity of the ellipse?",
+      "options": [
+        "$\\frac{4}{5}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{7}$",
+        "$\\frac{5}{7}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "25. $\\mathrm{x}=\\frac{1}{2} \\sqrt{\\mathrm{y}}$ and $\\mathrm{y}=1$ and $\\mathrm{y}=4$ What is the area of the interval?",
+      "options": [
+        "2",
+        "7/3",
+        "8/3",
+        "3"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "26. $\\frac{1}{2} \\sin ^{-1}(2 x)=\\sin ^{-1} y \\text { then } x=\\text { ? }$",
+      "options": [
+        "$\\sqrt{1+\\sqrt{1-y^{2}}}$",
+        "$\\frac{1}{\\sqrt{2} y}$",
+        "$\\frac{y}{1+\\sqrt{1-4 y^{2}}}$",
+        "$y \\sqrt{1-y^{2}}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "27. $\\begin{array}{l} \\tan x+\\tan 3 x+\\tan 4 x=\\tan x \\tan 3 x \\tan 4 x \\text { if } x=? \\end{array}$",
+      "options": [
+        "$(2 n \\pi+1) \\frac{\\pi}{4}$",
+        "$\\frac{n \\pi}{12}$",
+        "$n \\pi$",
+        "$\\frac{n \\pi}{4}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "28. $\\frac{1}{3}\\left(9^{x-1}+9^{x-3}\\right)+1=0$, what is the value of $x$?",
+      "options": [
+        "2",
+        "1.5",
+        "3.5",
+        "None of them"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "29. $\\frac{i+3}{1-\\frac{1}{2+1}}=?$",
+      "options": [
+        "5 i",
+        "3",
+        "5",
+        "3i"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "30. $16 x^{2}+9 y^{2}+32 x-128=0$ What is the area of the ellipse whose equation is ?",
+      "options": [
+        "$8 \\pi$",
+        "$9 \\pi$",
+        "$12 \\pi$",
+        "$15 \\pi$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "31. A 16 m long rod with a mass of 7 kg at one end and a pole at a distance of 6.25 m from the same end is in equilibrium. What is the mass of the bar?",
+      "options": [
+        "32 kg",
+        "16 kg",
+        "18 kg",
+        "25 kg"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "32. $(-1,3)$ is perpendicular to the point $x+3 y+7=0$ and what is the perpendicular distance from the origin of the perpendicular line?",
+      "options": [
+        "$\\frac{6}{10}$",
+        "$\\frac{6}{\\sqrt{10}}$",
+        "$\\frac{3}{5 \\sqrt{10}}$",
+        "$\\frac{6 \\sqrt{10}}{5}$"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "33. $|2 z-2|=2 x$ What is this equation? where, $z=x+iy$",
+      "options": [
+        "straight line",
+        "the circle",
+        "Paralympic",
+        "hyperbole"
+      ],
+      "tag": "BUET 23-24"
+    },
+    {
+      "subject": "Math(34)",
+      "question": "34. What is the area between $\\sin x$ and $\\cos x$ in the interval $[0,2 \\pi]$?",
+      "options": [
+        "$4 \\sqrt{2}$",
+        "$(1-\\sqrt{2})$",
+        "$(1-\\sqrt{2}) \\frac{1}{2}$",
+        "$2 \\sqrt{2}$"
+      ],
+      "tag": "BUET 23-24"
+    }
+  ]
+}

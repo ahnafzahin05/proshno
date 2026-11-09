@@ -1,0 +1,995 @@
+{
+  "title": "IUT 20-21",
+  "questions": [
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "1. The dimension of an examination hall is 20 m × 10 m × 5 m. How many kilograms of air is present in the room?\n\nThe temperature of air in the room is 30oC and molecular weight of air is 29.",
+      "options": [
+        "1166.46",
+        "1661.46",
+        "1266.46",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "2. A jar test was conducted with alum and it was found that optimum alum dosage obtained when 50 mL alum solution containing 1.0gm/L is added into 2 L of water. The concentration of alum dosage was:",
+      "options": [
+        "25 ppm",
+        "2.5 ppm",
+        "30 ppm",
+        "12.5 ppm"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "3. A particle A of mass 2 kg is moving along a straight horizontal line with speed 12 m/s. Another particle B of mass m kg is moving along the same straight line in the opposite direction to A, with speed 8 m/s. The particle collide. The direction of motion of A is unchanged by the collision. Immediately after the collision, A is moving with speed 3 m/s and B is moving with speed 4 m/s. Find the value of m.",
+      "options": [
+        "2.5 kg",
+        "1.5 kg",
+        "1.0 kg",
+        "5.2 kg"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "4. Two particles A and B have masses 5 m and km respectively, where k < 5. The particles are connected by a light inextensible string which passes over a smooth light fixed pulley. The system is held at rest with the string taut, the hanging parts of the string vertical and with A and B at the same height above a horizontal plane, as shown in the following figure. The system is released from rest. After release, A descends with celeration (1/4)g Find the tension in the string as A descends.\n[IMG: https://assets.chorcha.net/hqHYsmEAcO9v1ji2.webp]",
+      "options": [
+        "(17/4)mg",
+        "(15/4)mg",
+        "(19/15)mg",
+        "(4/15)mg"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "5. Suppose, your swimming velocity is twice of current in a river. You wish to cross the river perpendicularly having the current. But you reached 300 m far from the opposite of your starting point. Then width of the river is-",
+      "options": [
+        "150 m",
+        "300 m",
+        "600 m",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "6. Length of a simple pendulum (100.0±0.5) cm, and time period T = (2.00 ± 0.01) s. Determine the percentage of error in acceleration due to gravity 'g'.",
+      "options": [
+        "±1.5%",
+        "±2.0%",
+        "±1.05%",
+        "±1.75%"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "7. The recoil velocity of a gun of mass of 8 kg is 10 m/s when a bullet of mass of 10 g leaves from the gun. After penetrating 0.3 m inside the target the bullet stops. Calculate the applied resistance of the bullet?",
+      "options": [
+        "1.067 x 10⁵N",
+        "1.067 x 10⁶N",
+        "1.067 x 10⁷N",
+        "1.067 x 10⁸ N"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "8. A tennis ball coming with velocity, v₁ = 16ms-1 is sent back by a racket in the opposite direction with velocity, v₂ = 20ms-1. If the change of kinetic energy of the ball is ∆E = 9.25j, then calculate the change of momentum of the ball.",
+      "options": [
+        "5.626 kg ms-1",
+        "6.626 kg ms-1",
+        "7.626 kg ms-1",
+        "4.626 kg ms-1"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "9. A space craft from the earth is moving towards the moon, find a location from the earth where at the gravitational force is zero. [Mass of the earth = 6 x 10²⁴ kg, Mass of the moon = 7.4 x 10²² kg, distance between the earth and the moon = 3.8 x 10⁸ m]",
+      "options": [
+        "3.12 x 10⁸ m",
+        "3.42 x 10⁸ m",
+        "3.02 x 10⁸ m",
+        "3.42 x 10⁷m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "10. What is the height above the earth where the value of acceleration due to gravity is 40% of that on the earth's surface? (Radius of the earth, R= 6.38 x 10⁶ m)",
+      "options": [
+        "4.7 x 10⁶ m",
+        "4.7 x 10⁵m",
+        "3.7 x 10⁶ m",
+        "3.7 x 10⁵ m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "11. A drop of water is falling through air. The terminal velocity of the drop is 1.2×10-2 m/s and co- efficient of viscosity of air, η= 1.8×10-5 Nsm-2 What is the diameter of the drop?",
+      "options": [
+        "1.99×10-5",
+        "2.99×10-5",
+        "1.49×10-5",
+        "2.49×10-5"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "12. In a cylinder there is 0.001 m³ gas at 300 K temperature and at 105 Pa pressure. The gas is expanded isothermally first and later on it is expanded again adiabatically. In each case ratio of expansion is 1:2. Calculate the total amount of work in expansion. (γ = 1.4)",
+      "options": [
+        "3072.17 J",
+        "3172.17 J",
+        "3272.17J",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "13. Internal resistance of a battery is 1Ω.1% error is found if the electromotive force of the battery is measured by a voltmeter. What is the resistance of the voltmeter?",
+      "options": [
+        "89Ω",
+        "87Ω",
+        "99Ω",
+        "97Ω"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "14. In the fourth arm S of a post office box has a wire of length of 1 m and cross-sectional area of 1×10-6 m² is connected Now, the galvanometer gives zero deflection when 10Ω plug from arm Q, 1000Ω plug from arm P and 2025Ω plug from arm R are removed from the box. Determine the specific resistance.",
+      "options": [
+        "30.25×10-6Ωm",
+        "10.25×10-6 Ωm",
+        "40.25×10-6 Ωm",
+        "20.25×10-6 Ωm"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "15. Fraunhofer diffraction is observed on a screen placed at a distance of 0.8 m from two parallel slits separated by 0.1 x 10-3 m when the slits are illuminated by light of wavelength of 5.46 x 10-7m. What is the distance of the 3rd bright fringe from the central bright fringe?",
+      "options": [
+        "1.11×10-7 m",
+        "1.21×10-7 Ωm",
+        "1.31×10-2m",
+        "1.41×10-3m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "16. Each gram of ${ }^{226} \\mathrm{Ra}$ emits 3.5 x 1010 alpha particles per second. How many years are the half-life of radium?",
+      "options": [
+        "1677 years",
+        "1777 years",
+        "1857 years",
+        "1947 years"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "17. A n-p-n transistor is kept in common emitter connection. Current grain of the transistor ẞ= 100. What will be the change in emitter current if the collector current is changed by 1 mA?",
+      "options": [
+        "3.11 mA",
+        "1.01 mA",
+        "2.11 mA",
+        "2.01 mA"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "18. A 0.25 kg ball hits a brick wall with a velocity of 30 m/s and bounces back at the same speed. If the ball is in contact with the wall for 0.1 s, what is the value of the force exerted by the wall on the ball?",
+      "options": [
+        "100 N",
+        "-150 N",
+        "-300 N",
+        "0N"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "19. An object has a mass of 36 kg and weight 360 N at the surface of the Earth. If this object is transported to an altitude that is twice the Earth's radius, what is the objects mass and weight, respectively?",
+      "options": [
+        "9 kg and 90 N",
+        "36 kg and 90 N",
+        "4 kg and 90 N",
+        "36 kg and 40 N"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "20. Cart 1 (2 kg) and Cart 2 (2.5 kg) run along a frictionless, level, one-dimensional track. Cart 2 is initially at rest, and Cart 1 is traveling 0.6 m/s toward the right when it encounters cart 2. What is the efficiency of the collision with respect to kinetic energy?",
+      "options": [
+        "16%",
+        "65%",
+        "44.44%",
+        "25%"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "21. Two charges Q1 = 2.4 x 10-10C and Q2 = 9.2 x 10-10 C are near each other, and charge Q1 exerts a force F₁ on Q2. How does F₁ change if the distance between Q₁ and Q2 is increased by a factor of 4?",
+      "options": [
+        "Decreases by a factor of F",
+        "Increases by a factor of 16",
+        "Decreases by a factor of 16",
+        "Increases by a factor of 4"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "22. Four identical capacitors are connected in parallel to a battery. If a total charge of Q flows from the battery, how much charge does each capacitor carry?",
+      "options": [
+        "Q/4",
+        "Q",
+        "4Q",
+        "16Q"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "23. Compared to the initial value, what is the resulting pressure for an ideal gas that is compressed isothermally so one- third of its initial volume?",
+      "options": [
+        "equal",
+        "three times larger",
+        "larger but less than three times larger",
+        "more than three times larger"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "24. A 2.5 g string, 0.75 m long, is under tension. The string produces a 700 Hz tone when it vibrates in the third hormonic. What is the wavelength of the tone in the air? (use the speed of sound in air v=344 m/s)",
+      "options": [
+        "0.65 m",
+        "0.57 m",
+        "0.33 m",
+        "0.5 m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "25. A string, 2 m in length, is fixed at both ends and tightened untill the weve speed is 92m/s. What is the frequency of the standing wave shown? \n[IMG: https://assets.chorcha.net/Y0yrg2bvxc9uq5ab.webp]",
+      "options": [
+        "46 Hz",
+        "33 Hz",
+        "240 Hz",
+        "No Answer"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "26. Which expression describes the critical angle for the interface of water with air?(use the index of refraction for water µw=1.33 and the index of refraction for air µa =1)",
+      "options": [
+        "$\\sin^{- 1}{\\left ( \\frac{1}{3} \\right )}$",
+        "$\\sin^{- 1}{\\left ( \\frac{3}{4} \\right )}$",
+        "$\\sin^{- 1}{\\left ( \\frac{2}{3} \\right )}$",
+        "$\\sin^{- 1}{\\left ( \\frac{4}{3} \\right )}$"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "27. Two 10 cm long aluminium rods and five 8 cm long steel rods are at 5°C temperature and are joined together to form a 60 cm long rod. What is the increase in the length of the joined rod when the temperature is raised at 80°C? (Use a coefficient of linear expansion for aluminium= $2.4 × 10^{- 5} K^{- 1}$  and coefficient of linear expansion for Steel  $= 1.2 × 10^{- 5} K^{- 1} )$",
+      "options": [
+        "0.3 mm",
+        "0.5 mm",
+        "1.8 mm",
+        "0.72 mm"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "28. The altitude of a parallelepiped whose three coterminous edges are vectors $\\vec{A} = \\hat{i} + \\hat{j} + \\hat{k} ‚ \\vec{B} = 2 \\hat{i} + 4 \\hat{j} − \\hat{k} \\quad\\text{and}\\quad \\vec{C} = \\hat{1} + \\hat{j}  + 3 \\hat{k} , w i t h \\vec{A} \\quad\\text{and}\\quad \\vec{B}$ as sides of the base of the parallelepiped is-",
+      "options": [
+        "$\\frac{4 √ 3}{5}$",
+        "$\\frac{4 √ 31}{7}$",
+        "$\\frac{2 √ 38}{19}$",
+        "$\\frac{4 √ 37}{15}$"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "29. Water is heated to boiling under a prespressure of 1.0 atm. When an electric current of 0.50 A from a 12 V supply is passed for 300 s through a resistance in thermal contact with it, it is found that 0.798 g of water is vaporized. Calculate the mmolar enthalpy change at the boiling point.",
+      "options": [
+        "1.8 kJ",
+        "40. kJmole-1",
+        "3.8 kJmole-1",
+        "40.64Jmole-1"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "30. 83Li decays to 84Be. What  type of decays is this?",
+      "options": [
+        "positron emission",
+        "beta",
+        "alpha",
+        "gamma"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "31. For a certain first order reaction half-life is 100s. How long will it take for the reaction to be completed 75%?",
+      "options": [
+        "693 s",
+        "200 s",
+        "400 s",
+        "159 s"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "32. The intensity of the waves from a point source at a distance d from the source is I. What is the intensity at a distance 2d from the source?",
+      "options": [
+        "$\\frac{I}{2}$",
+        "$\\frac{I}{4}$",
+        "4I",
+        "2I"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "33. What is the equivalent resistance of the circuits if each has a resistance of 600Ω ?\n[IMG: https://assets.chorcha.net/DdkDrwn_7YiUWHN9cfewh.png]",
+      "options": [
+        "60 Ω",
+        "1200Ω",
+        "600Ω",
+        "175Ω"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "34. Velocities of sound in two media P and Q are 300 m/s and 340 m/s respectively. If the difference of wavelength of the two sounds in 0.2 m, then for 50 complete vibrations of a turning  fork. What distance the sound will travel in medium Q?",
+      "options": [
+        "81 m",
+        "75 m",
+        "85 m",
+        "70 m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "35. Magnetic flux in a coil is changing according to the following equation:  $φ = \\left ( 4 t^{2} + 2 t - 10 \\right ) W b ,$  where t is measured in s. If the resistance of the coil is 5 ohm then at t=2s calculate the induced current in the coil.",
+      "options": [
+        "3.2 A",
+        "3.4A",
+        "3.6 A",
+        "3.8 A"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "36. A Proton of 8 MeV energy is applied perpendicularly in uniform magnetic field of 5.0 T. Calculate the effective force on the proton.",
+      "options": [
+        "$3.2 × 10^{- 14} N$",
+        "$3.2 × 10^{- 13} N$",
+        "$3.2 × 10^{- 12} N$",
+        "$3.2 × 10^{- 11} N$"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "37. The focal lengths of the objective and the eye-piece of a compound microscope are 5 mm and 6 cm respectively . The distance of the image formed by the objective is at a distance of 25 cm from it. The final virtual image is situated at a distance of 30 cm from the eye piece. Find the total magnification of the image.",
+      "options": [
+        "294",
+        "296",
+        "298",
+        "300"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "38. মৃত্যুপর্ব শুরুর মুহুর্তে যদি কোনো তারকার ভর 1.4 M0 এর বেশি থাকে,  তবে কোনোভাবেই এটি শ্বেত বামন হতে পারবে না। ভরের এই সীমাকে বলা হয় --",
+      "options": [
+        "নিউটন সীমা",
+        "আইনস্টাইন সীমা",
+        "চন্দ্রশেখর সীমা",
+        "শোয়ার্জশিল্ড সীমা"
+      ],
+      "tag": "IUT 20-21,প্রামাণিক স্যার"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "39. Asume that the sound level of your whisper is 20 dB and is shout is 90 dB. How many times greater is the intensity of a shout than a whisper, given that the decible level of a sound wave is related to the intensity I of the wave by :   $d B = 10 \\log{\"} \\frac{I}{I_{0}}$  Where I0 = 10-12 Wm-2.",
+      "options": [
+        "7",
+        "7000",
+        "$7 × 10^{6}$",
+        "$10 × 10^{6}$"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "40. The object is placed 60 cm from a spherical convex mirror. If the mirror forms a virtual image 20 cm from the mirror. what is magnitude of the mirror's radius of curvature?",
+      "options": [
+        "7.5 cm",
+        "15 cm",
+        "30 cm",
+        "60 cm"
+      ],
+      "tag": "IUT 20-21,IUT 18-19"
+    },
+    {
+      "subject": "পদার্থবিজ্ঞান(41)",
+      "question": "41. Using a mirror with focal length of 10 m, an object is viewed at various distances. What is its magnification of orientation when the object is 5 m in front of the mirror?",
+      "options": [
+        "twice at large and upright",
+        "twice at large and inverted",
+        "twice at large",
+        "same size and inverted"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "1. $if\\ \\ 2\\left[\\begin{matrix}3&4\\\\5&x\\end{matrix}\\right]\\ +\\ \\left[\\begin{matrix}1&y\\\\0&1\\end{matrix}\\right]\\ =\\ \\left[\\begin{matrix}7&0\\\\10&5\\end{matrix}\\right]\\$\n\nthen what is the value of (x-y)?",
+      "options": [
+        "-8",
+        "2",
+        "10",
+        "-6"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "2. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "3. Following figure shows the graph of y=f(x),  x€ℝ. The graph consists of two line segments that meet at the point P. The graph cut the y-axis at the point Q and the x-axis at the points (-3,0) and R. Find the coordinates of the point Q and R.\n[IMG: https://assets.chorcha.net/pYvveVma2Jm1V82A.webp]",
+      "options": [
+        "Q(1,0), R(1,1)",
+        "Q(0,1), R(1,0)",
+        "Q(1,1), R(1,0)",
+        "Q(1,1), R(1,1)"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "4. what is the value of x where,  $3^{2 x} = 5^{x + 1} ?$",
+      "options": [
+        "1.74",
+        "6.84",
+        "2.74",
+        "3.84"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "5. Alal and Dulal shopped at the same store. Alal bought 5kg of apples and 2kg of bananas and paid altogether BDT22. Dulal bought 4kg of apples and 6kg of bananas and paid together BDT 33. Find the cost of 1kg of bananas.",
+      "options": [
+        "BDT 3.5",
+        "BDT 3",
+        "BDT 2.5",
+        "BDT 4.5"
+      ],
+      "tag": "IUT 20-21,IUT 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "6. What is the value of$\\lim\\ _{x\\ \\rightarrow\\infty}\\ \\frac{x^2\\times\\frac{1}{x}}{x^2\\left(1+\\frac{1}{x^2}\\right)}$?",
+      "options": [
+        "2",
+        "0",
+        "3",
+        "0.5"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "7. ɑ and ẞ are two positive acute angles and cos 2ɑ=  $\\frac{3 \\cos{2} β - 1}{3 - \\cos{2} β}$  Which of the following relation is correct?",
+      "options": [
+        "tanɑ =±tan 2β",
+        "tan ɑ = √3 tanẞ",
+        "tan ɑ=√3 cotẞ",
+        "tanɑ= √2 tanẞ"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "8. If A is a 3 × 3 invertible matrix and $\\det A^{-1}\\ =\\ \\det\\left(A\\right)^{k+2}$ , then the value of k is-",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "-3"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "9. If real part$\\frac{\\left(2z\\ +\\ 1\\right)}{\\left(z+\\ 3i\\right)}\\ when\\ z\\ =\\ x\\ +\\ iy\\$then  locus of z is-",
+      "options": [
+        "Circle whose diameter is 4",
+        "Straight line whose slope is -1",
+        "Circle whose radius is 1",
+        "Straight line whose slope is 1/6"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "10. If a complex number z satisfies [2z+10+10i|≤ 5√3-5 then the least principal argument of z is-",
+      "options": [
+        "-(5π)/6",
+        "-(11π/12)",
+        "- (3π/4)",
+        "-(2π/3)"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "11. If tanx =ntany, n e R+, then the maximum value of sec2(x-y) is equal to-",
+      "options": [
+        "$\\frac{\\left ( n + 1 \\right )^{2}}{\\left ( 2 n \\right.}$",
+        "$\\frac{\\left ( n + 1 \\right )^{2}}{n}$",
+        "$\\frac{\\left ( n + 1 \\right )^{2}}{2}$",
+        "$\\frac{\\left ( n + 1 \\right )^{2}}{\\left ( 4 n \\right.}$"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "12. The equation tan4 x-2 sec²x+a=0 will have at least one solution if-",
+      "options": [
+        "1",
+        "a ≥ 2",
+        "a≤3",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "13. The combined equation of straight lines that can be obtained by reflecting the lines y =|x-2| in the y- axis is -",
+      "options": [
+        "y²+x²+4x+4=0",
+        "y²+x²-4x+4=0",
+        "y²-x²+4x-4=0",
+        "y²-x²-4x-4=0"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "14. The locus of the center of the circles such that the point (2, 3) is the midpoint of the chord: 5x+2y=16 is-",
+      "options": [
+        "2x-5y = 11",
+        "2x+5y-11=0",
+        "2x+5y+11=0",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "15.\n\n$\\lim_{x \\to \\infty} \\frac{e^{\\frac{1}{x^{2}}} - 1}{2 \\tan^{-1}(x^{2}) - \\pi} \\text{ is equal to-}$",
+      "options": [
+        "1",
+        "-1",
+        "1/2",
+        "-1/2"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "16. The resultant of two forces 8 N and Q acting at a point is 6 N, acting at right angle to the direction of Q. The value of Q is-",
+      "options": [
+        "3√7 N",
+        "3√5",
+        "2√7 N",
+        "2√5 N"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "17. A hanging body weighing 12 kg is kept in a position by applying two forces P and Q on it. P is acting horizontally while Q is acting by making an angle of 45° with the horizontal. The magnitude of the Q is-\n[IMG: https://assets.chorcha.net/GAkfNeVRMqR9vRIukGnx9.png]",
+      "options": [
+        "12/√3 kg - wt",
+        "12√3 kg-wt",
+        "6√3 kg-wt",
+        "12√2 kg-wt"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "18. Let P, Q, R and S be the points on the plane with position vector  $- 2 \\hat{i} - \\hat{j} , 4 \\hat{i} , 3 \\hat{i} + 3 \\hat{j} \\quad\\text{and}\\quad - 3 \\hat{i} + 2 \\hat{j}$  respectively. The quadrilateral PQRS must be a-",
+      "options": [
+        "Parallelogram, which is neither a rhombus nor a rectangle",
+        "Square",
+        "Rectangle, but not a square",
+        "Rhombus, but not a square"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "19. The period of  $\\frac{\\cos{\\left ( \\sin{\\left ( n x \\right )} \\right )}}{\\left ( \\tan{\\left ( \\frac{x}{n} \\right )} \\right.}$  ,n e N, Is 6π ,then n is equal to-",
+      "options": [
+        "3",
+        "2",
+        "6",
+        "1"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "20. Equation of the plane containing the straight line $\\frac{x}{2} = \\frac{y}{3} = \\frac{z}{4}$  and perpendicular to the plane containing the straight lines  $\\frac{x}{3} = \\frac{y}{4} = \\frac{z}{2}$  and  $\\frac{x}{4} = \\frac{y}{2} = \\frac{z}{3} i s -$",
+      "options": [
+        "x+2y-2x=0",
+        "3x+2y-2x=0",
+        "x-2y+z=0",
+        "5x+2y-4x=0"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "21. If in a triangle, $\\left ( 1 - \\frac{r_{1}}{r_{2}} \\right ) \\left ( 1 - \\frac{r_{1}}{r_{3}} \\right ) = 2$  denote the radit of the escribed circles opposite to the angles A, B and C respectively), then the triangle is-",
+      "options": [
+        "right angled",
+        "isosceles",
+        "None of these",
+        "equilateral"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "22. A bird is sitting on the top of a vertical pole 20 m high and its elevation from a point O on the ground in 45° . It flies off horizontally straight away from the point O. After 1 second, the elevation of the bird from O is reduced to 30°. The distance covered by the bird is-",
+      "options": [
+        "40(√2-1)",
+        "40(√3-√2)",
+        "20√2",
+        "20(√3-1)"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "23. Relative to a fixed origin 0, the point A has position vector   $\\hat{i} - 3 \\hat{j} + 2 \\hat{k}$  and the point B has position vector  $- 2 \\hat{i} + 2 \\hat{j} - \\hat{k}$  The points A and B lie on a straight-line 1. The point C has position vector  $2 \\hat{i} + p \\hat{j} - 4 \\hat{k}$  with respect to O, where p is a constant. Given that AC is erpendicular to 1. Find the value of p.",
+      "options": [
+        "p=16",
+        "p=3",
+        "p=-12",
+        "p =-6"
+      ],
+      "tag": "IUT 20-21,IUT 18-19"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "24. The following figure represents a Venn diagram that shows the number of students in a class who read any of 3 popular magazines A, B and C. One of these students is selected at random. Find the probability the student reads more than one magazine.\n[IMG: https://assets.chorcha.net/l93foevwbp0HSQNO.webp]",
+      "options": [
+        "1/7",
+        "$\\frac{1}{9.5}$",
+        "1/6",
+        "1/20"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "25. IUT debate club consist of 10 boys and 5 girls. A team of 4 members have to select from this club including the selection of a captain (from the team members). If the team has to include at most one girl, the number of ways selecting the team is-",
+      "options": [
+        "3260",
+        "3240",
+        "2865",
+        "3060"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "26. The sum of $1 + n \\left ( 1 - \\frac{1}{x} \\right ) + n \\frac{n - 1}{2} ! \\left ( 1 - \\frac{1}{x} \\right )^{2} + \\ldots \\ldots \\ldots . . ∞$  will be-",
+      "options": [
+        "$\\left ( 1 - \\frac{1}{x} \\right )^{n}$",
+        "$x^{n}$",
+        "$\\left ( 1 + \\frac{1}{x} \\right )^{n}$",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "27. A natural number x is chosen at random from the first 100 natural numbers. The probability that x+100/x >50 is-",
+      "options": [
+        "1/10",
+        "11/20",
+        "11/50",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "28. An experiment consists of selecting a ball from a bag and spinning a coin. The bag contains 5 red balls and 7 blue balls. A ball is selected at random from the bag, its color is noted and then the ball is returned to the bag. When a red ball is selected, a biased coin with probability 2/3 of landing heads is spun. When a blue ball is selected a fair coin is spun. Find the probability that she obtains a head.",
+      "options": [
+        "0.569",
+        "0.24",
+        "0.965",
+        "0.659"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "29. A parachutist fell after releasing himself at 50 m down without any resistance. When the parachute was opened then the rate of decrease the acceleration was $2 \\mathrm{~m} / \\mathrm{s}^{-2}$ and he fell on the ground with velocity of $3 \\mathrm{~m} / \\mathrm{s}$. At what height he was released?",
+      "options": [
+        "295.75 m",
+        "297.75 m",
+        "290.75 m",
+        "292.75 m"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "উচ্চতর গণিত(30)",
+      "question": "30. At what angle a projectile is to be projected so that its horizontal range is equal to the maximum height it reaches?",
+      "options": [
+        "75.96°",
+        "77.96°",
+        "79.96°",
+        "73.96°"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "1. Newton’s surprising success at developing the laws of motion, as well as the development and refinement of other physical laws, led to the idea of scientific determinism. The first expression of this principle was in the beginning of the nineteenth century by Laplace, a French scientist. Laplace argued that if one knew the position and velocity of all the particles in the universe at a given time, the laws of physics would be able to predict the future state of the universe.\nScientific determinism held sway over a great many scientists until the early twentieth century, when the quantum mechanics revolution occurred. Quantum mechanics introduced the world to the idea of the uncertainty principle, which stated that it was impossible to accurately measure both the position and the velocity of a particle at one time. Because Laplace’s omniscience could never occur, even in theory, the principle of scientific determinism was thrown into doubt. However, quantum mechanics does allow for a reduced form of scientific determinism. Even though physicists are unable to know precisely where a particle is and what its velocity is, they can determine certain probabilities about its position and velocity. These probabilities are called wave functions. By use of a formula known as the Schrodinger equation, a scientist with the wave function of a particle at a given time can calculate the particle’s future wave function. These calculations can give the particle’s position or velocity, but not both. Thus, the physicist is in possession of exactly half of the information needed to satisfy Laplace’s view of determinism. Unfortunately, under modern physics theories, that is as far as any researcher can go in predicting the future.\nThe passage suggests that if scientific determinism were true-",
+      "options": [
+        "scientists would, in theory, be able to predict the future",
+        "all the particles in the universe would have a measurable position and velocity",
+        "the theory of quantum mechanics would be false",
+        "Schrodinger's equation could be used to calculate any particle's position"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "2. What will be the appropriate word on the blank no. 8 of the following passage?",
+      "options": [
+        "Austere",
+        "Tolerance",
+        "Acrimony",
+        "Prejudice"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "3. Select the word with similar denotation 'Colossal'.",
+      "options": [
+        "diminutive",
+        "gigantic",
+        "poxy",
+        "Damage"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "4. Select the word with similar denotation 'Conducive' .",
+      "options": [
+        "adverse",
+        "opportune",
+        "inopportune",
+        "inimical"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "5. The antonym of the word ‘DISCREET’-",
+      "options": [
+        "prudent",
+        "continuous",
+        "rash",
+        "canny"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "6. The antonym of the word ‘heinous’ is-",
+      "options": [
+        "vicious",
+        "atrocious",
+        "nefarious",
+        "laudable"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "English(8)",
+      "question": "7. Antonym of eschew is:",
+      "options": [
+        "abstain",
+        "embrace",
+        "abjure",
+        "abandon"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "English(8)",
+      "question": "8. The antonym of ‘Strand’",
+      "options": [
+        "leave",
+        "abandon",
+        "desert",
+        "claim"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "1. An unknown gas with a volume of 500 mL takes 320 sec to effuse through a thin hole. In the same temperature and pressure, the same volume of chlorine takes 240 sec to effuse. The molecular mass of the unknown gas is:",
+      "options": [
+        "110.25",
+        "126.22",
+        "175.21",
+        "150.35"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "2. Which one of the following is false?",
+      "options": [
+        "Ca and Ca+2 have same number of protons",
+        "O2 molecule has two covalent bonds",
+        "Fe+2 and Fe+3 ions have equal number of electrons",
+        "Hydrogen can have both positive and negative valency"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "3. 727oC the equilibrium constant for the reaction flask is 1.00 atm, and the partial pressure of O2 at equilibrium is 0.10 atm, calculate the partial pressure of SO2.—{ $K_p$=3.5}",
+      "options": [
+        "0.57 atm",
+        "0.33 atm",
+        "0.43 atm",
+        "0.10 atm"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "4. Calculate the pH of 0.1 M CH3COOH. The dissociation constant of acetic acid is 1.8 x 10-5",
+      "options": [
+        "1.80",
+        "2.17",
+        "3.15",
+        "2.87"
+      ],
+      "tag": "FET 22-23"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "5. Which is true for aromatic compound?",
+      "options": [
+        "C-C bond length 1.34 Å",
+        "C-C bond length 1.53 Å",
+        "C-C bond length 1.39 Å",
+        "C-C bond length 1.34 Å"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "6. A mixture is prepared by mixing 1.50 mole Toluene and 3.50 mole Benzene. If the vapor pressure of pure Benzene and Toluene are 40.55 kPa and 20.24 kPa, repectively at 0°C, then the total vapor pressure of the mixing will be:",
+      "options": [
+        "42.3 kPa",
+        "40.50 kPa",
+        "34.46 kPa",
+        "35.40 kPa"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "7. According to the order of electronegatively, which of the following is correct?",
+      "options": [
+        "F > Cl >Br> I",
+        "Br > Cl > I > F",
+        "Cl > F > Br > I",
+        "I > Br > F > Cl"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "8. What type of the reaction of the following? H-CHO + NaOH = CH3OH + HCOONa",
+      "options": [
+        "Hexamin reaction",
+        "Grignard reaction",
+        "Cannizzaro reaction",
+        "None of these"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "9. In an experiment, 0.774 gm of CO2 and 0.445 gm of H2O was found to produce after combustion of 0.50 gm of a fuel. The empirical fromula of the fuel is:",
+      "options": [
+        "C8H16O5",
+        "C8H23O7",
+        "C2H3O5",
+        "C6H12O7"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "রসায়ন(10)",
+      "question": "10. Which  one of the following is the Benedict solution:",
+      "options": [
+        "A Water solution of glucose sodium carbonate and copper sulphate",
+        "Water solution of sodium citrate, sodium carbonate and glucose",
+        "Water solution of sodium carbonate, copper sulphate and sodium citrate",
+        "Water solution of sodium carbonate, copper sulphate and potassium citrate"
+      ],
+      "tag": "IUT 20-21"
+    },
+    {
+      "subject": "(1)",
+      "question": "1. The length of time, L hours, that a laptop will work before it needs charging is normally distributed with a mean of 100 hours and a standard deviation of 15 hours. Find the value of d such that P (L",
+      "options": [
+        "78.78",
+        "81.98",
+        "89.78",
+        "80.78"
+      ],
+      "tag": "IUT 20-21"
+    }
+  ]
+}

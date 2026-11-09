@@ -1,0 +1,995 @@
+{
+  "title": "DU 'A' Admission test 25-26 MCQ",
+  "questions": [
+    {
+      "subject": "Physics(15)",
+      "question": "1. Applying a certain force $F$ on two objects of masses $m_1$ and $m_2$ results in $12 \\text{ m/s}^2$ and $3.30 \\text{ m/s}^2$ accelerations, respectively. What will be the acceleration when the same force, $F$, is applied on an object of mass $(m_2 - m_1)$?",
+      "options": [
+        "$\\frac{m_2 \\times 3.30}{m_1 - m_2}$",
+        "$\\frac{m_1 \\times 3.30}{m_2 - m_1}$",
+        "$\\frac{m_2 \\times 12}{m_2 - m_1}$",
+        "$\\frac{m_1 \\times 12}{m_2 - m_1}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "2. A massless spring with force constant k launches a ball of mass m. In order for the ball to reach a speed v, by what displacement x should the spring be compressed?",
+      "options": [
+        "$x = v \\sqrt{\\frac{m}{k}}$",
+        "$x = v^2 \\sqrt{\\frac{k}{m}}$",
+        "$x = \\frac{vk}{m}$",
+        "$x = v \\sqrt{\\frac{k}{m}}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "3. Which of the following is the multiplication result of two binary numbers 1110.11 and 101.10?",
+      "options": [
+        "110001.101",
+        "101000.1001",
+        "1010001.001",
+        "1010011.001"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "4. In Young's double-slit experiment, if the frequency of the source light is doubled while keeping other conditions unchanged, what change will be found in the fringe width? (Consider Young's double-slit experiment. What change will be found in fringe width, if the frequency of the light is doubled keeping other parameters unchanged?)",
+      "options": [
+        "Will become half",
+        "Will become double",
+        "Will become one-fourth",
+        "It will remain the same"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "5. An object is thrown with an energy E at an angle of 45° with the horizontal line. What will be the kinetic energy of the object at the highest point?",
+      "options": [
+        "2E",
+        "E/2",
+        "0",
+        "E"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "6. l  length and A cross-sectional area of a cylindrical wire have Young's modulus and stress of the material Y and 1, respectively. What will be the total elastic energy stored in the wire?",
+      "options": [
+        "$S^2 ALY/2$",
+        "$YI^2/(2SA)$",
+        "$S^2 AL/(2Y)$",
+        "$YA/(2SI)$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "7. A student is given two different resistors $R_1$ and $R_2$. By using these resistors in different connections, he can obtain $3 \\Omega$, $4 \\Omega$, $12 \\Omega$, and $16 \\Omega$ resistances. What are the values of $R_1$ and $R_2$?",
+      "options": [
+        "$3 \\Omega$, $4 \\Omega$",
+        "$2 \\Omega$, $12 \\Omega$",
+        "$3 \\Omega$, $16 \\Omega$",
+        "$4 \\Omega$, $12 \\Omega$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "8. A meter stick moves past an observer with a speed of 0.8c. In the observer's reference frame, how long does the stick take to pass the observer?",
+      "options": [
+        "2.5 ns",
+        "5.2 ns",
+        "2.4 ns",
+        "4.2 ns"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "9. A heat engine does positive work and loses energy in each cycle, but it does not take any energy. Which law of thermodynamics does the engine violate?",
+      "options": [
+        "Third Law",
+        "Second Law",
+        "First Law",
+        "Zeroth Law"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "10. [IMG: https://assets.chorcha.net/gsaUpMTeZegwDADZzInvU.png]Which of the following logic gates is equivalent to the circuit shown in the figure at the right?",
+      "options": [
+        "NOR",
+        "OR",
+        "AND",
+        "NAND"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "11. If $|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|$, then what will be the angle between $\\vec{A}$ and $\\vec{B}$?",
+      "options": [
+        "$90^\\circ$",
+        "$180^\\circ$",
+        "$0^\\circ$",
+        "$45^\\circ$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "12. Charging a parallel plate capacitor results in a potential difference of x volt between its two plates. The distance between the plates is halved and the potential difference is doubled. What will be the ratio of the energy stored in these two states?",
+      "options": [
+        "4:1",
+        "1:8",
+        "1:2",
+        "1:4"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "13. There are four different containers, each containing 0.5 mole of the following gases. Which gas will be at the highest temperature?",
+      "options": [
+        "3.0 L of krypton at 300 kPa",
+        "6.0 L of neon at 160 kPa",
+        "8.0 L of helium at 12 kPa pressure",
+        "4.0 L of argon at 250 kPa"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "14. A satellite of mass m revolves around the earth at a height x from the surface of the earth, where the radius of the earth is R. If the gravitational acceleration on the surface of the earth is g, then what is the orbital speed of the satellite?",
+      "options": [
+        "$\\sqrt{gR^2 / (R+x)^2}$",
+        "$\\sqrt{gR^2 / (R-x)}$",
+        "$\\sqrt{gx / (R-x)}$",
+        "$\\sqrt{\\text{gx}^2/(\\text{R}+\\text{x})^2}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(15)",
+      "question": "15. According to the Bohr model, in a hydrogen atom, what will be the linear momentum of the electron at the orbit of radius $r_n$? (Here, $n$ is the principal quantum number and $ħ = \\frac{h}{2π}$ is the reduced Planck's constant.)",
+      "options": [
+        "(nħ)",
+        "$\\frac{n\\hbar}{r_n}$",
+        "(n^2r_nħ)",
+        "Number"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "1. Which test is used to identify phenol?",
+      "options": [
+        "Libermann",
+        "Carbylamine",
+        "Lucas reagent",
+        "Tollen's reagent"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "2. Which of the following gases is formed in the car engine during combustion of fuel that contributes to acid rain?",
+      "options": [
+        "NO",
+        "CO2",
+        "C8H18",
+        "CO"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "3. Which of the following has the highest number of unpaired electrons?",
+      "options": [
+        "25Mn",
+        "27Cobalt3+",
+        "26Fe2+",
+        "24Chromium"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "4. The unit of equilibrium constant, $\\text{K}_\\text{c}$, for the reaction, $\\text{Ag}^{+}(\\text{aq}) + \\text{Fe}^{2+}(\\text{aq}) \\rightleftharpoons \\text{Fe}^{3+}(\\text{aq}) + \\text{Ag}(\\text{s})$, is determined by the expression: $\\text{K}_\\text{c} = \\frac{[\\text{Fe}^{3+}]}{[\\text{Ag}^{+}][\\text{Fe}^{2+}]}$. Since the concentration of Ag(s) is not included in the expression as it is a solid, the unit of $\\text{K}_\\text{c}$ is $\\frac{1}{\\text{M}}$ or $\\text{M}^{-1}$, where M represents molarity.",
+      "options": [
+        "No unit",
+        "$\\text{mol L}^{-1}$",
+        "$\\text{L mol}^{-1}$",
+        "$\\text{mol}^2 \\text{L}^{-2}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "5. Which compound does not form a coordinate bond?",
+      "options": [
+        "H2O",
+        "CCI4",
+        "NH3",
+        "BCI3"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "6. Under the same conditions, 1.0 g of which metal produces the highest volume of H2 gas in the reaction with aqueous HCl?",
+      "options": [
+        "No",
+        "Ca",
+        "K",
+        "Mg"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "7. Which of the following is not aromatic?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/1EvGSH9Dm5eSMuH40T2iE.png]",
+        "[IMG: https://assets.chorcha.net/vxkOemvnOGv6sGPcO38hm.png]",
+        "[IMG: https://assets.chorcha.net/y401m_IPhuQfLg11lN-HK.png]",
+        "[IMG: https://assets.chorcha.net/T5_qMSF_uFXLAWS2om0Xd.png]"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "8. Which of the followings is not a preservative?",
+      "options": [
+        "Sugar",
+        "Butylated hydroxy anisole",
+        "Sodium sulfate",
+        "Sodium sulfite"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "9. Which of the following ions is the smallest?",
+      "options": [
+        "Al3+",
+        "Mg2+",
+        "Na+",
+        "K+"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "10. What is formed when $\\text{C}_6\\text{H}_5\\text{CHO}$ is heated with $\\text{Zn.Hg}$ amalgam and concentrated $\\text{HCl}$?",
+      "options": [
+        "$\\text{C}_6\\text{H}_5\\text{OH}$",
+        "$\\text{C}_6\\text{H}_6$",
+        "$\\text{C}_6\\text{H}_5\\text{CH}_3$",
+        "$\\text{C}_6\\text{H}_5\\text{OC}_6\\text{H}_5$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "11.  $\\text{aKClO}_3 \\xrightarrow{\\Delta} \\text{bKClO}_4 + \\text{cKCl}$ In this balanced reaction, what is the value of b:c? (What is the value of b:c in the balanced reaction, $\\text{aKClO}_3 \\xrightarrow{\\Delta} \\text{bKClO}_4 + \\text{cKCl}$?",
+      "options": [
+        "2:3",
+        "1:2",
+        "3:2",
+        "3:1"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "12. Which of the following organic compounds does not participate in the iodoform test?",
+      "options": [
+        "CH3CH(OH)CH3",
+        "CH3CH2COCH2CH3",
+        "CH3CH2OH",
+        "CH3COCH2CH3"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "13. The correct statement about the Galvanic cell, $Zn(s)/Zn^{2+}(aq) \\text{ II } Cu^{2+}(aq)/Cu(s)$, is which one?",
+      "options": [
+        "Oxidation takes place at Cu-electrode.",
+        "The Cu-electrode is the anode.",
+        "The cell reaction is $Zn^{2+}(aq) + Cu(s) \\rightarrow Zn(s) + Cu^{2+}(aq)$\nThe cell reaction is $Zn^{2+}(aq) + Cu(s) \\rightarrow Zn(s) + Cu^{2+}(aq)$.",
+        "Electron flows from Zn- to Cu-electrode."
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "14. Which of the following molecules has a permanent dipole?",
+      "options": [
+        "SF4",
+        "BF3",
+        "SiF4",
+        "XeF4"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "রসায়ন(15)",
+      "question": "15. Which are the best reagent and reaction condition for the formation of CH3CH2NH2 from CH3CONH2?",
+      "options": [
+        "Lithium aluminum hydride in dry ether ($LiAlH_4$)",
+        "Sodium borohydride in dry ether ($NaBH_4$ in dry ether)",
+        "In alcohol $NaBH_4$ ($NaBH_4$ in alcohol)",
+        "In alcohol $LiAlH_4$ (Lithium aluminum hydride in alcohol)"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "1. For what value of $x$ will $f(x) = \\sin^3 x \\cos x$, $0 < x < \\pi$ be the smallest?",
+      "options": [
+        "0",
+        "$\\frac{2\\pi}{3}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "2.\nWhat is the value of $\\lim_{x \\to 0} \\frac{8^x - 2^x}{x}$?",
+      "options": [
+        "ln 4",
+        "In 16",
+        "In 2",
+        "1"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "3.\nWhat is the value of $\\int \\frac{dx}{x^2+6x+25}$?",
+      "options": [
+        "$\\tan^{-1} \\left(\\frac{x+3}{4}\\right) + c$",
+        "$\\frac{1}{4}\\tan^{-1} \\left(\\frac{x+3}{4}\\right) + c$",
+        "$\\frac{1}{4}\\tan^{-1} \\left(\\frac{4}{x+3}\\right) + c$",
+        "$\\ln \\left(\\frac{x+3}{4}\\right) + c$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "4.\n$A = \\begin{bmatrix} 1k & 0 & 0 \\\\ 0 & 2k & 0 \\\\ 0 & 0 & 3k \\end{bmatrix}$. For the given matrix $A$ on the left, what is the determinant of the $kA$ matrix, where $k$ is a scalar?",
+      "options": [
+        "$6k$",
+        "$3k^3$",
+        "$6k^3$",
+        "$5k^3$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "5.\n\nIf A and B are positive acute angles, and $\\tan A = \\frac{1}{2}$ and $\\tan B = -\\frac{1}{2}$, then what is $A + B = ?$",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$0$",
+        "$\\frac{\\pi}{3}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "6. The perpendicular bisector of the line segment joining the points (8, 5) and (-4, -3) intersects the y-axis at what point?",
+      "options": [
+        "(0,4)",
+        "(0,3)",
+        "(0,2)",
+        "(0,-4)"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "7.\n$\\theta = \\sin^{-1} \\left( \\frac{3}{5} \\right)$ if, $\\frac{1-\\tan^2 \\theta}{1+\\tan^2 \\theta} = ?$ (If $\\theta = \\sin^{-1} \\left( \\frac{3}{5} \\right)$, then $\\frac{1-\\tan^2 \\theta}{1+\\tan^2 \\theta} = ?$)",
+      "options": [
+        "$\\frac{7}{25}$",
+        "$\\frac{7}{16}$",
+        "​$\\frac{41}{25}$",
+        "$\\frac{41}{16}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "8.\n$\\int_{0}^{1} f(x) d x = 2$ and $\\int_{0}^{5} f(x) d x = 1$, then $\\int_{1}^{5} f(x) d x = ?$ (If $\\int_{0}^{1} f(x) d x = 2$ and $\\int_{0}^{5} f(x) d x = 1$, then $\\int_{1}^{5} f(x) d x = ?$",
+      "options": [
+        "3",
+        "1",
+        "-1",
+        "0"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "9. If $5y^2 + \\sin y = x^2$, then $\\frac{dy}{dx} = ?$",
+      "options": [
+        "$\\frac{x}{5y+\\cos y}$",
+        "$\\frac{2x}{5y-\\cos y}$",
+        "$\\frac{2y}{5y-\\cos y}$",
+        "$\\frac{2x}{10y+\\cos y}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "10. The resultant R of two vectors P and Q is the vector that is the sum of P and Q. If P = Q = R, then the angle between P and Q will be such that the resultant vector R is equal to P and Q. This is possible when the angle between P and Q is 120 degrees, because in that case, the two vectors P and Q will form an equilateral triangle with R, and R will be equal to P and Q in magnitude.",
+      "options": [
+        "60°",
+        "120°",
+        "90°",
+        "180°"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "11. If 5 boys and 4 girls participate in a running competition, what is the probability that a boy comes 1st and a girl comes 2nd?",
+      "options": [
+        "$\\frac{5}{18}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{4}$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "12. The point (4,-3) is located on the circle x2+y² - 8x- 6y +9 = 0. What is the minimum distance from the point to the circle?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "13. y² + 8x - 2y – 23 = 0 is the equation of a parabola. What is the equation of its directrix?",
+      "options": [
+        "x - 3 = 0",
+        "y - 3 = 0",
+        "x - 5 = 0",
+        "y - 5 = 0"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "14. If $f(x) = x^2 - 1$ and $g(x) = \\sqrt{x}$, then what is the domain of $(g \\text{ of } f)(x)$?",
+      "options": [
+        "$\\mathbb{R}$",
+        "$x \\geq 0$",
+        "$-1 < x < 1$",
+        "$x \\leq -1$ or $x \\geq 1$"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "গণিত (Mathematics) (15)",
+      "question": "15.\nThe term independent of $x$ in the expansion of $\\left(x-\\frac{1}{x}\\right)^8$ is",
+      "options": [
+        "1",
+        "5",
+        "3",
+        "4"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "1. Which part of the body does the Ampulla of Vater open into?",
+      "options": [
+        "Stomach",
+        "Colon",
+        "Rectum",
+        "Diodenum"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "2. In what type of inflorescence are the terminal and axillary flowers present?",
+      "options": [
+        "Cappadocia",
+        "Spikelet",
+        "Saimos",
+        "Spike"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "3. What are the effective methods to increase the number of endangered plants?",
+      "options": [
+        "Grafting",
+        "Layering",
+        "Cutting",
+        "Tissue Culture"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "4. Which of the following is not a living fossil?",
+      "options": [
+        "Platypus",
+        "Gavialis",
+        "Limola",
+        "Latimeria"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "5. Which of the following is called the pacemaker of the heart?",
+      "options": [
+        "Atrio-ventricular node",
+        "Parkinson's disease",
+        "Sino-atrial node",
+        "Bundle of Higgs"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "6. Which are semi-autonomous cell organelles?",
+      "options": [
+        "Gallbladder",
+        "Ribosome",
+        "Nucleus",
+        "Chloroplast"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "7. In which phylum are true tagmata found in animals?",
+      "options": [
+        "Molaska",
+        "Periphery",
+        "Annelida",
+        "Arthropoda"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "8. Which of the following is not a sex-linked disorder?",
+      "options": [
+        "Hemophilia",
+        "Red Green Color Blindness",
+        "Thalassemia",
+        "Duchenne Muscular Dystrophy"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "9. The inherent ability of every living plant cell to develop into a full-fledged plant is called-",
+      "options": [
+        "Micro Propagation",
+        "In-vitro culture",
+        "Totipotency",
+        "Meristem Culture"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "10. The part of the grasshopper's compound eye that works like a lens is the",
+      "options": [
+        "Corniagen cells",
+        "Abdomen",
+        "Cornia",
+        "Crystalline angle cell"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "11. Which of the following is covered by the pericardium?",
+      "options": [
+        "Osteochondritis",
+        "Lungs",
+        "Bone",
+        "Heart"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "12. Which bacteria causes rice blight disease?",
+      "options": [
+        "Bacillus subtilis",
+        "Xanthomonas oryzae",
+        "Pyrecularia oryzae",
+        "Escherichia coli"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "13. When the level of oxygen in the blood decreases, which hormone is secreted?",
+      "options": [
+        "Erythropoietin",
+        "Oxytocin",
+        "Melatonin",
+        "Cortisol"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "14. The algal layer of the coralloid root of Cycas is located where?",
+      "options": [
+        "Middle cortex",
+        "Phloem tissue",
+        "Epidermis",
+        "Pericycle"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "জীববিজ্ঞান (Biology)(15)",
+      "question": "15. In which phase of the cell cycle is histone protein synthesized?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "M phase",
+        "G2 phase"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "1. 'সবাই মিলে সত্যিই আমরা বাংলাকে বিক্রি করেদিচ্ছি না তো?' –এটি কার সংলাপ?",
+      "options": [
+        "সিরাজউদ্দৌলা",
+        "মিরজাফর",
+        "উমিচাঁদ",
+        "মোহনলাল"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "2. আপনার সত্যকে পথপ্রদর্শক কাণ্ডারি বলে জানা-",
+      "options": [
+        "মিথ্যে নয়",
+        "অবিনয় নয়",
+        "অপৌরুষ নয়",
+        "দম্ভ নয়"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "3. আওয়ালপুর ও মহব্বতনগর গ্রামের মাঝখানে কোন গাছ আছে?",
+      "options": [
+        "তেঁতুল",
+        "অশোক",
+        "তাল",
+        "কদম"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "4. কোনটি 'মার্তণ্ড' শব্দের সন্ধি বিচ্ছেদ-",
+      "options": [
+        "মার্ত+উণ্ড",
+        "মার্ত+আণ্ড",
+        "মার্ত+উন্ড",
+        "মার্ত+অণ্ড"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "5. 'সুকঠিন' শব্দে 'সু’ উপসর্গ কোন অর্থে ব্যবহৃত হয়েছে?",
+      "options": [
+        "আতিশয্য",
+        "উত্তম",
+        "সহজ",
+        "মহত্তম"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "6. 'পৌষমাস' শব্দটি কোন বিশেষ অর্থে ব্যবহৃত হয়?",
+      "options": [
+        "শীতের সূচনা",
+        "দুঃসময়",
+        "সুসময়",
+        "আকাল"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "7. নিচের কোন শব্দটি 'মুখর' শব্দের সমার্থক-",
+      "options": [
+        "পঞ্চকূট",
+        "পঞ্চকণ্ঠ",
+        "পঞ্চব্যঞ্জন",
+        "পঞ্চমুখ"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "8. 'যারা ধার্মিক, তারা সুখী'-এটি কোন ধরনের বাক্য?",
+      "options": [
+        "জটিল",
+        "যৌগিক",
+        "সরল",
+        "মিশ্র-যৌগিক"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "9. 'মম বাঁশরীর তানে পাশরি'- এখানে 'পাশরি' বলতে বোঝায়-",
+      "options": [
+        "বিভ্রান্ত হওয়া",
+        "বিস্মৃত হওয়া",
+        "জেগে ওঠা",
+        "জাগানো"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "10. 'Cartoon' শব্দটির বাংলা পরিভাষা কোনটি?",
+      "options": [
+        "বাক্স",
+        "শিশুচিত্র",
+        "ব্যঙ্গচিত্র",
+        "চলচ্চিত্র"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "11. 'কেয়ার কাঁটা' কী ধরনের রচনা?",
+      "options": [
+        "গল্পগ্রন্থ",
+        "কাব্যগ্রন্থ",
+        "উপন্যাস",
+        "স্মৃতিকথা"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "12. কোন বানানগুচ্ছ শুদ্ধ?",
+      "options": [
+        "প্রবাহমান, শিকার, ইতপূর্বে",
+        "ভৌগোলিক, প্রাণিবিদ্যা, পুণ্য",
+        "সঙ্কীর্ণ, ব্রাক্ষণ, বিভুতিভূষণ",
+        "শস্য, নিস্ফল, বাহুল্যতা"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "13. বহুব্রীহি সমাসের দৃষ্টান্ত-",
+      "options": [
+        "জীবন্মৃত",
+        "আমরণ",
+        "জলে-স্থলে",
+        "চৌরাস্তা"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "14. 'সওগাত' শব্দটির উৎসভাষা-",
+      "options": [
+        "আরবি",
+        "ফারসি",
+        "তুর্কি",
+        "হিন্দি"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "বাংলা(15)",
+      "question": "15. 'সাধারণ' শব্দের প্রমিত উচ্চারণ-",
+      "options": [
+        "সাধারণ",
+        "সাধারোন",
+        "শাধারণ",
+        "শাধারোন্"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "1. The drone flew over the park, capturing footage of the mini marathon event.",
+      "options": [
+        "over",
+        "of",
+        "up",
+        "on"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "2. The word 'especially' is a/an",
+      "options": [
+        "adjective",
+        "adverb",
+        "noun",
+        "verb"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "3. Excessive screen time can lead to poor eyesight among children.",
+      "options": [
+        "mystify",
+        "accelerate",
+        "mitigate",
+        "saturate"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "4. Which figure of speech do you find in the expression \"jaws of death\" in \"The Charge of the Light Brigade'?\n\nSince the given text is already in English, it remains unchanged.",
+      "options": [
+        "simile",
+        "paradox",
+        "refrain",
+        "metaphor"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "5. We must take decisions based on________.",
+      "options": [
+        "informations",
+        "some informations",
+        "information",
+        "many informations"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "6.  The antonym of 'dynamic' is",
+      "options": [
+        "stagnant",
+        "daring",
+        "chaotic",
+        "optimistic"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "7. I will do this before the deadline.",
+      "options": [
+        "may have",
+        "could have",
+        "ought to",
+        "should have"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "8. Demented means",
+      "options": [
+        "sad",
+        "insane",
+        "ungrateful",
+        "watchful"
+      ],
+      "tag": "DU A 25-26"
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "9. Although ecotourism is becoming popular, we must remain cautious about its adverse effects.",
+      "options": [
+        "However",
+        "Additionally",
+        "Although",
+        "Nonetheless"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "10. I wish you had all the food! I am hungry.",
+      "options": [
+        "hadn't eaten",
+        "ate",
+        "have eaten",
+        "didn't eat"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "11. Choose the correct spelling.",
+      "options": [
+        "narcissistic",
+        "pronounciation",
+        "accomodate",
+        "wierd"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "12. She is widely known to be a connoisseur of classical music.",
+      "options": [
+        "devoted",
+        "devotional",
+        "devotion",
+        "devotee"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "13. People who are averse to hard work, generally do not succeed in life.",
+      "options": [
+        "to, will",
+        "from, in",
+        "by, for",
+        "to, in"
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "14. Identify the wrong sentence.",
+      "options": [
+        "If I am elected, I will bring peace in the country.",
+        "If I am elected, I would bring peace in the country.",
+        "If I was elected, I would have brought peace in the country.",
+        "If elected, I will bring peace to the country."
+      ],
+      "tag": ""
+    },
+    {
+      "subject": "ইংরেজি (15)",
+      "question": "15. The effect of painkillers lasts for about two hours.",
+      "options": [
+        "run down",
+        "work out",
+        "wears off",
+        "take off"
+      ],
+      "tag": ""
+    }
+  ]
+}

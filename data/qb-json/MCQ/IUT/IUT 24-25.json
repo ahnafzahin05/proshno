@@ -1,0 +1,1084 @@
+{
+  "title": "IUT 24-25",
+  "questions": [
+    {
+      "subject": "English(12)",
+      "question": "1. Neither the manager nor the assistants _______ available to answer questions at the moment.",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "were"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "2. Not only _______ the results, but he also provided a detailed analysis.",
+      "options": [
+        "he presented",
+        "did he present",
+        "he did present",
+        "has he presented"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "3. The old man along with his sons _______ working since morning.",
+      "options": [
+        "was",
+        "has been",
+        "have been",
+        "are"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "4. Her $\\underline{magnanimous}$ gesture was appreciated by everyone.",
+      "options": [
+        "generous",
+        "petty",
+        "foolish",
+        "nervous"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "5. He displayed a $\\underline{recalcitrant}$ attitude during the disciplinary hearing.",
+      "options": [
+        "cooperative",
+        "obstinate",
+        "curious",
+        "diplomatic"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "6. After reading his old letters, an air of melancholy surrounded him. Choose the word closest in meaning to the underlined word.",
+      "options": [
+        "exuberant",
+        "wistful",
+        "ecstatic",
+        "jovial"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "7. Choose the synonym of the underlined word:\nIt created a tranquil scene.",
+      "options": [
+        "agitated",
+        "noisy",
+        "serene",
+        "loud"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "8. Choose the opposite of the underlined word.\nHis belligerent tone escalated the argument.",
+      "options": [
+        "selfish",
+        "peaceful",
+        "egoistic",
+        "direct"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "9. Choose the opposite of the underlined word.\nHis apathetic response showed he had no interest in the project.",
+      "options": [
+        "flawed",
+        "selfish",
+        "alert",
+        "enthusiastic"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "10. Choose the opposite of the underlined word.\nIt was an arduous journey.",
+      "options": [
+        "difficult",
+        "tiring",
+        "easy",
+        "grueling"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "11. Choose the opposite of the underlined word.\nHis frugal lifestyle deceived him in the long run.",
+      "options": [
+        "thrifty",
+        "prudent",
+        "economical",
+        "extravagant"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "English(12)",
+      "question": "12. **Mountain rescue in Scotland**\nLast year, over 200 climbers were rescued from the mountains of Scotland by local teams, who go out in all weathers whenever disaster strikes. Many of these people are volunteers, giving their time and energy freely and, on (12) ......., putting themselves in danger. They will risk life and limb in an emergency when they are (13) ....... upon to rescue foolhardy or unlucky climbers. A whole (14) ....... of things can go wrong up in the mountains, from sudden, violent storms with virtually zero visibility to unforeseen accidents, and many walkers and climbers owe a huge (15) ....... of gratitude to the rescue teams!",
+      "options": [
+        "situation",
+        "event",
+        "moment",
+        "occasion",
+        "pulled",
+        "called",
+        "summoned",
+        "required",
+        "scope",
+        "extent",
+        "host",
+        "scale",
+        "recognition",
+        "liability",
+        "debt",
+        "claim"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "1. Let, $A = \\begin{bmatrix} \\alpha & 2 & 7 \\\\ -2 & \\beta & -8 \\\\ -7 & 8 & \\gamma \\end{bmatrix}$ be a skew symmetric matrix, then what are the values of $\\alpha, \\beta, \\gamma$?",
+      "options": [
+        "1, 1, 1",
+        "-2, -7, 8",
+        "0, 0, 0",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "2. Find the area bounded by the curves $f(x) = 2 - x^2$ and $g(x) = x$:",
+      "options": [
+        "$\\frac{5}{2}$",
+        "$\\frac{7}{2}$",
+        "$\\frac{9}{2}$",
+        "$\\frac{11}{2}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "3. $\\int x \\sin(x^2) \\cos(x^2) dx = ?$",
+      "options": [
+        "$\\frac{1}{4} \\sin^2(x^2) + c$",
+        "$-\\frac{1}{4} \\cos^2(x^2) + c$",
+        "Both (a) and (b)",
+        "None of (a) and (b)"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "4. If one diagonal of a square is along the line $8x - 15y = 0$ and one of its vertex is at (1, 2), then find the equation of sides of the square passing through this vertex.",
+      "options": [
+        "$53x - 9y = 7$, and $9x + 53y = 53$",
+        "$23x - 7y = 7$, and $7x + 23y = 23$",
+        "$53x - 9y = 9$, and $9x + 53y = 23$",
+        "$23x - 7y = 9$, and $7x + 23y = 53$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "5. The velocity of the current in the Kirton Khola River is $5 \\text{ m/s}$. A boat, which has a velocity of $13 \\text{ m/s}$ relative to the water, takes 2 minutes and 10 seconds to cross the river in a direction perpendicular to the current. What is the width of the river?",
+      "options": [
+        "1560 m",
+        "1050 m",
+        "1750 m",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "6. Imagine that you are riding a bicycle at a speed of $10 \\text{m/s}$ along a straight road. At the same time, raindrops are falling vertically to the ground with a velocity of $4 \\text{ m/s}$. What is the velocity of the raindrops relative to you?",
+      "options": [
+        "$6.24 \\text{ m/s}$ in forward direction",
+        "$6.24 \\text{ m/s}$ in backward direction",
+        "$10.77 \\text{ m/s}$ in forward direction",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "7. An isosceles triangle is inscribed in the parabola $y^2 = 36x$ such that one of its vertices is at the vertex of the parabola and the other two vertices lie at the ends of the latus rectum. What is the area of the triangle?",
+      "options": [
+        "162 sq units",
+        "32 sq units",
+        "144 sq units",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "8. Find the angle between the complex number $\\frac{(1+i)^3}{1-i^3}$ and $-i$",
+      "options": [
+        "$2\\pi$",
+        "$\\pi$",
+        "0",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "9. If p, q, r are real numbers and $p^2 + 4q^2 + 9r^2 - 2pq - 6qr - 3rp = 0$ then p, q, r in",
+      "options": [
+        "Arithmetic Progression",
+        "Geometric Progression",
+        "Harmonic Progression",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "10. Evaluate: $\\lim_{x \\to 1} (\\log_5 5x^2)^{\\frac{\\log_x 5}{2}}$",
+      "options": [
+        "$e$",
+        "$e^2$",
+        "$e^5$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "11. $\\int (\\frac{4x+1}{x}) (4x+\\log 3x)^2 dx = ?$",
+      "options": [
+        "$\\frac{(4x+\\log 3x)^3}{4+\\frac{1}{x}} + c$",
+        "$\\frac{x}{(4x+\\log 3x)^2} + c$",
+        "$\\frac{(4x+\\log 3x)^3}{3} + c$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "12. A water tank has the shape of an upside-down cone with radius $2\\text{m}$ and height $5\\text{m}$. The water is running out of the tank through a small hole at the bottom at a speed proportional to the square root of the depth of the water in the tank. Suppose that the water is running out at a rate of $3 \\text{ m}^3/\\text{min}$ when the depth of the water in the tank is $4\\text{m}$. Find the rate at which the water level is changing at this moment.\n[IMG: https://assets.chorcha.net/Bls-SkB1VNJAqYd5yWLJU.png]",
+      "options": [
+        "$75/(54\\pi)$",
+        "$75/(64\\pi)$",
+        "$65/(54\\pi)$",
+        "$65/(64\\pi)$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "13. Consider the following figure. A is the town hall on Scott Street and D is a Post Office on Keach Avenue. Diagonal Road intersects Scott Street at B and Keach Avenue at C. Find the equation of the Peacock Street.\n[IMG: https://assets.chorcha.net/y3SDKaGuj3RHEUMB7VI1h.png]",
+      "options": [
+        "$x - 8y = -83$",
+        "$x - 8y = 17$",
+        "$8x + y = 41$",
+        "$8x + y = 17$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "14. Consider the equation of a circle given by $(x-5)^2 + (y-1)^2 = 25$. Which of the following two straight lines are the tangent lines of the above circle? (i) $y - 4 = \\frac{4}{3} (x-1)$ (ii) $y - 5 = \\frac{3}{4} (x-8)$",
+      "options": [
+        "Both (i) and (ii)",
+        "Only (i)",
+        "Only (ii)",
+        "Neither (i) nor (ii)"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "15. There are 5 red balls and 9 blue balls in a box. Four balls are randomly picked from the box without replacement and the colors of the balls are observed. What is the probability that the sequence of colors of the picked balls are alternate?",
+      "options": [
+        "0.12",
+        "0.06",
+        "0.10",
+        "0.05"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "16. If one root of the quadratic equation $4x^2 - 8kx - 9 = 0$ is negative to the other, then the resulting equation is:",
+      "options": [
+        "$4x^2 - 9 = 0$",
+        "$4x^2 - 8x - 9 = 0$",
+        "$4x^2 + 8x - 9 = 0$",
+        "$4x^2 - 16x - 9 = 0$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "17. For what values of x and y, matrix $A = \\begin{bmatrix} 1 & 1 & 1 \\\\ 4 & x & 4 \\\\ 0 & y & 5 \\end{bmatrix}$ will be singular (inverse does not exist):",
+      "options": [
+        "$x = 4$ and $y = 3$",
+        "$x = 4$ and $y = 4$",
+        "$x = 4$ and $y = 5$",
+        "All of them"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "18. How many three-digit numbers (first digit is non-zero) are there which contain the digit 2 at most once?",
+      "options": [
+        "252",
+        "648",
+        "652",
+        "873"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "19. A $68 \\text{ kg}$ person lies in a hammock, as shown in figure given below. The rope at the person's head makes an angle $\\phi$ of $40^\\circ$ with the horizontal, while the rope at the person's feet makes an angle $\\theta$ of $20^\\circ$. Find the tension in the two ropes.\n[IMG: https://assets.chorcha.net/qjdiDGp57a1rS0x8FjwlB.png]",
+      "options": [
+        "60.14 N and 73.78 N",
+        "614.23 N and 758.24 N",
+        "589.46 N and 723.08 N",
+        "54.75 N and 85.36 N"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "20. A ball is thrown horizontally with speed v from the floor at the top of some stairs as shown in the figure given below. The width and height of each step are both equal to $l$. What should v be so that the ball barely clears the corner of the step that is 4 steps down? Assume $l = 25 \\text{ cm}$ and $g = 10 \\text{ ms}^{-2}$.\n[IMG: https://assets.chorcha.net/plqirhS3FxYKyaaxEuPpn.png]",
+      "options": [
+        "$2\\sqrt{5}$",
+        "$\\sqrt{5}$",
+        "5",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "21. A subway train is traveling at $80 \\text{ km h}^{-1}$ when it approaches a slower train $50 \\text{ m}$ ahead traveling in the same direction at $25 \\text{ km h}^{-1}$. If the faster train begins decelerating at $2.1 \\text{ ms}^{-2}$ while the slower train continues at constant speed, how soon and at what relative speed will they collide?",
+      "options": [
+        "$9.58 \\text{ s}$ and $4.8 \\text{ ms}^{-1}$",
+        "$4.97 \\text{ s}$ and $4.8 \\text{ ms}^{-1}$",
+        "$9.58 \\text{ s}$ and $11.8 \\text{ ms}^{-1}$",
+        "$4.97 \\text{ s}$ and $11.8 \\text{ ms}^{-1}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "22. A student is staring idly out her dormitory window when she sees a water balloon fall past. If the balloon takes $0.22 \\text{ s}$ to cross the $130 \\text{ cm}$ high window, from what height above the top of the window was it dropped?",
+      "options": [
+        "$0.49 \\text{ m}$",
+        "$1.20 \\text{ m}$",
+        "$2.49 \\text{ m}$",
+        "$1.19 \\text{ m}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "23. If $\\vec{A} = 2\\hat{i} - 3\\hat{j} - 4\\hat{k}$ and $\\vec{B} = \\hat{i} + \\hat{j} - 5\\hat{k}$ then the projection of $\\vec{B}$ on $\\vec{A}$ is:",
+      "options": [
+        "$\\frac{19}{\\sqrt{27}}$",
+        "$\\frac{19}{\\sqrt{29}}$",
+        "$-\\frac{19}{27}$",
+        "$-\\frac{19}{29}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "24. Which one is the unit vector perpendicular to the plane formed by the following vectors:\n$\\vec{A} = 2\\hat{i} - 3\\hat{j} - \\hat{k}$\n$\\vec{B} = \\hat{i} + 4\\hat{j} - 2\\hat{k}$",
+      "options": [
+        "$\\frac{1}{\\sqrt{134}} (2\\hat{i} + 3\\hat{j} + 11\\hat{k})$",
+        "$\\frac{1}{\\sqrt{19}} (3\\hat{i} + \\hat{j} - 3\\hat{k})$",
+        "$\\frac{1}{\\sqrt{51}} (\\hat{i} - 7\\hat{j} + \\hat{k})$",
+        "$\\frac{1}{\\sqrt{230}} (10\\hat{i} + 3\\hat{j} + 11\\hat{k})$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "25. The area of the triangle whose vertices are $(6, 5), (-9, -4)$ and $(-5, 0)$ is:",
+      "options": [
+        "12 sq. units",
+        "24 sq. units",
+        "20 sq. units",
+        "30 sq. units"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "26. The equation of the circle that touches y-axis at $(0, 4)$ and whose center lies on the line $5x - 7y - 2 = 0$ is:",
+      "options": [
+        "$x^2 + y^2 - 6x - 6y + 18 = 0$",
+        "$x^2 + y^2 - 12x - 8y + 16 = 0$",
+        "$x^2 + y^2 - 7x - 2y + 24 = 0$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "27. How many arrangements can be made out of the letters of the word “COURAGE” all of which have a consonant at the beginning?",
+      "options": [
+        "2160",
+        "4320",
+        "720",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "28. A committee of 6 members is to be formed from a group consisting 7 boys and 4 girls. In how many ways, the committee can be formed so as to include at least 2 girls?",
+      "options": [
+        "350",
+        "371",
+        "381",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "29. What is the slope of tangent of the curve $x^2 + y^2 - 2x - 3 = 0$ at the point $(-1, 1)$?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "30. $\\sqrt{8 + 4\\sqrt{5}i} = ?$",
+      "options": [
+        "$\\pm(\\sqrt{10} + \\sqrt{3}i)$",
+        "$\\pm(\\sqrt{10} + \\sqrt{2}i)$",
+        "$\\pm(\\sqrt{10} - \\sqrt{2}i)$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "31. If one root of the equation $3x^2 - kx + 4 = 0$ is thrice the other then what are the values of k?",
+      "options": [
+        "$\\pm 3$",
+        "$\\pm 5$",
+        "$\\pm 4$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "32. The middle term in the expansion of $(x+2)^6$ is-",
+      "options": [
+        "$160x^3$",
+        "$150x^3$",
+        "$140x^3$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "33. The eccentricity of the ellipse $3x^2 + 5y^2 = 15$ is-",
+      "options": [
+        "$\\sqrt{(3/5)}$",
+        "$\\sqrt{(2/5)}$",
+        "$\\sqrt{(1/5)}$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "34. [IMG: https://assets.chorcha.net/yxE1BrriSnTHiR3CmIq9F.png]A weight of $5 \\text{ N}$ is supported by two forces as shown below. The value of P is-",
+      "options": [
+        "$10\\sqrt{3}\\text{N}$",
+        "$15\\sqrt{3}\\text{N}$",
+        "$5\\sqrt{3}\\text{N}$",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Mathmetics(35)",
+      "question": "35. A body is projected with a velocity of $100 \\text{ m/sec}$ at an angle of $30$ degree with the horizon $(g = 9.8 \\text{ m/sec}^2)$. The maximum height of the projectile is-",
+      "options": [
+        "227.55 m",
+        "127.55 m",
+        "327.55 m",
+        "427.55 m"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "1. [IMG: https://assets.chorcha.net/kQapTTHoTA5UlIpVXr43J.png]A motorcycle stuntman must jump a 20 m long canyon to safely land to the other end using a 15° ramp. How fast should he travel to safely cross that canyon?",
+      "options": [
+        "1.28 $ms^{-1}$",
+        "52.1 $ms^{-1}$",
+        "19.9 $ms^{-1}$",
+        "0.25 $ms^{-1}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "2. [IMG: https://assets.chorcha.net/H3SlRQgc0OK5M1mQA7Zvw.png]Persons A and B are moving at constant speeds of 5 ms$^{-1}$ and 4 ms$^{-1}$, respectively as shown in the figure. Find out the relative velocity of B with respect to A.",
+      "options": [
+        "16.12 ms$^{-1}$",
+        "6.26 ms$^{-1}$",
+        "12 ms$^{-1}$",
+        "4.65 ms$^{-1}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "3. A 1 kg block of ice at 0°C is thrown into a lake whose temperature is 10°C. Calculate the change in entropy in this case. [Latent heat of ice: 336000 J kg$^{-1}$, Specific heat of water: 4200 J kg$^{-1}$K$^{-1}$].",
+      "options": [
+        "16.54 JK$^{-1}$",
+        "46.11 JK$^{-1}$",
+        "133.39 JK$^{-1}$",
+        "64.87 JK$^{-1}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "4. A Carnot engine takes 1000 kilo calories of heat from a reservoir at 627°C and exhausts it to a sink at 27°C. How much work does it perform?",
+      "options": [
+        "2.8 MJ",
+        "4.2 MJ",
+        "66.66 MJ",
+        "8.2 MJ"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "5. Charges of 2 $\\mu\\text{C}$, 3 $\\mu\\text{C}$, 4 $\\mu\\text{C}$ and 5 $\\mu\\text{C}$ are placed at four corners of a square ABCD respectively having each side $\\sqrt{4.5}$ m. Find the net force at the center of the square where a 1 $\\mu\\text{C}$ is placed.",
+      "options": [
+        "112.33 mN",
+        "$8\\sqrt{2} \\times 10^{-3}$ N",
+        "11.32 mN",
+        "45.62 mN"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "6. [IMG: https://assets.chorcha.net/AtET_ZQca0bOEUNId_fl1.png]Find the charge stored in the equivalent capacitance of the following circuit.",
+      "options": [
+        "20 $\\mu\\text{C}$",
+        "60 $\\mu\\text{C}$",
+        "80 $\\mu\\text{C}$",
+        "6 $\\mu\\text{C}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "7. [IMG: https://assets.chorcha.net/gErwkmnomi17Ri8Hnit9H.png]A galvanometer of 15 $\\Omega$ resistance (as shown in the figure) is connected across BD. Calculate the current through the galvanometer when a potential difference of 10 V is maintained across AC.",
+      "options": [
+        "$1.15 \\times 10^{-1}\\text{A}$",
+        "$4.87 \\times 10^{-3}\\text{A}$",
+        "5.0 A",
+        "$3.2 \\times 10^{-2}\\text{A}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "8. A beam of light consisting of two wavelengths 560 nm and 420 nm is used to obtain interference fringes in a Young's double slit experiment. Find the least distance from the central maximum, where the bright fringes due to both the wavelengths coincide. The distance between the two slits 4.0 mm and the screen is placed 1.0 m away from the slits.",
+      "options": [
+        "5.12 mm",
+        "0.42 mm",
+        "1.12 mm",
+        "0.02 mm"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "9. The lifetime of a certain elementary particle is $1.00 \\times 10^{-7}\\text{s}$ when measured rest. How far can it travel at $0.99\\text{c}$? [c = speed of light]",
+      "options": [
+        "155 m",
+        "965 m",
+        "0.55 m",
+        "210 m"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "10. [IMG: https://assets.chorcha.net/mZh-D828QYSaX4R27VzMD.png]Find the output Boolean expression of the following circuit.",
+      "options": [
+        "$\\overline{A} + \\overline{B}$",
+        "$\\overline{A + B}$",
+        "$A + \\overline{B}$",
+        "$\\overline{A} + B$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "11. Steam at 100°C is passed into one end of a 10 mm thick and 200 $\\text{cm}^2$ area copper cylinder. Water at 100°C is collected at the rate of 150 $\\text{g min}^{-1}$ at the other end of the cylinder. Find the temperature of the outer surface if the conductivity of copper is 0.8 $\\text{cal s}^{-1} \\text{cm}^{-1}\\text{°C}$ and the latent heat of steam is 540 $\\text{cal g}^{-1}$.",
+      "options": [
+        "108°C",
+        "8.4°C",
+        "98.4°C",
+        "91.6°C"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "12. A drone is flying in the direction from IUT (I) to Uttara (U) to Tangail (T) and back to IUT forming a triangle. The co-ordinate of IUT and Uttara is (1, 2, 2) and (2, -1, 3). The vector from Uttara to Tangail can be represented by $-4\\text{i} - 2\\text{j} + 2\\text{k}$. What angle the drone will make while travelling from Uttara to Tangail to IUT?",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "13. An F-35 fighter jet with mass 13000 kg is flying in a straight line with uniform velocity in a $13 \\times 10^5$ N air friction. After 10 minutes of flying, it enters into a vacuum region. What will be the change of velocity of the jet after 10 seconds of entering the vacuum region.",
+      "options": [
+        "500 ms^{-1}",
+        "1000 ms^{-1}",
+        "100 ms^{-1}",
+        "2000 ms^{-1}"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "14. A stone of mass 100 gm is thrown with a velocity of 9.8 $\\text{ms}^{-1}$ from the bottom of a 2 storied building and it barely reached the roof of that building. If it is allowed to fall freely from there, what will be the energy of the stone while crossing the window of the first floor?",
+      "options": [
+        "2.4 J",
+        "4.8 J",
+        "240 J",
+        "480 J"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "15. Jupiter's mass and radius is respectively 100 times and 64 times more than that of Mars while Mars mass and radius is respectively 16 times and 9 times less than that of earth. If the escape velocity of earth is 11.2 $\\text{kms}^{-1}$, what is the escape velocity of Jupiter?",
+      "options": [
+        "21 $\\text{kms}^{-1}$",
+        "10.5 $\\text{kms}^{-1}$",
+        "11.94 $\\text{kms}^{-1}$",
+        "14.93 $\\text{kms}^{-1}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "16. If Cu density at room temperature is 9 $\\text{gm/cc}$, what will be its density at $5 \\times 10^{-8} \\text{Nm}^{-2}$ pressure where its compressibility is $5 \\times 10^{-10} \\text{m}^2\\text{N}^{-1}$?",
+      "options": [
+        "9 $\\text{gm/cc}$",
+        "10 $\\text{gm/cc}$",
+        "11 $\\text{gm/cc}$",
+        "12 $\\text{gm/cc}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "17. Salam is using a lift to go to his office where the combined weight of the lift is $5 \\times 10^6$ gm. The lift is suspended by a wire of 4 cm diameter. What is the maximum acceleration of the lift which can break the wire, where the breaking stress of the wire is $7.96 \\times 10^7 \\text{N/m}^2$?",
+      "options": [
+        "7.8 $\\text{ms}^{-2}$",
+        "11.2 $\\text{ms}^{-2}$",
+        "10.2 $\\text{ms}^{-2}$",
+        "29.8 $\\text{ms}^{-2}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "18. [IMG: https://assets.chorcha.net/yt4Zdjem4Y6hmVN3-VnZ3.png]What is the time period of this whole system?",
+      "options": [
+        "$\\pi/2$",
+        "$\\pi$",
+        "$2\\pi$",
+        "$4\\pi$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "19. The temperature of a cubicle with height of 300 cm increases from 7°C to 27°C from night to day time. If there are $6.023 \\times 10^{25}$ number of molecules of gas available inside that cubicle, what will be the change in pressure due to temperature variation?",
+      "options": [
+        "18.48 Pa",
+        "61.58 Pa",
+        "615.8 Pa",
+        "1847.5 Pa"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "20. A polyatomic gas maintains a volume of 5 liters at a pressure of 2 atm with Temperature = 300°K. After adiabatic compression, the volume of the gas becomes 1 liter. What is the ratio of final temperature and final pressure?",
+      "options": [
+        "13.23 K/atm",
+        "30 K/atm",
+        "53.1 K/atm",
+        "5.31 K/atm"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "21. [IMG: https://assets.chorcha.net/tokQZKjO07jsFb5_Y4dQk.png]Find the potential at point B",
+      "options": [
+        "1 V",
+        "3 V",
+        "-1 V",
+        "5 V"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "22. There are five electric bulbs with 100 watts 220 volt each and 2 fans with 150 watts 220 volt each in a house. If the voltage variation remains within $\\pm 5\\%$, what will be the variation in number of unit usage for 1 hour?",
+      "options": [
+        "0.1656 units",
+        "1.66 units",
+        "0.8872 units",
+        "0.7216 units"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "23. A space ship travels to a star 9 light-years away at $0.8\\text{c}$ and comes back. How much time passes on the space-ship during the journey (as measured by an astronaut)?",
+      "options": [
+        "13.5 years",
+        "22.5 years",
+        "11.5 years",
+        "6.75 years"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "24. After 5000 years, if a radioactive material becomes 1/32th part then how much time does it require to decay 87.5% from its initial content?",
+      "options": [
+        "500 years",
+        "1000 years",
+        "2000 years",
+        "3000 years"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "25. A dc voltage source of 12 V is connected in series with 3 resistors of 3 $\\Omega$, 4 $\\Omega$ and 5 $\\Omega$ one by one. 3 $\\Omega$ resistor is connected with the positive side of the voltage source. An ideal diode is connected in parallel across 4 $\\Omega$ resistor with anode side in 3 $\\Omega$ resistor direction. What will be the voltage drop across 5 $\\Omega$ resistor?",
+      "options": [
+        "5 V",
+        "7.5 V",
+        "0 V",
+        "None"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "26. If the emitter current and collector current is 11.3 mA and 10.8 mA respectively, what is the value of $\\beta/\\alpha$?",
+      "options": [
+        "0.956",
+        "0.044",
+        "21.73",
+        "22.73"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "27. A body of mass of 250 g is in simple harmonic motion. When the displacement of the body from its mid position is 0.15 m, the restoring force acting on it is 0.4 N. What is the time period of oscillation?",
+      "options": [
+        "1.823 s",
+        "1.923 s",
+        "2.823 s",
+        "2.923 s"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "28. A tuning fork is in resonance with a stretched string of 80 cm length. If the length of the wire is decreased by 5 cm, then frequency of the string increases by 8 Hz. What is the frequency of the tuning fork?",
+      "options": [
+        "100 Hz",
+        "105 Hz",
+        "110 Hz",
+        "120 Hz"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "29. If the volume of an air bubble becomes thrice on the surface of water while coming from the bottom of a lake what is the depth of the lake if the atmospheric pressure is $1.013 \\times 10^5$ Pa.",
+      "options": [
+        "18.67 m",
+        "20.67 m",
+        "22.67 m",
+        "24.67 m"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "30. A 50 turns rectangular coil has length of 0.25 m and width of 0.2 m. If the coil carries current of 4A and is placed in a uniform magnetic field of 0.2 T, what magnitude of torque will act on the coil?",
+      "options": [
+        "1 Nm",
+        "2 Nm",
+        "3 Nm",
+        "4 Nm"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "31. A coil of resistance of 5 $\\Omega$ is connected to a battery of 120V. If the constant current of 20A in the circuit drops to 0 in 0.04 second, find the self-inductance of the coil.",
+      "options": [
+        "0.01 H",
+        "0.02 H",
+        "0.03 H",
+        "0.04 H"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "32. A ray of light is incident perpendicularly on one surface of a glass prism having refractive index of 1.5 and is emitted just touching the body of the second surface of the prism. Calculate the angle of prism.",
+      "options": [
+        "41.81°",
+        "43.81°",
+        "45.81°",
+        "47.81°"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "33. Interference fringes are produced on a screen at a distance of 1.50 m from two slits having separation of $0.6 \\times 10^{-3}$. If the width of interference fringe is $1.5 \\times 10^{-3}$, determine the wavelength of light.",
+      "options": [
+        "4000$\\text{\\AA}$",
+        "5000$\\text{\\AA}$",
+        "6000$\\text{\\AA}$",
+        "7000$\\text{\\AA}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "34. The mass of a star is 6 $\\text{M}_0$. If the star becomes a black hole, what will be its Schwarzschild or critical radius. [The mass of sun $\\text{M}_0 = 1.99 \\times 10^{30}$ kg]",
+      "options": [
+        "15.7 km",
+        "16.7 km",
+        "17.7 km",
+        "18.7 km"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "35. [IMG: https://assets.chorcha.net/S1oGbSn2WVopZu-d05Ypf.png]\nFind out the source voltage magnitude Vs for the given circuit.",
+      "options": [
+        "20 V",
+        "37 V",
+        "14.5 V",
+        "45 V"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "1. Given this reaction that occurs in plants: $6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$. If 54 grams of water are consumed by the plant, how many grams $C_6H_{12}O_6$ (molar mass is 180 grams/mole) can be made? Assume an unlimited supply of carbon dioxide for the plant to consume as well.",
+      "options": [
+        "54 grams",
+        "180 grams",
+        "3 grams",
+        "90 grams"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "2. A titration is set up so that 40 mL of 1.0 M NaOH are titrated with 2.0 M HCl. If the initial reading of the meniscus of the acid's burette is 3.15 mL, what will the final burette reading be?",
+      "options": [
+        "20.00 mL",
+        "40.00 mL",
+        "43.15 mL",
+        "23.15 mL"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "3. What is the pH of a 0.1 M acid solution where the acid has a $K_a$ of $1 \\times 10^{-5}$?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "4. Which pair below represents isomers of the same compound?",
+      "options": [
+        "$CH_3CH_2CH_2OH$ and $HOCH_2CH_2CH_3$",
+        "$CH_3CH_2CH_3$ and $CH_3CH_2CH_3$",
+        "$CH_3CH(Cl)CH_3$ and $CH_3CH_2CH_2Cl$",
+        "$CH_3COCH_3$ and $CH_3CH_2CH_2CHO$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "5. An ester can be prepared by the reaction of-",
+      "options": [
+        "two alcohols",
+        "an alcohol and an aldehyde",
+        "an alcohol and an organic acid",
+        "an organic acid and an aldehyde"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "6. How many pi bonds are there in a molecule of $N \\equiv C - CH_2 - CH_2 - CO - NH - CH = CH_2$?",
+      "options": [
+        "7",
+        "4",
+        "12",
+        "10"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "7. What is the formation enthalpy of acetylene? If the combustion enthalpies of carbon, hydrogen and acetylene are $-394 \\text{ kJ}$, $-286 \\text{ kJ}$ and $-1304 \\text{ kJ}$, respectively.",
+      "options": [
+        "$-462 \\text{ kJ/mol}$",
+        "$231 \\text{ kJ/mol}$",
+        "$-462 \\text{ kJ/mol}$",
+        "$-231 \\text{ kJ/mol}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "8. Which one of the following statements is incorrect?",
+      "options": [
+        "Grignard reagents react with $CO_2$ followed by hydrolysis to produce primary alcohol",
+        "2, 4 DNP is used to separate aldehyde from ketone",
+        "$\\alpha$- hydrogen containing aldehyde or ketone gives the Iodoform reaction",
+        "The Cannizzaro Reaction is a redox disproportion of aldehydes to carboxylic acids and alcohols"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "9. If 160 mA of current is passed through a solution of copper sulphate for 40 min. What amount of copper will be deposited?",
+      "options": [
+        "12192 g",
+        "0.000324 g",
+        "0.12634 g",
+        "D11980 g"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "10. If $PO_4^{3-}$ ion is added in an aqueous solution of $AgNO_3$ (concentration 0.1M), then at what concentration of $PO_4^{3-}$ $Ag_3PO_4$ starts to form precipitates? $K_{sp}(Ag_3PO_4) = 1.3 \\times 10^{-20}$.",
+      "options": [
+        "$2.6 \\times 10^{-17}$",
+        "$3.9 \\times 10^{-17}$",
+        "$1.3 \\times 10^{-17}$",
+        "$5.2 \\times 10^{-17}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "11. Which of the following reaction is incorrect?",
+      "options": [
+        "$FeCl_2 + K_3[Fe(CN)_6] = 2KCl + KFe[Fe(CN)_6]$\n\n(Deep blue ppt)",
+        "$FeCl_3 + K_3[Fe(CN)_6] = 3KCl + Fe[Fe(CN)_6]$\n\n(Brown ppt)",
+        "$FeCl_2 + 2NH_4CNS = 2NH_4Cl + Fe(CNS)_2$\n\n(Blood red ppt)",
+        "$FeCl_3 + 3NH_4CNS = 3NH_4Cl + Fe(CNS)_3$\n\n(Blood red ppt)"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "12. $0.01 \\text{ M } H_2SO_4$, $0.01 \\text{ M } HNO_3$ and $0.02 \\text{ M } HCl$ solution of the same volume has been mixed together. What will be the pH value of the acid mixture?",
+      "options": [
+        "1.40",
+        "1.80",
+        "2.20",
+        "2.40"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "13. A person inhales 500 mg of air once. If the air contains 20% (weight) of oxygen, then how many oxygen atoms does he take in?",
+      "options": [
+        "$18.81 \\times 10^{20}$",
+        "$37.63 \\times 10^{20}$",
+        "$3.73 \\times 10^{22}$",
+        "$18.81 \\times 10^{21}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "14. In an aqueous solution of $CaF_2$, the concentration of $F^-$ ion is $6.55 \\times 10^{-3} \\text{ gL}^{-1}$, what is the solubility product of $CaF_2$?",
+      "options": [
+        "$2.68 \\times 10^{-12}$",
+        "$3.87 \\times 10^{-11}$",
+        "$2.05 \\times 10^{-11}$",
+        "$2.87 \\times 10^{-12}$"
+      ],
+      "tag": "IUT 24-25"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "15. The wavelength of a red color band Lithium molecules is 671nm. What is the photon energy of this light wave?",
+      "options": [
+        "$2.6818 \\times 10^{-18}\\text{J}$",
+        "$3.8710 \\times 10^{-19}\\text{J}$",
+        "$2.8618 \\times 10^{-18}\\text{J}$",
+        "$2.9618 \\times 10^{-19}\\text{J}$"
+      ],
+      "tag": "IUT 24-25"
+    }
+  ]
+}

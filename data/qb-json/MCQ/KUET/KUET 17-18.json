@@ -1,0 +1,1151 @@
+{
+  "title": "KUET 2017-18",
+  "questions": [
+    {
+      "subject": "Chemistry (25)",
+      "question": "1. The concentration of $\\mathrm{OH}^{-}$ion in sea water is $5.0 \\times 10^{-6} \\mathrm{M}$ then what will be the concentration of $\\mathrm{H}_{3} \\mathrm{O}^{+}$ ion in it?",
+      "options": [
+        "$1.0 \\times 10^{-9} \\mathrm{M}$",
+        "$2: 0 \\times 10^{-9} \\mathrm{M}$",
+        "$3.0 \\times 10^{-9} \\mathrm{M}$",
+        "$4.0 \\times 10^{-9} \\mathrm{M}$",
+        "$5.0 \\times 10^{-9} \\mathrm{M}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "2. Find the pressure of 1 mole gas of 250 mL volume at 300 K temperature using Vander Waals equation. $\\left[\\mathrm{a}=2.253 \\mathrm{~atm} \\mathrm{~L}^{2} \\mathrm{~mol}^{-2}\\right.$ and $\\mathrm{b}=0.0428 \\mathrm{~L} \\mathrm{~mol}^{-1}$ ]",
+      "options": [
+        "130.6 atm",
+        "53.5 atm",
+        "25.7 atm",
+        "82.8 atm"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "3. If there is 877.5 ppm NaCl in underground water of any locality then what will be the concentration of NaCl in molarity of the mentioned water?",
+      "options": [
+        "0.01 M",
+        "0.05 M",
+        "0.015 M",
+        "0.025 M",
+        "0.035 M"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "4. If $\\mathrm{E}_{\\mathrm{Cu} / \\mathrm{Cu}^{2+}}^{\\circ}=-0.34 \\mathrm{~V}$ and $\\mathrm{E}_{\\mathrm{Fe} / \\mathrm{Fe}^{2+}}^{\\circ}=0.44 \\mathrm{~V}$ then -\n\n(i) $\\mathrm{FeSO}_{4}$ solution can be kept in copper container\n\n(ii) $\\mathrm{FeSO}_{4}$ solution cannot be kept in copper container\n\n(iii) $\\mathrm{CuSO}_{4}$ solution can be kept in iron container.\n\n(iv) $\\mathrm{CuSO}_{4}$ solution cannot be kept in iron container.\n\nWhich one is correct?",
+      "options": [
+        "i , ii",
+        "i, iii",
+        "i, iv",
+        "ii, iii",
+        "ii, iv"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "5. How is the hybridization of carbon atoms in $\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{CH}_{2}$ compound?",
+      "options": [
+        "$s p, s p^{2}$",
+        "$\\mathrm{sp}, \\mathrm{sp}^{3}$",
+        "$\\mathrm{sp}^{2}, \\mathrm{sp}^{3}$",
+        "$\\mathrm{sp}, \\mathrm{sp}^{2}, \\mathrm{sp}^{3}$"
+      ],
+      "tag": "RU C 19-20 (GROUP 3),JU D 16-17 (SET 1),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "6. Which compound gives aldol condensation reaction?",
+      "options": [
+        "$CH_3CH_2CHO$",
+        "$\\left(C l\\right)_{3}C-CHO$",
+        "H-CHO",
+        "$C_{6}H_{5}CHO$"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),RU C 19-20 (GROUP 3)"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "7. What is the value of $n$ and 1 for 3 p orbital?",
+      "options": [
+        "$\\mathrm{n}=3,1=0$",
+        "$n=3,1=1$",
+        "$\\mathrm{n}=2,1=3$",
+        "$n=3,1=2$"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 16-17 (SET 12),JU D 15-16 (SET 3),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "8. [IMG: https://assets.chorcha.net/45ecfDvppGOrkfmGkj2TN.png]",
+      "options": [
+        "$a-2, b-4, c-5, d-1$",
+        "$a-2, b-4, c-5, d-3$",
+        "$a-2, b-2, c-5, d-1$",
+        "$a-4, b-2, c-5, d-3$",
+        "$a-2, b-2, c-4, d-1$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "9. How many oxygen atom are present in 252 milligram granular oxalic acid?",
+      "options": [
+        "$4.8 \\times 10^{23}$",
+        "$2.4 \\times 10^{21}$",
+        "$4.8 \\times 10^{21}$",
+        "$1.2 \\times 10^{21}$",
+        "$7.23 \\times 10^{21}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "10. The solubility of a solute at $30^{\\circ} \\mathrm{C} \\& 55^{\\circ} \\mathrm{C}$ temperatures are respectively $50 \\& 90.50 \\mathrm{~g}$ solution temperature $30^{\\circ} \\mathrm{C}$ is raised to $55^{\\circ} \\mathrm{C}$. How many gram excess solute will be needed to saturate the solution in this condition?",
+      "options": [
+        "10.12 g",
+        "11.48 g",
+        "12.62 g",
+        "13.33 g",
+        "16.66 g"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "11. In a sample of pure compound, 2.04 g sodium, $2.65 \\times 10^{22}$ carbon and 0.132 mole oxygen are founci. It produces a colorless gas reacting with 73 gram hydrochloric acid at room temperature. Find the number molecules of the produced gas.",
+      "options": [
+        "$3.011 \\times 10^{23}$",
+        "$12.046 \\times 10^{23}$",
+        "$1.506 \\times 10^{23}$",
+        "$6.023 \\times 10^{23}$",
+        "$2.008 \\times 10^{23}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "12. Scheme-I: $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{~N}_{2} \\mathrm{Cl} \\xrightarrow{\\text { CuCN }} \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CN} \\xrightarrow{\\mathrm{H}_{2} \\mathrm{O} / \\mathrm{H}^{+}} \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COOH} \\xrightarrow[\\mathrm{NH}_{3}]{\\Delta}[$ Product -I]\n\nScheme-2: $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NO}_{2} \\xrightarrow{\\mathrm{Fe} / \\mathrm{HCl}} \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NH}_{2} \\xrightarrow{\\mathrm{NO}_{2}+\\mathrm{HCl}_{2} .273 \\mathrm{~K}} \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{~N}_{2} \\mathrm{Cl} \\xrightarrow{\\mathrm{H}_{2} \\mathrm{O} / \\mathrm{H}^{+}}[$[Product - II]\n\nScheme-3: $\\mathrm{CH}_{3} \\mathrm{COOH} \\xrightarrow{\\mathrm{NH}_{3}} \\mathrm{CH}_{3} \\mathrm{CONH}_{2} \\xrightarrow{\\mathrm{NaBr}}$ [Product - III]\n\nProduct-I, Product-II and Product-III in the mentioned scheme are,",
+      "options": [
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{COONH}_{4}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{Cl}$ and $\\mathrm{CH}_{3} \\mathrm{OH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CONH}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NH}_{2}$ and $\\mathrm{CH}_{5} \\mathrm{OH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CONH}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NH}_{2}$ and $\\mathrm{CH}_{3} \\mathrm{NH}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CONH}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$ and $\\mathrm{CH}_{3} \\mathrm{OH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CONH}_{2}, \\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{OH}$ and $\\mathrm{CH}_{3} \\mathrm{NH}_{2}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "13. Which one among the oxides $\\mathrm{Mn}_{2} \\mathrm{O}_{7}, \\mathrm{CO}_{2}, \\mathrm{CrO}_{3}, \\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{~V}_{2} \\mathrm{O}_{5}$ and $\\mathrm{V}_{2} \\mathrm{O}_{4}$ are amphoteric oxide?",
+      "options": [
+        "$\\mathrm{M}_{2} \\mathrm{O}_{7}, \\mathrm{Cr}_{2} \\mathrm{O}_{3}$ and $\\mathrm{V}_{2} \\mathrm{O}_{5}$",
+        "$\\mathrm{V}_{2} \\mathrm{O}_{5}$ and $\\mathrm{V}_{2} \\mathrm{O}_{4}$",
+        "$\\mathrm{CrO}_{3}, \\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{~V}_{2} \\mathrm{O}_{5}$ and $\\mathrm{V}_{2} \\mathrm{O}_{4}$",
+        "$\\mathrm{Cr}_{2} \\mathrm{O}_{3}$ and $\\mathrm{V}_{2} \\mathrm{O}_{5}$",
+        "$\\mathrm{Mn}_{2} \\mathrm{O}_{7}, \\mathrm{Cr}_{2} \\mathrm{O}_{3}, \\mathrm{CrO}_{3}, \\mathrm{~V}_{2} \\mathrm{O}_{5}$ and $\\mathrm{V}_{2} \\mathrm{O}_{4}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "14. At $25^{\\circ} \\mathrm{C}$ temperature $\\mathrm{H}_{2}+\\mathrm{Cl}_{2}+2 \\mathrm{H}_{2} \\mathrm{O}=2 \\mathrm{H}_{3} \\mathrm{O}^{+}+2 \\mathrm{Cl}^{-}$equivalent of the solution, $\\mathrm{K}=10^{46}$. Calculate $\\mathrm{E}^{\\circ}$ at $25^{\\circ} \\mathrm{C}$ temperature of $\\mathrm{Pt}, \\mathrm{H}_{2}|\\mathrm{HCl}(\\mathrm{aq})| \\mathrm{Cl}_{2}, \\mathrm{Pt}$ cell",
+      "options": [
+        "1.0 V",
+        "1.357 V",
+        "2.2 V",
+        "0.000 V"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "15. The chemicals used for cleaning of glassware's in laboratory are-\ni. $\\mathrm{H}_{2} \\mathrm{SO}_{4}$\nii. $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$\niii. $\\mathrm{CHCl}_{3}$\nWhich one is correct?",
+      "options": [
+        "$\\mathrm{i}$ and $\\mathrm{ii}$",
+        "ii and iii",
+        "i and iii",
+        "i, ii and iii"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),JU A 17-18 (SET 3)"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "16.  In which series of the following transition element ions, all the transition ions are in $3 d^{2}$ electronic configuration?",
+      "options": [
+        "$\\mathrm{Ti}^{3+}, \\mathrm{V}^{2+}, \\mathrm{Cr}^{3+}, \\mathrm{Mn}^{4+}, \\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Ti}^{+}, \\mathrm{Cr}^{6+}, \\mathrm{V}^{4+}, \\mathrm{Mn}^{7+}, \\mathrm{Fe}^{2+}$",
+        "$\\mathrm{Cr}^{4+}, \\mathrm{V}^{3+}, \\mathrm{Ti}^{4+}, \\mathrm{Fe}^{6+}, \\mathrm{Mn}^{3+}$",
+        "$\\mathrm{Ti}^{2+}, \\mathrm{V}^{3+}, \\mathrm{Cr}^{3+}, \\mathrm{Mn}^{5+}, \\mathrm{Fe}^{5+}$",
+        "$\\mathrm{Ti}^{2+}, \\mathrm{V}^{3+}, \\mathrm{Cr}^{4+}, \\mathrm{Mn}^{5+}, \\mathrm{Fe}^{6+}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "17. Find Q from the following nuclear reaction\n${ }_{98}^{28} \\mathrm{Th} \\xrightarrow{-\\alpha} \\mathrm{M} \\xrightarrow{-\\beta} \\mathrm{N} \\xrightarrow{-\\beta} \\mathrm{O} \\xrightarrow{-\\alpha} \\mathrm{C} \\xrightarrow{-\\alpha} Q$",
+      "options": [
+        "${ }_{86}^{220} R_{n}$",
+        "${ }_{89}^{228} \\mathrm{Ac}$",
+        "${ }_{88}^{226} \\mathrm{Ra}$",
+        "${ }_{84}^{218} \\mathrm{Po}$",
+        "${ }_{87}^{221} \\mathrm{Fr}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "18. Coagulation of particles from colloid solution occurs when-\n(i) the amount of electrolytic substance is more in solution\n\n(ii) the charge of colloid particle is neutralized by opposite charge of electrolytic particle\n\n(iii) colloid particle \\& dispersion medium come close to each other.\n\n(iv) the temperature is higher\n\nWhich answer is correct for the mentioned statements?",
+      "options": [
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii, iii",
+        "i, iv"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "19. 30 g substrate is dissolved in $1000 \\mathrm{~cm}^{3}$ aqueous solution. If it is extracted by total $300 \\mathrm{~cm}^{3}$ ether three times taking $100 \\mathrm{~cm}^{3}$ each time then how much substrate will remain in that aqueous solution? Distribution coefficient in favor of water is 0.25 .",
+      "options": [
+        "5.54 g",
+        "8.23 g",
+        "10.93 g",
+        "12.59 g",
+        "14.12 g"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "20. Which one is present as a natural emulsifier in milk?",
+      "options": [
+        "lactose",
+        "fat",
+        "protein",
+        "galactose",
+        "fructose"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "21.  The molar absorptivity of a solution is $1.0 \\times 10^{5} \\mathrm{~L}_{\\mathrm{m}} \\mathrm{mol}^{-1} \\mathrm{~cm}^{-1}$, length of path is 1.0 cm and absorption power is 1.5 then what is the concentration of the solution?",
+      "options": [
+        "$1.25 \\times 10^{-5} \\mathrm{mol.L}^{-1}$",
+        "$1.25 \\times 10^{-4} \\mathrm{mol.L}^{-1}$",
+        "$1.5 \\times 10^{-5} \\mathrm{~mol} \\mathrm{~L}^{-1}$",
+        "$1.5 \\times 10^{-4} \\mathrm{mol.}^{-1}$",
+        "$1.35 \\times 10^{-4} \\mathrm{mol.L}^{-1}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "22. The expression relating the rate of decrease of \" $A$ \" with rate of increase of \" $B$ \" for the reaction $\\frac{1}{2} A=$ $2 B$ is-",
+      "options": [
+        "$-\\frac{\\mathrm{d}[\\mathrm{A}]}{\\mathrm{dt}}=4 \\frac{\\mathrm{d}[\\mathrm{B}]}{\\mathrm{dt}}$",
+        "",
+        "$-\\frac{\\mathrm{d}[\\mathrm{A}]}{\\mathrm{dt}}=\\frac{1}{4} \\frac{\\mathrm{d}(\\mathrm{B}]}{\\mathrm{dt}}$",
+        "$-\\frac{\\mathrm{d}[\\mathrm{A}]}{\\mathrm{dt}}=\\frac{\\mathrm{d}[\\mathrm{B}]}{\\mathrm{dt}}$",
+        "$-\\frac{\\mathrm{d}[\\mathrm{A}]}{\\mathrm{dt}}=2 \\frac{\\mathrm{d}[\\mathrm{B}]}{\\mathrm{dt}}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "23. $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ falls on hand of a student working in laboratory. What should he do as primary aid?",
+      "options": [
+        "alkaline solution will be needed at injured place",
+        "to go to local clinic/hospital quickly",
+        "to use antiseptic solution from Aid-box conserved in lab",
+        "to wash the injured place with much water",
+        "to wash the acid of injured place with tissue paper"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "24. A reaction takes place at 600 K temperature. If the reaction takes place in presence of a catalyst at the same rate then the temperature needed is 500 K . If the catalyst reduces the activation energy by $30 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$ then what was the activation energy of the reaction?",
+      "options": [
+        "$180 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$",
+        "$15000 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$",
+        "$18000 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$",
+        "$150 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$",
+        "$1.5 \\mathrm{~kJ} \\cdot \\mathrm{mol}^{-1}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Chemistry (25)",
+      "question": "25. Heat of combustion of ammonia \\& hydrogen are respectively -90.6 and $-68.3 \\mathrm{k} . \\mathrm{cal} / \\mathrm{mole}$ then determine how $\\mathrm{kcal} / \\mathrm{mole}$ will be the heat of formation of ammonia.",
+      "options": [
+        "-11.85",
+        "-158.9",
+        "-22.3",
+        "-283.35",
+        "-238.35"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "1. Which one is the value of $\\lim _{x \\rightarrow 0} \\frac{\\sin x-\\ln \\left(e^{x} \\cos x\\right)}{x \\sin x}$ ?",
+      "options": [
+        "$\\frac{1}{3}$",
+        "3",
+        "$\\frac{1}{5}$",
+        "2",
+        "$\\frac{1}{2}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "2. If $y=\\sin 3 x$, then $y_{n}=$ ?",
+      "options": [
+        "$2^{n} \\sin \\left(\\frac{n \\pi}{2}+3 x\\right)$",
+        "$3 \\sin \\left(\\frac{n \\pi}{2}+3 x\\right)$",
+        "$3^{n} \\sin \\left(\\frac{\\pi}{2}+3 x\\right)$",
+        "$3^{n} \\sin \\left(\\frac{n \\pi}{2}+3 x\\right)$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "3. The maximum value of $y=2\\left(x+\\frac{1}{x}\\right)$ is-",
+      "options": [
+        "$\\infty$",
+        "0",
+        "2",
+        "-2",
+        "-4"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "4. Which one is the differential coefficient of $\\log _{\\sin x} \\sin ^{2} x$ ?",
+      "options": [
+        "2",
+        "$(\\sin x)^{\\sin ^{2} x-1}$",
+        "$2(\\sin x)^{\\cos ^{2} x-1}$",
+        "0",
+        "$\\cot x$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "5. The value of $\\int \\frac{6 x-7}{4 x^{2}-4 x+5} d x$ is",
+      "options": [
+        "$\\frac{3}{2} \\log (4 x-4 x+5)+\\frac{1}{2} \\tan ^{-1} \\frac{2 x-1}{2}$",
+        "$3 \\log \\left(4 x^{2}-4 x+5\\right)+\\tan ^{-1} \\frac{2 x-1}{2}+c$",
+        "$\\frac{3}{2} \\log (4 x-4 x+5)+2 \\tan ^{-1}\\left(\\frac{2 x-1}{2}\\right)+c$",
+        "$\\frac{3}{2} \\log \\left(4 x^{2}-4 x+5\\right)+\\tan ^{-1} \\frac{2 x-1}{2}+c$",
+        "$3 \\log \\left(4 x^{2}-4 x+5\\right)+\\frac{1}{2} \\tan ^{-1} \\frac{2 x-1}{2}+c$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "6. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "7. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "8. A bomb falls on ground after 10 second of releasing from an aeroplane moving vertically upward with uniform velocity. At the time of the bomb hitting the ground, the acroplane reaches which height-",
+      "options": [
+        "1470 m",
+        "980 m",
+        "1960 m",
+        "490 m",
+        "245 m"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "9. From point $P(1,2), P Q \\& P R$ perpendiculars are drawn on lines $2 x-y+5=0 \\& x+y-4=0$ respectively. Area of $\\triangle P Q R$ is -",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{5}{4}$",
+        "$\\frac{7}{2}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "10. If the coordinates of vertices of the triangle $A B C$ are respectively $A(0,0), B(1,5)$ and $C(2,2)$ then the find the equation of perpendicular on $B C$ line passing through point $A$.",
+      "options": [
+        "$2 x=y$",
+        "$x+y=0$",
+        "$3 x+5 y=0$",
+        "$x+5 y=2$",
+        "None of these"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "11. The angle produced by the chord $x-y=0$ at any point of circumference of the circle $x^{2}+y^{2}-2 x+$ $6 y-6=0$ is -",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{2 \\pi}{3}$",
+        "$\\frac{3 \\pi}{4}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "12. An ellipse intersects the line $\\frac{x}{5}+\\frac{y}{2}=1$ on $x$ axis and line $\\frac{x}{2}+\\frac{y}{6}=1$ on $y$ axis. What is the eccentricity of the ellipse?",
+      "options": [
+        "$\\frac{\\sqrt{7}}{6}$",
+        "$\\frac{\\sqrt{11}}{6}$",
+        "$\\frac{\\sqrt{13}}{6}$",
+        "$\\frac{\\sqrt{5}}{6}$",
+        "$\\frac{\\sqrt{17}}{6}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "13. Which one is the value of $\\cos ^{2} A+\\cos ^{2}\\left(A+\\frac{\\pi}{3}\\right)+\\cos ^{2}\\left(A-\\frac{\\pi}{3}\\right)$ ?",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{3}{2}+1$",
+        "$\\frac{1}{2}+5$",
+        "$\\frac{5}{7}$",
+        "$\\frac{7}{9}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "14. Principle solution of $\\sqrt{3} \\tan 6 \\theta-\\sqrt{3} \\tan 4 \\theta+\\tan 6 \\theta \\tan 4 \\theta+1=0$ is-",
+      "options": [
+        "$60^{\\circ}$",
+        "$165^{\\circ}$",
+        "$75^{\\circ}$",
+        "$30^{\\circ}$",
+        "$135^{\\circ}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "15.\nIf $\\tan ^{-1} a+\\frac{1}{2} \\sec ^{-1} \\frac{1+b^{2}}{1-b^{2}}+\\frac{1}{2} \\operatorname{cosec}^{-1} \\frac{1+c^{2}}{2 c}=\\pi$, what is the value of $a+b+c$ ?",
+      "options": [
+        "5 abc",
+        "7 abc",
+        "11 abc",
+        "2 abc",
+        "$a b c$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "16. What is the value of $\\left|\\begin{array}{ccc}x+y & x & y \\\\ x & x+z & z \\\\ y & z & y+z\\end{array}\\right|$ ?",
+      "options": [
+        "$4 x y z$",
+        "$\\frac{1}{2} x y z$",
+        "$\\frac{1}{7} x y z$",
+        "$11 x y z$",
+        "$13 x y z$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "17. Find square root of $\\frac{5+12 i}{3-4 i}$",
+      "options": [
+        "$\\pm\\left(\\frac{4}{5}+\\frac{7}{5} \\mathrm{i}\\right)$",
+        "$\\pm(2+5 i)$",
+        "$\\pm(3+7 i)$",
+        "$\\pm(9+11 \\mathrm{i})$",
+        "None of these"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "18. If $f: \\mathbb{R} \\rightarrow \\mathbb{R}, \\mathrm{g}: \\mathbb{R} \\rightarrow \\mathbb{R}, h: \\mathbb{R} \\rightarrow \\mathbb{R}, f(x)=\\tan ^{-1} x, g(y)=\\sin y$ and $h(z)=\\frac{1-z}{1+z}$ then value of $\\mathrm{g}\\left[\\right.$ foh $\\left.\\left(\\tan 30^{\\circ}\\right)\\right]$ is-",
+      "options": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$\\frac{1-\\sqrt{3}}{2 \\sqrt{2}}$",
+        "$\\frac{\\sqrt{3}-1}{2 \\sqrt{2}}$",
+        "$\\frac{1+\\sqrt{3}}{2 \\sqrt{2}}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "19. The roots of the equation $6 x^{2}-5 x+1=0$ are $\\alpha, \\beta$ then what is the equation having the roots $\\frac{1}{a}, \\frac{1}{\\beta}$ ?",
+      "options": [
+        "$x^{2}-5 x+6=0$",
+        "$x^{2}-2 x+1=0$",
+        "$x^{2}-4 x+3=0$",
+        "$x^{2}-11 x+30=0$"
+      ],
+      "tag": "RU F (GROUP 1),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 15-16 (SET 3),JU A 15-16 (SET 5),BUTEX 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "20. A person has $3,4 \\& 5$ notes of Tk. $500,50 \\& 5$ respectively. In how many ways he can give prize of different commodities without charging the notes?",
+      "options": [
+        "60",
+        "59",
+        "61",
+        "119",
+        "121"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "21. If two dice are thrown side by side then the probability of getting the sum of 2 numbers 6 is $P_{1}$ and the probability of getting the sum of two numbers 7 is $P_{2}$, then what is the value of $P_{1}+P_{2}$ ?",
+      "options": [
+        "$\\frac{11}{36}$",
+        "$\\frac{13}{36}$",
+        "$\\frac{17}{36}$",
+        "$\\frac{19}{36}$",
+        "none"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "22. Variance of $2,5,9,16$ is -",
+      "options": [
+        "$\\sqrt{\\frac{55}{2}} \\%$",
+        "$\\sqrt{\\frac{55}{128}} \\%$",
+        "$\\sqrt{\\frac{1375}{8}} \\%$",
+        "$\\sqrt{2750}$",
+        "$\\sqrt{\\frac{2750}{8}}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "23. What is the value of $1+\\frac{1}{1.2}-\\frac{1}{2.3}+\\frac{1}{3.4}-\\frac{1}{4.5}+\\ldots \\ldots \\ldots ?$",
+      "options": [
+        "$-3 \\ln 2$",
+        "$\\ln 7$",
+        "$5 \\ln 3$",
+        "$2 \\ln 2$",
+        "$3 \\ln 5$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "24. For what values of a are the vector triad $2î+ĵ-k̂,\\ 3î-2ĵ+4k̂$ and $î-3ĵ+ak̂$ planar?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "tag": "RU C 17-18 (GROUP 1)"
+    },
+    {
+      "subject": "Mathematics(25)",
+      "question": "25. Solution of the inequality $\\frac{x+4}{x+3}>\\frac{x-6}{x-7}$ is -",
+      "options": [
+        "$-4 \\le x \\le 6$",
+        "$-4 \\leq x \\leq 6$",
+        "$x<-3$ and $x>7$",
+        "$x<-4$ and $x>6$",
+        "-3 < x < 7"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "1. In Young's two-crack test, the distance between the cracks is 2.0 mm. Find the wavelength of the light if the distance between the stripes is 0.295 mm above the screen at a distance of 1 m from this point.",
+      "options": [
+        "5.90 Å",
+        "59.0 Å",
+        "5900 Å",
+        "59000 Å"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU H 20-21 (SET A),BUTEX 22-23,BUTEX 21-22,BUTEX 13-14,BUTEX 05-06"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "2. An insulator can absorb light with wavelength less than $2200 \\AA$. What is energy interval of its forbide zone in eV ?",
+      "options": [
+        "6.23 eV",
+        "7 eV",
+        "5.44 eV",
+        "6.9 eV",
+        "5.66 eV"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "3. An AC source amplitude is 188V and 60Hz. A $35\\Omega$ resistor is added to this source. every second\n Determine the thermal energy loss.",
+      "options": [
+        "539.2 J",
+        "549.8 J",
+        "504.76 W",
+        "539.84 W"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "4. A 157 cm long wire of radius 0.1 mm is connected to the left gap of a meter bridge and a resistance of $45\\Omega$ is included in the right gap, with the neutral point 25 cm from the left end. Find the relative resistance of the wire.",
+      "options": [
+        "$4.2\\times10^{-7}\\Omega-m$",
+        "$2\\times10^{-7}\\Omega-m$",
+        "$3.66\\times10^{-8}\\Omega-m$",
+        "$3\\times10^{-7}\\Omega-m$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "5. With which velocity we have to travel, so that if 1 day is passed in space then 2 days will be passed in earth?",
+      "options": [
+        "$2.61 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$2.59 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$2.56 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$2.50 \\times 10^{3} \\mathrm{~ms}^{-1}$",
+        "$2.48 \\times 10^{8} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "6. Half-life of a radioactive substance is 3.8 day. How many part of the substance will decay in 8 days?",
+      "options": [
+        "$68.7 \\%$",
+        "$86.7 \\%$",
+        "$76.8 \\%$",
+        "$95.0 \\%$",
+        "$58.0 \\%$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "7. When a ray of light falls on potassium, it emits a photoelectron of maximum energy of 1.6 eV. Find the wavelength of the incident light. Work function of potassium is 2.2 eVI",
+      "options": [
+        "3511 Å",
+        "3656 Å",
+        "3276 Å",
+        "2686 Å"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "8. Young's coefficient value of copper wire is 2×10 11 Nm -2 . How much force is required to double the length of a copper wire of cross section 1 cm 2 ?",
+      "options": [
+        "1×107 N",
+        "1.5×107 N",
+        "2×107 N",
+        "107 N"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 15-16 (SET 3),JU A 15-16 (SET 4),Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "9. 20 kg water of $20^{\\circ} \\mathrm{C}$ is changed into vapour.\nChange of entropy occured in the above mentioned process-",
+      "options": [
+        "$2.02 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$6.1 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$12.13 \\times 10^{4} \\mathrm{JK}^{-1}$",
+        "$14.15 \\times 10^{4} \\mathrm{JK}^{-1}$"
+      ],
+      "tag": "MBSTU 17-18,DU A 17-18,DU A 16-17,BUET 10-11,CKRUET 20-21,CKRUET 21-22,KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "10. Oscillation period of a simple oscillator T T T. If the length of the oscillator is doubled, will the period of oscillation change?",
+      "options": [
+        "$\\sqrt{2}T$",
+        "2 T 2T 2T _",
+        "$\\frac{1}{2}T$",
+        "$\\frac{1}{\\sqrt{2}}T$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A (SET A),JU A 15-16 (SET 4),Tofazzal Sir,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "11. At which depth from the earth surface, the acceleration due to gravity will become one-fourth of that on earth surface? (radius of the earth $=6.4 \\times 10^{3} \\mathrm{~km}$ )",
+      "options": [
+        "$8.4 \\times 10^{3} \\mathrm{~km}$",
+        "$4.8 \\times 10^{3} \\mathrm{~km}$",
+        "$4.0 \\times 10^{3} \\mathrm{~km}$",
+        "$5.2 \\times 10^{3} \\mathrm{~km}$",
+        "$6.8 \\times 10^{3} \\mathrm{~km}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "12. There is 10 gm oxygen in a closed cylinder. How much kinetic energy will it gain at $30^{\\circ} \\mathrm{C}$ temperature?",
+      "options": [
+        "1080.28 J",
+        "1108.28 J",
+        "1180.28 J",
+        "1100 J",
+        "1801.28 J"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "13. Amplitude of an object exhibiting simple harmonic motion is $0.01 \\mathrm{~m}$ and frequency is $12 \\mathrm{~Hz}$. What will be the velocity of the object at $0.05 \\mathrm{~m}$ distance in $\\mathrm{ms}^{-1}$ ?",
+      "options": [
+        "0.55",
+        "0.6",
+        "0.7",
+        "0.65"
+      ],
+      "tag": "RCC 24,JGCC 24,BMARPC 24,MB 23,RB 17,JUST 19-20,DU A 09-10,KUET 17-18,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "14. The mass of each of two non-conducting spheres is $10^{-3} \\mathrm{~kg}$ and they are hung with the help of a 0.8 m long silk thread. They are equally charged and the repel each other at a distance of 0.04 m . Determine the charge on each of the balls.",
+      "options": [
+        "$6 \\times 10^{-9} \\mathrm{C}$",
+        "$6.53 \\times 10^{-9} \\mathrm{C}$",
+        "$6.6 \\times 10^{-9} \\mathrm{C}$",
+        "$8 \\times 10^{-9} \\mathrm{C}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "15. Scalar product of two vectors is 20 unit. The magnitude of their vector product is $6 \\sqrt{2}$ unit. What is the angle between them?",
+      "options": [
+        "$30^{\\circ}$",
+        "$24^{\\circ} 2^{\\prime}$",
+        "$22^{\\circ} 59^{\\prime}$",
+        "$22^{\\circ} 14^{\\prime}$",
+        "$23^{\\circ} 58^{\\prime}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "16. An engine lifts 25 x 10 6 kg of water per hour to a height of 50m from a well. What is the horsepower of the pump if it is operated at 70% capacity?",
+      "options": [
+        "4.8 x 106 hp",
+        "6516hp",
+        "5.7 x 103 hp",
+        "6251 hp"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "17. diameter of a gas molecule 2 × 1 0 - 10 m 2\\times10^{-10}m 2 × 1 0 − 10 m and the number of molecules per cubic centimeter 3 × 1 0 19 3\\times10^{19} 3 × 1 0  If 19 , what will be the mean free path of gas molecules?",
+      "options": [
+        "$3\\times10^{-3}\\ cm$",
+        "$3\\times10^{-4}\\ cm$",
+        "$3\\times10^{-5}\\ cm$",
+        "$3\\times10^{-6}\\ cm$"
+      ],
+      "tag": "FCC 24,DU A 16-17,KUET 17-18,KUET 13-14,JU A 15-16 (SET 4),BUTEX 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "18. The objective and focal lengths of a compound microscope are 2.5 cm and 5.6 cm respectively. The final image of a target formed at the closest distance of clear vision appeared to be 6.35cm long. What is the actual length of the object?[The length of the instrument tube is 25cm]",
+      "options": [
+        "0.16 cm",
+        "0.13 cm",
+        "1.1 cm",
+        "0.22 cm"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "19. Sound intensity in a classroom is $10^{-7} \\mathrm{~W} \\mathrm{~m}^{-2}$. If intensity is doubled, how much will the sound intensity level increase? (Standard intensity $=10^{-12} \\mathrm{~W} \\mathrm{~m}^{-2}$ )",
+      "options": [
+        "2.75 dB",
+        "2.50 dB",
+        "2.25 dB",
+        "3.01 dB"
+      ],
+      "tag": "RU H 14-15 (G-ODD),Tofazzal Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "20. Refraction of an equilateral prism 2 \\sqrt{2} 2  ​ If so, what is its minimum angle of deviation?",
+      "options": [
+        "60°",
+        "15°",
+        "30°",
+        "45°"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,RUET 14-15,RUET 15-16,KUET 17-18,KUET 13-14,CUET 13-14,CUET 11-12,JU A 18-19 (SET C),JU A 16-17 (SET 4),Ishaque Sir,BUTEX 16-17,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "21. A motorcycle is moving in a circular path with a velocity of $1200 \\mathrm{~m} /$ minute in a circus. If radius of the circular path is 200 m then what was the angular velocity of the motorcycle?",
+      "options": [
+        "$0.01 \\mathrm{rads}^{-1}$",
+        "$0.001 \\mathrm{rads}^{-1}$",
+        "$1.00 \\mathrm{rads}^{-1}$",
+        "$0.002 \\mathrm{rads}^{-1}$",
+        "$0.1 \\mathrm{rads}^{-1}$"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "22. An electric fan is rotating 1500 times per minute. The fan stops after switching off rotating 3019 times. How much time was taken to stop the fan?",
+      "options": [
+        "3.8 minute",
+        "4.37 minute",
+        "5 minute",
+        "200 sec",
+        "4.02 minute"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "23. A proton with an energy of 8.0 MeV enters a magnetic field of strength 5.0 T at right angles. What is the magnetic force on the proton?",
+      "options": [
+        "3.2 x 1011N",
+        "3.2 x 10-11N",
+        "1.6 x 105N",
+        "1.6 x 10-5N"
+      ],
+      "tag": "JB 19,BB 17,BUET 12-13,BUET 6-7,KUET 17-18,KUET 12-13,JU A 15-16 (SET 4),Tapan Sir"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "24. The bullet of a gun loses half of its velocity after entering 0.05 m inside a wall. How much the bullet will enter into the wall?",
+      "options": [
+        "1.67 cm",
+        "0.02 m",
+        "1.33 cm",
+        "0.022 m",
+        "1.52 cm"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "Physics(25)",
+      "question": "25. Surface tension of terpin oil is $27 \\times 10^{3} \\mathrm{Nm}^{-1}$ and density is $0.87 \\times 10^{3} \\mathrm{kgm}^{-3}$. If angle of contact of a capillary tube of diameter $5.8 \\times 10^{-5} \\mathrm{~m}$ with container is $22^{\\circ}$, then determine in which height terpin oil will ascend the tube.",
+      "options": [
+        "20.25 cm",
+        "20 cm",
+        "0.28 m",
+        "0.18 m",
+        "18.2 cm"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "1. \"I went there and found him reading.\" What kind of sentence is it?",
+      "options": [
+        "Simple",
+        "Complex",
+        "Compound",
+        "Multiple",
+        "Double"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "2. Choose the feminine gender of \"Sire\"",
+      "options": [
+        "Siress",
+        "Sirent",
+        "Dam",
+        "Dane",
+        "Sireen"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "3. \"This is the book of which I told you.\" Here the word 'which' is used as-",
+      "options": [
+        "Distributive pronoun",
+        "Reflexive pronoun",
+        "Reciprocal pronoun",
+        "Relative pronoun"
+      ],
+      "tag": "CKRUET 21-22,CKRUET 21-22,KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "4. Fill up the blank space in the sentence \"Students should _____ the advice of their superiors”, by correct words from the following:",
+      "options": [
+        "Go away",
+        "Go by",
+        "Go ahead",
+        "Go for"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "5. Choose the correct \"comment tag\" from the following.",
+      "options": [
+        "Anyone is allowed, is anyone?",
+        "Anyone is allowed, aren't they?",
+        "Anyone is allowed, don't they?",
+        "Anyone is allowed, isn't he?"
+      ],
+      "tag": "KUET 17-18,KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "6. Choose the correct passive form of \"They proposed to hold a meeting\".",
+      "options": [
+        "A meeting was proposed to be held by them.",
+        "It was proposed by them to hold a meeting.",
+        "A meeting to be held proposed by them.",
+        "A meeting to hold proposed by them.",
+        "A meeting to be held they proposed."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "7. Choose the correct preposition to fill the blank space in the sentence \"Every mother yearns……. child\".",
+      "options": [
+        "to",
+        "of",
+        "with",
+        "for",
+        "by"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "8. Which one is the correct active form of the sentence \"You are expected to be faithful\"?",
+      "options": [
+        "I/We expect you to be faithful.",
+        "You expect to be faithful.",
+        "You are expected faithful.",
+        "You are faithful that is expected.",
+        "Your faithful is expected."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "9. “Every man must die”. Here the word 'every' is used as-",
+      "options": [
+        "Demonstrative adjective",
+        "Distributive adjective",
+        "Possessive adjective",
+        "Descriptive adjective"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "10. Select the correct narration of the sentence. The doctor said to him, \"Take this medicine twice a day”, from the following:",
+      "options": [
+        "The doctor suggested him to take this medicine twice a day",
+        "The doctor ordered him to take this medicine twice a day",
+        "The doctor advised him to take that medicine twice a day.",
+        "The doctor requested to him to take that medicine twice a day."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "11. Translate of the sentence \"You had better not go today\" into Bengali.",
+      "options": [
+        "তুমি আজ নাইবা গেলে।",
+        "তোমার আজ না গেলেও চলত।",
+        "তােমার আজ না যাওয়া ঠিক।",
+        "তুমি আজ না গেলেও পারতে।"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "12. Find out the correct conversion of the sentence \"Had I the wings of a bird!\" into Assertive.",
+      "options": [
+        "If I had the wings of a bird.",
+        "I wish to had the wings of a bird.",
+        "I pray, I had the wings of a bird.",
+        "I wish I had the wings of a bird."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "13. Translate “সে বুঝি চাকুরীটি ছেড়ে দিয়েছে” into English.",
+      "options": [
+        "He has perhaps resigned the post.",
+        "It seems he has left the post.",
+        "If feels he left the post.",
+        "I presume he has resigned the post."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "14. Choose the correct masculine gender of the word 'Spinster’-",
+      "options": [
+        "Swan",
+        "Dame",
+        "Beau",
+        "Bachelor"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "15. Choose a synonym of the word \"Remorse\".",
+      "options": [
+        "Indignation",
+        "Honesty",
+        "Revenge",
+        "Duplicity",
+        "Regret"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "16. Choose an appropriate preposition for the blank in the sentence \"Virtue will prevail______evils one day\".",
+      "options": [
+        "over",
+        "upon",
+        "on",
+        "with",
+        "to"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "17. Choose the correct plural number of the word \"Appendix\".",
+      "options": [
+        "Appendum",
+        "Appendixs",
+        "Appendises",
+        "Appendices",
+        "None"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "18. We elected him captain\". Here the word \"elected\" is used as_________",
+      "options": [
+        "Impersonal verb",
+        "Reflexive verb",
+        "Copulative verb",
+        "Causative verb",
+        "Factitive verb"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "19. Choose a suitable group verb for the blank in the sentence: We could not____the truth",
+      "options": [
+        "get at",
+        "get in",
+        "get to",
+        "get with",
+        "get into"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "20. 'The boy has been badly treated.' Here the word 'badly' is —",
+      "options": [
+        "Intensifier",
+        "Adverb of manner",
+        "Adverb of degree",
+        "Adverb of purpose"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "21. Fill in the blank with an appropriate word in the sentence \"Would you mind ______ this work?\"",
+      "options": [
+        "to do",
+        "in doing",
+        "doing",
+        "to have"
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "22. Transform the sentence \"She made a mistake and she admitted it\" into simple sentence.",
+      "options": [
+        "She admitted that she made a mistake.",
+        "She admitted that she had made a mistake.",
+        "She admitted because she made a mistake.",
+        "She admitted because she did a mistake.",
+        "She admitted her mistake."
+      ],
+      "tag": "KUET 16-17"
+    },
+    {
+      "subject": "English (24)",
+      "question": "23. Which one is the correct superlative degree of the word \"Evil\"?",
+      "options": [
+        "Baddest",
+        "Evilest",
+        "Most bad",
+        "Worst",
+        "Most evil"
+      ],
+      "tag": "KUET 17-18"
+    },
+    {
+      "subject": "English (24)",
+      "question": "24. The history of civilization shows how man always has to choose between making the right and wrong use of the discoveries of science. This has never been truer than in our own age. In a brief period amazing discoveries have been made and applied to practical purposes. It would be ungrateful not to recognize how immense the boons are which science has given to mankind. It has brought within the reach of the multitude benefits and advantages which only a short time ago were the privilege of the few. It has shown how malnutrition, hunger and disease can be overcome. It has not only lengthened life but also deepened its quality. Fields of knowledge, experience and recreation open in the past only to a few have been thrown open to millions. Through the work of science the ordinary man today has been given the opportunity of a longer and fuller life than was ever possible to his grandparents. Most thankfully we must acknowledge all that science has done and is doing for the welfare of our race.\nChoose the appropriate title of the passage from the following:",
+      "options": [
+        "Effect of science on mankind",
+        "Effect of science on human life",
+        "Effect of science on civilization",
+        "Gift of science",
+        "Discoveries of science"
+      ],
+      "tag": "KUET 17-18,KUET 16-17"
+    }
+  ]
+}

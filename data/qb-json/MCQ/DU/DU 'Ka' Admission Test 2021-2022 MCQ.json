@@ -1,0 +1,991 @@
+{
+  "title": "DU 'Ka' Admission Test 2021-2022 MCQ",
+  "questions": [
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "1. A vector of magnitude 3 is added to a vector of magnitude 4 then the magnitude of the resultant cannot be-",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "5"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "2. When a rubber -band is stretched by a distance x,it exerts a restoring force of magnitude $F= ax + bx^2$ where a and b are constants. the work done is stretching the unstretched rubber band by L is : ;",
+      "options": [
+        "$\\dfrac {aL^{2}}{2}+\\dfrac{bL^{3}}{3}$",
+        "$\\dfrac{1}{2} \\begin {pmatrix} \\dfrac{aL^2}{2} + \\dfrac{bL^3}{3}\\end {pmatrix}$",
+        "$aL^2 + bL^3$",
+        "$\\dfrac {1}{2} ( aL^2 + bL^3)$"
+      ],
+      "tag": "DU A 21-22,IUT 19-20"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "3. What unit is the angular frequency of the equation $5 \\frac{d^{2} x}{d t^{2}}+180 x=0$ ?",
+      "options": [
+        "180",
+        "36",
+        "6",
+        "5"
+      ],
+      "tag": "BB 23,DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "4. If an electron is placed across a potential difference v, what is the relationship between the electron's velocity v and the applied potential difference?",
+      "options": [
+        "$v=\\sqrt{\\left(\\frac{e V}{m}\\right)}$",
+        "$v=\\sqrt{\\left(\\frac{2 e V}{m}\\right)}$",
+        "$v=\\frac{e V^{2}}{m}$",
+        "$v=\\frac{1}{2} m V^{2}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "5. If mass of a particle is zero and energy is $E$ then the momentum of that particle will be-",
+      "options": [
+        "$\\mathrm{Ec}$",
+        "$\\mathrm{Ec}^{2}$",
+        "$\\sqrt{E c}$",
+        "$\\mathrm{E} / \\mathrm{c}$"
+      ],
+      "tag": "NSTU 19-20,DU A 21-22,BUET 12-13,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "6. In a thermally insulated kitchen, an ordinary refrigerator is turned on and its door is left open, the temperature of the room.",
+      "options": [
+        "decreases",
+        "remains constant",
+        "increases",
+        "first increases then decreases"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "7. Which of the following might not vanish after one cycle of a reversible cyclic process? (Given $U=$ internal energy, $\\mathrm{P}=$ pressure, $\\mathrm{W}=$ work done by the system, $\\mathrm{S}=$ Entropy)",
+      "options": [
+        "$\\Delta \\mathrm{U}$",
+        "$\\mathrm{W}$",
+        "$\\Delta \\mathrm{P}$",
+        "$\\Delta \\mathrm{S}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "8. The current through a battery is denoted by $\\mathrm{i}$. When will be electromotive force (emf) of the battery be equal to the potential difference between its terminal?",
+      "options": [
+        "always",
+        "never",
+        "only when $\\mathrm{i}=0$",
+        "only when $\\mathrm{i}=$ constant"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "9. In Young's double slit experiment, the slit separation is doubled. To keep the number of bright fringes per unit width of the screen constant, the slit to screen distance $D$ must be changed to-",
+      "options": [
+        "$\\frac{D}{2}$",
+        "$\\sqrt{2}$ D",
+        "$2 \\mathrm{D}$",
+        "$\\frac{D}{\\sqrt{2}}$"
+      ],
+      "tag": "CTG.B 19,DU A 21-22,DU A 20-21,DU A 13-14,Ishaque Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "10. If the frequency of the input signal applied to a bridge rectifier circuit is $50 \\mathrm{~Hz}$, what is the frequency of the output signal?",
+      "options": [
+        "$220 \\mathrm{~Hz}$",
+        "$50 \\mathrm{~Hz}$",
+        "$25 \\mathrm{~Hz}$",
+        "$100 \\mathrm{~Hz}$"
+      ],
+      "tag": "BCC 24,DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "11. If a big raindrop is divided into a large number of smaller drops, the total area of smaller drops.",
+      "options": [
+        "decreases",
+        "increases",
+        "remains same",
+        "none of the above"
+      ],
+      "tag": "RU H 17-18 (GROUP 1)"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "12. If the kinetic energy of a particle is doubled its rest energy, what is the velocity of the particle?",
+      "options": [
+        "$\\sqrt{\\frac{2}{3}} \\mathrm{c}$",
+        "$\\frac{1}{\\sqrt{2}} \\mathrm{c}$",
+        "${\\frac{2\\sqrt 2}{3}} c$",
+        "$\\frac{1}{\\sqrt{3}} \\mathrm{c}$"
+      ],
+      "tag": "DCC 24,BMARPC 24,VNSC 24,CB 24,DB 22 ,BB 21,JB 21,SB 21,All.B 18,GST 21-22,DU A 21-22,DU A 18-19,DU A 20-21,DU A  10-11,BUET 11-12,KUET 11-12,KUET 15-16,KUET 12-13,JU A 15-16 (SET 5),Tapan Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "13. Oscillation period of a simple oscillator T T T. If the length of the oscillator is doubled, will the period of oscillation change?",
+      "options": [
+        "$\\sqrt{2}T$",
+        "2 T 2T 2T _",
+        "$\\frac{1}{2}T$",
+        "$\\frac{1}{\\sqrt{2}}T$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A (SET A),JU A 15-16 (SET 4),Tofazzal Sir,Pramanik Sir,Tapan Sir,Ishaque Sir"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "14. An object is tied to a string and rotating in a vertical circular path of radius $r$. When the object is at the highest point of the loop its velocity is $\\sqrt{(3 \\mathrm{gr})}(\\mathrm{g}=$ acceleration due to gravity). What is the ratio of the tensions of the string at its highest and lowest points?",
+      "options": [
+        "$1: 2$",
+        "$1: 8$",
+        "$1: 4$",
+        "$1: 7$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "15. Two resistors of values $6 \\Omega$ and $12 \\Omega$ are connected in parallel. This combination in turn is connected in series with a $4 \\Omega$ resistor and a $24 \\mathrm{~V}$ battery. What is the current in the $6 \\Omega$ resistor?",
+      "options": [
+        "$2 \\mathrm{~A}$",
+        "$3 \\mathrm{~A}$",
+        "$6 \\mathrm{~A}$",
+        "$12 \\mathrm{~A}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "1. Which subshell is not possible?",
+      "options": [
+        "$2 \\mathrm{~d}$",
+        "$3 \\mathrm{p}$",
+        "$4 \\mathrm{f}$",
+        "$1 \\mathrm{~s}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "2. Which compound is not linear?",
+      "options": [
+        "$\\mathrm{CO}_{2}$",
+        "$\\mathrm{H}_{2} \\mathrm{~S}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{2}$",
+        "$\\mathrm{O}_{2}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "3. Identify the buffer solution from the following mixtures-",
+      "options": [
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH} \\mathrm{H}_{3} \\mathrm{COOH}+0.2 \\mathrm{M} 10 \\mathrm{mLNaOH}$",
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH}_{3} \\mathrm{COOH}+0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{NaOH}$",
+        "$0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH}_{3} \\mathrm{COOH}+0.2 \\mathrm{M} 10 \\mathrm{mLNaOH}$",
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{HCl}+0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{NaOH}$"
+      ],
+      "tag": "CU A 18-19,BUET 11-12,RUET 14-15,JU D 19-20 (SET A),Lingcon Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "4. The rate of diffusion of hydrogen gas is 6 times of a gas. What is the molar mass of the gas?",
+      "options": [
+        "$128 \\mathrm{~g} / \\mathrm{mol}$",
+        "$72 \\mathrm{~g} / \\mathrm{mol}$",
+        "$32 \\mathrm{~g} / \\mathrm{mol}$",
+        "$180 \\mathrm{~g} / \\mathrm{mol}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "5. Which element has more electron affinity?",
+      "options": [
+        "F",
+        "Cl",
+        "Br",
+        "I"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 14-15 (G-EVEN),JU D 19-20 (SET A),JU D 17-18 (SET 10),JU D 16-17 (SET 1),Guha Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "6. Which one of the following reactions has the same value of $K_{p}$ and $K_{c}$ ?",
+      "options": [
+        "$\\mathrm{N}_{2}$ (g) $+3 \\mathrm{H}_{2}$ (g) $\\rightleftharpoons 2 \\mathrm{NH}_{3}(\\mathrm{~g})$",
+        "$\\mathrm{PCl}_{5}(\\mathrm{~g}) \\rightleftharpoons \\mathrm{PCl}_{3}(\\mathrm{~g})+\\mathrm{Cl}_{2}(\\mathrm{~g})$",
+        "$\\mathrm{I}_{2}(\\mathrm{~g})+\\mathrm{H}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{HI}(\\mathrm{g})$",
+        "$\\mathrm{N}_{2} \\mathrm{O}_{4}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NO}_{2}(\\mathrm{~g})$"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "7. Hybridization of every carbon atoms in the structure of Graphite is-",
+      "options": [
+        "sp",
+        "$s p^{3}$",
+        "dsp ${ }^{2}$",
+        "${sp }^{2}$"
+      ],
+      "tag": "SCC 24,BCC 24,BSMRSTU 17-18,BSMRSTU 16-17,DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "8. Which one of the following reactions is a disproportionation reaction?",
+      "options": [
+        "$\\mathrm{H}_{2} \\mathrm{~S}+\\mathrm{C1}_{2} \\rightarrow 2 \\mathrm{HCl}+\\mathrm{S}$",
+        "$\\mathrm{CuSO}_{4}+\\mathrm{NH}_{4} \\mathrm{OH} \\rightarrow \\mathrm{Cu}(\\mathrm{OH})_{2}+\\left(\\mathrm{NH}_{4}\\right)_{2} \\mathrm{SO}_{4}$",
+        "$\\mathrm{Fe}+$ dil. $\\mathrm{H}_{2} \\mathrm{SO}_{4} \\rightarrow \\mathrm{FeSO}_{4}+\\mathrm{H}_{2}$",
+        "$\\mathrm{Cl}_{2}+\\mathrm{NaOH} \\rightarrow \\mathrm{NaOCl}+\\mathrm{NaCl}+\\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "tag": "CU A 17-18,Guha Sir,Hazari Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "9. In presence of anhydrous $\\mathrm{AlCl}_{3}$, acetyl chloride reacts with benzene to produce-",
+      "options": [
+        "Chlorobenzene",
+        "Acetophenone",
+        "Toluene",
+        "Benzoic acid"
+      ],
+      "tag": "GST 21-22,Agri. GST 20-21,DU A 21-22,DU A 09-10"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "10. Which one of the following compounds reacts with $\\mathrm{CH}_{3} \\mathrm{MgX}$ to produce isopropanol?",
+      "options": [
+        "$\\mathrm{HCHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{OH}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "11. For an ideal gas, PV vs. $\\frac{1}{\\mathrm{P}}$ graph will be a-",
+      "options": [
+        "straight line with an intercept",
+        "hyperbola",
+        "straight line parallel to the X-axis",
+        "straight line passing through the origin"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "12. What is the maximum number of ether isomers obtained for $\\mathrm{C}_{4} \\mathrm{H}_{10} \\mathrm{O}$ ?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 18-19 (SET P),JU A 15-16 (SET 5),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 14-15"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "13. $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$ is oxidized to produce $\\mathrm{Z}$, which produces ester with $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$. What is $\\mathrm{Z}$ ?",
+      "options": [
+        "$\\mathrm{HCOOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CHO}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{COOH}$"
+      ],
+      "tag": "DU A 21-22,RUET 13-14,Hazari Sir"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "14. Two electrodes used in Daniel cell are-",
+      "options": [
+        "Cu and Pt",
+        "Cu and Hg",
+        "Zn and Cu",
+        "Cd and Pt",
+        "Zn and Hg"
+      ],
+      "tag": "DU A 21-22,CU A 21-22,CU A 16-17"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "15. Which one of the following is suitable to store sodium metal?",
+      "options": [
+        "$\\mathrm{NaCl}(\\mathrm{aq})$",
+        "$\\mathrm{HCl}$ (aq)",
+        "Ethanol",
+        "Hexane"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "1. Where is the location of ATP synthase?",
+      "options": [
+        "Golgi body",
+        "Ribosome",
+        "Nucleus",
+        "Mitochondria"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "2. What does egg turn into after fertilization?",
+      "options": [
+        "Endosperm",
+        "Fruit",
+        "Seed",
+        "Embryo"
+      ],
+      "tag": "DB 21,MB 21,CB 21,BB 21,HSTU 19-20,HSTU 18-19,MAT 17-18,MAT 13-14,DU A 21-22,Azibur Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "3. How many molecules of lactic acid produced during anaerobic respiration?",
+      "options": [
+        "2 molecules",
+        "4 molecules",
+        "6 molecules",
+        "8 molecules"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "4. Oxysome is the part of which organelle?",
+      "options": [
+        "Ribosome",
+        "Plastid",
+        "Mitochondria",
+        "Golgi body"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "5. In which process seeds absorb water during germination?",
+      "options": [
+        "Diffusion",
+        "Imbibition",
+        "Osmosis",
+        "Transpiration"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "6. Where is the location of photosynthetic pigments?",
+      "options": [
+        "Thylakoid",
+        "Stroma",
+        "Grana",
+        "Cytoplasm"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "7. Question",
+      "options": [
+        "Companion cell",
+        "Phloem fibre",
+        "Option C",
+        "Option D"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "8. In which sub-stage of cell division synapsis occurs in between homologous chromosome?",
+      "options": [
+        "Zygotene",
+        "Leptotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "tag": "CU A 17-18,RU A 22-23,RU C 22-23 (SHIFT 1),JU D 21-22 (SET H),JU D 21-22 (SET G),JU D 17-18 (SET 1),JU D 15-16 (SET 3),Alim Sir"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "9. Which of the following phylum is not Eucoelomatc?",
+      "options": [
+        "Annelida",
+        "Arthropoda",
+        "Mollusca",
+        "Nematoda"
+      ],
+      "tag": "DU A 21-22,JU D 21-22 (SET G)"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "10. Which organs are formed from embryonic mesoderm?",
+      "options": [
+        "Epidermis, Nervous system",
+        "Skeletal system, Blood circulatory system",
+        "Digestive system, Respiratory system",
+        "Epidermis, Muscular system"
+      ],
+      "tag": "RU F (GROUP 1)"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "11. In which organ is Kupffer cell located?",
+      "options": [
+        "Spleen",
+        "Brain",
+        "Liver",
+        "Pancreas"
+      ],
+      "tag": "DAT 16-17,DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "12. Which cell in human body lacks nucleus?",
+      "options": [
+        "Red blood cell",
+        "White blood cell",
+        "Nerve cell",
+        "Cardiac cell"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "13. Which one is the main protein in red blood cell?",
+      "options": [
+        "globulin",
+        "insulin",
+        "haem",
+        "albumin"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "14. How many spiracles are present in both sides of grasshopper?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "tag": "SB 21,DU A 21-22"
+    },
+    {
+      "subject": "Biology (MCQ)(15)",
+      "question": "15. Which one not the mode of reproduction in Hydra?",
+      "options": [
+        "Budding",
+        "Fission",
+        "Sporulation",
+        "Sexual reproduction"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "1. “ইতিমধ্যে আর্দালি-সমেত ইউনিফর্ম-পরা সাহেব দ্বারের কাছে আসিয়া দাঁড়াইয়াছে”\nঅপরিচিতা গল্পের এই বাক্য বিদেশি শব্দের সংখ্যা-",
+      "options": [
+        "দুই",
+        "তিন",
+        "চার",
+        "পাঁচ"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "2. 'চলনসই' শব্দের 'সই' -",
+      "options": [
+        "বাংলা কৃৎ প্রত্যয়",
+        "বাংলা তদ্ধিত প্রত্যয়",
+        "সংস্কৃত কৃৎ প্রত্যয়",
+        "বিদেশি তদ্ধিত প্রত্যয়"
+      ],
+      "tag": "DU A 21-22,DU A 16-17,RU B 22-23 (অ-বাণিজ্য),DU A 21-22,DU A 16-17,13TH BJS"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "3. 'annex' শব্দের বাংলা পরিভাষা -",
+      "options": [
+        "পরিশিষ্ট",
+        "অধ্যায়",
+        "সূচিপত্র",
+        "পাদটীকা"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "4. নিত্য মূর্ধন্য-ণ বাচক শব্দ -",
+      "options": [
+        "গৃহিণী",
+        "উষ্ণ",
+        "সমর্পণ",
+        "কঙ্কণ"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "5. 'আদম-শুমারি' শব্দের উৎস -",
+      "options": [
+        "আরবি-ফারসি",
+        "ফারসি- তুর্কি",
+        "আরবি- হিন্দি",
+        "আরবি- বাংলা"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "6. বাংলা একাডেমিরবানানরীতিতে 'খ্রিষ্ট' শব্দটি গৃহীত হয়েছেযে- হিসেবে-",
+      "options": [
+        "বিদেশী",
+        "আত্তীকৃত",
+        "বাংলা",
+        "সংস্কৃত"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "7. কোন গুচ্ছটি শুদ্ধ?",
+      "options": [
+        "ত্রিকোন, উনবিংশ",
+        "অদ্যপি, যদ্যপি",
+        "উষা, কোনা",
+        "মুহুর্মুহু, মুহুর্ত"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "8. \" মানুষের যখন পতন আসে তখন পদে পদে ভূল হতে থাকে \"---কার উক্তি?",
+      "options": [
+        "মাহাত্মা গান্ধী",
+        "সুফিয়া কামাল",
+        "শেখ মুজিবুর রহমান",
+        "রবীন্দ্রনাথ ঠাকুর"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "9. সংস্কৃতিকে বলা যায় লাবন্য; কখনো ব্যাক্তির, কখনো নিদ্রিস্ট জাতীর। এ বাক্যে ভুল শব্দের সংখ্যা -",
+      "options": [
+        "তিন",
+        "চার",
+        "পাঁচ",
+        "ছয়"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "10. সালামের মুখ আজ........শূন্যস্থানে হবে-",
+      "options": [
+        "আলোচিত ঢাকা",
+        "তরুন শ্যামল পূর্ব বাংলা",
+        "অবিনাশী বর্ণমালা",
+        "রক্তাক্ত জনপদ"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "11. No fire can burn without air - এর বাংলায় সঠিক অনুবাদ কোনটি?",
+      "options": [
+        "আগুন জ্বলতে বাতাসের প্রয়োজন হয়।",
+        "বাতাস ছাড়া আগুন নিভে না।",
+        "বাতাস ছাড়া আগুন জ্বালাতে পারে না।",
+        "বাতাস ছাড়া আগুন জ্বলে না।"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "12. কোনটিতে ব-ফলার উচ্চারণ বহাল রয়েছে?",
+      "options": [
+        "বিধ্বস্ত",
+        "উর্দ্ধতন",
+        "স্বত্ব",
+        "দ্বন্দ্ব"
+      ],
+      "tag": "CU B 19-20 (Morning)"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "13. কোন বানানটি অশুদ্ধ?",
+      "options": [
+        "স্বত্ব",
+        "পিপীলিকা",
+        "পুর্বাহ্ন",
+        "রচনাবলি"
+      ],
+      "tag": "BUP FSSS 20-21,BUP FASS 21-22,GST B 23-24,DU A 21-22"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "14. ভার্যা' এর বিপরীত শব্দ কোনটি?",
+      "options": [
+        "দার",
+        "দয়িত",
+        "বনিতা",
+        "জায়া"
+      ],
+      "tag": "DU A 21-22,Probashi Bank (Officer-Cash)-21"
+    },
+    {
+      "subject": "Bangla (MCQ)(15)",
+      "question": "15. সারমর্ম লেখার ক্ষেত্রে কোনটি বর্জন করতে হবে?",
+      "options": [
+        "মূলভাব সন্ধান",
+        "গুরুত্বপূর্ণ অংশ চিহ্নিতকরণ",
+        "শুদ্ধ বানান",
+        "প্রাসঙ্গিক গুরুত্বপূর্ণ উদ্ধৃতি"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "1. The foci of the ellipse $4{x}^{2}+9{y}^{2}=1$ are",
+      "options": [
+        "$\\left( \\pm \\cfrac { \\sqrt { 3 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 2 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 3 } ,0 \\right)$",
+        "$\\left( \\pm \\cfrac { \\sqrt { 5 }  }{ 6 } ,0 \\right)$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A 16-17 (SET 4),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "2. The vertices of the hyperbola $x^{2}-3 y^{2}-2 x=8$ are-",
+      "options": [
+        "$(-4,0),(2,0)$",
+        "$(0,4),(0,2)$",
+        "$(0,-4),(0,-1)$",
+        "$(4,0),(-2,0)$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "3. If $A=\\left(\\begin{array}{ll}1 & 2 \\\\ 2 & 5\\end{array}\\right)$ find $\\operatorname{det}\\left(A A^{-1}\\right)$.",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "$-\\frac{1}{2}$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "4. $\\left(1-x^{2}\\right) \\frac{d^{2} y}{d x^{2}}-x \\frac{d y}{d x}=2$ is true for",
+      "options": [
+        "$y=\\cos ^{-1} x$",
+        "$y=\\left(\\cos ^{-1} x\\right)^{2}$",
+        "$y=\\sin ^{-1} x$",
+        "$y=\\tan ^{-1} x$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "5. $\\mathrm{P}$ is a point on the straight line $\\mathrm{x}-3 \\mathrm{y}-2=0$ and is at equal distances from the points $(2,3)$ and $(6,-5)$. The coordinates of the point $P$ is-",
+      "options": [
+        "$(12,4)$",
+        "$(14,2)$",
+        "$(14,4)$",
+        "$(16,4)$"
+      ],
+      "tag": "MBSTU 19-20,DU A 21-22,BUET 11-12,JU H 16-17 (SET 3),BUTEX 13-14"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "6. Which will be the value of $\\int_{-1}^{1}|x+1| d x$ ?",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "tag": "RU H 15-16 (G-EVEN),BUTEX 17-18"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "7. For what value of $k$ will the quadratic equation:  $\\displaystyle { kx }^{ 2 }+4x+1=0$ have real and equal roots ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),RU C 17-18 (GROUP 1),JU A 21-22 (SET I)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "8. $\\operatorname{cosec}^{2}\\left(\\tan ^{-1} \\frac{1}{2}\\right)-3 \\sec ^{2}\\left(\\cot ^{-1} \\sqrt{3}\\right)=$ ?",
+      "options": [
+        "15",
+        "$\\frac{2}{9}$",
+        "1",
+        "25"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "9. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "10. For what value of $k$ the equation $f(x)=x^{2}+\\frac{k}{x}$ has a minimum at $x=1$ ?",
+      "options": [
+        "0",
+        "-1",
+        "2",
+        "1"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "11. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "12. If the roots of the equation $\\frac{1}{x}+a-b x=0$ are equal, which is correct?",
+      "options": [
+        "$\\mathrm{a}^{2}-4 \\mathrm{~b}=0$",
+        "$b^{2}-4 a=0$",
+        "$\\mathrm{b}^{2}+4 \\mathrm{a}=0$",
+        "$\\mathrm{a}^{2}+4 \\mathrm{~b}=0$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "13. The line $3 x+k y-1=0$ touches the circle $x^{2}+y^{2}+8 x-2 y+4=0$, what is the value of $k$ ?",
+      "options": [
+        "$2, \\frac{1}{6}$",
+        "$-2, \\frac{1}{6}$",
+        "$2,-\\frac{1}{6}$",
+        "$-2,-\\frac{1}{6}$"
+      ],
+      "tag": "RU C 16-17 (G-ODD),RU C 15-16 (G-EVEN)"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "14. The function $f(x)=\\dfrac{x}{x^2+1}$ increasing, if",
+      "options": [
+        "$-1 < x$",
+        "$x > 1$",
+        "$-1 < x$ or $x > 1$",
+        "$-1 < x < 1$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "Higher Math (MCQ)(15)",
+      "question": "15. If the polar coordinates of a point are $(c, \\pi)$, then the cartesian coordinates of the point are-",
+      "options": [
+        "$(-1,0)$",
+        "$(-c, 0)$",
+        "$(c,-c)$",
+        "$(-c, c)$"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "1. Choose the correct word or phrase to complete the sentence.\nDuring the COVID-19 pandemic, many families had to deal with ____ in order to reduce expenditure.",
+      "options": [
+        "lucidity",
+        "austerity",
+        "benignity",
+        "garrulity"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "2. Our college principal is an academic ____.",
+      "options": [
+        "through and through",
+        "out and about",
+        "ins and outs",
+        "on and off"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "3. When Rupak entered the class, the lecture ____, so he found it hard to follow.",
+      "options": [
+        "just began",
+        "had already begun",
+        "had already ended",
+        "was about to begin"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "4. The synonym of \"conspicuous\" is-",
+      "options": [
+        "noticeable",
+        "hidden",
+        "complex",
+        "together"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "5. ____ the rise in unemployment in cities, more and more people continue to move to urban centres.",
+      "options": [
+        "In addition to",
+        "Despite",
+        "Due to",
+        "Even though"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "6. \"Things really took off when Microsoft Windows was introduced in 1985.\"- In this sentence \"took off\" refers to ______.",
+      "options": [
+        "replacement of older version",
+        "sudden rise in popularity",
+        "rise in competition",
+        "price increase"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "7. There is nothing ______ a glass of cold water on a hot sunny day.",
+      "options": [
+        "as refreshed as",
+        "more refreshing than",
+        "so refreshing that",
+        "refreshing enough"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "8. They could not help___ leave the car on the road, where it had broken down.",
+      "options": [
+        "unless",
+        "but",
+        "than",
+        "instead of"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "9. Would you like to go _______ a walk?",
+      "options": [
+        "to",
+        "in",
+        "for",
+        "out"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "10. If someone is pessimistic, she/he is not _______.",
+      "options": [
+        "fantastic",
+        "optimistic",
+        "sarcastic",
+        "tragic"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "11. She is too tired to put _____ this noise anymore.",
+      "options": [
+        "up with",
+        "up at",
+        "on with",
+        "on to"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "12. Choose the correctly spelled word:",
+      "options": [
+        "Argument",
+        "Weired",
+        "Both a & d",
+        "Misspell"
+      ],
+      "tag": "DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "13. She will be studying science, ——— ?",
+      "options": [
+        "isn't she",
+        "will she not",
+        "wouldn't she",
+        "won't she"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "14. They ______ this much fun since they came to study at this school.",
+      "options": [
+        "do not have",
+        "had not had",
+        "have not had",
+        "had not have"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    },
+    {
+      "subject": "English (MCQ)(15)",
+      "question": "15. _______ a taxi, we wouldn’t have missed the train.",
+      "options": [
+        "If we took",
+        "If we had taken",
+        "If we take",
+        "If we will take"
+      ],
+      "tag": "DU A 21-22,DU A 21-22"
+    }
+  ]
+}

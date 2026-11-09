@@ -1,0 +1,1061 @@
+{
+  "title": "IUT 23-24",
+  "questions": [
+    {
+      "subject": "Chemistry(15)",
+      "question": "1.\nHow many moles of electrons are required to reduce 2.93 grams of nickel ions from $\\mathrm{NiCl}_{2}$ (Molar Mass of $\\mathrm{Ni}=58.7 \\mathrm{~g} / \\mathrm{mol}$ )",
+      "options": [
+        "0.050",
+        "0.10",
+        "1.0",
+        "1.5"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "2. When 190 grams of $\\mathrm{MgCl}_{2}$ are dissolved in water and the resulting solution is 500 mL in volume. What is the molar concentration of $\\mathrm{MgCl}_{2}$ in the solution?",
+      "options": [
+        "2.0 M",
+        "4.0 M",
+        "8.0 M",
+        "12.0 M"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "3.\n$2 \\mathrm{Al}+6 \\mathrm{HCl} \\rightarrow 2 \\mathrm{AlCl}_{3}+3 \\mathrm{H}_{2}$ If 2 moles of Al and 6 moles of HCl react according to the above equation, then how many moles of electrons are transferred during the redox reaction?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "6"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "4. How much bromine is present in 500 mL of 0.1 M NaBr solution?",
+      "options": [
+        "200 mg",
+        "400 mg",
+        "2000 mg",
+        "4000 mg"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "5. If the pH of a solution is changed from 1 to 3 with the addition of an antacid, what percentage of $\\left[\\mathrm{H}^{+}\\right]$has been neutralized?",
+      "options": [
+        "$2 \\%$",
+        "$10 \\%$",
+        "$20 \\%$",
+        "$99 \\%$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "6. $\\mathrm{C}_{6} \\mathrm{H}_{12} \\mathrm{O}_{6} \\rightarrow 2 \\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}+2 \\mathrm{CO}_{2}$\nWhich type of reaction does the above equation represent?",
+      "options": [
+        "Addition",
+        "Polymerization",
+        "Esterification",
+        "Fermentation"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "7. Which two compounds are not isomers of each other?",
+      "options": [
+        "n-pentane and 2-methylbutane",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OH}$ and $\\mathrm{CH}_{3} \\mathrm{OCH}_{3}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COOH}$ and $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{COOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{COCH}_{3}$ and $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CHO}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "8. Calculate the wavelength of the first line in the Lyman series of the hydrogen spectrum $\\left(\\mathrm{R}_{\\mathrm{H}}=\\right.$ $109677 \\mathrm{~cm}^{-1}$ )",
+      "options": [
+        "656.4 nm",
+        "121 nm",
+        "97.17 nm",
+        "1258 nm"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "9. At a certain temperature, 0.10 mole of $\\mathrm{H}_{2}$ and 0.10 mole of $\\mathrm{I}_{2}$ were placed in a 1.0 L flask. The purple colour of iodine vapor was used to monitor the reaction. After the equilibrium was established. It was found that the concentration of $\\mathrm{I}_{2}$ decreased to $0.02 \\mathrm{~mole} / \\mathrm{L}$. Calculate the value of $\\mathrm{K}_{\\mathrm{c}}$ for the reaction at the given temperature.",
+      "options": [
+        "0.08",
+        "400",
+        "64",
+        "0.16"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "10. Calculate the pH of $0.2 \\mathrm{M} \\mathrm{CH}_{3} \\mathrm{COOH}$\n$\\left(\\mathrm{K}_{\\mathrm{a}}=1.85 \\times 10^{-5}\\right)$",
+      "options": [
+        "2.02",
+        "2.86",
+        "2.52",
+        "2.72"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "11. Calculate the time required to complete $75 \\%$ of a first order reaction whose half-life value is 50 sec.",
+      "options": [
+        "1 min 0.25 sec",
+        "1 min 40.25 sec",
+        "1 min 36.06 sec",
+        "1 min 30.23 sec"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "12. Which one of the following is present at the position of letter $B, C_{2} \\mathrm{H}_{5} \\mathrm{Br} \\xrightarrow[\\text { Alcohol }]{\\mathrm{KOH}} A \\xrightarrow{\\mathrm{H}_{2} / \\mathrm{Pt}} B$.",
+      "options": [
+        "Ethyl alcohol",
+        "Acetaldehyde",
+        "Ethene",
+        "Ethane"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "13. The solubility product of $\\mathrm{Mg}(\\mathrm{OH})_{2}$ is $2.00 \\times$ $10^{-11} \\mathrm{~mol}^{3} \\mathrm{dm}^{-9}$ at 298 K . Calculate the solubility.",
+      "options": [
+        "$1.17 \\times 10^{-4} \\mathrm{~mol} \\mathrm{dm}^{-3}$",
+        "$1.71 \\times 10^{-4} \\mathrm{~mol} \\mathrm{dm}^{-3}$",
+        "$2.17 \\times 10^{-4} \\mathrm{~mol} \\mathrm{dm}^{-3}$",
+        "$2.17 \\times 10^{-3} \\mathrm{~mol} \\mathrm{dm}^{-3}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "14. Find the compounds in the place of $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}$ and D .\n[IMG: https://assets.chorcha.net/ESxy2MKYlmA9KPC9gAHCr.png]",
+      "options": [
+        "$\\mathrm{A}=\\mathrm{KCN}, \\mathrm{B}=\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{CN}, \\mathrm{C}=\\mathrm{LiAlH}_{4}, \\mathrm{D}=\\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\begin{array}{l} \\mathrm{A}=\\mathrm{CO}_{2}, \\mathrm{~B}=\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{CN}, \\mathrm{C}=\\mathrm{LiAlH}_{4},\\\\ \\mathrm{D}=\\mathrm{H}^{+} / \\mathrm{H}_{2} \\mathrm{O} \\end{array}$",
+        "$\\begin{array}{l} \\mathrm{A}=\\mathrm{CO}_{2}, \\mathrm{~B}=\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{CO}, \\\\ \\mathrm{C}=\\mathrm{LiAlH}_{4} \\mathrm{D}=\\mathrm{H}^{+} / \\mathrm{KMnO}_{4} \\end{array}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Chemistry(15)",
+      "question": "15. What is the principle underlying HPLC (High Performance Liquid Chromatography)?",
+      "options": [
+        "Separation based on differences in boiling points.",
+        "Separation based on differences in solubility.",
+        "Separation based on differences in affinity for the stationary phase.",
+        "Separation based on differences in vapor pressure."
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "1. In the following figure, a motorcycle stuntman jumps horizontally from a point 1.25 m above the ground and lands 10 m from the jumping point $\\left[\\mathrm{g}=9.81 \\mathrm{~ms}^{-2}\\right]$. What was his velocity at the time of jump?\n[IMG: https://assets.chorcha.net/Pqy1GKNv5MBcIcZhepI71.png]",
+      "options": [
+        "$23.21 \\mathrm{~ms}^{-1}$",
+        "$18.76 \\mathrm{~ms}^{-1}$",
+        "$21.58 \\mathrm{~ms}^{-1}$",
+        "$19.81 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "2. Earth's orbital radius around the sun is $1.5 \\times$ $10^{11} \\mathrm{~m}$ and rotational period is $3.14 \\times 10^{7} \\mathrm{~s}$. What is earth's velocity?",
+      "options": [
+        "$2 \\times 10^{5} \\mathrm{~ms}^{-1}$",
+        "$4.7 \\times 10^{3} \\mathrm{~ms}^{-1}$",
+        "$15 \\times 10^{4} \\mathrm{~ms}^{-1}$",
+        "$30 \\times 10^{3} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "3.\nIf the differential equation of a particle in simple harmonic motion in SI units is $2 \\frac{\\mathrm{~d}^{2} x}{\\mathrm{dt}^{2}}+32 x=0$, then what will be the angular frequency?",
+      "options": [
+        "$4 \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$8 \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$16 \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$32 \\mathrm{rad} \\mathrm{s}^{-1}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "4. দুটি বাল্ব X ও Y একটি সরু নল দিয়ে যুক্ত। X বাল্বের আয়তন Y বাল্বের আয়তনের দ্বিগুণ। সিস্টেমটিতে একটি আদর্শ গ্যাস এমনভাবে পূর্ণ করা আছে যেন উভয় বাল্বের চাপ সমান থাকে। X বাল্বটিকে 200 K এবং Y বাল্বটিকে 400 K তাপমাত্রায় রাখা হলো। যদি X বাল্বের গ্যাসের ভর $m$ হয়, তবে Y বাল্বে গ্যাসের ভর কত?",
+      "options": [
+        "$\\frac{m}{4}$",
+        "$\\frac{m}{2}$",
+        "m",
+        "2 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "5. What is the force acting on proton that is in a $4.0 \\times 10^{4} \\mathrm{Vm}^{-1}$ uniform electric field?",
+      "options": [
+        "$8.4 \\times 10^{-16} \\mathrm{~N}$",
+        "$6.4 \\times 10^{-15} \\mathrm{~N}$",
+        "$4.6 \\times 10^{-15} \\mathrm{~N}$",
+        "$1.6 \\times 10^{-15} \\mathrm{~N}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "6. Which of the following does show the change in electric current (I) with the change in potential difference (V) of two ends of a constant resistance?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/63YfntwYm7SoPzvVAn98R.png]",
+        "[IMG: https://assets.chorcha.net/LZs4r07TmUnD4QzmeLdZh.png]",
+        "[IMG: https://assets.chorcha.net/rKETXB14ICpBC0jmsktnd.png]",
+        "[IMG: https://assets.chorcha.net/EBOStyeklA7F-3aMEgYEt.png]"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "7. In closed circuit ABDA which equation is correct according to Kirchhoff's voltage law?\n[IMG: https://assets.chorcha.net/_cWbVrDm-lYgOhnTTZfVw.png]",
+      "options": [
+        "$5 \\mathrm{i}_{1}+100 \\mathrm{i}_{\\mathrm{g}}-10 \\mathrm{i}_{2}=0$",
+        "$5 \\mathrm{i}_{1}+100 \\mathrm{i}_{\\mathrm{g}}-10 \\mathrm{i}_{2}=1.5$",
+        "$5 \\mathrm{i}_{1}+100 \\mathrm{i}_{\\mathrm{g}}+10 \\mathrm{i}_{2}=0$",
+        "$5 \\mathrm{i}_{1}-100 \\mathrm{i}_{\\mathrm{g}}+10 \\mathrm{i}_{2}=1.5$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "8. Bangladesh will launch a geo-stationary satellite of mass 3500 kg at an orbital distance h from the earth surface as shown in the following figure with given condition. $\\mathrm{E}=$ Earth, $\\mathrm{S}=$ Geo-stationary satellite, time period $=24$ Hours. $R=6.4 \\times$ $10^{6} \\mathrm{~m}, \\mathrm{M}=6 \\times 10^{24} \\mathrm{~kg}, \\mathrm{G}=6.7 \\times$ $10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-1}$. What will the height of the satellite to be launched?\n[IMG: https://assets.chorcha.net/npBOZGwg13xG5DCn-9QWA.png]",
+      "options": [
+        "$3.60 \\times 10^{7} \\mathrm{~m}$",
+        "$3.75 \\times 10^{7} \\mathrm{~m}$",
+        "$3.83 \\times 10^{7} \\mathrm{~m}$",
+        "$3.95 \\times 10^{7} \\mathrm{~m}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "9. An ice piece of 200 grams has been dropped from a certain height. For this reason, ice melts $10 \\%$ due to falling by created heat. Here, total mechanical energy is converted to heat energy. The specific latent heat of fusion of ice is 336000 $\\mathrm{Jkg}^{-1}$ and specific heat of water is $4200 \\mathrm{Jkg}^{-1} \\mathrm{~K}^{-1}$ Find the height from where the ice piece was dropped?\nAssume $\\mathrm{g}=9.81 \\mathrm{~ms}^{-2}$.",
+      "options": [
+        "2475 m",
+        "1425 m",
+        "3425 m",
+        "4425 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "10. Refer to the following figure, what is the correct stored energy in the circuit?\n[IMG: https://assets.chorcha.net/elRa8KPw8_2DJWiw5MQh0.png]",
+      "options": [
+        "$0.2 \\mu \\mathrm{~J}$",
+        "$8.2 \\mu \\mathrm{~J}$",
+        "$72 \\mu \\mathrm{~J}$",
+        "$7.2 \\mu \\mathrm{~J}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "11. Radii of curvature of a double convex lens of refractive index in air are 6 cm and 12 cm respectively Refractive index of lens is $\\frac{3}{2}$. What is the focal length of the lens?",
+      "options": [
+        "7 cm",
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "12. If a mass of 5 kg is hung at lower end of a spring, the spring elongates by 1 cm . If another 2 kg mass is attached to the lower end of the spring, then calculate the further increase of length of the spring.",
+      "options": [
+        "0.2 cm",
+        "0.6 cm",
+        "1.4 cm",
+        "0.4 cm"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "13. A simple harmonic wave is moving through air along +X axis and its amplitude is 4 cm , velocity is $40 \\mathrm{~ms}^{-1}$ and frequency is 400 Hz . What will be the displacement of the progressive wave at 10 m distance from origin after 6 sec ?",
+      "options": [
+        "0 m",
+        "10 m",
+        "10 cm",
+        "100 cm"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "14. In how many dB, 10$^5$ watt sound intensity is stronger than 10 watt sound intensity?",
+      "options": [
+        "4 dB",
+        "5 dB",
+        "40 dB",
+        "50 dB"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "15. A pendulum with effective length 10 cm has mass of the bob 50 gm. By pulling the bob in one side, the thread is made horizontal and then released. When the thread made an angle of 30$\\degree$ with the horizontal line, then what is the kinetic energy of the bob?",
+      "options": [
+        "0.256 J",
+        "0.344 J",
+        "0.127 J",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "16. Which is not a fundamental postulates of gas molecules?",
+      "options": [
+        "Molecules are always in motion.",
+        "Molecules of gases are point mass of ideal elastic spheres.",
+        "Velocity of molecules increases with the increase of temperature.",
+        "Gas molecules are unable to move freely all over the volume of the container."
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "17. A wire of resistance $10 \\Omega$ is stretched $50 \\%$. If the volume remains constant, find the new resistance.",
+      "options": [
+        "$2.5 \\Omega$",
+        "$22.5 \\Omega$",
+        "$2.25 \\Omega$",
+        "$10 \\Omega$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "18. If an electron moves at velocity of $10^{6} \\mathrm{~ms}^{-1}$ in a uniform magnetic field of $10^{5}$ gauss making an angle of $30^{\\circ}$ with the field, find the force acting on the electron.",
+      "options": [
+        "$8 \\times 10^{-9} \\mathrm{~N}$",
+        "$1.6 \\times 10^{-8} \\mathrm{~N}$",
+        "$1.6 \\times 10^{-12} \\mathrm{~N}$",
+        "$8 \\times 10^{-13} \\mathrm{~N}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "19.\nFocal lengths of the objective and eye piece of an astronomical telescope are respectively 40 cm and 10 cm . Calculate the ratio of the length of the instrument and magnification by it for focusing in the least distance of distinct vision.",
+      "options": [
+        "2.42",
+        "4.42",
+        "6.42",
+        "8.42"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "20. An astronaut went in a rocket at velocity $1.5 \\times 10^{8} \\mathrm{~ms}^{-1}$ to $\\mathrm{KN}-1$ planet. Length of the rocket on earth was 100 m . What will be the length of the moving rocket measured from the earth?",
+      "options": [
+        "34.3 m",
+        "43.3 m",
+        "86.6 m",
+        "96.6 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "21. After 6000 years if a radioactive material becomes $\\frac{1}{64}$ th part, then what is its half-life?",
+      "options": [
+        "1000 years",
+        "800 years",
+        "6000 years",
+        "3000 years"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "22. In a common emitter configuration, a transistor has $\\beta=100$ and input resistance is $5 \\mathrm{k} \\Omega$. If the peak value of ac input voltage is 0.1 volt, what is the peak value of collector current?",
+      "options": [
+        "20 mA",
+        "2 mA",
+        "$20 \\mu \\mathrm{~A}$",
+        "$2 \\mu \\mathrm{~A}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "23. On a foggy morning, two approaching bus drivers spot each other at 80 m distance. The speeds of the two buses are $72 \\mathrm{kmh}^{-1}$ and $60 \\mathrm{kmh}^{-1}$, respectively. The drivers press their respective brake pedals immediately after spotting each other. If the retardation of each bus is $5 \\mathrm{~ms}^{-2}$. What is the total distance covered by the two buses before coming to rest?",
+      "options": [
+        "40 m",
+        "27.7 m",
+        "67.7 m",
+        "13.3 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "24. Three masses are placed at the corners of an equilateral triangle as shown below. Find the center of mass of the system.\n[IMG: https://assets.chorcha.net/bSqUt0PIB7AiNcMFpUqmM.svg]",
+      "options": [
+        "2.55 m",
+        "1.93 m",
+        "0.95 m",
+        "3.0 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "25. The electron and proton of an atom are separated by $8.5 \\times 10^{-10} \\mathrm{~m}$. Find the ratio between the electric force and the gravitational force between the two particles. [Electron charge $=-1.6 \\times$ $10^{-19} \\mathrm{C}$, Electron mass $=9.11 \\times 10^{-31} \\mathrm{~kg}$, Proton mass $=1.67 \\times 10^{-27} \\mathrm{~kg}$, Gravitational Constant $\\mathrm{G}=6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2}$ ]",
+      "options": [
+        "$1.15 \\times 10^{45}$",
+        "$5.54 \\times 10^{-29}$",
+        "$2.27 \\times 10^{39}$",
+        "$8.04 \\times 10^{-39}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "26. For the circuit shown in the figure, the switch $S$ is initially open, and the capacitor voltage is 70 V. The switch is then closed at time $\\mathrm{t}=0 \\mathrm{~s}$. Calculate the time required by the circuit for having a current of $5 \\mu \\mathrm{~A}$.\n[IMG: https://assets.chorcha.net/I0Nn44-vKTxUBVxiwo2rG.png]",
+      "options": [
+        "37.6 s",
+        "68.5 s",
+        "48.5 s",
+        "58.4 s"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "27. A ray of light, emitted beneath the surface of an unknown liquid with air above it, undergoes total internal reflection as shown in the figure below. What is the index of refraction for the liquid?\n[IMG: https://assets.chorcha.net/zZb1GE73iEzWhjFh_TJqO.png]",
+      "options": [
+        "1.98",
+        "1.25",
+        "1.80",
+        "1.76"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "28. Refer to the following figure, what is the value of $V_{0}$ across the diode?\n[IMG: https://assets.chorcha.net/uh6iDKMsgVTYS2oYhQIW2.png]",
+      "options": [
+        "3 volts",
+        "15 volts",
+        "4 volts",
+        "5 volts"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "29. At what net rate does heat radiate from a $275 \\mathrm{~m}^{2}$ black roof on a night when the roof's temperature is $30.0^{\\circ} \\mathrm{C}$, and the surrounding temperature is $15.0^{\\circ} \\mathrm{C}$ ? The emissivity of the roof is 0.90 [Stefan-Boltzamann Constant $=5.67 \\times$ $10^{8} \\mathrm{Js}^{-1} \\mathrm{~m}^{-2} \\mathrm{~K}^{-4} \\mathrm{]}$.",
+      "options": [
+        "$-5.11 \\times 10^{3} \\mathrm{~W}$",
+        "$4.18 \\times 10^{4} \\mathrm{~W}$",
+        "$6.54 \\times 10^{5} \\mathrm{~W}$",
+        "$-2.17 \\times 10^{4} \\mathrm{~W}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "30. An airplane passenger has $100 \\mathrm{~cm}^{3}$ of air in his stomach just before the plane takes off from a sealevel airport. What volume will the air have at cruising altitude if cabin pressure drops to $7.50 \\times$ $10^{4} \\mathrm{Nm}^{-2}$ ?",
+      "options": [
+        "$270 \\mathrm{~cm}^{3}$",
+        "$135 \\mathrm{~cm}^{3}$",
+        "$27 \\mathrm{~cm}^{3}$",
+        "$98 \\mathrm{~cm}^{3}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "31. UV radiation having a 300 nm wavelength falls on uranium metal, ejecting 0.5 eV electrons. What is the binding energy of electrons to uranium metal? [Planck's constant $=6.63 \\times 10^{-34} \\mathrm{kgm}^{2} \\mathrm{~s}^{-1}$ ]",
+      "options": [
+        "5.84 eV",
+        "6.64 eV",
+        "3.64 eV",
+        "5.54 eV"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "32. Find out the expression of $y$ for the following logic circuit.\n[IMG: https://assets.chorcha.net/rdXR9fIsKENApQ9xg5G5b.png]",
+      "options": [
+        "$A+B$",
+        "$A. B$",
+        "$\\overline{A . B}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "33. In a single slit diffraction experiment, a slit of width 'd' is illuminated by red light of wavelength 650 nm . For what value of ' $d$ ' will the first maximum fall at an angle of diffraction of $30^{\\circ}$ ?",
+      "options": [
+        "1.39 nm",
+        "$1.75 \\mu \\mathrm{~m}$",
+        "$1.95 \\mu \\mathrm{~m}$",
+        "$1.69 \\mu \\mathrm{~m}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "34. A balloon partially filled with helium has a volume of $30 \\mathrm{~m}^{3}$ at the earth's surface where pressure is 76 cm Hg and temperature is $27^{\\circ} \\mathrm{C}$. What will be the increase in volume of gas if balloon rises to a height, where pressure is 7.6 cm Hg and temperature is $-54^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$189 \\mathrm{~m}^{3}$",
+        "$219 \\mathrm{~m}^{3}$",
+        "$300 \\mathrm{~m}^{3}$",
+        "$92 \\mathrm{~m}^{3}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Physics(35)",
+      "question": "35. In a heat engine, the temperature of the source and sink are 500 K and 375 K . If the engine consumes $25 \\times 10^{5} \\mathrm{~J}$ per cycle, find the heat rejected to the sink per cycle.",
+      "options": [
+        "$6.25 \\times 10^{5} \\mathrm{~J}$",
+        "$31.25 \\times 10^{5} \\mathrm{~J}$",
+        "$18.75 \\times 10^{5} \\mathrm{~J}$",
+        "$5.55 \\times 10^{5} \\mathrm{~J}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "1. $\\begin{vmatrix} a + x& a - x& a - x\\\\ a - x & a + x & a - x\\\\ a - x & a - x & a + x\\end{vmatrix} = 0$ then $x$ =?",
+      "options": [
+        "$0$",
+        "$a$",
+        "$2a$",
+        "$7a$"
+      ],
+      "tag": "হানি নাটস,অসীম স্যার"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "2. If the matrix $\\left[\\begin{array}{cc}a+4 & 8 \\\\ 2 & a-2\\end{array}\\right]$ is singular, find the values of a.",
+      "options": [
+        "3, 8",
+        "4, 8",
+        "8, 3",
+        "-6, 4"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "3. Find the angle between the vector $5 \\hat{i}+2 \\hat{j}+3 \\hat{k}$ and $x$-axis.",
+      "options": [
+        "$\\cos ^{-1}\\left(\\frac{5}{\\sqrt{28}}\\right)$",
+        "$\\cos ^{-1}\\left(\\frac{5}{\\sqrt{38}}\\right)$",
+        "$\\cos ^{-1}\\left(\\frac{5}{\\sqrt{19}}\\right)$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "4. If the coordinates of the ends of a diameter of a circles are $(3,0)$ and $(-3,0)$, what is the equation of the circle?",
+      "options": [
+        "$x^{2}+y^{2}=16$",
+        "$x^{2}+3 x+y^{2}+3 y=81$",
+        "$x^{2}+2 x+y^{2}+2 y=25$",
+        "$x^{2}+y^{2}=9$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "5. The centre of a circle is $(-6,4)$. If one end of the diameter of the circle is at $(-12,8)$, then the other end is at",
+      "options": [
+        "$(-18,12)$",
+        "$(-9,6)$",
+        "$(-3,2)$",
+        "$(0,0)$"
+      ],
+      "tag": "হানি নাটস"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "6. A candidate is required to answer 6 questions out of 10 which are divided into two groups each containing 5 questions and $\\mathrm{s} / \\mathrm{he}$ is not permitted to attempt more than 4 from any group. In how many different ways can $\\mathrm{S} /$ he make up her/his choice?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "7. If $7 \\sin ^{2} \\alpha+3 \\cos ^{2} \\alpha=4$; find the value of $\\tan \\alpha$.",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{5}}$",
+        "$\\pm \\frac{1}{2}$",
+        "$\\pm \\frac{1}{\\sqrt{3}}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "8. $\\lim_{x \\to 0} \\frac{1 - \\cos x}{\\sin^2 2x}$ - এর মান কোনটি?",
+      "options": [
+        "$\\frac{2}{25}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{1}{8}$",
+        "tan x"
+      ],
+      "tag": "CVASU 18-19"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "9. If $x y+x^{2} y^{2}-5=0$, find $\\frac{d y}{d x}$.",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$",
+        "$\\frac{x}{y}$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "10. Find the area bounded by $\\mathrm{y}=2 \\mathrm{x}, \\mathrm{x}=5$ and $\\mathrm{y}=0$.",
+      "options": [
+        "20 sq. unit",
+        "25 sq. unit",
+        "40 sq. unit",
+        "50 sq. unit"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "11.   $\\frac{1}{3} i$  এর বর্গমূল কোনটি?",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{3}} \\left ( 1 - i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 + i \\right )$",
+        "$\\pm \\frac{1}{\\sqrt{6}} \\left ( 1 - i \\right )$"
+      ],
+      "tag": "AGRI GST 20-21, CB 19"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "12. Find the length of the latus rectum of the ellipse $\\frac{x^{2}}{16}+\\frac{y^{2}}{81}=1$.",
+      "options": [
+        "6 unit",
+        "5 unit",
+        "4 unit",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "13. Refer to the following figure, find the tension in the cable AC.\n[IMG: https://assets.chorcha.net/qgqe9wpQTSPNd-E-1V6Ib.png]",
+      "options": [
+        "500 N",
+        "1000 N",
+        "750 N",
+        "2000 N"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "14. A particle A is in equilibrium under the following forces as shown below. Find the value of T.\n[IMG: https://assets.chorcha.net/c62bQJGmz7YGDwh5CMAJq.png]",
+      "options": [
+        "$W-\\sqrt{2} P$",
+        "$\\mathrm{W}-\\mathrm{P}$",
+        "$\\sqrt{2} \\mathrm{w}$",
+        "$W+P$"
+      ],
+      "tag": "IUT 23-24,IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "15. Consider a curve C given by the equation, $\\mathrm{y}=2 \\mathrm{x}^{2}-\\mathrm{x}+3$\nAssume C crosses the y axis at the point P and the straight line L is normal to $C$ at point $P$.\nFind the equation of the line $L$.",
+      "options": [
+        "$x+y-3=0$",
+        "$x+y+3=0$",
+        "$x-y+3=0$",
+        "$x-y-3=0$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "16. A hyperbolic mirror is used in some telescopes. Such a mirror has the property that light ray directed at one focus will be reflected to th eother focus as shown in the figure will below. Which of the following equations models the hyperbolic mirror's surface ? [IMG: https://assets.chorcha.net/JdqEslPQcO-9xO4b-kTIg.png]",
+      "options": [
+        "$\\frac{x^{2}}{9} - \\frac{7 y^{2}}{144} = 25$",
+        "$\\frac{x^{2}}{15} - \\frac{7 y^{2}}{20} = 1$",
+        "$\\frac{x^{2}}{9} - \\frac{7 y^{2}}{144} = 1$",
+        "None"
+      ],
+      "tag": "IUT 23-24,IUT 15-16"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "17. A ball hanging from a rope, is pulled to the right by a horizontal force F such that the rope makes an angle $\\theta$ with the ceiling, as shown in the figure. If $\\mathrm{w}=5.0 \\mathrm{~N}$ and $\\theta=40^{\\circ}$, the values of tension T in the rope and the force F are:\n[IMG: https://assets.chorcha.net/8kT0v4dBW8x4SxdLrLNbK.png]",
+      "options": [
+        "6.52 N and 4.19 N",
+        "7.78 N and 5.96 N",
+        "7.78 N and 4.19 N",
+        "6.52 N and 5.96 N"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "18. A cubic polynomial in $x$ becomes zero at $x=-3$ and $x=4$, and it takes the values of 12 and -10 when $x=1$ and $x=2$, respectively. Value of the polynomial at $x=3$ is-",
+      "options": [
+        "-18",
+        "0",
+        "15",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "19. If $i$ is a complex number, the value of $\\mathrm{i}^{3 \\mathrm{n}}+\\mathrm{i}^{3 \\mathrm{n}+1}+\\mathrm{i}^{3 \\mathrm{n}+2}+\\mathrm{i}^{3 \\mathrm{n}+3}+\\mathrm{i}^{3 \\mathrm{n}+4}+\\mathrm{i}^{3 \\mathrm{n}+6}$ is?",
+      "options": [
+        "$i^{3 n}$",
+        "1",
+        "-1",
+        "0"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "20. If $x=2+3\\cos\\theta$ and $y=1-3\\sin\\theta$ represent a circle then the centre and radius is?",
+      "options": [
+        "$(2, 1), 9$",
+        "$(2, 1), 3$",
+        "$(1, 2), \\dfrac{1}{3}$",
+        "$(-2, -1), 3$"
+      ],
+      "tag": "JB 22,হানি নাটস"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "21. If $\\sec \\theta-\\tan \\theta=\\frac{2}{3}$, then $\\sin \\theta$ equal to-",
+      "options": [
+        "$\\frac{13}{12}$",
+        "$\\frac{12}{13}$",
+        "$\\frac{5}{12}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "22. The domain and range of $f(x)=\\frac{\\sqrt{x^{2}}+3 x+2}{x+1}$ are-",
+      "options": [
+        "Dom $-f=(-\\infty, 1) \\cup[2, \\infty]$, Range $-f=$ $(0, \\infty)$",
+        "Dom $-\\mathrm{f}=(-\\infty, 1] \\cup[2, \\infty]$, Range $-\\mathrm{f}=$ $[0, \\infty)$",
+        "Dom $-\\mathrm{f}=(-\\infty, 0] \\cup[2, \\infty)$, Range $-\\mathrm{f}=$ $[1, \\infty)$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "23. The minimum value of \" $m$ \"' for which the function $f(x)=x^{2}+m x+1$ becomes an increasing function in the interval $3 < x < 5$ is:",
+      "options": [
+        "3",
+        "$\\frac{4}{3}$",
+        "-6",
+        "2"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "24. Suppose you have thrown a ball upwards from the rooftop of IUT Academic Building 1 with a velocity of $4 \\mathrm{~m} / \\mathrm{s}$ at an angle of $60^{\\circ}$ with the horizontal line. The ball reaches the ground 10 meters away from the building. The height of the building is-",
+      "options": [
+        "98.72 m",
+        "105.18 m",
+        "110.24 m",
+        "94.75 m"
+      ],
+      "tag": "IUT 23-24,IUT 22-23"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "25. The unit vector perpendicular to the plane formed by the following vectors is:\n$\\vec{A}=2 \\hat{i}-3 \\hat{j}-\\hat{k} ; \\vec{B}=\\hat{i}+4 \\hat{j}-2 \\hat{k}$",
+      "options": [
+        "$\\pm \\frac{1}{\\sqrt{230}}(10 \\hat{i}+3 \\hat{j}+11 \\hat{k})$",
+        "$\\pm \\frac{1}{\\sqrt{19}}(3 \\hat{i}+\\hat{j}-11 \\hat{k})$",
+        "$\\pm \\frac{1}{\\sqrt{51}}(2 \\hat{i}+3 \\hat{j}+11 \\hat{k})$",
+        "$\\pm \\frac{1}{\\sqrt{134}}(10 \\hat{\\mathrm{i}}-3 \\hat{\\mathrm{j}}+11 \\hat{\\mathrm{k}})$"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "26. In how many words will all the vowels be present if different words are formed from the letters of the word \"CAMBRIDGE\" taking 5 letters at a time?",
+      "options": [
+        "1000",
+        "2000",
+        "1800",
+        "4000"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "27. If A =\n$\\left [ \\begin{matrix} 1 & 2 \\\\ a & b \\end{matrix} \\right ]$\nA² =\n$\\left [ \\begin{matrix} 0 & 0 \\\\ 0 & 0 \\end{matrix} \\right ]$\nthen the values of a and b are:",
+      "options": [
+        "2 and 1",
+        "-2 and -1",
+        "-1/2 and -1",
+        "1/2 and 1"
+      ],
+      "tag": "IUT 23-24,IUT 16-17"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "28. Suppose a golfer hits a ball with a velocity $\\mathrm{v} \\mathrm{ms}^{-1}$ at an angle of $\\theta$ to the horizontal. The golf ball is hit in the direction of a h m tree which is 80 m from the golfer. If $v=45 \\mathrm{~ms}^{-1}$ and $\\theta=20^{\\circ}$, for what value of h will the ball just pass over the tree?",
+      "options": [
+        "11.58 m",
+        "13.37 m",
+        "12.57 m",
+        "14.37 m"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "29. An ellipse having foci at $(1,1)$ and $(-2,2)$ and passing through the origin has eccentricity of-",
+      "options": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{5}}{3}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "30. What is the minimum resultant of two concurrent forces whose maximum resultant value is 21 N when acting together and 15 N when they act at a right angle to each other?",
+      "options": [
+        "6 N",
+        "8 N",
+        "3 N",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "Mathematics(31)",
+      "question": "31. If the one root of $x^{3}-5 x^{2}+17 x-13=0$ is 1 , find the other roots.",
+      "options": [
+        "$2 \\pm \\mathrm{i}$",
+        "$2 \\pm 4 \\mathrm{i}$",
+        "$2 \\pm 3 \\mathrm{i}$",
+        "None"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "1. Choose the appropriate word for the blank space to complete the sentence of the following passage:\nIbn Sina, also known as Avicenna, was a preeminent philosopher and physician who lived during the Islamic Golden Age. Born in 980 AD in the city of Bukhara, which is now in Uzbekistan, Ibn Sina made significant contributions to various fields, including medicine, philosophy, astronomy and literature. His works became foundational texts in both the Islamic world and Europe, ____ scholars for centuries to come.",
+      "options": [
+        "Galvanizing",
+        "Ingratiating",
+        "Influencing",
+        "Confusing"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "2. One of Ibn Sina's most renowned contributions is his 2. $——$ \"The Canon of Medicine,\" which is a comprehensive encyclopedia of medical knowledge. This work, written in Arabic, covers a wide range of medical topics, including anatomy, physiology and pharmacology. \"The Canon\" served as the standard medical textbook in both the Islamic world and Europe for over six centuries, showcasing Ibn Sina's deep understanding of the human body and his systematic approach to medicine.",
+      "options": [
+        "Axiom",
+        "Riddle",
+        "Melancholy",
+        "Masterpiece"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "3. Read the passage and choose the word that best fills the gap.\nBeyond medicine, Ibn Sina also made significant contributions to philosophy and theology. His philosophical masterpiece, \"The Book of Healing,\" explores various topics such as metaphysics, ethics and logic. Ibn Sina's philosophical ideas had a profound impact on both Islamic and Western thought, earning him the title of \"The Prince of Physicians\" and \"The Aristotle of the East.\" His legacy as a polymath continues to be ____ with countless institutions and landmarks named in his honor across the globe.",
+      "options": [
+        "Celebrated",
+        "Criticized",
+        "Exaggerated",
+        "Intoxicated"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "4. The questions in this group are focused on sentence correction. Select a best phrase to replace the underlined portion in that sentence.\nThe survival of many endangered species of fish in our rivers depends on both the enforcement of regulations and recreational activities being available apart from fishing.",
+      "options": [
+        "both on the enforcement of regulations and on recreational activities",
+        "on both the enforcement of regulations and the availability of recreational activities",
+        "on the enforcement of both regulations and recreational activities",
+        "on both the enforcement of regulations in combination with available recreational activities"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "5. Select the best phrase to replace the underlined portion of the sentence.\nAnyone wishing to be considered for the position should send in their resumes before the deadline on March 22.",
+      "options": [
+        "send their resumes in",
+        "send in their resume",
+        "send their resume in",
+        "send in his/her resume"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "6. The questions in this group are focused on sentence correction. Select a best phrase to replace the underlined portion in that sentence.\nThough margarine was introduced as a supposedly healthful alternative to butter, recent studies suggest it is as harmful or worse than butter.",
+      "options": [
+        "it is just as harmful or even worse than butter",
+        "it is as harmful as if not worse than butter",
+        "that it is as harmful as or worse than butter",
+        "that it is as harmful if not worse than butter"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "7. Choose appropriate word/words for the blank space to complete the sentence.\n____ Amir could easily afford to go on holiday, he never does.",
+      "options": [
+        "Although",
+        "Despite",
+        "Even",
+        "In spite of"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "8. Choose appropriate word/words for the blank space to complete the sentence.\nI keep my mathematics notes in a …… folder.",
+      "options": [
+        "plastic big red",
+        "big red plastic",
+        "red big plastic",
+        "red plastic big"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "9. Choose appropriate word/words for the blank space to complete the sentence.\nLet's take a break soon, ____?",
+      "options": [
+        "is it",
+        "will you",
+        "shall we",
+        "would we"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "10. Choose the word that means the same or about the same as the italicized word.\nThe nexus of any government in the country is …….",
+      "options": [
+        "connection",
+        "distress",
+        "illusion",
+        "future"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "11. Choose the word that means the same or about the same as the italicized word.\nThe supposedly urbane …….",
+      "options": [
+        "refined",
+        "silly",
+        "upset",
+        "derogatory"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "12. Choose the world that means the same or about the same as the italicized word.\nLand and its buildings ……….",
+      "options": [
+        "Premises",
+        "Promenade",
+        "Lint",
+        "Strut"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "13. Choose the word that means the opposite of the italicized word.\nThe reticent wheel does not get the grease.",
+      "options": [
+        "selfish",
+        "frank",
+        "egoistic",
+        "timely"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "14. Choose the word that means the opposite of the italicized word.\nBeing dilatory in duty.",
+      "options": [
+        "punctual",
+        "idealist",
+        "kind",
+        "egoistic"
+      ],
+      "tag": "IUT 23-24"
+    },
+    {
+      "subject": "English(15)",
+      "question": "15. Choose the word that means the opposite of the italicized word.\nResilient",
+      "options": [
+        "Relevant",
+        "Robust",
+        "Vulnerable",
+        "Flexible"
+      ],
+      "tag": "IUT 23-24"
+    }
+  ]
+}

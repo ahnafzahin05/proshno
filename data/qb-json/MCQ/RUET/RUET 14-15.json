@@ -1,0 +1,1157 @@
+{
+  "title": "RUET 14-15",
+  "questions": [
+    {
+      "subject": "Mathematics(30)",
+      "question": "1. If $\\mathrm{A}=\\left[\\begin{array}{ccc}1 & \\omega & \\omega^{2} \\\\ \\omega & \\omega^{2} & 1 \\\\ \\omega^{2} & 1 & \\omega\\end{array}\\right]$, then what is the value of $\\operatorname{det}(\\mathrm{A})$ ?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "$\\omega$"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 22-23 (SET N),JU H 20-21 (SET A),JU H 19-20 (SET E),BUTEX 16-17"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "2. Solve: $a x+b y=0, b y+c z=0, c z+a x=0$",
+      "options": [
+        "$x=y=z=0$",
+        "$x=0, y=-b, z=c$",
+        "$x=y=z=\\frac{a}{2}$",
+        "$x=a, y=-a, z=0$",
+        "$x=1, y=1, z=-\\frac{1}{a}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "3. Find the value of $\\lim _{x \\rightarrow 0} \\frac{x-\\sin x}{x^{3}}$.",
+      "options": [
+        "1",
+        "0",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{6}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "4. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "5. A 4 m long uniform wooden plank AB of weight 53 kg in resting on two supports at points A and B . A man of weight 151 kg is standing on the plank at a distance of 1.5 m from the support A. What will be the reaction on each support?",
+      "options": [
+        "$(120.87$ and 83.12$) \\mathrm{kg}$",
+        "$(125.87$ and 80.10$) \\mathrm{kg}$",
+        "$(115.87$ and 85.15$) \\mathrm{kg}$",
+        "(120 and 85$) \\mathrm{kg}$",
+        "$(125$ and 90$) \\mathrm{kg}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "6. If $P=\\left[\\begin{array}{cc}4 & -6 \\\\ -2 & 8\\end{array}\\right]$ and $P \\times Q=\\left[\\begin{array}{l}5 \\\\ 0\\end{array}\\right]$ then find matrix $Q$.",
+      "options": [
+        "$\\left[\\begin{array}{c}2 \\\\ 0.5\\end{array}\\right]$",
+        "$\\left[\\begin{array}{cc}16 & -2 \\\\ 0.5 & 3\\end{array}\\right]$",
+        "$\\left[\\begin{array}{ll}0.5 & -2\\end{array}\\right]$",
+        "$\\left[\\begin{array}{cc}-16 & 2 \\\\ 3 & 0.5\\end{array}\\right]$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "7. The angle between the x-axis and the line joining the points $A(3,-1)$ and $B(4,-2)$ is",
+      "options": [
+        "${45}^{o}$",
+        "${90}^{o}$",
+        "${135}^{o}$",
+        "${150}^{o}$"
+      ],
+      "tag": "হানি নাটস,RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "8. If $0^{\\circ}<\\theta<180^{\\circ}$ then find $\\sqrt{2+\\sqrt{2+\\sqrt{\\ldots \\ldots \\ldots+2(1+\\cos \\theta)}}}=$ ?\n(n number of $\\left.2^{\\prime} \\mathrm{s}\\right)$",
+      "options": [
+        "$2 \\cos \\frac{\\theta}{2^{n-1}}$",
+        "$2 \\cos \\frac{\\theta}{z^{n}}$",
+        "$2 \\cos \\frac{\\theta}{2^{n+1}}$",
+        "$2 \\cos \\frac{n \\theta}{2}$",
+        "$2 \\cos \\frac{\\theta}{2 n}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "9. The number of real solutions of $\\sin e^{x}.\\cos e^{x}=2^{x-2}+2^{-x-2}$ is",
+      "options": [
+        "zero",
+        "one",
+        "two",
+        "infinite"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "10. $\\frac{\\mathrm{d}}{\\mathrm{dx}}\\left[\\tan ^{-1}(\\cot x)+\\cot ^{-1}(\\tan x)\\right]=?$",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2",
+        "-2"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "11. Value of $\\int a^{x} d x-$",
+      "options": [
+        "$\\frac{e^{x}}{\\log a}$",
+        "$\\log a+c$",
+        "$\\frac{a^{x}}{\\log a}$",
+        "$\\frac{a^{x}}{\\log a}+c$"
+      ],
+      "tag": "CU A 18-19,RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "12. If the displacement of an object moving in a straight line is $S=6-2 t+3 t^{3}$ then find the acceleration after $t=1 \\mathrm{sec}$.",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "20",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "13. $\\operatorname{Lt}_{x \\rightarrow \\infty}(\\sqrt{x+\\sqrt{x}}-\\sqrt{x})=\\text { ? }$",
+      "options": [
+        "$\\infty$",
+        "0",
+        "e",
+        "0.5",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "14. $\\int_{0}^{1} \\mathrm{e}^{-\\mathrm{x}^{3}} \\mathrm{dx}=?$",
+      "options": [
+        "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k} x^{2 k}}{2^{2 k}(k!)^{2}}$",
+        "$\\sum_{k=0}^{\\infty} \\frac{(-1)^{k}}{(2 k+1) k!}$",
+        "$\\sum_{k=1}^{\\infty} \\frac{(-1)^{\\mathrm{k}} \\ln x}{\\sqrt{\\mathrm{k}} \\mathrm{m}}$",
+        "$\\sum_{k=1}^{\\infty} \\frac{(-1)^{k+1} x^{k}}{k!}$",
+        "$\\sum_{k=1}^{\\infty} \\frac{(-1)^{k} x^{-\\frac{1}{3}}}{2 \\ln k}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "15. Determine the area of the ellipse $\\frac{x^{2}}{a^{2}}+\\frac{y^{2}}{b^{2}}=1$",
+      "options": [
+        "$\\pi a^{2}$",
+        "$\\pi a b$",
+        "$\\frac{\\pi}{4} a b$",
+        "$a b$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "16. If $\\vec{A}, \\vec{B}$ and $\\vec{C}$ are vectors, which of the followings is meaningless?",
+      "options": [
+        "$\\vec{A} \\times(\\vec{B} \\times \\vec{C})$",
+        "$\\vec{A} \\cdot(\\vec{B} \\times \\vec{C})$",
+        "$\\vec{A} \\cdot(\\vec{B} \\cdot \\vec{C})$",
+        "$\\vec{A}+(\\vec{B} \\times \\vec{C})$",
+        "$\\vec{A} \\cdot \\vec{B}+\\vec{B} \\cdot \\vec{C}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "17. $a, b, c$ and $d$ are real positive numbers and all are greater than zero in $A=\\frac{a+i a}{b-i c}+i d$. If $c > b$, what will be $\\theta$, the argument of $A$ ?",
+      "options": [
+        "$0<\\theta < 90^{\\circ}$",
+        "$90^{\\circ}<\\theta < 180^{\\circ}$",
+        "$60^{\\circ}<\\theta < 90^{\\circ}$",
+        "$90^{\\circ}<\\theta < 90^{\\circ}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "18. Which is the most appropriate value of $\\log _{\\mathrm{e}}(1+\\mathrm{i})$ ?",
+      "options": [
+        "$\\frac{1}{2} \\log _{\\mathrm{e}} 2+\\frac{\\pi}{4} \\mathrm{i}$",
+        "$2 \\log _{e} 2+\\frac{\\pi}{4} \\mathrm{i}$",
+        "$\\frac{1}{2} \\log _{e} 2-\\frac{\\pi}{4} i$",
+        "$\\frac{1}{2} \\log _{e} 2+\\left(2 n+\\frac{1}{4}\\right) \\pi i$ where $n$ is an integer",
+        "$\\frac{1}{2} \\log _{e} 2+\\left(n+\\frac{1}{4}\\right) \\pi i$ where $n$ is an integer"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "19. What is the co-factor of $(-2 a)$ in the following determinant?\n$\\left|\\begin{array}{ccc} 1+a^{2}-b^{2} & 2 a b & -2 b \\\\ 2 a b & 1-a^{2}+b^{2} & 2 a \\\\ 2 b & -2 a & 1-a^{2}-b^{2} \\end{array}\\right|$",
+      "options": [
+        "$\\left(1-a^{4}\\right)-b^{2}\\left(4-b^{2}\\right)$",
+        "$2 a\\left(1+a^{2}+b^{2}\\right)$",
+        "$\\left(1+a^{2}+b^{2}\\right)^{3}$",
+        "$\\left(1+a^{2}+b^{2}\\right)$",
+        "$-2 a\\left(1+a^{2}+b^{2}\\right)$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "20. Force P acts along an inclined plane, which makes an angle $\\alpha$ with the ground plane, is capable to hold a weight $W$ on the inclined plane. Similarly, the force $Q$ along the ground plane, is also capable to hold $W$ on the inclined plane. For $0<\\alpha<\\frac{\\alpha}{2}$, which of the followings is true?",
+      "options": [
+        "$P>Q$",
+        "$P=Q$",
+        "$P<Q$",
+        "$P=Q \\tan \\alpha$",
+        "$Q=P \\tan \\alpha$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "21. Determine the equation of the perpendicular bisector of the line joining the points $(-4,6)$ and $(2,8)$.",
+      "options": [
+        "$y=\\frac{1}{3} x$",
+        "$y=3 x$",
+        "$y=-3 x+4$",
+        "$x=3 y+7$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "22. A sailor wishes to cross a river in the shortest path with a boat of velocity $v \\mathrm{~km} /$ hour. If the velocity of the current is $\\mathrm{u} \\mathrm{km} / \\mathrm{hour}$, what is the relative velocity of the boat with respect to the current?",
+      "options": [
+        "$\\sqrt{u^{2}+v^{2}-2 u v \\cos \\left(\\sin ^{-1} \\frac{u}{v}\\right)}$",
+        "$\\sqrt{u^{2}+v^{2}+2 u v \\cos \\left(\\sin ^{-1} \\frac{u}{v}\\right)}$",
+        "$\\sqrt{u^{2}+v^{2}-2 u v \\cos \\left(\\tan ^{-1} \\frac{u}{v}\\right)}$",
+        "$\\sqrt{u^{2}+v^{2}+2 u v \\sin \\left(\\sin ^{-1} \\frac{u}{v}\\right)}$",
+        "$\\sqrt{u^{2}+v^{2}-2 u v \\sin \\left(\\sin ^{-1} \\frac{u}{v}\\right)}$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "23. Find a unit vector which is parallel to xy plane and perpendicular to the vector $\\hat{\\mathrm{i}}-\\hat{\\mathrm{j}}+\\hat{\\mathrm{k}}$ ?",
+      "options": [],
+      "tag": "DU A 22-23,RUET 14-15,CUET 10-11,BUTEX 20-21"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "24. What is the domain and range of the function $f(x)=\\frac{1}{\\sqrt{4-x^{2}}}$ ?",
+      "options": [
+        "$x<-2, y>\\frac{1}{2}$",
+        "-2< x < 2, u $\\geq \\frac{1}{2}$",
+        "$-2 \\leq x \\leq 2, y<\\frac{1}{2}$",
+        "-x < -2 & x> 2, -2< y<2"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),JU A 20-21 (SET B),JU A (SET A),JU A 18-19 (SET C),JU A 16-17 (SET 12)"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "25. Find all $x$ such that $0<|x-a| <p$, where $a$ is any real number and $p$ is any positive number.",
+      "options": [
+        "$(a-p, a) \\cup(a, a+p)$",
+        "$a-p \\leq x \\leq a$",
+        "$a \\leq x \\leq a+p$",
+        "$a-p \\leq x \\leq a+p$",
+        "$(a, p-a) \\cup(a+p, a)$"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "26. A question paper consists of 10 questions divided into section A and section B . Each section contains 5 questions. An examinee is required to answer 6 questions in all of which at least 2 should be from section A and at least 2 from section B. In how many ways can the examinee selection questions if he can answer all questions equally well?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200",
+        "50"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "27. If $A=\\left\\{x: x^{2}-7 x+12=0\\right\\}$ and $B=\\left\\{x: x^{2}-10 x+24=0\\right\\}$, then what is the value of $A-B$ ?",
+      "options": [
+        "$\\{4\\}$",
+        "$\\{3\\}$",
+        "$\\{6\\}$",
+        "$\\{4,6\\}$",
+        "{}"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "28. $A B C D$ is a square of side 3 cm and, $E$ and $F$ are the mid-points of sides $A B$ and $B C$, respectively. What is the area of the quadrilateral EBFD?\n[IMG: https://assets.chorcha.net/yq5TySS7nWgQx8eyKiVne.png]",
+      "options": [
+        "2.25 sq. cm",
+        "3 sq. cm",
+        "4 sq. cm",
+        "4.5 sq. cm",
+        "6 sq. cm"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "29. If $A$ and $B$ are set then $\\left[\\left(A^{C} \\cup B^{C}\\right)-A\\right]^{c}=$ ?",
+      "options": [
+        "$A$",
+        "$B$",
+        "$A \\cup B$",
+        "$A \\cap B$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "30. If the base associated angles of a triangles are $22.5^{\\circ}$ and $112.5^{\\circ}$ and height is h then find the base of the triangle.",
+      "options": [
+        "h",
+        "2h",
+        "$\\frac{\\mathrm{h}}{2}$",
+        "$\\frac{\\mathrm{h}}{\\sqrt{2}}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "1.  In the Bohr hydrogen model, an electron revoles round the proton in a circular path of radius $5.2 \\times$ $10^{-11} \\mathrm{~m}$ with a velocity of $2.18 \\times 10^{6} \\mathrm{~m} \\mathrm{~s}^{-1}$. If electron has a mass of $9.1 \\times 10^{-31} \\mathrm{~kg}$ what will be the centripetal force?",
+      "options": [
+        "$3.81 \\times 10^{-6} \\mathrm{~N}$",
+        "$8.32 \\times 10^{-8} \\mathrm{~N}$",
+        "$2.17 \\times 10^{-47} \\mathrm{~N}$",
+        "$1.25 \\times 10^{26} \\mathrm{~N}$"
+      ],
+      "tag": "BUET 12-13,RUET 14-15,KUET 14-15,KUET 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "2. What is the acceleration of a falling body of mass 10 kg if the obstruction given by air is 78 N?",
+      "options": [
+        "$2.2 \\mathrm{~ms}^{-2}$",
+        "$2.5 \\mathrm{~ms}^{-2}$",
+        "$3.0 \\mathrm{~ms}^{-2}$",
+        "$1.5 \\mathrm{~ms}^{-2}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "3. An artificial satellite is in a circular orbit at an altitude of 100 km above the Earth's surface. Earth's mass is 6 x 10 24 kg and radius 6.4 x 10 3 km. What is the orbital velocity of the satellite if G = 6.673 x 10 -11 Nm 2 kg -2 ?",
+      "options": [
+        "8.91 kms-1",
+        "9.81 kms-1",
+        "11.19 kms-1",
+        "7.85 kms-1"
+      ],
+      "tag": "CU A 16-17,RUET 14-15,Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "4. Radius of an atom of a gas is $3.5 \\times 10^{-10} \\mathrm{~m}$ and the number of atom per cubic centimeter is $2.69 \\times 10^{19}$. What is the mean free path of the atom?",
+      "options": [
+        "$2.42 \\times 10^{-8} \\mathrm{~m}$",
+        "$2.42 \\times 10^{-6} \\mathrm{~m}$",
+        "$4.22 \\times 10^{-8} \\mathrm{~m}$",
+        "$4.22 \\times 10^{-6} \\mathrm{~m}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "5. A faulty thermometer reads $5^{\\circ} \\mathrm{C}$ in melting ice and $99^{\\circ} \\mathrm{C}$ in dry steam. What is the correct temaperature in Fahrenheit scale when the faulty thermometer reads $52^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$50^{\\circ} \\mathrm{F}$",
+        "$90^{\\circ} \\mathrm{F}$",
+        "$100^{\\circ} \\mathrm{F}$",
+        "$122^{\\circ} \\mathrm{F}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "6. What will be the efficiency of a Carnot Engine working between the steam and ice points?",
+      "options": [
+        "$61.28 \\%$",
+        "$62.18 \\%$",
+        "$26.18 \\%$",
+        "$26.81 \\%$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "7. A man of mass 60 kg can cover 50 steps, of a stair each with a height of 15 cm in 20 sec . What is the horse power of the man?",
+      "options": [
+        "0.396 HP",
+        "0.496 HP",
+        "0.596 HP",
+        "0.296 PH",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "8. Accelerations due to gravity of two places are 9.8 and $9.78 \\mathrm{~ms}^{-2}$, respectively. What will be difference of the lengths of second pendulum for these two places?",
+      "options": [
+        "0.005 m",
+        "0.003 m",
+        "0.001 m",
+        "0.004 m",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "9. Young's coefficient value of copper wire is 2×10 11 Nm -2 . How much force is required to double the length of a copper wire of cross section 1 cm 2 ?",
+      "options": [
+        "1×107 N",
+        "1.5×107 N",
+        "2×107 N",
+        "107 N"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 15-16 (SET 3),JU A 15-16 (SET 4),Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "10. A galvanometer of resistance 100 Ω can safely accept a current of 10mA. How much shunt resistance is needed to measure a current of 10A?",
+      "options": [
+        "0.4 Ω",
+        "0.3 Ω",
+        "0.2 Ω",
+        "0.1 Ω"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 18-19 (SET C),JU A 15-16 (SET 4),Tapan Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "11. 4 μ F 4\\mu F  4 capacitors of 4 μ F are connected in series. Their equivalent capacity is—",
+      "options": [
+        "1 m F 1st F 1 µF _",
+        "2 m F 2nd F 2 µF _",
+        "4 m F 4\\mu F 4 m F",
+        "16 m F 16\\mu F 16 m F"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),Tapan Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "12. How much heat is required to convert ice of of mass 0.5 kg at $0^{\\circ} \\mathrm{C}$ to vapor at $100^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$1.511 \\times 10^{5} \\mathrm{~J}$",
+        "$15.12 \\times 10^{5} \\mathrm{~J}$",
+        "$1.151 \\times 10^{5} \\mathrm{~J}$",
+        "$16.15 \\times 10^{5} \\mathrm{~J}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "13. A house mains meter reads 6A-220V. How many 100W lamps can be safely used in that house?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "None"
+      ],
+      "tag": "SB 22,RB 21,GST 21-22,NSTU 19-20,BUET 9-10,RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "14. If an electron is accelerated by a potential difference of 10 kV,what is the speed of the electron?",
+      "options": [
+        "5.05×107 ms-1",
+        "5.93×107ms-1",
+        "5.56×107ms-1",
+        "5.036×107 ms-1"
+      ],
+      "tag": "RUET 14-15,KUET 16-17,IUT 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "15. What amount of energy will be obtained from the complete conversion of 1 kg mass?",
+      "options": [
+        "$10.625 \\times 10^{29} \\mathrm{MeV}$",
+        "$15.625 \\times 10^{29} \\mathrm{MeV}$",
+        "$20.625 \\times 10^{29} \\mathrm{MeV}$",
+        "$25.625 \\times 10^{29} \\mathrm{MeV}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "16. What amount of energy will be obtained from the complete conversion of 1 kg mass?",
+      "options": [
+        "$74.069 \\times 10^{9} \\mathrm{~kg} / \\mathrm{C}$",
+        "$74.069 \\times 10^{6} \\mathrm{~kg} / \\mathrm{C}$",
+        "$74.069 \\times 10^{11} \\mathrm{~kg} / \\mathrm{C}$",
+        "$74.069 \\times 10^{13} \\mathrm{~kg} / \\mathrm{C}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "17. If $\\vec{AB} = 2 \\hat{i} + \\hat{j} , \\vec{BC} = 3 \\hat{i} - \\hat{j} + 5 \\hat{k}$ , but what is the area of the parallelogram drawn through the adjacent sides AB and AC?",
+      "options": [
+        "8√5",
+        "5√6",
+        "3√6",
+        "6√5"
+      ],
+      "tag": "CU A 19-20,BUET 9-10,RUET 14-15,RUET 13-14,KUET 18-19,CUET 15-16,Tapan Sir,BUTEX 17-18"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "18. A compound contains some radioactive material of the same element Half-life of the radioactive material is 25 years. What will be the amount of remaining radioactive material after 100 years?",
+      "options": [
+        "$1 / 4$",
+        "$1 / 8$",
+        "$1 / 12$",
+        "$1 / 16$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),JU A 20-21 (SET B),Tapan Sir,Tofazzal Sir"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "19. A quantity of dry air at normal temperature and pressure is compressed to a constant temperature and the volume is halved, what will be the final pressure?",
+      "options": [
+        "2.02×102 Nm-2",
+        "2.02×103 Nm-2",
+        "2.02×104 Nm-2",
+        "2.02×105 Nm-2"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "20. A driver starts to run his car following the equation of mention $s=\\frac{1}{2} t^{2}+20 t$. What distance travelled and velocity obtained by the car after 3 minute?",
+      "options": [
+        "$0.522 \\mathrm{~km}_{2} ~\\& ~0 \\mathrm{~ms}^{-1}$",
+        "$52.2 \\mathrm{~km} ~\\&~ 200 \\mathrm{~ms}^{-1}$",
+        "$0.052 \\mathrm{~km}~ \\&~ 2 \\mathrm{~ms}^{-1}$",
+        "$52.2 \\mathrm{~km} ~\\&~ 20 \\mathrm{~ms}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "21. What is the value of the linear velocity of the end point of the minute hand of 0.01 m of clock?",
+      "options": [
+        "$1.54 \\times 10^{-5} \\mathrm{~ms}^{-1}$",
+        "$1.64 \\times 10^{-5} \\mathrm{~ms}^{-1}$",
+        "$1.74 \\times 10^{-5} \\mathrm{~ms}^{-1}$",
+        "$1.84 \\times 10^{-5} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BMARPC 24,RB 19,All.B 18,JUST 18-19,MAT 13-14,RUET 14-15,Ishaque Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "22. A vacuum cleaner and a television produce 85 dB and 78 dB of noise respectively. Determine the combined sound intensity of these two sound sources. The minimum threshold value of audibility is 10 -12 W/ m 2",
+      "options": [],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "23. What is the value of the earth's magnetic field where the magnitude of horizontal component of earth's magnetic field is $35.76 \\mu \\mathrm{T}$ and dip angle is $45^{\\circ}$?",
+      "options": [
+        "$7.57 ~\\mu \\mathrm{T}$",
+        "$5.06 ~\\mu \\mathrm{T}$",
+        "$57.05~ \\mu \\mathrm{T}$",
+        "$50.57 ~\\mu \\mathrm{T}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "24. The self inductance of a coil is 45 H . The current flowing through the coil is changed from 8 A to 5 A within $5.0 \\times 10^{-2}$ second. What will be the induced e.m.f in the coil?",
+      "options": [
+        "2300 V",
+        "2400 V",
+        "2500 V",
+        "2700 V",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "25. Which property makes is the drop of water spherical?",
+      "options": [
+        "Elasticity",
+        "Viscosity",
+        "Surface Tension",
+        "Capillarity",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "26. Lowest distance of clear vision of a long-sighted man is 50 cm . He uses the spectacles of power 2.5 D. How much the lowest distance of clear vision will decrease?",
+      "options": [
+        "28.78 cm",
+        "29.78 cm",
+        "22.22 cm",
+        "23.22 cm",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "27. The focal length of a concave mirror is 20 cm. How far will an object be placed from the mirror to have a four-time magnified real image?",
+      "options": [
+        "20 cm",
+        "25 cm",
+        "15 cm",
+        "30 cm",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "28. Refraction of an equilateral prism 2 \\sqrt{2} 2  ​ If so, what is its minimum angle of deviation?",
+      "options": [
+        "60°",
+        "15°",
+        "30°",
+        "45°"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,RUET 14-15,RUET 15-16,KUET 17-18,KUET 13-14,CUET 13-14,CUET 11-12,JU A 18-19 (SET C),JU A 16-17 (SET 4),Ishaque Sir,BUTEX 16-17,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "29. A tungsten lamp has a surface area of $0.4 cm^{2}$ emitting light at a temperature of 3000k. Find the rate of energy radiated. $σ = 5.7 × 10^{- 8} W m^{- 2} K^{- 4}$",
+      "options": [
+        "184.68W",
+        "184.68kw",
+        "182.60 w",
+        "180.2w"
+      ],
+      "tag": "RU H 16-17 (G-ODD)"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "30. A train, whistling with frequency 1000 Hz , moves towards a stationary observer at a speed of $75 \\mathrm{kmh}^{-1}$.\nWhat will be the apparent frequency of the whistle to the observer? Velocity of sound $=33000 \\mathrm{cms}^{-1}$.",
+      "options": [
+        "1067.37 Hz",
+        "1607.37 Hz",
+        "1670.37 Hz",
+        "1706.37 Hz",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "1. At what temperature the r.m.s velocity of $\\mathrm{Cl}_{2}$ equals to that of $\\mathrm{CO}_{2}$ at $-91.43^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$29.99^{\\circ} \\mathrm{C}$",
+        "$19.00^{\\circ} \\mathrm{C}$",
+        "$19.09^{\\circ} \\mathrm{C}$",
+        "$29.09^{\\circ} \\mathrm{C}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "2. Identify $\\mathrm{Cr}(24)$ from the following distribution of electron.",
+      "options": [
+        "$[\\operatorname{Ar}] 3 \\mathrm{~d}^{5} 4 \\mathrm{~s}^{1}$",
+        "$[\\mathrm{Ar}] 3 \\mathrm{~d}^{5}$",
+        "$[\\operatorname{Ar}] 3 \\mathrm{~d}^{6}$",
+        "$[\\operatorname{Ar}] 3 \\mathrm{~d}^{4} 4 \\mathrm{~s}^{2}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "3. Which one of the following is a transition element?",
+      "options": [
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{1} 2 s^{2}$",
+        "$1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{2} 4 s^{2}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{6} 4 \\mathrm{~s}^{2}$",
+        "$1 \\mathrm{~s}^{2} 2 \\mathrm{~s}^{2} 2 \\mathrm{p}^{6} 3 \\mathrm{~s}^{2} 3 \\mathrm{p}^{6} 3 \\mathrm{~d}^{10} 4 \\mathrm{~s}^{2}$"
+      ],
+      "tag": "RUET 14-15,Guha Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "4. Which of the followings is the secondary standard substance?",
+      "options": [
+        "$\\mathrm{Na}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{H}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{Na}_{2} \\mathrm{CO}_{3}$",
+        "$\\mathrm{Na}_{2} \\mathrm{~S}_{2} \\mathrm{O}_{3} \\cdot 5 \\mathrm{H}_{2} \\mathrm{O}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "5. $30 \\% \\mathrm{Fe}_{2} \\mathrm{O}_{3}$ is present in an iron ore. How much iron will be obtained by carbon reduction from 500 kg iron ore?",
+      "options": [
+        "140.9155 kg",
+        "401.9155 kg",
+        "410.9155 kg",
+        "104.9155 kg",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "6. 10.6 g pure $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ is dissolved in 250 mL solution. Calculate the strength is molarity.",
+      "options": [
+        "1.02 M",
+        "0.9434 M",
+        "1.25 M",
+        "0.204 M",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "7. Which one is oxidant and which one is reductant in the following reaction? $\\mathrm{Co}(\\mathrm{s})+\\mathrm{Cl}_{2}(\\mathrm{~g}) \\rightarrow \\mathrm{CoCl}_{2}(\\mathrm{~s})$.",
+      "options": [
+        "CO oxidant, $\\mathrm{Cl}_{2}$ reductant",
+        "CO reductant, $\\mathrm{Cl}_{2}$ oxidant",
+        "CO and $\\mathrm{Cl}_{2}$ both oxidant",
+        "CO and $\\mathrm{Cl}_{2}$ both reductant",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "8. Which one the following is not Redox reaction?",
+      "options": [
+        "$\\mathrm{AgNO}_{3}(\\mathrm{aq})+\\mathrm{NaCl}(\\mathrm{aq})=\\mathrm{AgCl}(\\mathrm{s})+\\mathrm{NaNO}_{3}(\\mathrm{aq})$",
+        "$2 ~Na (s) +\\mathrm{Cl}_{2}$ (g) $=2 \\mathrm{NaCl}$ (s)",
+        "$\\mathrm{CuSO}_{4}(\\mathrm{aq})+\\mathrm{Fe}(\\mathrm{s})=\\mathrm{FeSO}_{4}(\\mathrm{aq})+\\mathrm{Cu}(\\mathrm{s})$",
+        "$2 \\mathrm{Cu}\\left(\\mathrm{NO}_{3}\\right)_{2} \\xrightarrow{\\text { Heated }} 2 \\mathrm{CuO}(\\mathrm{s})+4 \\mathrm{NO}_{2}$ (s)",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "9. Identify the buffer solution from the following mixtures-",
+      "options": [
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH} \\mathrm{H}_{3} \\mathrm{COOH}+0.2 \\mathrm{M} 10 \\mathrm{mLNaOH}$",
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH}_{3} \\mathrm{COOH}+0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{NaOH}$",
+        "$0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{CH}_{3} \\mathrm{COOH}+0.2 \\mathrm{M} 10 \\mathrm{mLNaOH}$",
+        "$0.2 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{HCl}+0.1 \\mathrm{M} 10 \\mathrm{~mL} \\mathrm{NaOH}$"
+      ],
+      "tag": "CU A 18-19,BUET 11-12,RUET 14-15,JU D 19-20 (SET A),Lingcon Sir,Kabir Sir"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "10. How much Nickel will be deposited at the cathode when a current of 5 A strength is passed through $\\mathrm{Ni}\\left(\\mathrm{NO}_{3}\\right)_{2}$ solution for 30 min ? [ $\\left.\\mathrm{Ni}=58.7\\right]$",
+      "options": [
+        "2.700 g",
+        "2.730 g",
+        "2.737 g",
+        "2.8 g",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "11. Which one of the following is correct?\n[IMG: https://assets.chorcha.net/AyQfyoz8ZE-wHiVKkId-Z.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "12. Which of one the following is correct symbolic structure of Butanic acid?",
+      "options": [
+        "$\\mathrm{CH}_{3}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{COOH}$",
+        "$\\mathrm{CH}_{5}-\\mathrm{C}_{2} \\mathrm{H}=\\mathrm{CH}$",
+        "$\\mathrm{C}-\\mathrm{C}_{3} \\mathrm{H}=\\mathrm{C}_{2} \\mathrm{H}-\\mathrm{COOH}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{C}_{2} \\mathrm{H}_{2}=\\mathrm{CH}-\\mathrm{COOH}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "13. In an aromatic compound Carbon $=39.9 \\%$, Hydrogen $=6.75 \\%$ and rest percentage is Oxygen. Determine the atomic symbol of the compound if the vapor density of the compound is 30.",
+      "options": [
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4} \\mathrm{O}_{3}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{6} \\mathrm{O}_{4}$",
+        "$\\mathrm{C}_{3} \\mathrm{H}_{6} \\mathrm{O}_{3}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "14. Which one of the following reactions is correct?",
+      "options": [
+        "$\\mathrm{CH}_{3}-\\mathrm{COOH}+\\mathrm{Na} \\rightarrow \\mathrm{CH}_{3}-\\mathrm{COONa}+\\frac{1}{2} \\mathrm{H}_{2}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{COOH}+4[\\mathrm{H}] \\xrightarrow{\\mathrm{LiAlH}_{4}} \\mathrm{CH}_{3}-\\mathrm{CH}_{3}-\\mathrm{CH}_{3}-\\mathrm{OH}$",
+        "$\\left(\\mathrm{CH}_{3}-\\mathrm{COO}\\right)_{2} \\mathrm{Ca} \\xrightarrow{\\Delta} \\mathrm{CH}_{3}-\\mathrm{CO}-\\mathrm{CH}_{5}+\\mathrm{CaCO}_{3}$",
+        "$\\mathrm{CH}_{3}-\\mathrm{COOH}+3 \\mathrm{H}_{3} \\xrightarrow{\\mathrm{Ni} \\text { Pressure }}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "15. Determine the e.m.f of the following electric cell at $25^{\\circ} \\mathrm{C} .$$\\mathrm{Ag}\\left|\\mathrm{AgNO}_{3}(0.08 \\mathrm{M}) \\| \\mathrm{AgNO}_{3}(0.001 \\mathrm{M})\\right| \\mathrm{Ag}$",
+      "options": [
+        "0.10115 V",
+        "0.11025 V",
+        "0.1125 V",
+        "0.1250 V",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "16. 6 mL 0.15 M NaOH slolution added in a 15 mL 0.15 M acetic acid solution. What will be the pH value of the final solution?",
+      "options": [
+        "2.584",
+        "3.584",
+        "5.584",
+        "4.584",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "17. Determine the mass of 250 mL methane gas at $27^{\\circ} \\mathrm{C}$ temperature and 102 kPa Pressure.",
+      "options": [
+        "17.0 gm",
+        "27.16 gm",
+        "11.6 gm",
+        "2.16 gm",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "18. How much amount of $\\mathrm{KMnO}_{4}$ will require to oxidized $100 \\mathrm{g}~ \\mathrm{Na}_{2} \\mathrm{C}_{2} \\mathrm{O}_{4}$ acidic solution?",
+      "options": [
+        "17.0 gm",
+        "27.16 gm",
+        "37.16 gm",
+        "57.16 gm",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "19. Which one is the electronic structure of outer most shell of 111 B group?",
+      "options": [
+        "$(\\mathrm{n}-1)^{10} \\mathrm{~ns}^{-1}$",
+        "$(n-1) d^{1} n s^{2}$",
+        "$(n-1) d^{10} n s^{2}$",
+        "$(n-1) d^{9} n s^{1}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "20. What is the molecular formula of $q$ in the reaction $\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CHO}+\\mathrm{CH}_{3} \\mathrm{NH}_{2} \\rightarrow \\mathrm{q}+\\mathrm{H}_{2} \\mathrm{O}$ ?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/zTUayFfFo7A5C6uWfL5D7.png]",
+        "[IMG: https://assets.chorcha.net/wMqTP6ud3I6xuuQRWLMml.png]",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{CH}_{3}-\\mathrm{COOH}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{COOH}$"
+      ],
+      "tag": "DU A 17-18,RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "21. How much time will be needed for the decrease of concentration of $\\mathrm{N}_{2} \\mathrm{O}_{5}$ by $1 / 3$ in $\\mathrm{CCl}_{4}$ medium at $35^{\\circ} \\mathrm{C}$ ? At that tempreature, $\\mathrm{K}=1.35 \\times 10^{-4} \\mathrm{~s}^{-1}$.",
+      "options": [
+        "50 min 4 sec",
+        "45 min 5 sec",
+        "40 min 5 sec",
+        "50 min 40 sec",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "22. Which one of the following is soap?",
+      "options": [
+        "Ca-salt of long-chain fatty acid",
+        "Mg-salt of palmitic acid",
+        "$\\mathrm{Na} / \\mathrm{K}$ salt of long-chain fatty acid",
+        "Al-salt of stearic acid",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "23. Which one of the following is the symbolic structure of Detol?\n[IMG: https://assets.chorcha.net/N-tMbh41SyL0vWv0FdGkr.png]",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "24. The temperature of 2.0 kg water is rises from $24^{\\circ} \\mathrm{C}$ when 0.5 g of carbon is burned. Determine the heat of combustion of carbon.",
+      "options": [
+        "$301.664 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "$401.664 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "$501.664 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "$601.664 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "25. What types of fertilizer are used when the pH value of the land is reduced?",
+      "options": [
+        "Na and Mn",
+        "Zn and Na",
+        "Ca and Mg",
+        "K and Zn",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "26. At $30^{\\circ} \\mathrm{C}$ temperature $1.5 \\mathrm{~atm} .15 .6 \\%$ of $\\mathrm{PCl}_{5}$ is dissociated.\n$\\mathrm{PCl}_{5}(\\mathrm{~g}) \\leftrightarrow \\mathrm{PCl}_{3}(\\mathrm{~g})+\\mathrm{Cl}_{2}(\\mathrm{~g})-90 \\mathrm{kj}$",
+      "options": [],
+      "tag": "SB 23,DB 17,FGCC 24,FCC 24,FCC 24,JUST 16-17,BUET 19-20,BUET 13-14,RUET 14-15,KUET 14-15,CUET 15-16,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "27. At $25^{\\circ} \\mathrm{C}$ the vapour pressure of two liquids A and B are 15 kPa and 40 kPa . Determine the vapor pressure of an ideal mixture of $1 \\mathrm{~mole} A$ and 5 mole $B$.",
+      "options": [
+        "83.35 kPa",
+        "83.53 kPa",
+        "35.38 kPa",
+        "35.83 kPa",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "28. Which of one of the following is Kyanite?",
+      "options": [
+        "$\\mathrm{Mg}_{3} \\mathrm{Ca}\\left(\\mathrm{SiO}_{3}\\right)_{4}$",
+        "$\\mathrm{MgSO}_{4} \\cdot 7 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{KCl} \\cdot \\mathrm{MgCl}_{2} \\cdot 6 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{MgSO}_{4} \\cdot \\mathrm{KCl} \\cdot 3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "29. What is Rinman's Green?",
+      "options": [
+        "$\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CH})_{6}\\right]_{3}$",
+        "$\\mathrm{Cu}_{2}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$",
+        "$\\mathrm{CoZnO}_{2}$",
+        "$\\mathrm{Fe}_{2} \\mathrm{O}_{3}, 3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "Chemistry(30)",
+      "question": "30. 0.475 AgCl is found from 0.186 g aromatic compound by Carious method. Determine percent of chlorine in that compound.",
+      "options": [
+        "$60.0 \\%$",
+        "$63.1 \\%$",
+        "$73.1 \\%$",
+        "$83.1 \\%$",
+        "None"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "1. Choose the correct translation of the following Bangla sentence : “তোমার মুখে ফুল চন্দন পড়ুক।”",
+      "options": [
+        "Blessed be your soul",
+        "Blessed be your face",
+        "Blessed be your mouth",
+        "Blessed be your tongue"
+      ],
+      "tag": "RUET 14-15,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. Choose the correct translation of the following English sentence : I would rather die than beg.",
+      "options": [
+        "আমি মরবো তবুও ভিক্ষা করবো না",
+        "আমি বরং মরবো কিন্তু ভিক্ষা করবো না",
+        "আমি মরলেও ভিক্ষা করবো না",
+        "আমি বরং মরবো তবু ও ভিক্ষা করবো না"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. Choose the correct antonym of the word 'Cool\"",
+      "options": [
+        "Uncool",
+        "Worm",
+        "Hot",
+        "coal"
+      ],
+      "tag": "DAT 13-14,MAT 13-14,RUET 14-15,RUET 13-14,MAT 13-14,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4. Find out the sentence with the correct form of verb: Had I been a king, I (help) the poor.",
+      "options": [
+        "Had I been a king, I would have helped the poor.",
+        "Had I been a king, I had helped the poor.",
+        "Had I been a king, I helped the poor.",
+        "Had I been a king, I would helped the poor.",
+        "Had I been a king, I must helped the poor."
+      ],
+      "tag": "RUET 14-15,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. Which one of the following is a complex sentence?",
+      "options": [
+        "He is too weak to walk.",
+        "He is very weak, so he cannot walk.",
+        "As he is very weak, he cannot walk.",
+        "None of them"
+      ],
+      "tag": "CUET 09-10,PUST A 17-18"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. Choose the correct sentence:",
+      "options": [
+        "Weather is changing slowly",
+        "Weather is changing naturally.",
+        "Weather is changing day by day.",
+        "Weather is changing by force."
+      ],
+      "tag": "RUET 14-15,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. Select the correct change of voice of the following sentence : His conduct shocked me.",
+      "options": [
+        "I was shocked to his conduct .",
+        "I was shocked by his conduct .",
+        "I was shocked at his conduct .",
+        "I was shocked for his conduct ."
+      ],
+      "tag": "RUET 14-15,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. What kinds of noun the word 'Clergy \" is ?",
+      "options": [
+        "Proper",
+        "Abstract",
+        "Collective",
+        "Material"
+      ],
+      "tag": "RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. Choose the correct indirect form of the following direct form of speech: The teacher said to me, ‘Don’t come here.’",
+      "options": [
+        "The teacher ordered me not to go there",
+        "The teacher ordered me not to come here.",
+        "The teacher ordered me do not go there .",
+        "The teacher commends me not to go there."
+      ],
+      "tag": "RUET 14-15,RUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. Strategy is an appropriate word to use for your approach to the examination on the day. It has been said that 50% of your chances of success relate to your examination skill rather than to your subject knowledge. So, check and double check your exam dates and times. Check what you are allowed and what you are not allowed to take in with you and have these ready the day before.\nWhat should be your strategy?",
+      "options": [
+        "Plan the exam answers",
+        "Plan about the resources you need",
+        "Read the books in the exam hall",
+        "Memorize important question answer",
+        "Ask someone about your approach"
+      ],
+      "tag": "RUET 14-15"
+    }
+  ]
+}

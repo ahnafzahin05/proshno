@@ -1,0 +1,1067 @@
+{
+  "title": "BUTEX 15-16",
+  "questions": [
+    {
+      "subject": "Physics(30)",
+      "question": "1. In a double slit experiment, 60 fringes are observed when wavelength of light 400 nm is used. How many fringes will be observed if wavelength of light 600 nm is used?",
+      "options": [
+        "40",
+        "90",
+        "60",
+        "50"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "2. A cylinder of 20 liter capacity is filled with hydrogen. The total average kinetic energy of hydrogen gas is 1.5 × 10⁵ J. The pressure of hydrogen gas in the cylinder is:-",
+      "options": [
+        "2 × 10⁶ N/m²",
+        "3 × 10⁶ N/m²",
+        "4 × 10⁶ N/m²",
+        "5 × 10⁶ N/m²"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "3. What will be the weight of 1 kg mass on the surface of a planet whose mass is twice and radius is 3 times of the earth?",
+      "options": [
+        "1.1 N",
+        "2.2 N",
+        "4.4 N",
+        "None of these"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "4. Total energy of a particle moving with a velocity $\\frac{c}{\\sqrt{3}}$ is -",
+      "options": [
+        "$0.173 \\mathrm{~m}_{0} \\mathrm{c}^{2}$",
+        "$\\frac{\\sqrt{3}}{2} m_{0} c^{2}$",
+        "$\\frac{\\sqrt{2}}{4} m_{0} c^{2}$",
+        "$1.732 \\mathrm{~m}_{0} \\mathrm{c}^{2}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "5. The volume and temperature relationship for an exothermic process is-",
+      "options": [
+        "PV=Constant",
+        "$P V^{\\gamma - 1} = c o n s \\tan{t}$",
+        "$P V^{1 - \\gamma} = c o n s \\tan{t}$",
+        "$T V^{\\gamma - 1} = c o n s \\tan{t}$"
+      ],
+      "tag": "JCC 24,JB 22,MB 21,CTG.B 21,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "6. If a force F is applied on a body and the body moves with velocity v . The power will be-",
+      "options": [
+        "Fv",
+        "$\\mathrm{F} / \\mathrm{v}$",
+        "$\\mathrm{Fv} / 2$",
+        "$v / F$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "7. One liter air of temperature T is heated until both the pressure and the volume of the air become double. What will be the final temperature?",
+      "options": [
+        "2 T",
+        "4 T",
+        "$\\frac{T}{2}$",
+        "$\\frac{T}{4}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "8. Which is the Compton wavelength equation?",
+      "options": [
+        "$λ_{c} = \\frac{m_{o} c}{h}$",
+        "$λ_{c} = \\frac{m_{o}^{2} c}{h}$",
+        "$λ_{c} = \\frac{h}{m_{o} c}$",
+        "$λ_{c} = \\frac{h^{2}}{m_{o} c}$"
+      ],
+      "tag": "CU A 19-20,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "9. at the same temperature  H 2 H_2 H 2 And  O 2 O_2 O 2 of gas  r . m . s rms r . m . The velocity ratio s is –",
+      "options": [
+        "$1/8$",
+        "$1/4$",
+        "$4$",
+        "$8$"
+      ],
+      "tag": "FCC 24,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "10. Two vectors of equal magnitude are acting on a point. The magnitude of resultant vector is equal to either of the vectors. What is the angle between them?",
+      "options": [
+        "$45^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$150^{\\circ}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "11. What is the power of a crane when it lifts 200 kg weight with $0.1 \\mathrm{~ms}^{-1}$ velocity?",
+      "options": [
+        "19.6 W",
+        "98 W",
+        "196 W",
+        "200 W"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "12. What will be the equivalent spring constant for parallel combination of two individual spring with constant K ?",
+      "options": [
+        "K",
+        "2 K",
+        "$\\frac{K}{2}$",
+        "$\\mathrm{K}^{2}$"
+      ],
+      "tag": "JUST 16-17,Ishaque Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "13. What force should be applied on a 5 kg body so that it has a downword acceleration of $4 \\mathrm{~ms}^{-2}$ ?",
+      "options": [
+        "96 N downwards",
+        "96 N upwards",
+        "29 N upwards",
+        "29 N downwards"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "14. How much heat is required to vaporize 0.5 kg of ice from 0 0 C to 100 0 C? [Latent heat of vaporization 22.68×10 5 Jkg -1 , The latent heat of water is 4.2×10 3 Jkg -1 K -1 and the latent heat of melting of ice is 33.4 10 4 Jkg -1",
+      "options": [
+        "1011kJ",
+        "1511kJ",
+        "5111kJ",
+        "711.1kJ"
+      ],
+      "tag": "RUET 13-14,KUET 13-14,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "15. In meter bridge if $P: Q=1: 2$, then null point will obtain at-",
+      "options": [
+        "16.66 cm",
+        "33.33 cm",
+        "50.00 cm",
+        "66.66 cm"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "16. Momentum of each electron is-",
+      "options": [
+        "$p=\\frac{h \\lambda}{c}$",
+        "$p=\\frac{h c}{\\lambda}$",
+        "$p=\\frac{h}{\\lambda}$",
+        "$p=\\frac{h}{2}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "17. A hollow cylinder of mass is 200 g and radius 10 cm . What is the moment of inertia?",
+      "options": [
+        "$2 \\times 10^{-3} \\mathrm{kgm}$",
+        "$2 \\times 10^{-3} \\mathrm{kgm}^{2}$",
+        "$2 \\times 10^{-4} \\mathrm{kgm}^{2}$",
+        "$2 \\times 10^{-4} \\mathrm{kgm}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "18. In n type semi-conductor which one of the following is correct?",
+      "options": [
+        "$\\mathrm{n}_{\\mathrm{h}}=\\mathrm{n}_{\\mathrm{e}}$",
+        "$n_{h}>n_{e}$",
+        "$\\mathrm{n}_{\\mathrm{h}}<\\mathrm{n}_{\\mathrm{e}}$",
+        "$\\mathrm{n}_{\\mathrm{h}} \\approx \\mathrm{n}_{\\mathrm{e}}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "19. A body is oscillating in simple harmonic motion according to $\\mathrm{x}=3 \\cos (40 \\mathrm{t})$, where x measures in meters and $t$ is in seconds. What is its maximum velocity in $\\mathrm{ms}^{-1}$ ?",
+      "options": [
+        "80",
+        "120",
+        "$-120 \\cos (40 t)$",
+        "$3 \\cos (40)$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "20. The diameter of a wire is 1 mm and specific resistance $48 \\times 10^{-8} \\Omega-\\mathrm{m}$. If the diameter is double, the specific resistance will be-",
+      "options": [
+        "$48 \\times 10^{-8} \\Omega-\\mathrm{m}$",
+        "$24 \\times 10^{-8} \\Omega-\\mathrm{m}$",
+        "$12 \\times 10^{-8} \\Omega-\\mathrm{m}$",
+        "$6 \\times 10^{-8} \\Omega-\\mathrm{m}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "21. If the mass of sun is $M_{0}$, what will be the chandrasekhar limit?",
+      "options": [
+        "$1.2 \\mathrm{M}_{0}$",
+        "$1.4 \\mathrm{M}_{0}$",
+        "$3 \\mathrm{M}_{0}$",
+        "$3.4 \\mathrm{M}_{0}$"
+      ],
+      "tag": "Ishaque Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "22. At what angle from the vertical must a fish look out of water to see the setting sun?",
+      "options": [
+        "57.65°",
+        "48.75°",
+        "41.25°",
+        "40.55°"
+      ],
+      "tag": "JUST 19-20,MBSTU 19-20,BUTEX 15-16,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "23. Which one of the following for velocity of red $\\left[\\mathrm{V}_{\\mathrm{R}}\\right]$ and violet $\\left[\\mathrm{V}_{\\mathrm{V}}\\right]$ light in air medium is true?",
+      "options": [
+        "$V_{R}>V_{V}$",
+        "$V_{R}$",
+        "$V_{R}=V_{V}$",
+        "$V_{R} \\approx V_{V}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "24. A and B are two tuning forks when sounding together 5 beats are heard per second. Beats are reduced if the mass of A is reduced. What is the frequency of $A$ ? $\\mathrm{f}_{\\mathrm{B}}=440 \\mathrm{~Hz}$",
+      "options": [
+        "440 Hz",
+        "435 Hz",
+        "445 Hz",
+        "450 Hz"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "25. A rifle shot pierced a plank and stopped. If the speed of the bullet is tripled, how many planks can the bullet penetrate?",
+      "options": [
+        "12",
+        "3",
+        "8",
+        "9"
+      ],
+      "tag": "DRMC 24,JnU 17-18,Agri. GST 20-21,DU A 13-14,DU A  10-11,JU H 17-18 (SET 6),Pramanik Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "26. If the intensity level of a sound is twice the initial intensity, the subsequent intensity will be-",
+      "options": [
+        "I2 = 100I1²",
+        "I2 = I12 / I0",
+        "I2 = I1/I0",
+        "I2 = I12 / I20"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "27. $440 \\mathrm{~V}-60 \\mathrm{~A}$ is marked in straight long distribution line. What is the value of the magnetic field at a point vertically 1.2 m downward from the line?",
+      "options": [
+        "$10^{-3} \\mathrm{~T}$",
+        "$10^{-4} \\mathrm{~T}$",
+        "$10^{-5} \\mathrm{~T}$",
+        "$10^{-6} \\mathrm{~T}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "28. What is the equivalent of 1 Tesla given below?",
+      "options": [
+        "$1 \\mathrm{AN}^{-1} \\mathrm{~m}^{-1}$",
+        "$1 \\mathrm{AmN}^{-1}$",
+        "$1 \\mathrm{NA}^{-1} \\mathrm{~m}^{-1}$",
+        "$1 \\mathrm{Nwbm}^{-1}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "29. What is the power of equivalent lens of a convex lens of power 2 D and a concave lens of power 3.5 D ?",
+      "options": [
+        "5.5 D",
+        "1.5 D",
+        "-1.5 D",
+        "-5.5 D"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "30. If a coil with 400 winding with 4 ampere electric produce 0.02 wb flux. What is the Selfinductance of the coil?",
+      "options": [
+        "0.5 Henry",
+        "1.0 Henry",
+        "2.0 Henry",
+        "4.0 Henry"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "1. Three velocities acting on a particle be in equilibrium, the velocities are $3 \\mathrm{~ms}^{-1}, 7 \\mathrm{~ms}^{-1}$ and $8 \\mathrm{~ms}^{-1}$ what is the angle between the smallest and biggest velocities?",
+      "options": [
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$160^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "2. $\\int_{-1}^{1}|x| d x=?$",
+      "options": [
+        "2",
+        "-1",
+        "1",
+        "0"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "3. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "4. ABCDEF is an even edged hexagonal.\n$\\overrightarrow{A B}+\\overrightarrow{A C}+\\overrightarrow{A D}+\\overrightarrow{A E}+\\overrightarrow{A F}=?$",
+      "options": [
+        "$3 \\overrightarrow{\\mathrm{AD}}$",
+        "$2 \\overrightarrow{\\mathrm{AD}}$",
+        "$\\frac{3}{2} \\overrightarrow{\\mathrm{AD}}$",
+        "None"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "5. If $x^{p} y^{q}=(x+y)^{p+q}$, then $\\frac{d y}{d x}=$ ?",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$\\frac{y}{x}$",
+        "$\\frac{y^{2}}{x}$",
+        "$\\frac{y}{x^{2}}$"
+      ],
+      "tag": "RUET 10-11,BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "6. What is the value of $\\lim _{x \\rightarrow 0} \\frac{1-\\cos 7 x}{3 x^{2}}$ ?",
+      "options": [
+        "$\\frac{6}{49}$",
+        "$\\frac{49}{6}$",
+        "$\\frac{7}{3}$",
+        "$\\frac{2}{3}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "7. A circle whose center is at $(1,2)$ touches x -axis. What is the length of intercept made on $y$-axis by the given circle?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$2 \\sqrt{2}$",
+        "$2 \\sqrt{3}$",
+        "3"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "8. What is the maximum value of $\\left(x+\\frac{1}{x}\\right)$ ?",
+      "options": [
+        "2",
+        "1",
+        "2",
+        "1"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "9. What is the maximum height attained by a projectile thrown with velocity of $u$ at an angle $\\alpha$ with the horizontal line?",
+      "options": [
+        "$\\frac{u^{2} \\sin ^{2} \\alpha}{2 g}$",
+        "$\\frac{u \\sin ^{2} \\alpha}{2 g}$",
+        "$\\frac{u^{2} \\sin 2 \\alpha}{2 g}$",
+        "$\\frac{u^{2} \\sin \\alpha}{2 g}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "10. What is the slope of the curve $y=\\frac{2}{x}$ at $x=\\frac{1}{2}$ ?",
+      "options": [
+        "4",
+        "8",
+        "-8",
+        "2"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "11. If $\\tan \\alpha-\\tan \\beta=p, \\cot \\beta-\\cot \\alpha=q, \\alpha-\\beta=\\theta$, then what is the value of $\\cot \\theta$ ?",
+      "options": [
+        "$\\frac{1}{p}-\\frac{1}{q}$",
+        "$\\frac{1}{q}-\\frac{1}{p}$",
+        "$\\frac{1}{p}+\\frac{1}{q}$",
+        "$1-\\frac{p}{q}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "12. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "13. What is the area bonded by $y^{2}=4 x$ and $y=x$ ?",
+      "options": [
+        "3",
+        "8",
+        "$\\frac{8}{3}$",
+        "$\\frac{3}{8}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "14. Dimension of matrix A, B and C are $4 \\times 5,5 \\times$ $4,4 \\times 2$ respectively, dimension of $\\left(A^{T}+B\\right) C$ is-",
+      "options": [
+        "$5 \\times 4$",
+        "$4 \\times 2$",
+        "$5 \\times 2$",
+        "$2 \\times 5$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "15. The ordinate of the point on the parabola $y^{2}=9 x$ is 12 . The focal distance of the point $P$ will be",
+      "options": [
+        "9.50",
+        "18.25",
+        "10.50",
+        "20.25"
+      ],
+      "tag": "CCC 24,CB 23,JB 22,JB 17,PUST 16-17,BUET 12-13,JU A 22-23 (SET N),BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "16. For what value of $k$ the three straight lines $x-$ $y+5=0, x+y-1=0, k x-y+13=0$ will be collinear?",
+      "options": [
+        "1",
+        "5",
+        "7",
+        "3"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "17. If $\\omega$ is a complex cube root of unity, what is the value of $\\left(1-\\omega+\\omega^{2}\\right)^{2}+\\left(1+\\omega-\\omega^{2}\\right)^{2}$ ?",
+      "options": [
+        "-4",
+        "-8",
+        "16",
+        "4"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "18. A body falls freely from the roof of a building. During the last second of its motion it falls $\\frac{9}{25}$ th of the total height, what is the height of the building?",
+      "options": [
+        "44.1 m",
+        "122.5 m",
+        "78.4 m",
+        "93.96 m"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "19. If the line $3 x+k y-1=0$ touches the circle $x^{2}+y^{2}-8 x-2 y+4=0$, then what are the values of k ?",
+      "options": [
+        "$2, \\frac{1}{6}$",
+        "$-2, \\frac{1}{6}$",
+        "$2,-\\frac{1}{6}$",
+        "$-2,-\\frac{1}{6}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "20. One root of the equation $x^{3}-5 x^{2}+17 x-13=0$ is 1 , what are the other two roots?",
+      "options": [
+        "$2+3 \\mathrm{i}, 2-3 \\mathrm{i}$",
+        "$3+2 \\mathrm{i}, 3-2 \\mathrm{i}$",
+        "$4+2 i, 4-2 i$",
+        "$2+4 \\mathrm{i}, 2-4 \\mathrm{i}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "21. What is the value of the determinant $\\left|\\begin{array}{ccc}1 & 1 & 1 \\\\ a & b & c \\\\ a^{2}-b c & b^{2}-c a & c^{2}-a b\\end{array}\\right|$ ?",
+      "options": [
+        "2",
+        "abc",
+        "0",
+        "$a^{2} b^{2} c^{2}$"
+      ],
+      "tag": "DRMC 24,DU A 12-13,DU A  10-11,JU A 21-22 (SET I),JU A 18-19 (SET C),BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "22. If $P(A \\cap B)=\\frac{1}{3}, P(A \\cup B)=\\frac{5}{6}$ and $P(A)=\\frac{1}{2}$, then $P\\left(B^{c}\\right)=$ ?",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{5}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "23. In the expansion of $\\left(\\frac{4 x}{5}-\\frac{5}{2 x}\\right)^{9}$, what is the $7^{\\text {th }}$ term?",
+      "options": [
+        "${ }^{9} \\mathrm{C}_{7} \\times \\frac{125}{\\mathrm{x}^{3}}$",
+        "$-{ }^{9} \\mathrm{C}_{7} \\times \\frac{125}{\\mathrm{x}^{3}}$",
+        "${ }^{7} \\mathrm{C}_{6} \\times \\frac{125}{\\mathrm{x}^{3}}$",
+        "${ }^{9} \\mathrm{C}_{6} \\times \\frac{125}{\\mathrm{x}^{3}}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "24. If $f(x)=x^{2}+3 x+1$ and $g(x)=2 x-3$ then find the value of gof(1).",
+      "options": [
+        "10",
+        "7",
+        "13",
+        "15"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),RU C 19-20 (GROUP 3),JU A 16-17 (SET 12),JU A 15-16 (SET 3),BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "25. Under condition $x \\leq 2, y \\geq 3, y \\leq 2 x$, what is the maximum value of $z=3 x+4 y$ ?",
+      "options": [
+        "18",
+        "22",
+        "16.5",
+        "26"
+      ],
+      "tag": "SUST 18-19,MBSTU 18-19,MBSTU 16-17,BSMRSTU 17-18,Agr. GST 22-23,DU A 15-16,DU A 17-18,DU A  10-11,JU A 16-17 (SET 4),BUTEX 17-18,BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "26. How many arrangements can be made using the letters in the word ENGINEERING?",
+      "options": [
+        "$\\frac{11!}{3!3!2!2!}$",
+        "$\\frac{11!}{4!3!2!}$",
+        "$\\frac{11!}{3!2!2!}$",
+        "None"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Mathematics(27)",
+      "question": "27. The decimal number of 2015 expressed in binary form is-",
+      "options": [
+        "11111011110",
+        "01111011111",
+        "11110111110",
+        "01111101111"
+      ],
+      "tag": "BUTEX 14-15,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "1. What is the antonym of 'frugal'?",
+      "options": [
+        "wasteful",
+        "careful",
+        "economical",
+        "prodigal"
+      ],
+      "tag": "BUTEX 15-16,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. Choose the alternative that best completes the sentence:\nThroughout the animal kingdom, ____ bigger than the elephant.",
+      "options": [
+        "whale is only the",
+        "only the whale is",
+        "is the whale only",
+        "only whale is the"
+      ],
+      "tag": "BUTEX 15-16,RU B 17-18 (অ-বাণিজ্য),CU C 16-17,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. Few men are free from faults. Here 'few' means ___.",
+      "options": [
+        "Some",
+        "Not much",
+        "None",
+        "Hardly any"
+      ],
+      "tag": "MAT 23-24,BUTEX 15-16,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4. Fill in the blank with appropriate choice: The first article of the United States Constitution gives Congress______ to pass laws",
+      "options": [
+        "the power",
+        "has the power",
+        "the power is",
+        "of the power"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. \"The more ignorant a man is, the less modest he is.\" What kind of sentence is it?",
+      "options": [
+        "Simple",
+        "Complex",
+        "Compound",
+        "None"
+      ],
+      "tag": "BUTEX 15-16,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. We were waiting for the bus. Here the underlined part is_________",
+      "options": [
+        "a noun phrase",
+        "an infinitive phrase",
+        "a prepositional phrase",
+        "a verb phrase"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. Choose the correct answer.\nWhat would have happened if ____?",
+      "options": [
+        "the bridge is broken",
+        "the bridge would break",
+        "the bridge had broken",
+        "the bridge has been broken"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. Which one is the correct sentence?",
+      "options": [
+        "He gathered a lot of information's",
+        "An accident was occurred there in front of my eyes.",
+        "The police has caught the thief",
+        "Every man, woman and child was lost."
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. Select the correct linking word to fill in the gap.\nRead attentively ____ you should fail in the examination.",
+      "options": [
+        "or",
+        "lest",
+        "Until",
+        "till"
+      ],
+      "tag": "BUTEX 15-16,BUTEX 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. The meaning of the idiom 'through thick and thin' is______",
+      "options": [
+        "anything",
+        "anytime",
+        "anywhere",
+        "under any circumstance"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "1. Which one is used to distinguish among $1^{\\circ}, 2^{\\circ}$ and $3^{\\circ}$ amines?",
+      "options": [
+        "$\\mathrm{HNO}_{3}$",
+        "Zn and HCl",
+        "$\\mathrm{HNO}_{2}$",
+        "$\\mathrm{CHCl}_{3}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "2. How much water $\\left(\\mathrm{cm}^{3}\\right)$ should be added to convert $50 \\mathrm{~cm}^{3} 0.15 \\mathrm{M}$ solution to its decimolar solution?",
+      "options": [
+        "75",
+        "50",
+        "25",
+        "10"
+      ],
+      "tag": "Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "3. If solubility of $\\mathrm{Al}(\\mathrm{OH})_{3}$ be $x$ then what is the solubility product of $\\mathrm{Al}(\\mathrm{OH})_{3}$ ?",
+      "options": [
+        "$\\mathrm{x}^{4}$",
+        "$27 x^{3}$",
+        "$27 x^{4}$",
+        "$27 x^{2}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "4. Grignard reagent $+\\mathrm{RCHO} \\rightarrow$ ' X '; what type of compound ' X ' is?",
+      "options": [
+        "Organic acid",
+        "$3^{\\circ}$ alcohol",
+        "$1^{\\circ}$ alcohol",
+        "$2^{\\circ}$ alcohol"
+      ],
+      "tag": "JCC 24,PUST 19-20,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "5. Which acid can be used instead of conc. $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ to get more pure ethyne?",
+      "options": [
+        "conc. HCl",
+        "conc. $\\mathrm{H}_{3} \\mathrm{PO}_{4}$",
+        "conc. $\\mathrm{HNO}_{3}$",
+        "$\\mathrm{HNO}_{2}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "6. The total values of magnetic quantum number for a given value of subsidiary quantum number is-",
+      "options": [
+        "21",
+        "$2 \\mathrm{l}+1$",
+        "$2 \\mathrm{l}-1$",
+        "$2 \\mathrm{l}-2$"
+      ],
+      "tag": "Guha Sir,BUTEX 14-15,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "7. Which one is correct of the following?",
+      "options": [
+        "$\\mathrm{V} \\propto \\mathrm{P}$ [at constant m$]$",
+        "$\\mathrm{C}=(\\mathrm{RT} / 3 \\mathrm{M})^{\\frac{1}{2}}$",
+        "$\\mathrm{V} \\propto \\mathrm{T}$ [at constant P",
+        "$R=\\frac{P T}{n v}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "8. Which one of the following compound can produce diazonum salt?",
+      "options": [
+        "$\\mathrm{C}_{2} \\mathrm{H}_{5}-\\mathrm{NH}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{NO}_{2}$",
+        "$\\mathrm{C}_{6} \\mathrm{H}_{5}-\\mathrm{NH}_{2}$",
+        "$\\left(\\mathrm{CH}_{3}\\right)_{3} \\mathrm{~N}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "9. Which one of the following oxides is co-valent?",
+      "options": [
+        "$\\mathrm{Na}_{2} \\mathrm{O}$",
+        "$\\mathrm{Al}_{2} \\mathrm{O}_{3}$",
+        "$\\mathrm{SiO}_{2}$",
+        "FeO"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "10. What is the molarity of 5% $Na_2CO_3$?",
+      "options": [
+        "0.98 M",
+        "0.89 M",
+        "0.79 M",
+        "0.471 M"
+      ],
+      "tag": "RU H 15-16 (G-EVEN),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 19-20 (SET P),Lingcon Sir,Guha Sir,Hazari Sir,Lingcon Sir,Guha Sir,Kabir Sir,Kabir Sir,BUTEX 16-17,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "11. There is a mixture of 28 g Nitrogen and 142 g chlorine and the total pressure of the gas mixture is 12 atm . What will be the partial pressure of nitrogen gas in the mixture?",
+      "options": [
+        "8 atm",
+        "4 atm",
+        "6 atm",
+        "2 atm"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "12. What type of hybridization occured in $\\mathrm{SF}_{6}$ molecule?",
+      "options": [
+        "$\\mathrm{sp}^{2} \\mathrm{~d}^{3}$",
+        "$\\mathrm{sp}^{3} \\mathrm{~d}^{2}$",
+        "$d^{2} s p^{3}$",
+        "$\\mathrm{sp}^{3}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "13. What is the concentration of $\\mathrm{CaCl}_{2}$ in ppm unit for 0.015 M solution?",
+      "options": [
+        "1665",
+        "1600",
+        "1650",
+        "1690"
+      ],
+      "tag": "Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "14. Which one is primary standard substance?",
+      "options": [
+        "$\\mathrm{H}_{2} \\mathrm{SO}_{4}$",
+        "NaOH",
+        "$\\mathrm{CaCO}_{3}$",
+        "$\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "15. Which of the following is produced from clemmensen reduction of benzaldehyde?",
+      "options": [
+        "Benzene",
+        "Benzoic",
+        "Toluene",
+        "Benzylalcohol"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "16. Which block element in the periodic table has the largest number of elements?",
+      "options": [
+        "S",
+        "P",
+        "d",
+        "f"
+      ],
+      "tag": "RB 23,CB 22,MC 24,Lingcon Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "17. What is the pH of $2 \\%\\left(\\frac{W}{V}\\right) \\mathrm{Na}_{2} \\mathrm{CO}_{3}$ solution?",
+      "options": [
+        "10.6",
+        "12.6",
+        "13.6",
+        "14.0"
+      ],
+      "tag": "RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),Guha Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 16-17,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "18. The chemical reagent $\\mathrm{Br}_{2} / \\mathrm{KOH}$ is used in which of the following reactions?",
+      "options": [
+        "Wurtz reaction",
+        "Willson reaction",
+        "Hoffmann degradation reaction",
+        "Friedel Craft reaction"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "19. Which one of the following shows tautomerism?",
+      "options": [
+        "$\\mathrm{C}_{2} \\mathrm{H}_{6} \\mathrm{O}$",
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4} \\mathrm{O}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{8}$",
+        "$\\mathrm{C}_{3} \\mathrm{H}_{6} \\mathrm{O}$"
+      ],
+      "tag": "Hazari Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "20. In which compound, Chlorine has highest oxidation number?",
+      "options": [
+        "$\\mathrm{HClO}$",
+        "$\\mathrm{HClO}_{2}$",
+        "$\\mathrm{HClO}_{3}$",
+        "$\\mathrm{HClO}_{4}$"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 15-16 (G-ODD),JU A 22-23 (SET N),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 15-16 (SET 5),JU D 21-22 (SET H),JU D 18-19 (SET N),JU D 15-16 (SET 5),Guha Sir,Hazari Sir,Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "21. Ozonolysis of 2-butyne gives-",
+      "options": [
+        "Formic acid",
+        "Propanoic acid",
+        "Acetic acid",
+        "Butanoic acid"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "22. What is the value of Ionic product of water at 298K?",
+      "options": [
+        "$10^{-12}$",
+        "$10^{-15}$",
+        "$10^{-14}$",
+        "$10^{-7}$"
+      ],
+      "tag": "DB 23,MB 23,CTG.B 23,DB 22,All.B 18,DB 17,BB 17,BMARPC 24,MAT 21-22,BUET 10-11,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "23. What is the oxidation number of Cl in $\\mathrm{HClO}_{4}$ ?",
+      "options": [
+        "+8",
+        "+7",
+        "+9",
+        "+2"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "24. How many $\\alpha$-hydrogen are there in $\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{CHO}$ ?",
+      "options": [
+        "5",
+        "2",
+        "0",
+        "1"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "25. Which one is used as glass cleaner?",
+      "options": [
+        "Liquor $\\mathrm{NH}_{3}$",
+        "Solid $\\mathrm{NH}_{3}$",
+        "$\\mathrm{NH}_{3}$ gas",
+        "$\\mathrm{NH}_{4} \\mathrm{Cl}$"
+      ],
+      "tag": "Guha Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "26. For which chromatographic method, mixture of $\\mathrm{H}_{2} \\mathrm{O}$ and $\\mathrm{CH}_{3} \\mathrm{OH}$ is used is running phase?",
+      "options": [
+        "GC",
+        "HPLC",
+        "GPLC",
+        "TLC"
+      ],
+      "tag": "Guha Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "27. Molecular formula of glucose is$C_6H_{12}O_6$; What is it?",
+      "options": [
+        "An aldehyde",
+        "A carbohydrate",
+        "An acid",
+        "An ester"
+      ],
+      "tag": "Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "28. Which one of the following batteries is rechargeable?",
+      "options": [
+        "Lithium ion battery",
+        "Lithium battery",
+        "Dry cell",
+        "Alkali cell"
+      ],
+      "tag": "BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "29. Which of the following is the unit of reaction rate?",
+      "options": [
+        "mol L-1 s-1",
+        "mol L s-1",
+        "mol L-1 s",
+        "mol-1 L-1 s-1"
+      ],
+      "tag": "CU A 19-20,BUET 11-12,JU A 22-23 (SET N),Lingcon Sir,Kabir Sir,BUTEX 15-16"
+    },
+    {
+      "subject": "Chemestry (30)",
+      "question": "30. Which one of the following bonds is zero-order?",
+      "options": [
+        "$\\mathrm{F}_{2}$",
+        "$\\mathrm{N}_{2}$",
+        "$\\mathrm{H}-\\mathrm{F}$",
+        "$\\mathrm{He}_{2}$"
+      ],
+      "tag": "BUTEX 15-16"
+    }
+  ]
+}

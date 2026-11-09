@@ -1,0 +1,550 @@
+{
+  "title": "BUTEX 11-12 MCQ",
+  "questions": [
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "1. What is the value of $\\cot \\left(\\sin ^{-1} x\\right)$ ?",
+      "options": [
+        "$\\sqrt{1-\\mathrm{x}^{2}}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{\\mathrm{x}}{\\sqrt{1-\\mathrm{x}^{2}}}$",
+        "None"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "2. What is the area enclosed by the parabola $\\mathrm{y}^{2}=2 \\mathrm{x}$ and the perpendicular passing through the focus?",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{8}{3}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{4}{3}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "3. Value of $\\int \\mathrm{x}^{-1} \\mathrm{dx}$ ?",
+      "options": [
+        "$\\ln \\mathrm{x}$",
+        "$\\infty$",
+        "0",
+        "$\\frac{1}{x^{2}}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "4. At $\\mathrm{x}=\\frac{1}{2}$ of the curve $\\mathrm{y}=\\frac{2}{\\mathrm{x}}$, the slope is-",
+      "options": [
+        "4",
+        "-8",
+        "8",
+        "-2"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "5. A mango of $0.5 \\mathrm{~kg}$ mass is falling downwards from a tree. If the air resistance is $2.4 \\mathrm{~N}$, then what will be the acceleration of the mango in $\\mathrm{ms}^{-2}$ unit?",
+      "options": [
+        "5.0",
+        "5.5",
+        "6.0",
+        "6.5"
+      ],
+      "tag": "GST 21-22,BSMRSTU 18-19,BUET 6-7,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "6. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "7. Determine the length of the perpendicular from the point $(1,1)$ to the circle $x^{2}+y^{2}+2(x+y)=0$",
+      "options": [
+        "$\\sqrt{5}$",
+        "$\\sqrt{6}$",
+        "$\\sqrt{7}$",
+        "None"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "8. What is the value of $\\frac{d}{d x}(\\ln \\sqrt{x})$ ?",
+      "options": [
+        "$\\frac{1}{2 \\sqrt{x}}$",
+        "$\\frac{1}{2 x}$",
+        "$\\frac{1}{2 \\sqrt{\\ln x}}$",
+        "$2 \\sqrt{\\mathrm{x}}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "9. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "10. $0!=?$",
+      "options": [
+        "$\\infty$",
+        "$-\\infty$",
+        "0",
+        "1"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "11. What is the probability of 53 Fridays in a leap year?",
+      "options": [
+        "$\\frac{1}{7}$",
+        "$\\frac{2}{7}$",
+        "$\\frac{3}{7}$",
+        "$\\frac{4}{7}$"
+      ],
+      "tag": "JUST 18-19,BUTEX 12-13,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "12. If ${C}_{r}$ denotes the binomial coefficient ${ _{ ; }^{ n }{ C } }_{ r }$ then $\\left( -1 \\right) { C }_{ 0 }^{ 2 }+2{ C }_{ 1 }^{ 2 }+5{ C }_{ 2 }^{ 2 }+......(3n-1){ C }_{ n }^{ 2 }=\\quad$",
+      "options": [
+        "$\\left( 3n-2 \\right) { _{  }^{ 2n }{ C } }_{ n }$",
+        "$\\left( \\cfrac { 3n-2 }{ 2 }  \\right) { _{  }^{ 2n }{ C } }_{ n }$",
+        "$\\left( 5+3n \\right) { _{  }^{ 2n }{ C } }_{ n }$",
+        "$\\left( \\cfrac { 3n-5 }{ 2 }  \\right) { _{  }^{ 2n }{ C } }_{ n+1 }$"
+      ],
+      "tag": "BB 17,PUST 16-17,JnU 17-18,NSTU 16-17,Agri. GST 20-21,DU A 18-19,KUET 11-12,JU A 16-17 (SET 4),BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "13. Length of the component of $\\vec{B}$ in the direction of $\\vec{A}$.",
+      "options": [
+        "$|\\vec{A}| \\cos \\theta$",
+        "$|\\vec{B}| \\cos \\theta$",
+        "$|\\vec{B}| \\sin \\theta$",
+        "$|\\vec{A}| \\sin \\theta$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "14. What is the difference between the binary numbers (110101) 2 and (10010.01) 2 ?",
+      "options": [
+        "(347.5)10",
+        "(30.75)10",
+        "(34.75)10",
+        "(3.475)10"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics (MCQ)(15)",
+      "question": "15. If $\\tan 2 \\theta+\\sec \\theta=-1,0<\\theta<2 \\pi$ then what is the value of $\\theta$ ?",
+      "options": [
+        "$\\pi$",
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{3 \\pi}{2}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "1. Two equal vectors act at a point. The value of their realization is equal to the value of any vector. What is the angle between the two vectors?",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "0°"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),JU A 22-23 (SET I),JU A 21-22 (SET I),JU A 20-21 (SET B),JU A 16-17 (SET 12),JU A 15-16 (SET 4),JU H 16-17 (SET 3),JU H 17-18 (SET 6),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 17-18,BUTEX 14-15,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "2. Beautiful colors are seen on thin film of oil on water during rainy day, what is it's reason?",
+      "options": [
+        "Dispersion",
+        "Polarization",
+        "Interference",
+        "Diffraction"
+      ],
+      "tag": "BISCM 24,SB 17,BUET 5-6,Ishaque Sir,Tofazzal Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "3. Electric field intensity at 20 cm from $2 \\times 10^{-5} \\mathrm{C}$ charge:",
+      "options": [
+        "$4.5 \\times 10^{6} \\mathrm{~N} / \\mathrm{C}$",
+        "$3.5 \\times 10^{5} \\mathrm{~N} / \\mathrm{C}$",
+        "$3.5 \\times 10^{6} \\mathrm{~N} / \\mathrm{C}$",
+        "$4.5 \\times 10^{5} \\mathrm{~N} / \\mathrm{C}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "4. Which of the following cannot be polarized?",
+      "options": [
+        "X-ray",
+        "radio wave",
+        "Infrared",
+        "Sound waves in air"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "5. If an object rolls on the surface of the earth, it finally stops due to-",
+      "options": [
+        "mass",
+        "friction",
+        "inertia",
+        "momentum"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "6. If the potential of platinum is 6.31 eV, what is its starting frequency?",
+      "options": [
+        "15.32×1014 Hz",
+        "15.23×1014 Hz",
+        "66.94 x 10-53 Hz",
+        "9.52 x 1033 Hz"
+      ],
+      "tag": "FCC 24,DU A 17-18,JU A 21-22 (SET F),Ishaque Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "7. What is the amount of energy accumulated in a $4 \\mu \\mathrm{~F}$ capacitor due to charging it with a 9.0 V battery?",
+      "options": [
+        "$1.62 \\times 10^{-4} \\mathrm{~J}$",
+        "$2.62 \\times 10^{-4} \\mathrm{~J}$",
+        "$3.62 \\times 10^{-4} \\mathrm{~J}$",
+        "$4.62 \\times 10^{-4} \\mathrm{~J}$"
+      ],
+      "tag": "Ishaque Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "8. What type of process is the expansion and contraction of a spring within its elastic limit?",
+      "options": [
+        "isothermal",
+        "isobaric",
+        "irreversible",
+        "reversible"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "9. What is the dimension of co-efficient of viscosity?",
+      "options": [
+        "$\\left[\\mathrm{ML}^{-2} \\mathrm{~T}^{-2}\\right]$",
+        "$\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-3}\\right]$",
+        "$\\left[\\mathrm{ML}^{-1} \\mathrm{~T}^{-1}\\right]$",
+        "$\\left[\\mathrm{M}^{-2} \\mathrm{~L}^{2} \\mathrm{~T}^{-1}\\right]$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "10. If a series of sounds are made and they create a pleasant sound then it is called-",
+      "options": [
+        "harmony",
+        "octave",
+        "melody",
+        "resonance"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "11. What is the type of final image formed by an astronomical telescope?",
+      "options": [
+        "Erect and short",
+        "Erect and magnified",
+        "Inverted and short",
+        "Inverted and magnified"
+      ],
+      "tag": "DAT 22-23,Ishaque Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "12. What is the r.m.s value for an ac peak voltage of 100 V ?",
+      "options": [
+        "70.7 A",
+        "70.7 V",
+        "7.07 V",
+        "7.07 A"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "13. At what angle from the vertical must a fish look out of water to see the setting sun?",
+      "options": [
+        "57.65°",
+        "48.75°",
+        "41.25°",
+        "40.55°"
+      ],
+      "tag": "JUST 19-20,MBSTU 19-20,BUTEX 15-16,BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "14. What is the time taken for an object thrown vertically upwards to reach maximum height?",
+      "options": [
+        "$t=\\frac{2 v_{0}}{g}$",
+        "$\\mathrm{t}=\\frac{2 \\mathrm{v}_{0}^{2}}{\\mathrm{~g}}$",
+        "$t=\\frac{v_{0}}{g}$",
+        "$t=\\frac{\\sqrt{v_{0}}}{g}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Physics (MCQ)(15)",
+      "question": "15. The specific heat of any gas is:",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "infinite"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "1. Which one of the following is a composite particle?",
+      "options": [
+        "electron, proton and neutron",
+        "alpha particle and deuteron",
+        "positron and meson",
+        "photon"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "2. Molarity of hydrogen ion in $1.0 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}{ }^{-}$",
+      "options": [
+        "1.0 M",
+        "2.0 M",
+        "3.0 M",
+        "4.0 M"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "3. Range of pH of tears-",
+      "options": [
+        "$6.65-6.38$",
+        "$6.6-6.9$",
+        "$4.8-7.5$",
+        "$2.0-1.6$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "4. Which element is used for Cancer treatment?",
+      "options": [
+        "Rn",
+        "He",
+        "Ne",
+        "Al"
+      ],
+      "tag": "DB 23,HSTU 16-17,MAT 14-15,CU A 14-15,Guha Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "5. Which type of isomerism is showed by the compound $\\mathrm{H}_{3} \\mathrm{C}-\\mathrm{CH}=\\mathrm{CH}-\\mathrm{CH}_{3}$ (Butene -2 )?",
+      "options": [
+        "Optical isomerism",
+        "Chain isomerism",
+        "Cis-trans isomerism",
+        "Position isomerism"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "6. Which one is used in as a refrigerant of electrical refrigerators?",
+      "options": [
+        "$\\mathrm{NH}_{3}$",
+        "$\\mathrm{NH}_{3} \\mathrm{Cl}$",
+        "$\\mathrm{CO}_{2}$",
+        "$\\mathrm{NH}_{4} \\mathrm{OH}$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "7. Which one is a catalyst poison?",
+      "options": [
+        "$\\mathrm{As}_{2} \\mathrm{O}_{3}$",
+        "$\\mathrm{MnO}_{2}$",
+        "$\\mathrm{Al}_{2} \\mathrm{O}_{3}$",
+        "Ni"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "8. The monomer of DNA is-",
+      "options": [
+        "Nucleotide",
+        "Nucleoside",
+        "Nucleic acid",
+        "None"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "9. What is the \\% of CFC in greenhouse gases?",
+      "options": [
+        "$16 \\%$",
+        "$6 \\%$",
+        "$13 \\%$",
+        "$14 \\%$"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "10. The heat of neutralization of a strong acid and strong base is:",
+      "options": [
+        "57.32 kJ",
+        "58.03 kJ",
+        "55.2 kJ",
+        "50.4 kJ"
+      ],
+      "tag": "DAT 21-22,BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "11. What is the shape of gypsum crystal?",
+      "options": [
+        "rhombohedral",
+        "triclinic",
+        "monoclinic",
+        "hexagonal"
+      ],
+      "tag": "BUTEX 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "12. The OH - group is on the left side of L-glucose in-",
+      "options": [
+        "1,2 carbon",
+        "2, 5 carbon",
+        "3,5 carbon",
+        "1,6 carbon"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "13. Which method is used for the analysis of $S$ and $P$ in compounds?",
+      "options": [
+        "Carius",
+        "Duma",
+        "Combustion",
+        "Kjeldahl"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "14. Clathrates are formed by-",
+      "options": [
+        "Noble/inert gases",
+        "Transition elements",
+        "Rare earth metals",
+        "Alkali metals"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "Chemistry (MCQ)(15)",
+      "question": "15. Formaldehyde creates with phenol-",
+      "options": [
+        "Bakelite",
+        "Atakamite",
+        "Cerucite",
+        "Galena"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "English (MCQ)(5)",
+      "question": "1. Dry cleaning is the process ________ clothes are cleaned in liquids other than water.",
+      "options": [
+        "by",
+        "which through",
+        "by which",
+        "through"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "English (MCQ)(5)",
+      "question": "2. SUBTERFUGE:",
+      "options": [
+        "deception",
+        "smartness",
+        "very clever",
+        "frank"
+      ],
+      "tag": "BUP FBS 22-23,BUTEX 11-12,DU B 07-08,JnU C 14-15,IU C 18-19,BUTEX 11-12"
+    },
+    {
+      "subject": "English (MCQ)(5)",
+      "question": "3. The professor was pleased with ____ of the student.",
+      "options": [
+        "progress remarkable",
+        "remarkable progress",
+        "the remarkable progress",
+        "the progress remarkable"
+      ],
+      "tag": "BUTEX 11-12,BUTEX 11-12"
+    },
+    {
+      "subject": "English (MCQ)(5)",
+      "question": "4. Which one spelling is correct?",
+      "options": [
+        "Archacologist",
+        "Archalogist",
+        "Archeologist",
+        "Archilogist"
+      ],
+      "tag": "BUTEX 11-12"
+    },
+    {
+      "subject": "English (MCQ)(5)",
+      "question": "5. Who is the author of the story 'Jerry'?",
+      "options": [
+        "Robert W. Schrader",
+        "Shakespeare",
+        "Byron",
+        "Somerset Maugham"
+      ],
+      "tag": "BUTEX 11-12"
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "title": "BUTEX 13-14",
+  "questions": [
+    {
+      "subject": "Physics (30)",
+      "question": "1. What is the angular velocity of a second hand of a clock?",
+      "options": [
+        "$\\pi \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$\\frac{\\pi}{3} \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$\\frac{\\pi}{2} \\mathrm{rad} \\mathrm{s}^{-1}$",
+        "$\\frac{\\pi}{30} \\mathrm{rad} \\mathrm{s}^{-1}$"
+      ],
+      "tag": "PCC 24,RUMC 24,JnU 16-17,HSTU 18-19,BSMRSTU 16-17,DU A 15-16,BUET 13-14,JU H 19-20 (SET E),Tofazzal Sir,Tapan Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "2. A water pump of what power is required to raise 10 -liter water to a height of 10 m per second?",
+      "options": [
+        "100 W",
+        "980 kW",
+        "980 W",
+        "980 J"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "3. \"Heat energy can never be completely converted into work.\" - Whose statement is this?",
+      "options": [
+        "Sadi Karno",
+        "Clausius",
+        "Kelvin",
+        "Plank"
+      ],
+      "tag": "MCC 24,SB 23,DIN.B 21,BUTEX 13-14,AFMC 17-18"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "4. For any gas, $\\gamma=\\frac{3}{2}$. Which one is true for that gas?",
+      "options": [
+        "$C_{p}=3 R$",
+        "$C_{p}=5 R$",
+        "$C_{v}=3 R$",
+        "$C_{v}=5 R$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "5. An engine works between temperature $127^{\\circ} \\mathrm{C}$ and $27^{\\circ} \\mathrm{C}$.It's efficiency -",
+      "options": [
+        "$30 \\%$",
+        "$25 \\%$",
+        "$24 \\%$",
+        "$28 \\%$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "6. At what temperature does the Fahrenheit and Kelvin scale give the same reading?",
+      "options": [
+        "500.250",
+        "550.250",
+        "565.250",
+        "574.250"
+      ],
+      "tag": "DU A 17-18,RUET 13-14,RUET 12-13,JU A 18-19 (SET P),BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "7. Which one is the equation for determining velocity of light in vacuum?",
+      "options": [
+        "$\\mathrm{c}=\\sqrt{\\mu_{\\mathrm{o}} \\varepsilon_{\\mathrm{o}}}$",
+        "$c=\\frac{1}{\\sqrt{\\mu_{o} \\varepsilon_{o}}}$",
+        "$\\mathrm{c}=\\frac{1}{\\mu_{\\mathrm{o}} \\varepsilon_{\\mathrm{o}}}$",
+        "$c=\\mu_{\\mathrm{o}} \\varepsilon_{\\mathrm{o}}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "8. The path difference between two points on a wave 5 λ 4 \\frac{5\\lambda}{4} 4  5 λ What is the difference in position between the two points?",
+      "options": [
+        "$\\frac{5}{4}\\lambda$",
+        "$\\frac{5}{2}\\lambda$",
+        "$\\frac{5}{6}\\lambda$",
+        "$\\frac{5}{3}\\lambda$"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 18-19 (SET A),JU A 15-16 (SET 3),JU H 19-20 (SET E),Tofazzal Sir,Tapan Sir,Tapan Sir,Ishaque Sir,Tofazzal Sir,BUTEX 16-17,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "9. In Young's two-crack test, the distance between the cracks is 2.0 mm. Find the wavelength of the light if the distance between the stripes is 0.295 mm above the screen at a distance of 1 m from this point.",
+      "options": [
+        "5.90 Å",
+        "59.0 Å",
+        "5900 Å",
+        "59000 Å"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU H 20-21 (SET A),BUTEX 22-23,BUTEX 21-22,BUTEX 13-14,BUTEX 05-06"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "10. What kind of electric substance is glass?",
+      "options": [
+        "good conductor",
+        "semiconductor",
+        "non-conductor",
+        "a and b"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "11. What will be the electric intensity of the uniform electric field if the potential difference between two points that are 50 cm apart is 200 V ?",
+      "options": [
+        "$850 \\mathrm{Vm}^{-1}$",
+        "$1000 \\mathrm{Vm}^{-1}$",
+        "$800 \\mathrm{Vm}^{-1}$",
+        "$400 \\mathrm{Vm}^{-1}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "12. The depth of a dam of a hydroelectric plant is 20 m . What amount of water should fall on the turbine blades per second to produce 0.5 MW ? [ $\\mathrm{g}=10 \\mathrm{~ms}^{-2}$ ]",
+      "options": [
+        "$25 \\times 10^{2} \\mathrm{~kg}$",
+        "$25 \\times 10 \\mathrm{~kg}$",
+        "$25 \\times 10^{3} \\mathrm{~kg}$",
+        "$25 \\times 10^{4} \\mathrm{~kg}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "13. The internal resistance of a pn junction is 40Ω. If its potential difference changes by 0.2 V , what will be the change in the secondary current?",
+      "options": [
+        "4 mA",
+        "5 mA",
+        "8 mA",
+        "12 mA"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU A 18-19 (SET A),JU H 16-17 (SET 3),BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "14. In the process of mass energy conversion explained by Einstein, how much energy will an electron convert to?",
+      "options": [
+        "$5.12 \\times 10^{5} \\mathrm{eV}$",
+        "$9.1 \\times 10^{31} \\mathrm{eV}$",
+        "$1.6 \\times 10^{49} \\mathrm{eV}$",
+        "$3 \\times 10^{4} \\mathrm{eV}$"
+      ],
+      "tag": "NSTU 19-20,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "15. If the kinetic energy of a particle is doubled its rest energy, what is the velocity of the particle?",
+      "options": [
+        "$\\sqrt{\\frac{2}{3}} \\mathrm{c}$",
+        "$\\frac{1}{\\sqrt{2}} \\mathrm{c}$",
+        "${\\frac{2\\sqrt 2}{3}} c$",
+        "$\\frac{1}{\\sqrt{3}} \\mathrm{c}$"
+      ],
+      "tag": "DCC 24,BMARPC 24,VNSC 24,CB 24,DB 22 ,BB 21,JB 21,SB 21,All.B 18,GST 21-22,DU A 21-22,DU A 18-19,DU A 20-21,DU A  10-11,BUET 11-12,KUET 11-12,KUET 15-16,KUET 12-13,JU A 15-16 (SET 5),Tapan Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "16. The half-life of an elementary substance is 4 d . What is its decay constant?",
+      "options": [
+        "$0.1344 \\mathrm{~d}^{-1}$",
+        "$0.1123 \\mathrm{~d}^{-1}$",
+        "$0.152 \\mathrm{~d}^{-1}$",
+        "$0.17325 \\mathrm{~d}^{-1}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "17. What is the frequency of a photon of energy 100 MeV ?",
+      "options": [
+        "$2.41 \\times 10^{22} \\mathrm{~Hz}$",
+        "$4.21 \\times 10^{22} \\mathrm{~Hz}$",
+        "$6.41 \\times 10^{22} \\mathrm{~Hz}$",
+        "$8.78 \\times 10^{-7} \\mathrm{~Hz}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "18. What is the time required for a body to fall down to the ground from a certain height relative to the time required for the same body to reach that height from the ground without any disturbance?",
+      "options": [
+        "less time",
+        "two-third time",
+        "half time",
+        "equal time"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "19. Angle of contact of liquids which do not wet glass",
+      "options": [
+        "almost zero",
+        "About 90 o",
+        "smaller than 90 o",
+        "greater than 90 o"
+      ],
+      "tag": "RU C 19-20 (GROUP 3),JU A 22-23 (SET I),Tofazzal Sir,Tapan Sir,Ishaque Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "20. A $200 \\mathrm{~m}$ long train moving with a speed of $36 \\mathrm{~km} / \\mathrm{hr}$ passes over a bridge of $600 \\mathrm{~m}$ long. How long the train will take to cross the bridge?",
+      "options": [
+        "$80 \\mathrm{sec}$",
+        "$100 \\mathrm{sec}$",
+        "$120 \\mathrm{sec}$",
+        "$140 \\mathrm{sec}$"
+      ],
+      "tag": "BUET 9-10,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "21. If two points 12cm and 20cm in front of a concave mirror are considered as relative focus, what will be the focal distance of the mirror?",
+      "options": [
+        "5.7cm",
+        "7.5cm",
+        "16cm",
+        "None of them"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "22. Refraction of an equilateral prism 2 \\sqrt{2} 2  ​ If so, what is its minimum angle of deviation?",
+      "options": [
+        "60°",
+        "15°",
+        "30°",
+        "45°"
+      ],
+      "tag": "CU A 18-19,BUET 13-14,RUET 14-15,RUET 15-16,KUET 17-18,KUET 13-14,CUET 13-14,CUET 11-12,JU A 18-19 (SET C),JU A 16-17 (SET 4),Ishaque Sir,BUTEX 16-17,BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "23. What is the angle called between the direction of the earth's magnetic field at a place and the horizontal direction measured in the plane of the magnetic meridian?",
+      "options": [
+        "dip",
+        "deep",
+        "diep",
+        "dep"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "24. The wavelength of two sound is 1 m and 1.01 m . The two waves form 20 beats in 6 seconds in a gas. What is the velocity of sound?",
+      "options": [
+        "$227 \\mathrm{~ms}^{-1}$",
+        "$330 \\mathrm{~ms}^{-1}$",
+        "$337 \\mathrm{~ms}^{-1}$",
+        "$343 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "25. If the intensity of a sound is 100 times of the standard intensity, what will be the intensity level of that sound?",
+      "options": [
+        "25 dB",
+        "10 dB",
+        "15 dB",
+        "20 dB"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "26. Which one is the equation of magnetic field for a straight wire carrying current?",
+      "options": [
+        "$\\frac{\\mu_{0} I}{2 \\pi a}$",
+        "$\\frac{\\mu_{0} I}{4 \\pi a}$",
+        "$\\frac{2 \\mu_{0} I}{\\pi a}$",
+        "$\\frac{\\mu_{o} I}{\\pi a}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "27. The voltage and current of primary coil of a transformer are 10 V and 4 A. If voltage of secondary coil is 20 V , current flow will be-",
+      "options": [
+        "1 A",
+        "1.5 A",
+        "2 A",
+        "2.5 A"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "28. A black metal sphere of radius 0.3 m radiates heat of power 25 W . What is its temperature?",
+      "options": [
+        "140.5 K",
+        "130.4 K",
+        "120 K",
+        "100 K"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "29. At which temperature, the velocity of sound will be 2.5 times of the velocity of sound at $0^{\\circ} \\mathrm{C}$ ?",
+      "options": [
+        "$1000^{\\circ} \\mathrm{C}$",
+        "$1433.25^{\\circ} \\mathrm{C}$",
+        "$1500^{\\circ} \\mathrm{C}$",
+        "$500^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Physics (30)",
+      "question": "30. What is the explosion of heavier stars in space called?",
+      "options": [
+        "Medinova",
+        "Supernova",
+        "Bastnova",
+        "Blacknova"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "1. Which of the following is diamagnetic?",
+      "options": [
+        "Ti",
+        "V",
+        "Ni",
+        "Zn"
+      ],
+      "tag": "BB 21,JGCC 24,RUMC 24,BISCM 24,JUST 16-17,Guha Sir,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "2. What is the molarity of pure water?",
+      "options": [
+        "1.16 M",
+        "5.56 M",
+        "18.36 M",
+        "55.56 M"
+      ],
+      "tag": "Guha Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "3. What is the pH of 0.025 M NaOH solution?",
+      "options": [
+        "1.60",
+        "3.69",
+        "10.31",
+        "12.40"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "4. At $29^{\\circ} \\mathrm{C}$ temperature and 95 KPa pressure, $0.25 \\mathrm{~m}^{3}$ nitrogen gas and at 80 Kpa pressure, $0.38 \\mathrm{~m}^{3}$ oxygen are taken together in a flask of volume $1 \\mathrm{~m}^{3}$. What is the final pressure of the mixed gas?",
+      "options": [
+        "40.44 KPa",
+        "49.15 KPa",
+        "54.15 KPa",
+        "58.22 KPa"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "5. If the atomic mass of chlorine is 35.5 , what will be the ratio of $\\mathrm{Cl}^{35}$ and $\\mathrm{Cl}^{37}$ ?",
+      "options": [
+        "$1: 2$",
+        "$2: 1$",
+        "$3: 1$",
+        "$1: 3$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "6. What is the angle of rotation of d-lactic acid?",
+      "options": [
+        "$+2.24^{\\circ}$",
+        "$-2.24^{\\circ}$",
+        "$+22.4^{0}$",
+        "$-22.4^{\\circ}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "7. In which compound the oxidation number of iron is the lowest?",
+      "options": [
+        "$\\mathrm{K}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]$",
+        "$\\mathrm{K}_{2} \\mathrm{FeO}_{4}$",
+        "$\\mathrm{Fe}_{2} \\mathrm{O}$",
+        "$\\mathrm{Fe}(\\mathrm{CO})_{5}$"
+      ],
+      "tag": "NSTU 19-20,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "8.\nHow many electrons does one mole permanganate ion take in acidic oxidizing medium to become $\\mathrm{Mn}^{2+}$ ion?",
+      "options": [
+        "5",
+        "$6.02 \\times 10^{23}$",
+        "$\\frac{6.02 \\times 10^{23}}{5}$",
+        "$5 \\times 6.02 \\times 10^{23}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "9. 0.0275 g chromium is deposited at the cathode when 0.0422 A current flows for 1 hr in chromium sulphate solution. What is the charge of chromium ion?",
+      "options": [
+        "+2",
+        "+3",
+        "+4",
+        "+5"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "10.\nHow many isomers can be formed by $\\mathrm{C}_{6} \\mathrm{H}_{4}\\left(\\mathrm{NO}_{2}\\right)_{2}$ ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "11. Number of molecules in $1.008 \\mathrm{~g} \\mathrm{H}_{2}-$",
+      "options": [
+        "$6.023 \\times 10^{23}$",
+        "$12.046 \\times 10^{23}$",
+        "$3.0115 \\times 10^{23}$",
+        "$6.023 \\times 10^{22}$"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU D 19-20 (SET F),Lingcon Sir,Guha Sir,Hazari Sir,Kabir Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "12.\nWhat amount of lime is found if $25 \\mathrm{~g} \\mathrm{CaCO}_{3}$ is heated?",
+      "options": [
+        "2.5 g",
+        "10 g",
+        "14 g",
+        "25 g"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "13. Which reagent is used to detect carbonyl group?",
+      "options": [
+        "Lucas reagent",
+        "Tollen's reagent",
+        "Alkaline KMnO$_4$",
+        "2,4-DNPH"
+      ],
+      "tag": "SB 23,CTG.B 22,DIN.B 22,MBSTU 18-19,Kabir Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "14. How many moles of $\\mathrm{O}_{2}$ is required for the complete combustion of $2.2 \\mathrm{~g} \\mathrm{C}_{3} \\mathrm{H}_{8}$ to give $\\mathrm{CO}_{2}$ and $\\mathrm{H}_{2} \\mathrm{O}$ ?",
+      "options": [
+        "0.05",
+        "0.15",
+        "0.25",
+        "0.50"
+      ],
+      "tag": "DU A 18-19,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "15. Which metal coating is used to protect iron from-rust?",
+      "options": [
+        "Zn",
+        "Pb",
+        "Hg",
+        "Ti"
+      ],
+      "tag": "JUST 16-17,DU A  10-11,Lingcon Sir,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "16. What is the percentage composition of water in hydrated calcium chloride $\\left(\\mathrm{CaCl}_{2} \\cdot 2 \\mathrm{H}_{2} \\mathrm{O}\\right)$ ?",
+      "options": [
+        "66.67",
+        "32.4",
+        "24.51",
+        "12.26"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "17. Which one is used in Friedel Craft reaction?",
+      "options": [
+        "$\\mathrm{Sn} / \\mathrm{HCl}$",
+        "anhydrous $\\mathrm{AlCl}_{3}$",
+        "Conc. $\\mathrm{HNO}_{3}$",
+        "$\\mathrm{Na} / \\mathrm{HCl}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "18. How many moles of oxygen is required in combustion of 1 mole acetylene?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tag": "CTG.B 17,BUTEX 14-15,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "19. At $30^{\\circ} \\mathrm{C}$ temperature $1.5 \\mathrm{~atm} .15 .6 \\%$ of $\\mathrm{PCl}_{5}$ is dissociated.\n$\\mathrm{PCl}_{5}(\\mathrm{~g}) \\leftrightarrow \\mathrm{PCl}_{3}(\\mathrm{~g})+\\mathrm{Cl}_{2}(\\mathrm{~g})-90 \\mathrm{kj}$",
+      "options": [],
+      "tag": "SB 23,DB 17,FGCC 24,FCC 24,FCC 24,JUST 16-17,BUET 19-20,BUET 13-14,RUET 14-15,KUET 14-15,CUET 15-16,BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "20.\nCarbon - carbon triple bond may be present in -",
+      "options": [
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{4}$",
+        "$\\mathrm{C}_{4} \\mathrm{H}_{8}$",
+        "$\\mathrm{C}_{5} \\mathrm{H}_{10}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "21. Charge of one mole electrons is expressed by -",
+      "options": [
+        "1 Ampere",
+        "1 Coulomb",
+        "1 Faraday",
+        "1 Volt"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "22.\nWhich one is used to make artificial thread?",
+      "options": [
+        "polyvinyl chloride",
+        "polystyrene",
+        "polypropelene",
+        "polyvinyl acetate clhloride"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "23.\nWhich salt of the following can form acidic solution if 0.1 mole of the salt dissolved in 1.0 liter water?",
+      "options": [
+        "$\\mathrm{NaC}_{2} \\mathrm{H}_{3} \\mathrm{O}_{2}$",
+        "$\\mathrm{NH}_{4} \\mathrm{NO}_{3}$",
+        "$\\mathrm{CuSO}_{4}$",
+        "$\\mathrm{AlCl}_{3}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "24.\nIf a system does 70 Joules of work and absorbs 45 Joules of heat, what will be its change in internal energy?",
+      "options": [
+        "115 J",
+        "-25 J",
+        "25 J",
+        "-115 J"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "25. What is the heat of neutralization if 1 mole $\\mathrm{CH}_{3} \\mathrm{COOH}$ is neutralized by NaOH ?",
+      "options": [
+        "-57.3 kJ",
+        "-57.34 kJ",
+        "-57.28 kJ",
+        "-55.14 kJ"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "26. In a solution of toluene and benzene, there is $30 \\%(\\mathrm{w} / \\mathrm{w})$ toluene. What is the mole number of toluene?",
+      "options": [
+        "0.90",
+        "0.11",
+        "0.72",
+        "0.33"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "27.\nWhich is an example of negatively deviated non-ideal solution?",
+      "options": [
+        "ethanol-water",
+        "n heptanes - ethanol",
+        "$\\mathrm{HNO}_{3}-$ acetone",
+        "Di ethyl ether - acetone"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "28. What percentage of $\\mathrm{Al}_{2} \\mathrm{O}_{3}$ is present in sapphire stone?",
+      "options": [
+        "$78 \\%$",
+        "$85 \\%$",
+        "$88 \\%$",
+        "$98 \\%$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "29. Which one is used in thyroid gland treatment?",
+      "options": [
+        "${ }^{131} \\mathrm{I}$",
+        "${ }^{127} \\mathrm{I}$",
+        "${ }^{129} \\mathrm{I}$",
+        "${ }^{126} \\mathrm{I}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "30. Formula of limonite-",
+      "options": [
+        "$\\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{H}_{2} \\mathrm{O}$",
+        "$2 \\mathrm{Fe}_{2} \\mathrm{O}_{3}, 3 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{Cu}_{2} \\mathrm{~S}$",
+        "PbS"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "1. The expression $2 x^{2}+2 x-k=0$ will be a perfect square if the value of $k$ is-",
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{2}{9}$",
+        "$\\frac{-2}{3}$",
+        "$-\\frac{1}{2}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "2. If $\\tan 2 x \\tan x=1$, which two values of $x$ are not applicable?",
+      "options": [
+        "$\\frac{7 \\pi}{6}, \\frac{5 \\pi}{6}$",
+        "$\\frac{13 \\pi}{6}, \\frac{15 \\pi}{6}$",
+        "$\\frac{8 \\pi}{6}, \\frac{9 \\pi}{6}$",
+        "$\\frac{13 \\pi}{6}, \\frac{11 \\pi}{6}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "3.\nWhat is the general solution in case of $\\cos \\theta=-1$ ?",
+      "options": [
+        "0",
+        "$2 n \\pi$",
+        "$(2 n+1) \\pi$",
+        "$n \\pi$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "4. Which of the following relation is not true?",
+      "options": [
+        "$\\sin x=\\sin (2 n \\pi+x)$",
+        "$\\sin \\left(\\sin ^{-1} x\\right)=x$",
+        "$\\sin ^{2} x=(-\\sin x)^{2}$",
+        "$\\sin ^{-1} \\mathrm{x}=(\\sin \\mathrm{x})^{-1}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "5. $\\sin ^{-1} \\mathrm{x}$ is equal to-",
+      "options": [
+        "$\\cot ^{-1} \\frac{\\sqrt{1-x^{2}}}{x}$",
+        "$\\cot ^{-1} \\frac{\\mathrm{x}}{\\sqrt{1-\\mathrm{x}^{2}}}$",
+        "$\\cot ^{-1} \\sqrt{1-\\mathrm{x}^{2}}$",
+        "$\\cot ^{-1} \\frac{1}{\\sqrt{1-\\mathrm{x}^{2}}}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "6. $\\cos 198^{\\circ}+\\sin 432^{\\circ}+\\tan 168^{\\circ}+\\tan 12^{\\circ}=?$",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "$\\frac{1}{2}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "7. $\\mathrm{P}$ is a point on the straight line $\\mathrm{x}-3 \\mathrm{y}-2=0$ and is at equal distances from the points $(2,3)$ and $(6,-5)$. The coordinates of the point $P$ is-",
+      "options": [
+        "$(12,4)$",
+        "$(14,2)$",
+        "$(14,4)$",
+        "$(16,4)$"
+      ],
+      "tag": "MBSTU 19-20,DU A 21-22,BUET 11-12,JU H 16-17 (SET 3),BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "8. The acute angle between the lines $y-\\sqrt{3 x}+1=0$ and $\\sqrt{3} y-x+3=0-$",
+      "options": [
+        "$45^{\\circ}$",
+        "$30^{\\circ}$",
+        "$60^{\\circ}$",
+        "$80^{\\circ}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "9. What is the slope of the tangent of the parabola $y^{2}=4 x$ at the origin?",
+      "options": [
+        "-1",
+        "1",
+        "$\\infty$",
+        "0"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "10. $(x-3)^{2}+(y-3)^{2}=4$ represents a circle. Are the points $A(4,1)$ and $B(2,1)$ inside or outside the circle?",
+      "options": [
+        "A and B both inside",
+        "A and B both outside",
+        "A inside and B outside",
+        "A outside and B inside"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "11. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "12. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "13. $\\int \\frac{1}{\\sqrt{1-x^{2}}} \\mathrm{dx}=?$",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "1",
+        "$\\frac{1}{2}$",
+        "$\\frac{\\pi}{4}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "14. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "15. A piece of stonc fell from a balloon after 20 seconds when it was flying in the upward direction with velocity $20 \\mathrm{~m} / \\mathrm{sec}$. What was the height of the balloon when the stone hit the ground?",
+      "options": [
+        "$390 \\mathrm{~m}$",
+        "$560 \\mathrm{~m}$",
+        "$12580 \\mathrm{~m}$",
+        "$1960 \\mathrm{~m}$"
+      ],
+      "tag": "DB 22,DU A  10-11,BUET 13-14,CUET 14-15,JU A 15-16 (SET 4),BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "16.  A particle is projected with a velocity ' $v$ ' so that its range on a horizontal plane is 4 times the maximum height attained. What is the angle of projection?",
+      "options": [
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$30^{\\circ}$",
+        "$45^{\\circ}$"
+      ],
+      "tag": "CU A 17-18,BUET 11-12,BUET 22-23,BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "17. A 20 m long beam AB of weight 225 kg rests on two pillars at their ends. From what distance away of end A a man of 75 kg weight should stand on the beam so that the ratio of the pressure on the pillars is $3: 2$ ?",
+      "options": [
+        "2 m",
+        "4 m",
+        "6 m",
+        "8 m"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "18. Two forces act at a point at an angle $120^{\\circ}$. What will be the value of the smaller force if the greater force is 10 N and the resultant is at right angle with the smaller force?",
+      "options": [
+        "4 N",
+        "5 N",
+        "6 N",
+        "8 N"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "19. Which of the following is true if A and B are two disjoint sets?",
+      "options": [
+        "$\\mathrm{A} \\cap \\mathrm{B}=\\mathrm{A}$",
+        "$\\mathrm{A} \\cup \\mathrm{B}=\\mathrm{A}$",
+        "$A \\cup B=B$",
+        "$\\mathrm{A}-\\mathrm{B}=\\mathrm{A}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "20. If ${ }^{\\mathrm{n}} \\mathrm{C}_{2}={ }^{\\mathrm{n}} \\mathrm{C}_{6},{ }^{\\mathrm{n}} \\mathrm{C}_{5}=$ ?",
+      "options": [
+        "64",
+        "56",
+        "48",
+        "98"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "21. $6^{\\text {th }}$ term in the expansion of $\\left(x+x^{-1}\\right)^{10}-$",
+      "options": [
+        "521",
+        "522",
+        "252",
+        "-252"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "22. A man has 6 friends. In how many ways he can invite one or more friends?",
+      "options": [
+        "720",
+        "120",
+        "63",
+        "60"
+      ],
+      "tag": "MBSTU 18-19,BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "23. The probability that $A$ can solve a problem is $\\dfrac {2 }{ 3}$ and that $B$ can solve is $\\dfrac {3 }{4}$. If both of them attempt the problem. What is probability that the problem act solved?",
+      "options": [
+        "$\\dfrac {11 }{ 12}$",
+        "$\\dfrac {7 }{ 12}$",
+        "$\\dfrac {5 }{ 12}$",
+        "$\\dfrac {9 }{ 12}$"
+      ],
+      "tag": "হানি নাটস,BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "24. $x \\geq 0, y \\geq 0, x+y \\leq 7,2 x+5 y \\leq 20$; as per these conditions, what is the maximum value of $z=3 x+4 y$ ?",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "25. A man wants to buy fish fries with an amount not exceeding TK. 1200. The prices of Rui fry and Katol fry per hundred are TK. 60 and 30 respectively. How many of each kind he can buy so that the maximum number of fish fries will be 3000 ?",
+      "options": [
+        "500",
+        "1000",
+        "1500",
+        "2000"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "26. What is the probability of getting head in both cases if a coin is thrown twice?",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{5}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "Mathematics (27)",
+      "question": "27. What is the binary form of the number $(13.625)_{10}$ ?",
+      "options": [
+        "$(1101.101)_{2}$",
+        "$(110.1101)_{2}$",
+        "$(11011.01)_{2}$",
+        "$(11.01101)_{2}$"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "1. The verb of the word \" short \" is --",
+      "options": [
+        "enshort",
+        "shorten",
+        "shorted",
+        "shorting"
+      ],
+      "tag": "KUET 11-12,BUTEX 13-14,KUET 11-12,KUET 10-11"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. Choose the correct spelling__________",
+      "options": [
+        "asertain",
+        "ascertain",
+        "assertain",
+        "assartain"
+      ],
+      "tag": "BUTEX 13-14,RU-E 15-16: Set-2,JU C 13-14 Set-1,BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. What is the noun form of the word \" spontaneous \"?",
+      "options": [
+        "spontaneity",
+        "spontanity",
+        "spontaniety",
+        "spontaneousless"
+      ],
+      "tag": "BUTEX 13-14,BSMRAU 15-16"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4. If you had started earlier, you ______ the train.",
+      "options": [
+        "would not missed",
+        "had not miss",
+        "had not missed",
+        "would not have missed"
+      ],
+      "tag": "BUTEX 13-14,BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. The correct synonym of \"indignation\" is --",
+      "options": [
+        "humiliation",
+        "anger",
+        "lacking dignity",
+        "peace"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. Who is the father of English novels?",
+      "options": [
+        "G.B. Shaw",
+        "Daniel Defoe",
+        "R.L. Stevenson",
+        "Shakespeare"
+      ],
+      "tag": "BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. Misanthropist is a person who-",
+      "options": [
+        "flirts with ladies",
+        "has narrow views",
+        "hates mankind",
+        "believes in God"
+      ],
+      "tag": "BUTEX 13-14,CU A 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. The opposite of 'fascinated' is----",
+      "options": [
+        "distressed",
+        "disinterested",
+        "disappointed",
+        "disgusted"
+      ],
+      "tag": "BUTEX 13-14,BUTEX 13-14"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. A person claiming to be superior in culture and intellect to others.",
+      "options": [
+        "highbrow",
+        "elite",
+        "aristocrat",
+        "intellectual (ইনটেলেকচুয়াল)"
+      ],
+      "tag": "বাংলাদেশ কমার্স ব্যাংক-০৮, বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় (টেক্সটাইল ইঞ্জিনিয়ারিং) ১৫-১৬, বাংলাদেশ ব্যাংক (অফিসার)-১৫"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. Which one is the correct passive form,  Everyone knows his name ?",
+      "options": [
+        "His name is known by everyone",
+        "His name is known with everyone",
+        "His name is known for everyone",
+        "His name is known to everyone"
+      ],
+      "tag": "BUTEX 13-14"
+    }
+  ]
+}

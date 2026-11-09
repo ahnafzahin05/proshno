@@ -1,0 +1,1101 @@
+{
+  "title": "BUTEX 12-13",
+  "questions": [
+    {
+      "subject": "Physics(30)",
+      "question": "1. Which one is the area of a parallelogram?",
+      "options": [
+        "$\\frac{1}{2}|\\overline{\\mathrm{~A}} \\times \\overline{\\mathrm{B}}|$",
+        "$\\overline{\\mathrm{A}} \\times \\overline{\\mathrm{B}}$",
+        "$\\frac{1}{2}(\\overline{\\mathrm{~A}} \\times \\overline{\\mathrm{B}})$",
+        "$|\\overline{\\mathrm{A}} \\times \\overline{\\mathrm{B}}|$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "2. If a wire of resistance $6 \\Omega$ made to three times its length, then the new resistance is:",
+      "options": [
+        "$60 \\Omega$",
+        "$18 \\Omega$",
+        "$2 \\Omega$",
+        "$54 \\Omega$"
+      ],
+      "tag": "CU A 18-19,BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "3. If the electric field intensity of radio wave is $3 \\times 10^{-4} \\mathrm{v} / \\mathrm{m}$ then the magnetic field intensity is:",
+      "options": [
+        "$9 \\times 10^{4} \\mathrm{~T}$",
+        "$1 \\times 10^{-12} \\mathrm{~T}$",
+        "$9 \\times 10^{10} \\mathrm{~T}$",
+        "$1 \\times 10^{-14} \\mathrm{~T}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "4. If a bomb released from a plane explodes in mid air then-",
+      "options": [
+        "kinetic energy increases",
+        "total energy increases",
+        "total energy decreases",
+        "total momentum decreases"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "5. A 200 N force acts on a mass of 8 kg for 5 s . What is the change in momentum of the object?",
+      "options": [
+        "40 kgs",
+        "$40 \\mathrm{Ns}^{-1}$",
+        "$25 \\mathrm{Nkg}^{-1}$",
+        "$10^{3} \\mathrm{kgms}^{-1}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "6. Equation of elastic potential-",
+      "options": [
+        "$\\mathrm{W}=\\frac{1}{2} \\frac{\\mathrm{YA} l^{2}}{\\mathrm{~L}}$",
+        "$\\mathrm{W}=\\frac{1}{2} \\frac{\\mathrm{YA} l}{\\mathrm{~L}}$",
+        "$\\mathrm{W}=\\frac{1}{2} \\frac{\\mathrm{YAL}^{2}}{l}$",
+        "$\\mathrm{W}=\\frac{1}{2} \\frac{\\mathrm{Y} l}{\\mathrm{~L}}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "7. The reason for feeling weightless in outer space:",
+      "options": [
+        "absence of inertia",
+        "absence of gravity",
+        "absence of accelerating force",
+        "free fall of spacecraft"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "8. What is the unit of radioactive decay constant?",
+      "options": [
+        "$\\mathrm{ms}^{-1}$",
+        "$\\mathrm{s}^{-1}$",
+        "$\\mathrm{s}^{-2}$",
+        "$\\mathrm{m}^{-1}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "9. What is the time period of a second pendulum in a satellite?",
+      "options": [
+        "zero",
+        "25",
+        "infinite",
+        "depends on mass of bob"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "10. Water fall through a height of 120 m in a waterfall. What is the temperature difference between the top and bottom water?",
+      "options": [
+        "$0.28^{\\circ} \\mathrm{C}$",
+        "$0.26^{\\circ} \\mathrm{C}$",
+        "$0.24^{\\circ} \\mathrm{C}$",
+        "$0.21^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "11. What is the value of forbidden energy gap of silicon?",
+      "options": [
+        "1.1 eV",
+        "1 eV",
+        "0.7 eV",
+        "0.3 eV"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "12. The ratio of length of two copper wires of the same thickness is $1: 2$. If they are expanded with the same force then what is the ratio of their strains?",
+      "options": [
+        "$1: 1$",
+        "$1: 2$",
+        "$2: 1$",
+        "$1: 4$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "13. What is the release velocity of an object from the earth's surface?",
+      "options": [
+        "11.7 kms-1",
+        "13 kms-1",
+        "10 kms-1",
+        "None"
+      ],
+      "tag": "CU A 18-19,CU A 16-17,BUET 22-23,JU A 22-23 (SET I),JU A 17-18 (SET 3),Tapan Sir,BUTEX 12-13,AFMC 20-21"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "14. The temperature of the sun is measured by -",
+      "options": [
+        "Platinum resistance thermometer",
+        "Gas thermometer",
+        "pyrometer",
+        "Vapor pressure thermometer"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "15. The half life of Radon is 3.8 days. What is its average life?",
+      "options": [
+        "18 day",
+        "6.93 day",
+        "3.8 day",
+        "5.48 day"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "16. The condition for constructive interference is -",
+      "options": [
+        "$x=\\frac{n}{2 \\lambda}$",
+        "$x=(2 n+1) \\frac{\\lambda}{2}$",
+        "$x=2 n\\left(\\frac{\\lambda}{2}\\right)$",
+        "$x=\\frac{2 n}{3 \\lambda}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "17. What is the functional biasing for a Zener diode?",
+      "options": [
+        "Forward biased",
+        "Reverse biased",
+        "Both forward and reverse biased",
+        "Parallelly"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "18. In a cyclic process, the internal energy as a gas -",
+      "options": [
+        "increases",
+        "decreases",
+        "remains constant",
+        "is zero"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "19. A soap bubble is charged. Its radius-",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Does not change",
+        "None"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "20. Which can be solved by using a convex lens?",
+      "options": [
+        "near sight",
+        "long sight",
+        "astigmatism",
+        "presbyopia"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "21. A particle rotates in a circular path of radius 25 cm 2 times a second. What is the acceleration of the particle in $\\mathrm{ms}^{-2}$ ?",
+      "options": [
+        "$\\pi^{2}$",
+        "$8 \\pi^{2}$",
+        "$4 \\pi^{2}$",
+        "$2 \\pi^{2}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "22. If temperature of a gas increases the viscosity-",
+      "options": [
+        "increases",
+        "decreases",
+        "decreases then increases",
+        "remains unchanged"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "23. Reason for raindrops being spherical-",
+      "options": [
+        "gravitational force",
+        "surface tension",
+        "low viscosity of water",
+        "air resistance"
+      ],
+      "tag": "Tofazzal Sir,BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "24. Intensity level of a sound is 10 times the standard intensity -",
+      "options": [
+        "10 Bel",
+        "1 Bel",
+        "$\\frac{1}{10} \\mathrm{Bel}$",
+        "100 Bel"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "25. What is the apparent displacement of any object towards the observer kept 3 m below the water surface?",
+      "options": [
+        "0.62 m",
+        "0.74 m",
+        "0.83 m",
+        "0.92 m"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "26. How far does light travel in a year?",
+      "options": [
+        "$9.4\\times10^{12}\\ km$",
+        "$9.7\\times10^{12}\\ km$",
+        "$9.4\\times10^{18}\\ km$",
+        "$9.6\\times10^{12}\\ km$"
+      ],
+      "tag": "Agri. GST 21-22,DAT 17-18,DAT 20-21,DAT 19-20,Tapan Sir,BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "27. Power P of a convex lens in air. Immersed in water it will get -",
+      "options": [
+        "P is larger",
+        "P is smaller",
+        "P",
+        "None of them"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "28. A couple is created when the forces are-",
+      "options": [
+        "equal",
+        "parallel",
+        "oppositely directed",
+        "All"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "29.\nCalculate the temperature of the radiation from the moon if its wavelength is $14 \\mu \\mathrm{~m}$.",
+      "options": [
+        "312.2 K",
+        "210.1 K",
+        "307.2 K",
+        "207.1 K"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Physics(30)",
+      "question": "30. Boiling water is being converted to steam. Heat capacity of water at that point -",
+      "options": [
+        "Zero",
+        "1",
+        "Infinite",
+        "Less than 1"
+      ],
+      "tag": "BUET 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "1.\nWhat is the color of methyl orange in ammonia solution?",
+      "options": [
+        "Colorless",
+        "Pinkish red",
+        "Red",
+        "Yellow"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "2. Which group of the periodic table has strong oxidants?",
+      "options": [
+        "IA",
+        "IIA",
+        "VA",
+        "VIIA"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "3. The energy of an electron in the $1^{\\text {st }}$ orbit of a Bohr's model Hydrogen atom is -",
+      "options": [
+        "13.6 eV",
+        "-13.6 eV",
+        "1.3 eV",
+        "-1.36 eV"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "4. What is produced when ammonia or primary amine reacts with acid chloride?",
+      "options": [
+        "Acid amide",
+        "Organic acid",
+        "Alcohol",
+        "Aldehyde"
+      ],
+      "tag": "Agri. GST 20-21,DU A 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "5. What is the pH of 0.001 M NaOH solution?",
+      "options": [
+        "3",
+        "11",
+        "7",
+        "12"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "6. Which of the following ions have the highest polarizing power?",
+      "options": [
+        "$\\mathrm{Na}^{+}$",
+        "$\\mathrm{Cs}^{+}$",
+        "$\\mathrm{Li}^{+}$",
+        "$\\mathrm{Rb}^{+}$"
+      ],
+      "tag": "BUET 7-8,Guha Sir,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "7. The mass of $\\mathrm{CO}_{2}$ gas at 273 K temperature 2240 ml and 760 mm pressure is-",
+      "options": [
+        "44 gram",
+        "4.4 gram",
+        "88 gram",
+        "8.8 gram"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "8. Which of the following is diamagnetic?",
+      "options": [
+        "Ti",
+        "V",
+        "Ni",
+        "Zn"
+      ],
+      "tag": "BB 21,JGCC 24,RUMC 24,BISCM 24,JUST 16-17,Guha Sir,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "9. Which of the following compounds is obtained by reduction of alkyl cyanide by $\\mathrm{LiAlH}_{4}$ ?",
+      "options": [
+        "Oxime",
+        "Amine",
+        "Alcohol",
+        "Amide"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "10. Which element is diatomic at room temperature?",
+      "options": [
+        "Boron (B)",
+        "Carbon (C)",
+        "Fluorine $\\left(\\mathrm{F}_{2}\\right)$",
+        "neon $(\\mathrm{Ne})$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "11. Which does not affect chemical equilibrium?",
+      "options": [
+        "Catalyst",
+        "Temperature",
+        "Concentration",
+        "Pressure"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "12. The length of carbon-carbon bond in benzene is -",
+      "options": [
+        "$1.54 \\AA$",
+        "$1.34 \\AA$",
+        "$1.20 \\AA$",
+        "$1.39 \\AA$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "13. How much gram of potassium iodide is needed to produce 1 mol iodine by the reaction of copper sulphate and potassium iodide?",
+      "options": [
+        "166 g",
+        "332 g",
+        "664 g",
+        "498 g"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "14. What is obtained by the polymerization of acetylene?",
+      "options": [
+        "Toluene",
+        "Styrene",
+        "Benzene",
+        "Diphenyl"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "15. Which of the following is obtained by passing $\\mathrm{Cl}_{2}$ through concentrated caustic soda solution at $70^{\\circ}$ Celsius temperature?",
+      "options": [
+        "NaOCl",
+        "$\\mathrm{NaClO}_{2}$",
+        "$\\mathrm{NaClO}_{3}$",
+        "$\\mathrm{NaClO}_{4}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "16. Which of the following will distinguish between alcohol and phenol?",
+      "options": [
+        "conc. $\\mathrm{H}_{2} \\mathrm{SO}_{4}$",
+        "Bayer test",
+        "Lucas reagent",
+        "Tollens's reagent"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "17. Which aqueous solution of methanal is known as formalin?",
+      "options": [
+        "$30-40 \\%$",
+        "$20-30 \\%$",
+        "$50-60 \\%$",
+        "None of these"
+      ],
+      "tag": "RB 17,RB 22,PUST 16-17,DU A 14-15,CU A 16-17,CUET 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "18. Question",
+      "options": [
+        "Fehling solution test",
+        "Ninhydrin test",
+        "Lucas reagent test",
+        "Bayer test"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "19.\nThe number of carbon atoms in Nylon-6, 6 monomer is -",
+      "options": [
+        "12",
+        "18",
+        "6",
+        "10"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "20. What is the carbon content in cast iron?",
+      "options": [
+        "$2.0-4.5 \\%$",
+        "$0.12-0.25 \\%$",
+        "$0.20 \\%$",
+        "$0.25-1.70 \\%$"
+      ],
+      "tag": "PUST 16-17,DU A 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "21. Which compound is produced by reaction of metals with dilute $\\mathrm{HNO}_{3}$ ?",
+      "options": [
+        "$\\mathrm{NH}_{4} \\mathrm{NO}_{3}$",
+        "NO",
+        "$\\mathrm{N}_{2} \\mathrm{O}$",
+        "$\\mathrm{NO}_{2}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "22. The name of the reaction taking place in hydrogen bombs is -",
+      "options": [
+        "Fission",
+        "Spallation",
+        "Fusion",
+        "Transmutation"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "23. Which compound is used in the extraction of caffeine from coffee?",
+      "options": [
+        "Dichloro ethane",
+        "Dichloro methane",
+        "Trichloro methane",
+        "Tetrachloro methane"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "24. If the temperature is increased from $25^{\\circ} \\mathrm{C}$ to $35^{\\circ} \\mathrm{C}$, then the rate constant of a reaction increases three times. What is the value of activation energy?",
+      "options": [
+        "868.3 kJ",
+        "83.86 kJ",
+        "86.83 kJ",
+        "0.8386 kJ"
+      ],
+      "tag": "SUST 17-18,BSMRSTU 19-20,CKRUET 22-23,KUET 16-17,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "25. If the ratio of the ionic radii of NaCl crystal is 0.53 then what is the coordination number of $\\mathrm{Na}^{+}$?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "26. What type of solution is water and phenol?",
+      "options": [
+        "Completely miscible",
+        "Completely immiscible",
+        "Partially miscible",
+        "None"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "27. What is the shape of gypsum crystal?",
+      "options": [
+        "rhombohedral",
+        "triclinic",
+        "monoclinic",
+        "hexagonal"
+      ],
+      "tag": "BUTEX 11-12,BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "28. For which bonding does sugar dissolve in water?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Coordinate covalent",
+        "Hydrogen bond"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "29. What is black jack?",
+      "options": [
+        "ZnS",
+        "ZnO",
+        "$\\mathrm{ZnCO}_{3}$",
+        "$\\mathrm{ZnO} \\cdot \\mathrm{Fe}_{2} \\mathrm{O}_{3}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Chemistry (30)",
+      "question": "30. What is the formula of Tungsten Halide?",
+      "options": [
+        "WX",
+        "WHe",
+        "$\\mathrm{HgHe}_{10}$",
+        "PdHe"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "1. If $\\sec \\theta=\\frac{13}{12}$ what is the value of $\\cot \\theta ?$",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{12}{5}$",
+        "$\\frac{13}{25}$",
+        "$\\frac{25}{144}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "2. What is the Cartesian equation of the polar equation, $r=a \\sin \\theta$ ?",
+      "options": [
+        "$a x^{2}+y^{2}-y=0$",
+        "$x^{2}+y^{2}+a y=0$",
+        "$x^{2}+y^{2}-a y=0$",
+        "$x^{2}+a y^{2}-y=0$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "3. If $\\operatorname{cosec} x=2$ and $\\cot x=-\\sqrt{3}$ then which is true?",
+      "options": [
+        "$\\sin x=-\\frac{1}{2}$",
+        "$\\sec x=-\\frac{\\sqrt{3}}{2}$",
+        "$\\tan x=-\\frac{\\sqrt{3}}{3}$",
+        "$\\cos x=-\\frac{\\sqrt{3}}{2}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "4. If two straight lines $5 x+4 y-6=0$ and $2 x-k y+6=0$ are perpendicular to each other, then what is the value of $k$ ?",
+      "options": [
+        "$-\\frac{2}{5}$",
+        "$-\\frac{8}{5}$",
+        "$\\frac{5}{2}$",
+        "$\\frac{2}{5}$"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU A 22-23 (SET N),JU A 16-17 (SET 12),BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "5. What is the full form of $\\operatorname{cosec} \\theta ?$",
+      "options": [
+        "$\\operatorname{cosec} \\theta$",
+        "secant $\\theta$",
+        "$\\operatorname{cosecant} \\theta$",
+        "coversed $\\operatorname{cosec} \\theta$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "6. The vertex of a parabola is $(0,2)$, axis parallel to the $x$ axis and it passes through the point $(2,5)$. Its equation will be -",
+      "options": [
+        "$4 \\mathrm{x}^{2}=3(\\mathrm{y}-2)$",
+        "$3 x^{2}=12(y-2)$",
+        "$3 x^{2}=4(y-2)$",
+        "$2 x^{2}=3(y-2)$"
+      ],
+      "tag": "RU C 20-21 (GROUP 2),BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "7. What is the height to be attained by a stone thrown at a velocity of $200 \\mathrm{fts}^{-1}$ at an angle of $30^{\\circ}$ to the ground?",
+      "options": [
+        "$256 \\frac{1}{4} \\mathrm{ft}$",
+        "$356 \\frac{1}{4} \\mathrm{ft}$",
+        "$156 \\frac{1}{4} \\mathrm{ft}$",
+        "$56 \\frac{1}{4} \\mathrm{ft}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "8. A plane is at position $(400,800)$ when flying and after sometime, it is at $(400,0)$. What would happen to the plane?",
+      "options": [
+        "there would be an accident",
+        "there would be no accident",
+        "go higher",
+        "none"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "9. $\\text{The latus rectum of the parabola } y^2 -4y -2x -8 = 0 \\text{ is -}$",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "tag": "RU H 16-17 (G-ODD),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),BUTEX 16-17,BUTEX 14-15,BUTEX 13-14,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "10.\nThe length of the $x$-axis cut by the general equation of a circle -",
+      "options": [
+        "$2 \\sqrt{g^{2}+c}$",
+        "$2 \\sqrt{\\mathrm{f}^{2}+\\mathrm{c}}$",
+        "$2 \\sqrt{g^{2}-c}$",
+        "$2 \\sqrt{\\mathrm{f}^{2}-\\mathrm{c}}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "11. If the resultant acting at a point due to the forces P and 2 P is perpendicular to P then what is the angle between the forces?",
+      "options": [
+        "$135^{\\circ}$",
+        "$60^{\\circ}$",
+        "$45^{\\circ}$",
+        "$120^{\\circ}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "12. If two rows or columns of a determinant are equal then the value of the determinant will be-",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "None"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "13. What is the value of $\\int_{0}^{1} \\frac{\\mathrm{dx}}{\\mathrm{e}^{\\mathrm{x}}+\\mathrm{e}^{-\\mathrm{x}}}$ ?",
+      "options": [
+        "$\\tan ^{-1} e-\\frac{\\pi}{4}$",
+        "$\\tan ^{-1}+\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{4}-\\tan ^{-1} e$",
+        "$\\frac{\\pi}{2}+\\tan ^{-1} e$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "14.\nThe area of the enclosed space between $y^{2}=4 x$ and $y=x$ -",
+      "options": [
+        "$\\frac{3}{8}$ sq. units",
+        "$\\frac{8}{3}$ sq. units\nOption B",
+        "3 sq. units",
+        "8 sq. units"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "15. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "16. What is the value of the slope of $y=\\frac{2}{x}$ at the point $x=\\frac{1}{3}$ ?",
+      "options": [
+        "-16",
+        "16",
+        "-18",
+        "18"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "17. $\\sin ^{2} 18^{\\circ}+\\sin ^{2} 36^{\\circ}+\\sin ^{2} 54^{\\circ}+\\sin ^{2} 72^{\\circ}=?$",
+      "options": [
+        "-2",
+        "$\\pm 2$",
+        "0",
+        "2"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "18. If $f(x)=x+\\sin x$ for what value of $x$ is $f^{\\prime}(x)=0$ ?",
+      "options": [
+        "$\\frac{\\pi}{4}$",
+        "$\\pi$",
+        "$\\frac{\\pi}{5}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "tag": "GST 21-22,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "19. A train travelling at $64 \\mathrm{kmh}^{-1}$ is stopped in 1.5 minutes using brakes. What is the distance traversed by the train after applying the brake?",
+      "options": [
+        "800 m",
+        "600 m",
+        "400 m",
+        "200 m"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "20. $\\int_{0}^{\\frac{\\pi}{4}} \\frac{\\cos \\theta}{\\cos ^{2} \\theta} \\mathrm{~d} \\theta=?$",
+      "options": [
+        "$1-\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{2}-1$",
+        "$\\frac{\\pi}{2}-2$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "21. If $a, b, c$ are real numbers and $a>b$, then what should be the value of c such that $a c>b c$ ?",
+      "options": [
+        "$\\mathrm{a}=\\mathrm{b}$",
+        "$c>0$",
+        "$\\mathrm{c}<0$",
+        "$\\mathrm{c}=\\mathrm{a}=\\mathrm{b}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "22. How many permutations can be made of the word Courage such that there is a vowel as the first letter in every permutation?",
+      "options": [
+        "1440",
+        "2880",
+        "720",
+        "120"
+      ],
+      "tag": "DU A 14-15,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "23. The number $\\sqrt{\\frac{9}{4}}$ is-",
+      "options": [
+        "Natural number",
+        "Rational number",
+        "Irrational number",
+        "Complex number"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "24. What is the term independent of $x$ in the expansion of $\\left(\\mathrm{x}^{2}-\\frac{3}{2 \\mathrm{x}^{3}}\\right)^{10}$ ?",
+      "options": [
+        "$\\frac{16}{81}$",
+        "$\\frac{81}{16}$",
+        "210",
+        "$\\frac{8505}{8}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "25. Mr. Jamil has 12 friends of which 8 are relatives. In how many ways can he invite 7 friends in which there 5 will be relatives?",
+      "options": [
+        "333",
+        "334",
+        "335",
+        "336"
+      ],
+      "tag": "BUET 12-13,BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "26. What is the probability of 53 Fridays in a leap year?",
+      "options": [
+        "$\\frac{1}{7}$",
+        "$\\frac{2}{7}$",
+        "$\\frac{3}{7}$",
+        "$\\frac{4}{7}$"
+      ],
+      "tag": "JUST 18-19,BUTEX 12-13,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "27. Used in trigonometry to measure angles -",
+      "options": [
+        "Sixty decedent",
+        "Hundred decedent",
+        "Circular",
+        "All"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "28. What is the maxima and minima of $S=\\left\\{x: 5 x^{2}-16 x+3<0\\right\\} ?$",
+      "options": [],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "29. What is the minimum binary number to be added with the binary number 101101 so that the sum is divisible by 16 ?",
+      "options": [
+        "0.11",
+        "11",
+        "11.1",
+        "11.01"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "Mathematics(30)",
+      "question": "30. Two masses of 3 kg and 2 kg are hanging freely overly a pulley. What is the velocity after 5 seconds?",
+      "options": [
+        "$21.6 \\mathrm{~ms}^{-1}$",
+        "$19.6 \\mathrm{~ms}^{-1}$",
+        "$9.8 \\mathrm{~ms}^{-1}$",
+        "$4.9 \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "1. 'Omnipotent' means ____.",
+      "options": [
+        "Feeble",
+        "Supreme",
+        "Impotent",
+        "Vulnerable",
+        "null"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "2. The professor has not written a book _____ to the masses to generate interest from a publisher.",
+      "options": [
+        "enough appealing",
+        "appealing enough",
+        "appeal enough",
+        "enough appeal"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "3. Which of the following is the correct spelling?",
+      "options": [
+        "dysentery",
+        "dysentry",
+        "disentry",
+        "dycentry"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "4. The synonym of \"Burglary\" is-",
+      "options": [
+        "begging",
+        "teaching",
+        "floating",
+        "stealing"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "5. A person who writes about his own life writes-",
+      "options": [
+        "a diary",
+        "a biography",
+        "a chronicle",
+        "an autobiography"
+      ],
+      "tag": "জবি ২০১৪-১৫"
+    },
+    {
+      "subject": "English(10)",
+      "question": "6. 'To end in smoke' means-",
+      "options": [
+        "To create fire",
+        "To go through suffering",
+        "To come to nothing",
+        "To see fire"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "7. The old man and the sea, a novel, is one of Ernest Hemingway's____ books",
+      "options": [
+        "most famous",
+        "the most famous",
+        "are most famous",
+        "and most famous"
+      ],
+      "tag": "BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "8. Andy talked as if he ______ a scientist.",
+      "options": [
+        "were",
+        "had been",
+        "was",
+        "could"
+      ],
+      "tag": "BUTEX 12-13,BUTEX 12-13"
+    },
+    {
+      "subject": "English(10)",
+      "question": "9. The plural form of \"Memorandum\" is",
+      "options": [
+        "Memorandas",
+        "Memorandras",
+        "Memoran",
+        "Memoranda"
+      ],
+      "tag": "KUET 14-15"
+    },
+    {
+      "subject": "English(10)",
+      "question": "10. Our company has just acquired two new tractors. (What does the underlined  word mean?)",
+      "options": [
+        "bought",
+        "purchased",
+        "stolen",
+        "obtain"
+      ],
+      "tag": "BUTEX 12-13,BUTEX 12-13"
+    }
+  ]
+}

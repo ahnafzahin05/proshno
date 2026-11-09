@@ -1,0 +1,712 @@
+{
+  "title": "CUET 2015-16",
+  "questions": [
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "1. $\\sqrt[4]{-169}=?$",
+      "options": [
+        "$\\pm \\frac{\\sqrt{26}}{2}(1 \\pm i)$",
+        "$\\pm \\frac{\\sqrt{13}}{2}(1 \\pm i)$",
+        "$\\pm \\frac{\\sqrt{26}}{2}(1 \\pm 2 i)$",
+        "$\\pm \\frac{\\sqrt{62}}{2}(1 \\pm i)$"
+      ],
+      "tag": "CUET 15-16,JU A 16-17 (SET 12),JU H 20-21 (SET A)"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "2. A tiger, seeing a deer at a distance of 20 m starts running towards the deer from rest with an acceleration of $3 \\mathrm{~m} / \\mathrm{sec}^{2}$. If the deer is moving with a uniform velecity of $13 \\mathrm{~m} / \\mathrm{sec}$, when will the tiger catch the deer?",
+      "options": [
+        "None of them",
+        "-10 or $\\frac{4}{3}$",
+        "10",
+        "10 or $-\\frac{4}{3}$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "3. The tangent to the circle $x^{2}+y^{2}=16$ makes an angle of $30^{\\circ}$ with $X$ axis. Determine the cquation of the tangent.",
+      "options": [
+        "None of them",
+        "$\\sqrt{3} y=x-8$",
+        "$y=\\sqrt{3} x \\pm 8$",
+        "$\\sqrt{3} y=x \\pm 8$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "4. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "5. If a straight line with slope $\\frac{3}{2}$ is perpendicular to $\\lambda x+3 y-7=0$, the value of $\\lambda$ is -",
+      "options": [
+        "$2$",
+        "$3$",
+        "$\\frac{9}{2}$",
+        "$\\frac{9}{4}$"
+      ],
+      "tag": "ACC 24,CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "6. One end of a rope having length of 10 ft is fixed with a vertical wall and the other end is connected to a point on the surface of a smooth sphere. If the sphere remains stable touching with the vertical wall, what will be the tension in the rope? [Assume, the weight of the sphere is 10000 lb and its radius is 3 ft ]",
+      "options": [
+        "11277 lb",
+        "10000 lb",
+        "10277 lb",
+        "9731 lb"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "7. Solve $2{ cos }^{ 2 }\\theta +3sin\\theta =0$",
+      "options": [
+        "$\\theta=\\dfrac{7\\pi}{4},\\dfrac{\\pi}{6}$",
+        "$\\theta=\\dfrac{\\pi}{6},\\dfrac{11\\pi}{6}$",
+        "$\\theta=\\dfrac{2\\pi}{3},\\dfrac{11\\pi}{4}$",
+        "$\\theta=\\dfrac{7\\pi}{6},\\dfrac{11\\pi}{6}$"
+      ],
+      "tag": "MGCC 24,GST 22-23,IU 18-19,Agr. GST 22-23,RU A 22-23,CUET 15-16,RU C 22-23 (SHIFT 1)"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "8.  Find the area enclosed by the parabola $y^{2}=6 x$ and straight line $y=x$",
+      "options": [
+        "$\\frac{256}{3}$ unit",
+        "$\\frac{128}{3}$ unit",
+        "6",
+        "$\\frac{64}{3}$ unit"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "9. A body is projected with a velocity of $39.2 \\mathrm{~m} / \\mathrm{sec}$ at an angle of $30^{\\circ}$ with the horizontal plane. When will it move in a direction perpendicular to its projection direction?",
+      "options": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "10. Find the value of $\\int \\frac{e^{3 x}-1}{e^{3 x}+1} d x$",
+      "options": [
+        "None of them",
+        "$\\mathrm{x}+\\frac{2}{3} \\log \\left(1+\\mathrm{e}^{-3 \\mathrm{x}}\\right)$",
+        "$x+2 \\log \\left(1+e^{-3 x}\\right)+C$",
+        "$x-\\frac{2}{3} \\log \\left(1+\\mathrm{e}^{-3 \\mathrm{x}}\\right)+C$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "11. Find the sum of the following infinite series: $\\frac{1}{1!}+\\frac{5}{2!}+\\frac{9}{3!}+\\frac{13}{4!}+\\cdots$",
+      "options": [
+        "None of them",
+        "$3+\\mathrm{e}$",
+        "$3-\\mathrm{e}$",
+        "$e-3$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "12. A box has 8 red, 4 black and 3 white balls. If 3 balls are picked randomly, what will be the probability that at least 2 of them are red?",
+      "options": [
+        "$\\frac{1}{15}$",
+        "$\\frac{36}{65}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{8}{15}$"
+      ],
+      "tag": "CU A 19-20,RUET 11-12,RUET 13-14,KUET 10-11,CUET 15-16,CUET 10-11,JU H 19-20 (SET E)"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "13. What are the total numbers between 100 and 999 that contain 1 even and 2 odd digits?",
+      "options": [
+        "None of them",
+        "300",
+        "200",
+        "150"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "14. If $\\vec{AB} = 2 \\hat{i} + \\hat{j} , \\vec{BC} = 3 \\hat{i} - \\hat{j} + 5 \\hat{k}$ , but what is the area of the parallelogram drawn through the adjacent sides AB and AC?",
+      "options": [
+        "8√5",
+        "5√6",
+        "3√6",
+        "6√5"
+      ],
+      "tag": "CU A 19-20,BUET 9-10,RUET 14-15,RUET 13-14,KUET 18-19,CUET 15-16,Tapan Sir,BUTEX 17-18"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "15. Find the coefficient of $x^{4 r}$ in the exapanion of $\\left(1+x^{2}\\right)^{-3}$",
+      "options": [
+        "$2 \\mathrm{r}(\\mathrm{r}+1)$",
+        "$(2 r-1)(r-1)$",
+        "$(r+1)(2 r-1)$",
+        "$(2 r+1)(r+1)$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "16. For what values of $a, b$ and $c$ the vector $\\vec{v}=(x+y+a z) \\hat{i}+(b x+3 y-z) \\hat{j}+(3 x+c y+z) \\hat{k}$ will be irrotational?",
+      "options": [
+        "$(3,1,1)$",
+        "$(3,-1,-1)$",
+        "$(-3,1,-1)$",
+        "$(3,1,-1)$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "17. Two objects of mass 5kg and 3kg attached to the two ends of a thin wire hang freely on either side of a pulley. After 4sec the cable snapped. How far will the lighter mass rise and after how long will it return to its starting point?",
+      "options": [
+        "None of them",
+        "√5 sec",
+        "(√5-1) sec",
+        "(√5+ 1) sec"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "MATHEMATICS(18)",
+      "question": "18. $3,8,7,11$ and 5 unit forces are acting along the sides $A B, B C, C D, D A$ and $A C$ of a rectangle $A B C D$. If $\\mathrm{AC}=10$ unit and $\\mathrm{BC}=6$ unit, what will be the magnitude of the moment of the couple created by the forces?",
+      "options": [
+        "None of them",
+        "$35 \\frac{1}{3}$ unit",
+        "53 unit",
+        "106 unit"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "1. The internal resistance of an ammeter is $1.5 \\Omega$ and it can measure a maximum current of 0.3 A . How much shunt resistance will be required to measure up to 2.0 A current by this ammeter?",
+      "options": [
+        "$0.234 \\Omega$",
+        "$0.222 \\Omega$",
+        "$0.254 \\Omega$",
+        "$0.264 \\Omega$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "2. In Young's two-crack test, the distance between the cracks is 2.0 mm. Find the wavelength of the light if the distance between the stripes is 0.295 mm above the screen at a distance of 1 m from this point.",
+      "options": [
+        "5.90 Å",
+        "59.0 Å",
+        "5900 Å",
+        "59000 Å"
+      ],
+      "tag": "RU C 22-23 (SHIFT 3),JU H 20-21 (SET A),BUTEX 22-23,BUTEX 21-22,BUTEX 13-14,BUTEX 05-06"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "3. If a balloon of mass 5 kg and radius 0.25 m is rolling with an angular velocity of $50 \\mathrm{rad} / \\mathrm{sec}$, what is its kinetic energy?",
+      "options": [
+        "0.078 J",
+        "390.63 J",
+        "0.78 J",
+        "585.94 J"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "4. The time period of a pendulum is more than 2 sec . As a result, it slows down to 20 sec daily. Fon how much change in its length it will oscillate exactly in 2 sec time period?",
+      "options": [
+        "$20 \\%$",
+        "$199 \\%$",
+        "$0.046 \\%$",
+        "$200 \\%$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "5. A light ray incident at an angle of $60^{\\circ}$ on the reflective surface of diamond gives an angle of refraction is $12^{\\circ}$. What is the angle of polarization of diamond?",
+      "options": [
+        "$4.16^{\\circ}$",
+        "$13.5^{\\circ}$",
+        "$67.5^{\\circ}$",
+        "$76.5^{\\circ}$"
+      ],
+      "tag": "JCC 24,DCC 24,CUET 15-16,CUET 10-11"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "6. The average life of radium is 4000y. What is the value of its decay constant?",
+      "options": [
+        "$2.5 \\times 10^{- 3} y^{- 1}$",
+        "$4.5 \\times 10^{- 3} y^{- 1}$",
+        "$6.5 \\times 10^{- 3} y^{- 1}$",
+        "$8.5 \\times 10^{- 4} y^{- 1}$"
+      ],
+      "tag": "JGCC 24,CB 19,KUET 11-12,KUET 12-13,CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "7. What will be the maximum possible efficiency of an engine working between $127^{\\circ} \\mathrm{C}$ and $427^{\\circ} \\mathrm{C}$ temperature?",
+      "options": [
+        "$23.62 \\%$",
+        "$42.86 \\%$",
+        "$50 \\%$",
+        "$70.25 \\%$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "8. The larger and smaller resultants of two vectors are 28 units and 4 units, respectively. They acted on a particle with an angle of $90^{\\circ}$ with each other. What is the value of resultant?",
+      "options": [
+        "None of them",
+        "28 unit",
+        "24 unit",
+        "20 unit"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "9. Half of a well of $16 \\mathrm{~m}$ depth and $6 \\mathrm{~m}$ diameter was filled with water. A pump of $2 \\mathrm{~kW}$ power and $80 \\%$ efficiency was used to empty the well. But the pump broke down after lifting half of the water. Another pump of $3 \\mathrm{HP}$ power can empty the remaining water within 2 hours.",
+      "options": [],
+      "tag": "RU C 22-23 (SHIFT 3),BUTEX 17-18"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "10. A room of volume $300 \\mathrm{~m}^{3}$ has air temperature of $27^{\\circ} \\mathrm{C}$. Due to use of air cooler, the temperature of the room has decreased to $17^{\\circ} \\mathrm{C}$. If the air pressure inside the room remains constant, what percentage of air comes in the room or goes out from the room?",
+      "options": [
+        "None of them",
+        "$10 \\%$",
+        "$30 \\%$",
+        "$3.33 \\%$"
+      ],
+      "tag": "CUET 15-16,CUET 14-15"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "11. A height where the value of gravitational acceleration is g h = 8ms -2 . There the velocity of a satellite is 8 kms -1 . How high above the earth's surface is the satellite orbiting the earth? [Earth's radius is 6.4×10 6 m]",
+      "options": [
+        "6400 km",
+        "3200 km",
+        "1600 km",
+        "1000 km"
+      ],
+      "tag": "RU H 16-17 (G-ODD),Tapan Sir"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "12. The radius of a bend in the railway line is 98m and the distance between two legs of the line is 1.525m. By how much higher is the outer leg than the inner leg, will a train turn at a speed of 9.8m/s with no pressure applied to the outer leg?",
+      "options": [],
+      "tag": "CUET 15-16,Tapan Sir"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "13. A magnetic field of strength $2.7\\times10^4$ amp/m has a flux of $5.3\\times10^{-5}Wb$ in an iron rod of area \\(0.2\\times10^{-4}\\ m^2\\ ) is produced. Determine the magnetic induction.",
+      "options": [
+        "None of them",
+        "1.43wb/$m^2$",
+        "$1.96\\times10^{-9}Wb$/$m^2$",
+        "2.65Wb/$m^2$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "14. The focal lengths of the objective and the eye-piece of a microscope are 0.02 m and 0.07 m , respectively. The distance between them is 0.2 m . At what distance an object is to be placed in front of the objective to get the image at a distance of 0.25 m from the eye-piece?",
+      "options": [
+        "23 cm",
+        "23 m",
+        "0.023 cm",
+        "0.023 m"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "15. A star has three times the mass of the Sun. If the star transforms into a black hole, what is its Schwarzschild radius?\n [Mass of Sun=1.99x10 30 kg and Gravitational constant, G=6.67xI0 -11 Nm 2 kg -2 ]",
+      "options": [
+        "8.85 km",
+        "9.75km",
+        "10.25km",
+        "18.9km"
+      ],
+      "tag": "RU C 21-22 (GROUP 1),Ishaque Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "16. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "17. A sound wave travels a distance of 1080 m in air in 3 min. If the length of this sound wave is 60 cm, what is the period of the wave?",
+      "options": [
+        "0.1 sec",
+        "1 sec",
+        "10 sec",
+        "20 sec"
+      ],
+      "tag": "CUET 15-16,Ishaque Sir"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "18. Car $A$ is travelling on a straight road with a uniform speed of $60 \\mathrm{~km} / \\mathrm{hr}$. Another car $B$ is following it on the same road with a uniform speed of $70 \\mathrm{~km} / \\mathrm{hr}$. When the distance between the cars is 2.5 km , the car $B$ is givena retardation of $20 / \\mathrm{km} \\cdot \\mathrm{hr}^{2}$. At what distance and time will the car $B$ catch the car A ?",
+      "options": [
+        "37.5 km and 0.25 hr",
+        "32.5 km and 0.50 hr\nr",
+        "30 km and 0.50 hr",
+        "60 km and 0.25 h"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "19. An electric fan rotates at a speed of 1200 rpm . After switch off it takes 2 munites time to stop. What is the revolution of the fan before stop ping?",
+      "options": [
+        "1500 rev",
+        "2000 rev",
+        "3000 rev",
+        "1200 rev"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "PHYSICS(20)",
+      "question": "20. The temperature of the cold junction of an Aluminium-Lead thermocouple is $0^{\\circ} \\mathrm{C}$. For what temperature of the hot junction, the generated thermo-emf will be $1050 \\mu \\mathrm{V}$ ? [Let, $a=12 \\mu^{\\circ} \\mathrm{C}$ and $b=12 \\mu /\\left({ }^{\\circ} \\mathrm{C}\\right)^{2}$ ]",
+      "options": [
+        "8.8670 C",
+        "$700^{\\circ} \\mathrm{C}$",
+        "$327^{\\circ} \\mathrm{C}$",
+        "$100^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "1. What is the role of $\\mathrm{HNO}_{3}$ in the reaction of [IMG: https://assets.chorcha.net/07EZ8FLA08V0q0UB10IcK.png]",
+      "options": [
+        "Base",
+        "Catalyst",
+        "Acid",
+        "Indicator"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "2. What is the name of the following compound according to IUPAC system? $\\left(\\mathrm{CH}_{3}\\right)_{3}-\\mathrm{C}-\\mathrm{CH}_{2}-\\mathrm{CH}-\\left(\\mathrm{CH}_{3}\\right)_{2}$",
+      "options": [
+        "2, 2, 4-Trimethylpentane",
+        "2, 4, 4-Trimethylpentane",
+        "Isopentane",
+        "Neooctane"
+      ],
+      "tag": "RU C 20-21 (GROUP 1),JU A 16-17 (SET 12),Lingcon Sir,Guha Sir,Kabir Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "3. In the summer, at $25^{\\circ} \\mathrm{C}$, if the mole fraction of water vapor in air is 0.0287 and total pressure of air is 0.977 atm , what is the partial pressure of water vapor in air?",
+      "options": [
+        "0.30 atm",
+        "0.948 atm",
+        "0.028 atm",
+        "0.029 atm"
+      ],
+      "tag": "CUET 15-16,Kabir Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "4. There 585 ppm NaCl is present in the water of agricultural land in Khulna area. What is the molarity of NaCl in that water?",
+      "options": [
+        "0.05 M",
+        "0.04 M",
+        "0.01 M",
+        "0.03 M"
+      ],
+      "tag": "CUET 15-16,Kabir Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "5. If $1.0 \\times 10^{5} \\mathrm{~A}$ current is passed through a molten mixture of aluminum oxide and cryolite for eight hours, how much aluminum in kg will be produced?",
+      "options": [
+        "268.6 kg",
+        "307.6 kg",
+        "9.95 kg",
+        "805.8 kg"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "6. An electric power station annually burns $3.1 \\times 10^{7} \\mathrm{~kg}$ of coal containing $2.4 \\%$ rhombic sulfer by mass. Calculate the volume of $\\mathrm{SO}_{2}$ produced at STP.",
+      "options": [
+        "$2.17 \\times 10^{7} \\mathrm{~L}$",
+        "$5.21 \\times 10^{5} \\mathrm{~L}$",
+        "$5.21 \\times 10^{8} \\mathrm{~L}$",
+        "$2.17 \\times 10^{10} \\mathrm{~L}$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "7. 300 mL of 0.2 M NaOH solution is added to 100 mL of $0.1 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}$ solution for partial neutralization.\nDetermine the concentration of unreacted NaOH solution.",
+      "options": [
+        "0.14 M",
+        "0.15 M",
+        "0.04 M",
+        "0.1 M"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "8. If $\\Delta n=\\frac{1}{2}$ in a reversible reaction, at what temperature in degree Celsius will the value of $K_{r}$ be eight times the value of $\\mathrm{K}_{c}$ ? Given that $\\mathrm{R}=0.0821 \\mathrm{~L} \\mathrm{~atm} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$.",
+      "options": [
+        "$506.54^{\\circ} \\mathrm{C}$",
+        "$34.45^{\\circ} \\mathrm{C}$",
+        "$97.45^{\\circ} \\mathrm{C}$",
+        "$779.54^{\\circ} \\mathrm{C}$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "9. What is the electron configuration of the outermost layer of the heaviest metal atom?",
+      "options": [
+        "$(n-1) d^{7} n s^{2}$",
+        "$(n-1) d^{5} n s^{2}$",
+        "$(\\mathrm{n}-1) \\mathrm{d}^{10} \\mathrm{~ns}^{2}$",
+        "$(\\mathrm{n}-1) \\mathrm{d}^{10} \\mathrm{~ns}^{1}$"
+      ],
+      "tag": "CUET 15-16,Guha Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "10. The pH value of orange juice is 3.8 . What is the concentration of $\\mathrm{OH}^{-}$of that juice?",
+      "options": [
+        "$6.33 \\times 10^{-11} \\mathrm{M}$",
+        "$6.54 \\times 10^{-11} \\mathrm{M}$",
+        "$6.75 \\times 10^{-11} \\mathrm{M}$",
+        "$8.4 \\times 10^{-11} \\mathrm{M}$",
+        "$8.81 \\times 10^{-11} \\mathrm{M}$"
+      ],
+      "tag": "PUST 16-17,CKRUET 20-21,CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "11. At $30^{\\circ} \\mathrm{C}$ temperature $1.5 \\mathrm{~atm} .15 .6 \\%$ of $\\mathrm{PCl}_{5}$ is dissociated.\n$\\mathrm{PCl}_{5}(\\mathrm{~g}) \\leftrightarrow \\mathrm{PCl}_{3}(\\mathrm{~g})+\\mathrm{Cl}_{2}(\\mathrm{~g})-90 \\mathrm{kj}$",
+      "options": [],
+      "tag": "SB 23,DB 17,FGCC 24,FCC 24,FCC 24,JUST 16-17,BUET 19-20,BUET 13-14,RUET 14-15,KUET 14-15,CUET 15-16,BUTEX 13-14"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "12. How many electrons will flow if a current of 0.1 mA is passed through a copper wire for 15 min?",
+      "options": [
+        "$5.62\\times{10}^{17}$ t",
+        "$2.31\\times{10}^{19}$ t",
+        "$4.84\\times{10}^{17}$ t",
+        "$8.60\\times{10}^{18}$t"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "13. What is the EMF of the following cell?\n$\\mathrm{Zn}\\left|\\mathrm{Zn}^{2+}(0.001 \\mathrm{M}) \\|\\right| \\mathrm{Ag}^{+}(0.1 \\mathrm{M}) \\mid \\mathrm{Ag}\\left[\\mathrm{E}_{\\text {cell }}^{0}=1.56 \\mathrm{~V}\\right]$",
+      "options": [
+        "1.59 V",
+        "1.46 V",
+        "1.61 V",
+        "1.10 V"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "14. The pK of acitic acid is 4.76 at $25^{\\circ} \\mathrm{C}$ temperature. How buffer solution of 5.0 pH is produced from sodium acetate?",
+      "options": [
+        "None of them",
+        "The ratio of sodium acetate to acetic acid is 1:1.738",
+        "The ratio of sodium acetate to acetic acid is $1: 1$",
+        "The ratio of sodium acetate to acetic acid is $1.738: 1$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "15.\nWhat is the wavelength of the delevoped spectrum line in Balmer series associated with drop of the electron of hydrogen atom from the fourth orbit to lower orbit? [Rydberg constant $=109678 \\mathrm{~cm}^{-1}$ ]",
+      "options": [
+        "$4.86 \\times 10^{-5} \\mathrm{~cm}$",
+        "$18.75 \\times 10^{-5} \\mathrm{~cm}$",
+        "$9.72 \\times 10^{-6} \\mathrm{~cm}$",
+        "$6.56 \\times 10^{-5} \\mathrm{~cm}$"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "16. Which of the following compounds shows both aromatic and aliphatic properties?",
+      "options": [
+        "Chlorobenzene",
+        "Toluene",
+        "Cyclohexene",
+        "Benzene"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "17. 1 g iodine is dissolved in 1 litre of water. How much iodine will remain in that solution if the solution is mixed with $50 \\mathrm{~mL} \\mathrm{CCl}_{4}$ and stired. [Assume, the distribution co-efficient of $\\mathrm{I}_{2}$ between $\\mathrm{CCl}_{4}$ and water is 80 .]",
+      "options": [
+        "0.8 g",
+        "0.6 g",
+        "0.4 g",
+        "0.2 g"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "18. If coal is used as fuel, which of the following air pollutants are produced from brick kiln?\n(i) $\\mathrm{SO}_{2}$\n(ii) CO\n(iii) $\\mathrm{O}_{3}$\n(iv) Particle",
+      "options": [
+        "All of them",
+        "$\\mathrm{i}, \\mathrm{ii}, \\mathrm{iv}$",
+        "ii, iii, iv",
+        "i, ii, iii"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "19. What is the name of the main compound produced by nitration of phenol?",
+      "options": [
+        "Picric acid",
+        "m-Nitrophenol",
+        "Salicylic acid",
+        "p-Nitrophenol"
+      ],
+      "tag": "CUET 15-16,Kabir Sir"
+    },
+    {
+      "subject": "CHEMISTRY(20)",
+      "question": "20.  In which carbonyl compound $(\\mathrm{C}=0), \\overline{\\mathrm{v}}$ has the highest value?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/Aq0KyupIR2oy7yocMHFrL.png]",
+        "[IMG: https://assets.chorcha.net/-nldhGIF6FdGukgkF0Wcx.png]",
+        "[IMG: https://assets.chorcha.net/IyXkqOgIHXOf-FTmfIFtc.png]",
+        "[IMG: https://assets.chorcha.net/pOCSvNviOO2j9o9d6kBfc.png]"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "1. Choose the correct “Indirect Speech” of the following \"Direct Speech\": The prince said, “it gives me great pleasure to be here this evening.\"",
+      "options": [
+        "The prince said that it gives him great pleasure to be there this evening.",
+        "The prince said that it gave him great pleasure to be here this evening",
+        "The prince said that it gave him great pleasure to be there that evening",
+        "The prince said that it gave him great pleasure to be there this evening"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "2. Choose the Correct Translation of the following sentence: “আমি তাকে তোমার নাম ধরে ডাকতে শুনলাম।”",
+      "options": [
+        "I heard him to calling you by your name.",
+        "I heard him called you by your name.",
+        "I heard him calling you by your name.",
+        "I heard him call you by your name."
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "3. Choose the \"Most Appropriate Choice\" of the meaning of the underlined idiom of the following sentence:\n\"This boy is far and away the best boy in the class.\"",
+      "options": [
+        "not at all",
+        "a long way",
+        "by a great margin",
+        "everywhere"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "4. Choose the correct \"Active voice\" of the following \"Passive Voice\":\n\"Why wasn't the matter brought to my notice?\"",
+      "options": [
+        "Why don't you bring the matter to my notice?",
+        "Why was the matter not brought to my notice?",
+        "Why you didn't bring the matter to my notice",
+        "Why didn't you bring the matter to my notice?"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "5. Ever since humans have inhabited the earth, they have made use of various forms of communication. Generally, this expression of thoughts and feelings has been in the form of oral speech. When there is a language barrier, communication is accomplished through sign language in which motions stand for letters, words and ideas. Tourists, the deaf and the mute have had to resort to this form of expression. Many of these symbols of whole words are very picturesque and exact and can be used internationally; spelling, however, cannot.\nBody language transmits ideas or thoughts by certain actions, either intentionally or unintentionally. A wink can be a way of flirting or indicating that the party is only joking. A nod signifies approval, while shaking the head indicates a negative reaction.\nOther forms of nonlinguistic language can be found in Braille (a system of raised dots read with the fingertips), signal flags, Morse code, and smoke signals. Road maps and picture signs also guide, warn and instruct people.\nWhile verbalization is the most common form of language, other systems and techniques also express human thoughts and feelings.\nAll of the following statements are true EXCEPT:",
+      "options": [
+        "The deaf and mute use an oral form of communication.",
+        "Ideas and thoughts can be transmitted by body language.",
+        "There are many forms of communication in existence today.",
+        "Verbalization is the most common form of communication."
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "6. Choose the \"Appropriate Preposition\" to fill in the blank of the following sentence:\nThe food is not _____ my taste.",
+      "options": [
+        "at",
+        "to",
+        "by",
+        "on"
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "7. Choose the \"Complex Sentence\" from the following sentences.",
+      "options": [
+        "I went there but could not meet him.",
+        "Having taken the meal, the beggar went away.",
+        "Though I went there, I could not meet him.",
+        "In spite of my going there, he did not meet me."
+      ],
+      "tag": "CUET 15-16"
+    },
+    {
+      "subject": "ENGLISH(8)",
+      "question": "8. Choose the incorrect sentence.",
+      "options": [
+        "The company representative sold to the manager a sewing machine for forty dollars.",
+        "The students themselves decorated the room.",
+        "Sakif would rather stay home tonight.",
+        "The salary of a professor should be higher than that of a secretary."
+      ],
+      "tag": "CUET 15-16"
+    }
+  ]
+}

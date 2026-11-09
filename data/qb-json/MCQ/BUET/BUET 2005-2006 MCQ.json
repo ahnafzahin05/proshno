@@ -1,0 +1,611 @@
+{
+  "title": "BUET 2005-2006 MCQ",
+  "questions": [
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "1. What is the distance of the image point of $(2,3)$ with respect to the line $4 x+3 y-7=0$ ?",
+      "options": [
+        "2 units",
+        "4 units",
+        "3 units",
+        "6 units"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "2. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "3. If $\\tan \\theta=\\frac{y}{x}$ then what is the value of $x \\cos 2 \\theta+y \\sin 2 \\theta$ ?",
+      "options": [
+        "$2 x$",
+        "$x+y$",
+        "$x-y$",
+        "$x$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "4. If $\\sqrt[3]{x+i y}=p+i q$ then which of the following is true?",
+      "options": [
+        "$4\\left(p^{2}+q^{2}\\right)=\\frac{x}{p}+\\frac{y}{q}$",
+        "$4\\left(p^{2}-q^{2}\\right)=\\frac{x}{p}+\\frac{y}{q}$",
+        "$4\\left(p^{2}-q^{2}\\right)=\\frac{x}{p}-\\frac{y}{q}$",
+        "$4\\left(p^{2}+q^{2}\\right)=\\frac{x}{p^{2}}+\\frac{y}{q^{2}}$"
+      ],
+      "tag": "RU H 14-15 (G-ODD)"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "5. For what values of $x$ the value of the determinant will be zero? $\\left|\\begin{array}{ccc}x^{2} & x & 2 \\\\ 2 & 1 & 1 \\\\ 0 & 0 & -5\\end{array}\\right|$",
+      "options": [
+        "$x=0,-2$",
+        "$x=1,2$",
+        "$x=0,1$",
+        "$x=0 ,2$,"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "6. For what value of $\\mathrm{K}$ there will be infinite solutions of the following equations?\n$x-y=3 ; 2 x-2 y=K$",
+      "options": [
+        "$-\\infty < K < \\infty$",
+        "$K \\neq 6$",
+        "$K=\\frac{3}{2}$",
+        "$K=6$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "7. What is the value of $\\sqrt{i}+\\sqrt{-i}$ ?",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\sqrt{2}$",
+        "$2$",
+        "$1$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "8. A man wants to carry a weight on a side of a stick on his shoulder. How should the pressure on his soulder and hand change?",
+      "options": [
+        "$\\mathrm{R} \\propto \\mathrm{x}^{2}$",
+        "$\\mathrm{R} \\propto \\frac{1}{\\mathrm{x}^{2}}$",
+        "$R \\propto \\frac{1}{x}$",
+        "$R \\propto x$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "9. A man goes to a place at a speed of 4 miles per hour and comes back at a speed of 5 miles per hour. What is his average velocity?",
+      "options": [
+        "$5$",
+        "$4.54$",
+        "$4.44$",
+        "$4.50$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "10. Scenerio-1:[IMG: https://assets.chorcha.net/8vHZZTu7KaHxw4vpdgjQf.png]Scenerio-2: $P, Q, R$ are three forces and 0 is the circumcenter of the triangle $\\mathrm{ABC}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-EVEN),JU A 21-22 (SET F),BUTEX 22-23,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "11. What is the value of the following integration? $\\int_{0}^{\\mathrm{e}} \\ln x \\mathrm{dx}$",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$\\text{e}$",
+        "$1$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "12. The n-th differencial coefficient of $\\cos 3 x$ is:",
+      "options": [
+        "$3^{n} \\sin \\left(\\frac{n \\pi}{2}+3 x\\right)$",
+        "$3^{n} \\cos \\left(\\frac{n \\pi}{2}-3 x\\right)$",
+        "$3^{\\mathrm{n}} \\sin \\left(\\frac{\\mathrm{n} \\pi}{2}-3 \\mathrm{x}\\right)$",
+        "$3^{n} \\cos \\left(\\frac{n \\pi}{2}+3 x\\right)$"
+      ],
+      "tag": "MC 24,BAFSC 24,DB 19,BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "13. At what temperature will the Fahrenheit scale value be 10° higher than the Celsius scale value?",
+      "options": [
+        "-27.5° C",
+        "-27.5° F",
+        "27.5° C",
+        "27.5° F"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "14. Two different ideal gases are kept at same pressure in different pots. If their densities are $\\rho_{1}$ and $\\rho_{2}$ and rms velocities are $C_{1}$ and $C_{2}$ then the value of $\\frac{C_{1}}{C_{2}}$ will be -",
+      "options": [
+        "$\\frac{\\rho_{1}^{2}}{\\rho_{2}^{2}}$",
+        "$\\frac{\\rho_{2}^{2}}{\\rho_{1}^{2}}$",
+        "$\\sqrt{\\frac{\\rho_{1}}{\\rho_{2}}}$",
+        "$\\sqrt{\\frac{\\rho_{2}}{\\rho_{1}}}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "15. The total energy of a particle was found to be 3 times of the static state. What is the velocity of the particle?",
+      "options": [
+        "$8.485 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$2.828 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$0.353 \\times 10^{8} \\mathrm{~ms}^{-1}$",
+        "$9 \\times 10^{8} \\mathrm{~ms}^{-1}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "16. A galvanometer of resistance 100 Ω can safely accept a current of 10mA. How much shunt resistance is needed to measure a current of 10A?",
+      "options": [
+        "0.4 Ω",
+        "0.3 Ω",
+        "0.2 Ω",
+        "0.1 Ω"
+      ],
+      "tag": "RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 18-19 (SET C),JU A 15-16 (SET 4),Tapan Sir,BUTEX 16-17"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "17. Young's coefficient value of copper wire is 2×10 11 Nm -2 . How much force is required to double the length of a copper wire of cross section 1 cm 2 ?",
+      "options": [
+        "1×107 N",
+        "1.5×107 N",
+        "2×107 N",
+        "107 N"
+      ],
+      "tag": "RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 16-17 (GROUP 1),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 15-16 (SET 3),JU A 15-16 (SET 4),Pramanik Sir,Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "18. Using helium in a constant volume gas thermometer, the pressure at the triple-point of water (273.16 K) was found to be 19.5 KPa and the pressure at the dry ice point was 13.94 KPa. What is the temperature of dry ice?",
+      "options": [
+        "195.274 K",
+        "14.723 K",
+        "0.995 K",
+        "382.110 K"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "19. A metallic surface has a light emission wavelength of 330A°. What is the maximum kinetic energy of the photoelectron emitted (if any) when a light beam of wavelength 1100A° is incident on the surface?",
+      "options": [
+        "1.0 eV",
+        "2.0 eV",
+        "7.5 eV",
+        "No photoelectron is emitted"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "20. Beautiful colors are seen on thin film of oil on water during rainy day, what is it's reason?",
+      "options": [
+        "Dispersion",
+        "Polarization",
+        "Interference",
+        "Diffraction"
+      ],
+      "tag": "BISCM 24,SB 17,BUET 5-6,Ishaque Sir,Tofazzal Sir,BUTEX 11-12"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "21. Two-point charges $+2 \\mathrm{C}$ and $+6 \\mathrm{C}$ repulse at a force of $12 \\mathrm{~N}$. If $-4 \\mathrm{C}$ charge is given to each then the force will be -",
+      "options": [
+        "$4 \\mathrm{~N}$ repulsive",
+        "$4 \\mathrm{~N}$ attractive",
+        "$8 \\mathrm{~N}$ repulsive",
+        "$8 \\mathrm{~N}$ attractive"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "22. A rocket is launched from earth at a velocity $v$ and at an angle of $30^{\\circ}$ with the earth surface. What should be the minimum velocity so that the rocket can go overcoming the force of gravity?",
+      "options": [
+        "$11.2 \\mathrm{kms}^{-1}$",
+        "$\\frac{1}{\\sqrt{3}} 22.4 \\mathrm{kms}^{-1}$",
+        "$22.4 \\mathrm{kms}^{-1}$",
+        "$5.6 \\mathrm{kms}^{-1}$"
+      ],
+      "tag": "BSMRSTU 19-20,BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "23. The period of simple pendulum is measured as $T$ in a stationary lift. If the lift moves upward with an acceleration of ; $5\\ g$, the period will be",
+      "options": [
+        "The same",
+        "Increased by $3/5$",
+        "Decreased by $2/3$ times",
+        "None of the above"
+      ],
+      "tag": "BUET 21-22,BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "24. Which molecular property shows much deviation from ideal gases?",
+      "options": [
+        "High molecular energy",
+        "Less molecular velocity",
+        "Large atomic size",
+        "Weak intermolecular attraction"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "25. Which of the following will not be accepted as the electronic configuration of the lowest energy level of atom?",
+      "options": [
+        "[IMG: https://assets.chorcha.net/pTdmTjFj36QZpiSpvUK_o.png]",
+        "[IMG: https://assets.chorcha.net/D5Furb61biPypFgNrfWsx.png]",
+        "[IMG: https://assets.chorcha.net/N4vIZe84gGi2tv8rLqLIh.png]",
+        "[IMG: https://assets.chorcha.net/utkOmMXfHydYstjthnhN7.png]"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "26. What type of hybridization of carbon can be seen in $\\mathrm{CH}_{3} \\mathrm{OH}$ molecule?",
+      "options": [
+        "sp",
+        "$\\mathrm{sp}^{2}$",
+        "$\\mathrm{sp}^{3} \\mathrm{~d}^{2}$",
+        "$\\mathrm{sp}^{3}$"
+      ],
+      "tag": "GST 21-22,DU A 13-14,BUET 5-6,Lingcon Sir,Guha Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "27. $\\mathrm{NH}_{3}$ boils at higher temperature than $\\mathrm{PH}_{3}$ because $\\mathrm{NH}_{3}$ has -",
+      "options": [
+        "small molecular volume",
+        "shows dipole energy",
+        "High bond angle",
+        "shows hydrogen bond"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "28. According to which of the following statements a reaction will reach equilibrium at minimum time?",
+      "options": [
+        "$K_{c}$ much higher",
+        "$K_{c}$ is about 1.0",
+        "$K_{c}$ much lower",
+        "Can't be told"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "29. Which one is supportive to high melting point of ionic solids?",
+      "options": [
+        "Small ionic radius",
+        "High ionic charge",
+        "High formula mass",
+        "High charge density"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "30. In a buffer solution there are 0.2 mole weak monobasic acid $\\left(\\mathrm{pK}_{\\mathrm{a}}=4.8\\right)$ and 0.02 mole sodium salt of acid. What is its $\\mathrm{pH}$ ?",
+      "options": [
+        "2.8",
+        "3.8",
+        "4.8",
+        "5.5"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "31. The easiest process to convert ethanol to iodoethene is -",
+      "options": [
+        "Refluxing iodine and ethanol",
+        "By the reaction of ethanol and potassium iodide in acidic medium",
+        "Refluxing red phosphorus, ethanol and iodine.",
+        "By the reaction of ethanol and copper (1) at cold state."
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "32. Which of the following is the correct ionic equation?",
+      "options": [
+        "$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+\\mathrm{H}^{+}+\\mathrm{Fe}^{2+} \\rightarrow 2 \\mathrm{Cr}^{3+}+\\mathrm{H}_{2} \\mathrm{O}+\\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+14 \\mathrm{H}^{+}+\\mathrm{Fe}^{2+} \\rightarrow 2 \\mathrm{Cr}^{3+}+7 \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+14 \\mathrm{H}^{+}+6 \\mathrm{Fe}^{2+} \\rightarrow 2 \\mathrm{Cr}^{3+}+7 \\mathrm{H}_{2} \\mathrm{O}+6 \\mathrm{Fe}^{3+}$",
+        "$\\mathrm{Cr}_{2} \\mathrm{O}_{7}^{2-}+10 \\mathrm{H}^{+}+6 \\mathrm{Fe}^{2+} \\rightarrow 2 \\mathrm{Cr}^{3+}+5 \\mathrm{H}_{2} \\mathrm{O}+\\mathrm{Fe}^{3+}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "33. Which of the following is optically active?",
+      "options": [
+        "$\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{OH}$",
+        "$\\left(\\mathrm{CO}_{2} \\mathrm{H}\\right)_{2}$",
+        "$\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{CHOH}$",
+        "$\\mathrm{CH}_{3} \\mathrm{CH}(\\mathrm{OH}) \\mathrm{CH}_{2} \\mathrm{CH}_{3}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "34. With the help of which continuous reaction in the laboratory 1,2-dibromopropane can be produced from propanol-2?",
+      "options": [
+        "Hydrolysis after oxidation",
+        "Hydrolysis after additio",
+        "Addition after hydrolysis",
+        "Addition after dehydration"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "35. What type of bond is there in $\\mathrm{NH}_{4} \\mathrm{Cl}$ ?",
+      "options": [
+        "Ionic",
+        "covalent",
+        "coordinate covalent",
+        "all"
+      ],
+      "tag": "RU H 15-16 (G-ODD),Guha Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "36. The value of pH for which solution is greater?",
+      "options": [
+        "0.01 M HCl",
+        "$0.01 \\mathrm{M} \\mathrm{HNO}_{3}$",
+        "$0.01 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{SO}_{4}$",
+        "$0.01 \\mathrm{M} \\mathrm{H}_{2} \\mathrm{CO}_{3}$"
+      ],
+      "tag": "CU A 18-19,BUET 5-6,JU A 17-18 (SET 6),Lingcon Sir,Guha Sir,Hazari Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "37. Why the bond angle in water molecule is $104^{\\circ}$ instead of $109.5^{\\circ}$ ?",
+      "options": [
+        "bond pair - bond pair repulsion",
+        "bond pair - lone pair repulsion",
+        "lone pair- lone pair repulsion",
+        "Repulsion between two hydrogen atoms"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "38. What is the volume of the obtained oxygen by the heating of 50mg potassium chlorate at NTP?",
+      "options": [
+        "$13.70 \\mathrm{~L}$",
+        "$15.50 \\mathrm{~L}$",
+        "$11.70 \\mathrm{~L}$",
+        "$10.80 \\mathrm{~L}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "39. The angle between the two vectors $\\mathrm{2 \\hat{i}-3 \\hat{k}, \\hat{i}+\\hat{j}+\\hat{k}}$ are:",
+      "options": [
+        "$\\sin ^{-1} \\frac{1}{\\sqrt{39}}$",
+        "$\\cos ^{-1} \\frac{1}{\\sqrt{12}}$",
+        "$\\cos ^{-1} \\frac{-1}{\\sqrt{39}}$",
+        "$\\sin ^{-1} \\frac{1}{\\sqrt{13}}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "40. Among 410 students of an educational institution 240 are learning Spanish and 180 are learning French. If 25 students learn no language then how many of them learn the both?",
+      "options": [
+        "205",
+        "265",
+        "35",
+        "385"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "41. In the same post of two places in a job a male and a female employee is required. The probability of getting the job for male and female are respectively $\\frac{1}{7}$ and $\\frac{1}{5}$. What is the probability of both not to get chance?",
+      "options": [
+        "$\\frac{1}{35}$",
+        "$\\frac{24}{35}$",
+        "$\\frac{34}{35}$",
+        "$\\frac{28}{35}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "42. Light of frequency $10^{15} \\mathrm{~Hz}$ and wavelength $0.3 \\mu \\mathrm{m}$ is passing through medium-1 of refractive index 1 . If this light ray enters medium 2 of refractive index 1.5 then what will be the wavelength?",
+      "options": [
+        "$0.133 \\mu \\mathrm{m}$",
+        "$0.2 \\mu \\mathrm{m}$",
+        "$0.45 \\mu \\mathrm{m}$",
+        "$0.67 \\mu \\mathrm{m}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "43. 10 A flows in the +x direction through a long straight conductor. If the conductor is placed in a 0.1 T magnetic field in the +x direction, what is the magnitude and direction of the force on the conductor?",
+      "options": [
+        "0.1 N,  +x direction",
+        "0.1 N,  +y direction",
+        "0.1 N,  +z direction",
+        "Zero force"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "44. The number of turns in the primary coil of a transformer is 50 , the voltage is $200 \\mathrm{~V}$. If the number of turns of the secondary coil is 100 , what is the voltage?",
+      "options": [
+        "100 V",
+        "200 V",
+        "300 V",
+        "400 V"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),Tapan Sir"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "45. Two transparent medium A and B are separated by a plane surface. The speed of light on medium A and B are respectively $2.0 \\times 10^{8} \\mathrm{~ms}^{-1}$ and $2.5 \\times 10^{8} \\mathrm{~ms}^{-1}$. When light enters from $A$ to $B$ then the angle of incidence for which there is total internal reflection is -",
+      "options": [
+        "$\\sin ^{-1}\\left(\\frac{1}{2}\\right)$",
+        "$\\sin ^{-1}\\left(\\frac{2}{3}\\right)$",
+        "$\\sin ^{-1}\\left(\\frac{4}{5}\\right)$",
+        "$\\sin ^{-1}\\left(\\frac{1}{3}\\right)$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "46. Two equiconvex lenses, each of focal length $20 \\mathrm{~cm}$, are placed in contact and the space between them is filled with water. Find the focal length of the combination.[Refractive index of glass $=\\frac{3}{2}$, refractive index of water $=\\frac{4}{3}$ ]",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),Ishaque Sir,BUTEX 18-19,BUTEX 14-15"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "47. The reaction $A \\rightarrow B$ is a first order reaction. Which plot will be linear?",
+      "options": [
+        "$[A]$ vs time",
+        "In $[\\mathrm{A}]$ vs time",
+        "$\\frac{1}{[\\mathrm{~A}]^{2}}$ vs time",
+        "$\\frac{1}{[A]} v s$ time"
+      ],
+      "tag": "BUET 11-12,BUET 5-6,BUET 13-14"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "48. Which of the following industrial reactions are known as Fisher-Trops process?",
+      "options": [
+        "$\\mathrm{C}_{2} \\mathrm{H}_{4}+\\mathrm{H}_{2} \\xrightarrow{\\mathrm{Ni} / \\mathrm{Pt}} \\mathrm{C}_{2} \\mathrm{H}_{6}$",
+        "$\\mathrm{CO}+\\mathrm{H}_{2} \\mathrm{O} \\xrightarrow{\\mathrm{Zn} / \\mathrm{CuO}} \\mathrm{CO}_{2}+\\mathrm{H}_{2}$",
+        "$8 \\mathrm{CO}+17 \\mathrm{H}_{2} \\xrightarrow{\\mathrm{Fe} \\text {-Co mixture }} \\mathrm{C}_{8} \\mathrm{H}_{18}+8 \\mathrm{H}_{2} \\mathrm{O}$",
+        "$\\mathrm{CO}+3 \\mathrm{H}_{2} \\xrightarrow{\\mathrm{NI}} \\mathrm{CH}_{4}+\\mathrm{H}_{2} \\mathrm{O}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "49. If a body of $5 \\mathrm{~kg}$ falls at a speed of $40 \\mathrm{~m} / \\mathrm{s}$ downward due to the force of gravity then what is the force that will stop it at 10 meters distance?",
+      "options": [
+        "449",
+        "$99 \\mathrm{~N}$",
+        "$49 \\mathrm{~N}$",
+        "$944 \\mathrm{~N}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "50. A complete radiator radiates energy at the rate of $3.2 \\times 10^{5} \\mathrm{erg} \\mathrm{cm}^{-2} \\mathrm{~s}^{-1}$ at $0^{\\circ} \\mathrm{C}$. What is Stefen's constant?",
+      "options": [
+        "$5.761 \\times 10^{-5} \\mathrm{erg} \\mathrm{cm}^{-2} \\mathrm{~s}^{-1} \\mathrm{~K}^{-4}$",
+        "$0.11172 \\times 10^{-5} \\mathrm{erg} \\mathrm{cm}^{-2} \\mathrm{~s}^{-1} \\mathrm{~K}^{-4}$",
+        "$3.2 \\times 10^{-5} \\mathrm{erg} \\mathrm{cm}^{-2} \\mathrm{~s}^{-1}$",
+        "None of the above"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "51. A train standing at a certain distance from a platform makes sound of frequency $500 \\mathrm{~Hz}$. If the velocity of sound is $340 \\mathrm{~ms}^{-1}$ then the frequency and wavelength of the sound heard by a person coming towards the train at a velocity of $10 \\mathrm{~ms}^{-1}$ will be -",
+      "options": [
+        "$500 \\mathrm{~Hz}, 0.70 \\mathrm{~m}$",
+        "$500 \\mathrm{~Hz}, 0.68 \\mathrm{~m}$",
+        "$486 \\mathrm{~Hz}, 0.70 \\mathrm{~m}$",
+        "$515 \\mathrm{~Hz}, 0.68 \\mathrm{~m}$"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "52. Which of the following is the geometric structure of $\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{6}\\right]^{3+}$ complex ion?",
+      "options": [
+        "Square",
+        "Tetrahedral",
+        "Linear",
+        "Octahedral"
+      ],
+      "tag": "BUET 5-6,BUET 6-7"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "53. Read the following passage and answer the question:\nA Japanese construction company plans to build a huge independent city-state, akin to the legendary Atlantis, in the middle of the Pacific Ocean. The city, dubbed \"Marin Nation\" would have about one million inhabitants, two airports, and possibly even a spaceport. Marin nation, if built, would be a separate country but could serve as a home for international organizations such as the United Nations and the World Bank.\n\nAside from the many political and social problems that would have to be solved, the engincering task envisaged is monumental. The initial stage requires the building of a circular dam 18 miles in diameter attached to the seabed in a relatively shallow place in international waters. Then, several hundred pumps, operating for more than a year, would suck out the seawater from within the dam. When empty and dry, the area would have a city constructed on it. The actual land would be about 300 feet below sea level. According to designers, the hardest task from an engincering point of view would be to ensure that the dam in leak proof and earthquake proof.\nIf all goes well, it is hoped that Marin nation could be ready for habitation at the end of the second decade of the twenty-first century. Whether anyone would want to live in such an isolated and artificial community, however, will remain an open question until that time.\n\nThe problems of Marin nation focused on here are mainly",
+      "options": [
+        "Engineering",
+        "Human",
+        "Social",
+        "Political"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "54. Read the following passage and answer the question:\nA Japanese construction company plans to build a huge independent city-state, akin to the legendary Atlantis, in the middle of the Pacific Ocean. The city, dubbed \"Marin Nation\" would have about one million inhabitants, two airports, and possibly even a spaceport. Marin nation, if built, would be a separate country but could serve as a home for international organizations such as the United Nations and the World Bank.\n\nAside from the many political and social problems that would have to be solved, the engincering task envisaged is monumental. The initial stage requires the building of a circular dam 18 miles in diameter attached to the seabed in a relatively shallow place in international waters. Then, several hundred pumps, operating for more than a year, would suck out the seawater from within the dam. When empty and dry, the area would have a city constructed on it. The actual land would be about 300 feet below sea level. According to designers, the hardest task from an engincering point of view would be to ensure that the dam in leak proof and earthquake proof.\nIf all goes well, it is hoped that Marin nation could be ready for habitation at the end of the second decade of the twenty-first century. Whether anyone would want to live in such an isolated and artificial community, however, will remain an open question until that time.\n\nWhat is the synonym of the word \"akin\" used in the first paragraph of the passage?",
+      "options": [
+        "Dissimilar",
+        "Peculiar",
+        "Similar",
+        "Familiạr"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "55. Choose the appropriate idiomatic expression for the blank.\nAfter I have studied and learned all I can, I have to take the test and ____.",
+      "options": [
+        "null and void",
+        "sleep in",
+        "sink or swim",
+        "rant and rave"
+      ],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics+Physics+Chemistry+English(56)",
+      "question": "56. Choose the appropriate idiomatic expression for the blank.\nI finally found the right key after lots of ________.",
+      "options": [
+        "ups and downs",
+        "wild fire",
+        "trial and error",
+        "hue and cry"
+      ],
+      "tag": "BUET 5-6"
+    }
+  ]
+}
