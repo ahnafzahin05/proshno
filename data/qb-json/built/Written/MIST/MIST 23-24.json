@@ -1,0 +1,245 @@
+{
+  "title": "MIST 23-24",
+  "questions": [
+    {
+      "subject": "Mathematics(18)",
+      "question": "1. Express $\\frac{1 + 2i}{1 - 3i}$ in the form $r(\\cos\\theta + i \\sin\\theta)$.",
+      "options": [],
+      "tag": "MIST 23-24"
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "2. The equations of the lines AB and AC are y = 2x + 1 and y = 4x - 1 respectively; find the equation of the perpendicular from P on AB.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "3. Solve: $\\cos^{-1} \\mathrm{x} - \\sin^{-1} \\mathrm{x} = \\sin^{-1}(1 - \\mathrm{x})$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "4. At what point do the three forces P, Q, and R create equilibrium. If the angle between P and Q and Q and R is 120°, what is the ratio of Q to R?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "5. What is the value of p, for which the ellipse $4x^2 + py^2 = 80$ will pass through the points $(0, \\pm 4)$? Find the coordinates of the foci of the ellipse and the lengths of the axes.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "6. If $y = \\frac{\\ln(\\mathrm{x})}{\\mathrm{x}}$, then prove that, $y_{2} = \\frac{2\\ln \\mathrm{x} - 3}{\\mathrm{x}^{3}}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "7. A bullet is halfway through a wall after penetrating 2 inches. How much further will the bullet go into the wall before its velocity becomes zero?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "8. $\\begin{array}{l}\\text { If } F(x)=\\left|\\begin{array}{ll}f(x) & \\phi(x) \\\\ g(x) & \\phi(x)\\end{array}\\right| \\text {, then prove that, } F(x+h)-F(x)= \\\\ \\left|\\begin{array}{cc}f(x+h)-f(x) & \\phi(x+h) \\\\ g(x+h)-g(x) & \\phi(x+h)\\end{array}\\right|+\\left|\\begin{array}{ll}f(x) & \\phi(x+h)-\\phi(x) \\\\ g(x) & \\phi(x+h)-\\phi(x)\\end{array}\\right|\\end{array}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "9. $\\lim_{x \\rightarrow 0} \\frac{\\tan x - \\sin x}{x^3}$ value determination.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "10. Find the equation of the line passing through the point (- 1, 2) and making an angle of 45° with the line 3x – y + 7 = 0.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "11. $\\int \\frac{e^{m \\tan^{-1}x}}{(1 + x^2)^2} dx = ?$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "12. Prove that if the resultant of two equal forces acting at an angle $2\\alpha$ is double the resultant of the two forces acting at an angle $2\\beta$, then $\\cos \\alpha = 2 \\cos \\beta$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "13. If the roots of the equation $x^{3}-p x^{2}+q x-r=0$ are $a, b, c$ then find the values of $\\mathrm{a}^{2}+\\mathrm{b}^{2}+\\mathrm{c}^{2}$ and $\\mathrm{a}^{3}+\\mathrm{b}^{3}+\\mathrm{c}^{3}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "14. Prove that, $\\begin{vmatrix} 1 & 1 & 1 \\\\ a & b & c \\\\ a^3 & b^3 & c^3 \\end{vmatrix} = (a-b)(b-c)(c-a)(a+b+c)$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "15. If $\\alpha, \\beta$ and $\\gamma$ are the roots of the equation $\\mathrm{x}^{3}+\\mathrm{px}+\\mathrm{q}=0$, then form the cubic equation whose roots are $\\frac{\\alpha+\\beta}{\\gamma^{2}}, \\frac{\\beta+\\gamma}{\\alpha^{2}}, \\frac{\\alpha+\\gamma}{\\beta^{2}}$.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "16. Determine the equation of the circle with center at (1, 2) and having a tangent of length 2 units from the origin.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "17. The line 3x + ky - 1 = 0 touches the circle x² + y² - 8x - 2y + 4 = 0, find the value of k.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Mathematics(18)",
+      "question": "18. Prove that, $2 \\sin 11^\\circ 15' = \\sqrt{2 - \\sqrt{2 + \\sqrt{2}}}$",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "1. If the half-life of any atom is 12.5 years, how many atoms will remain after 25 years?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "2. A car of mass 2000 kg is moving down an inclined road with the ground at an angle of 30° at a speed of 16 $ms^{-1}$. When the driver applies the brakes, the car comes to rest after traveling a distance of 40 m. What is the magnitude of the kinetic friction force acting on the car?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "3. Define electric dipole moment.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "4. In a Carnot engine, the compression or expansion ratio at each stage is 1:2. It uses 3 mol of diatomic gas as the working substance. [For diatomic gas, $\\gamma = 1.4$]. Calculate the work done from point A to B in the Carnot cycle.\n\n[IMG: https://assets.chorcha.net/JiJ0TnWFGSlOh11_-y9uY.png]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "5. Using red light of frequency $4.69 \\times 10^{14} \\mathrm{~Hz}$ in Young's double-slit experiment results in a fringe width of $2.4 \\times 10^{-4} \\mathrm{~m}$. If light of frequency $7.5 \\times 10^{14} \\mathrm{~Hz}$ is used, what will be the change in fringe width?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "6. The transistor is connected in a common base circuit. The emitter current is 0.50 and the base current is 0.006 mA. What is the current gain factor?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "7. [IMG: https://assets.chorcha.net/CpwH5MnC9P0I9Wu0uWMwz.png]What is the equivalent resistance between A and B?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "8. A cube made of aluminum with a side length of 0.1 m is subjected to a normal force of $89.67 \\times 10^{5} \\mathrm{~N}$ on one of its faces, resulting in a displacement of $3.05 \\times 10^{-3} \\mathrm{~m}$ of the face with respect to the opposite fixed face. Determine the bulk modulus, bulk strain, and the stiffness coefficient.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "9. A boat is moving at a speed of 10 $ms^{-1}$ in a river that is 36 m wide. The boat crosses the river and reaches the opposite side. The speed of the current in the river is $3ms^{-1}$. What is the distance of BC on the opposite bank of the river?\n\n[IMG: https://assets.chorcha.net/Qj7c_yJsXyCXin1EqQz81.png]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "10. A person lifts a 25 kg object up a 20 m ladder and does 9800 J of work. If the ladder is at an angle of 30° to the wall, what is the weight of the person?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "11. A electric dipole is formed by two opposite charges of magnitude 1× $10^{-4}$ C and the distance between them is 2cm. The dipole is placed in an electric field of magnitude 1 × $10^{5}$ NC¯¹. What amount of work needs to be done to rotate the dipole to the opposite direction?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "12. From a height of 60 m, an object is dropped. At what height from the ground will the kinetic energy be three times the potential energy.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "13. The circle has masses m1=m2=m3=m4=1 kg placed on its circumference. If the radius is 1 m, what is the gravitational potential at the center of the circle?\n[IMG: https://assets.chorcha.net/FIwiYn5oZ8DHxlyJ7XwnX.png]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Physics(14)",
+      "question": "14. [IMG: https://assets.chorcha.net/UVI5wxTuR8D-Lpvv7zrOc.png]What is the difference in kinetic energy between points A and B for 1 mole of gas?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "1. A solution of 1.47111g K2Cr2O7 in 250 ml was taken in an acidic medium and 20ml of it was treated with KI. The I2 liberated was then titrated with 20ml of Na2S2O3. Determine the concentration of Na2S2O3.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "2. If 5g of graphite is required to write each word of Military Institute of Science & Technology, how many carbon atoms will be required to write the entire thing?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "3. The pH of $\\mathrm{CH}_{3} \\mathrm{COOH}$ with $\\mathrm{K}_{\\mathrm{m}}=1.8 \\times 10^{-5}$ and $\\alpha=1.37 \\%$ is?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "4. Complete the following reactions:\n[IMG: https://assets.chorcha.net/vMGCG_L76Lr2VI1tpKzYq.png]",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "5.\nIn $\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_{3}\\right)_{4}\\right] \\mathrm{SO}_{4}$, how many types and number of bonds are there?",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "Chemistry(6)",
+      "question": "6. Arrange B, Be, N, O and C in order of increasing ionization energy.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "English(2)",
+      "question": "1. Right form of verb -\n\ni. I couldn't mend the computer myself, so I had it repaired at a shop.\n\nii. He said that he would be unable to come.\n\niii. He advised me against smoking.\n\niv. Just now he is having his dinner, but he says he'll see you when he's finished.\n\nv. He gave up playing football when he got married.",
+      "options": [],
+      "tag": ""
+    },
+    {
+      "subject": "English(2)",
+      "question": "2. Transform the following questions as direction:\n\ni. What a gorgeous sunset it is! (Make it assertive)\n\nii. I studied hard for the exam and got a good grade. (Make it simple)\n\niii. Transform the following sentence into a complex one: 'Learn to educate yourself.'\n\niv. I know that America was discovered by Columbus. (Make it active)\n\nv. Change into reported form: She told me to come on Monday.",
+      "options": [],
+      "tag": ""
+    }
+  ]
+}

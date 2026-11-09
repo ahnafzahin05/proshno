@@ -1,0 +1,166 @@
+{
+  "title": "BUET 2005-2006 Written",
+  "questions": [
+    {
+      "subject": "Mathematics(7)",
+      "question": "1. If the ratio of the two roots of $\\mathrm{px}^{2}+\\mathrm{qx}+\\mathrm{r}=0$ is $1: 5$, then show that, $5 \\mathrm{q}^{2}=36 \\mathrm{pr}$.",
+      "options": [],
+      "tag": "RU H 15-16 (G-ODD),BUTEX 23-24,BUTEX 22-23,BUTEX 19-20,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "2. $\\lim _{x \\rightarrow 0} \\frac{1}{x}(\\sqrt{1+x}-\\sqrt{1-x})=?$",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "tag": "RU H 17-18 (GROUP 1),RU H 16-17 (G-ODD),RU H 15-16 (G-EVEN),RU H 14-15 (G-ODD),RU H 14-15 (G-EVEN),RU H 15-16 (G-ODD),RU H 16-17 (GROUP 1),JU A 22-23 (SET I),JU A 22-23 (SET N),JU A 21-22 (SET I),JU A 21-22 (SET F),JU A 20-21 (SET B),JU A 19-20 (SET P),JU A (SET A),JU A 18-19 (SET P),JU A 18-19 (SET C),JU A 18-19 (SET A),JU A 17-18 (SET 3),JU A 16-17 (SET 4),JU A 16-17 (SET 12),JU A 17-18 (SET 6),JU A 15-16 (SET 3),JU A 15-16 (SET 5),JU A 15-16 (SET 4),JU H 20-21 (SET A),JU H 19-20 (SET E),JU H 16-17 (SET 3),JU H 17-18 (SET 6),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 17-18,BUTEX 16-17,BUTEX 14-15,BUTEX 15-16,BUTEX 13-14,BUTEX 12-13,BUTEX 11-12,BUTEX 11-12,BUTEX 09-10,BUTEX 08-09,BUTEX 07-08,BUTEX 06-07,BUTEX 05-06"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "3. The points $A(5,3), B(-2,0)$ and $C(1,1)$ are on a circle. Find the distance between the center of the circle and center of gravity of the triangle $A B C$.",
+      "options": [],
+      "tag": "RU C 21-22 (GROUP 1),BUTEX 23-24,BUTEX 22-23,BUTEX 21-22,BUTEX 20-21,BUTEX 19-20,BUTEX 11-12,BUTEX 07-08,BUTEX 06-07"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "4. The weight of a wheel of a heavy car is $\\mathrm{W}$ and radius is $20 ~\\mathrm{inch}$. What minimum force should be applied to the centre of the wheel parallel to the ground so that the wheel can pass an obstracle of 10 inch height?",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "5. Find the sum of the serics: $1+\\frac{3}{4}+\\frac{3.5}{4.8}+\\frac{3.5 .7}{4.8 .12}+\\cdots \\infty$.",
+      "options": [],
+      "tag": "DU A 19-20,BUET 13-14,BUET 7-8,BUET 18-19,BUET 8-9,BUET 5-6,BUET 17-18,BUET 9-10,BUTEX 11-12,BUTEX 10-11"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "6. A body of mass $8 \\mathrm{~kg}$ falling from 10 metres of height and goes $50 \\mathrm{~cm}$ inside sand and then stops. Determine the average thrust of sand on the object.",
+      "options": [],
+      "tag": "BUET 10-11,BUET 5-6"
+    },
+    {
+      "subject": "Mathematics(7)",
+      "question": "7. Convert the following number to binary and then judge your answer: 1239.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "1. Time period of a particle executing simple harmonic motion is 4 s and its amplitude is 4 m . The particle will possess half potential energy and half kinetic energy after how much time of passing the equilibrium position?",
+      "options": [],
+      "tag": "DU A 22-23,DU A 19-20,BUET 19-20,BUET 21-22,BUET 18-19,BUET 5-6,BUET 22-23,BUET 20-21,RUET 18-19,RUET 15-16,BUTEX 23-24,BUTEX 20-21,BUTEX 08-09,BUTEX 07-08"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "2. The ratio of intensity of two coherent light sources in a interference test is 25:4. Determine the ratio of intensity of maxima and minima of the interference fringe.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "3. A rocket is launched at a speed of $5 \\mathrm{~km} / \\mathrm{s}$ vertically upward from earth. Before coming back at what maximum height will the rocket go?\n[Mass of earth $=6.0 \\times 10^{24} \\mathrm{~kg}$, radius of earth $=6.4 \\times 10^{6} \\mathrm{~m}, \\mathrm{G}=6.67 \\times 10^{-11} \\mathrm{Nm}^{2} / \\mathrm{kg}^{2}$ ]",
+      "options": [],
+      "tag": "BUET 7-8,BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "4. The reactivity of a radioactive element can be measured with the help of count rate meter. At a certain time the count rate meter gives a reading of 4750 count per minute. After five minutes it gives a reading of 2700 count per meter. Determine the half life and decay constant of the radioactive substance.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "5. The series combination of two resistances is $40 ~ \\mathrm{ohm}$ and parallel combination is $7.5 ~\\mathrm{ohm}$. Determine the resistance of individual combination.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "6. When two capillary tubes of diameters $3.0 \\mathrm{~mm}$ and $6.0 \\mathrm{~mm}$ are deeped into water partially and vertically then what is the difference of the height of two water concave surfaces on the top of each tube? [Surface tension of water at experimental temperature is $7.3 \\times 10^{-2} \\mathrm{Nm}^{-1}$, contact angle is zero and specific density of water is $1.0 \\times 10^{3} \\mathrm{kgm}^{-3}$ ]",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "7. A metallic rod of $20 \\mathrm{~cm}$ length and $1 \\mathrm{~cm}$ radius is completely wound with nonconducting substance. The one end of the rod is at $100^{\\circ} \\mathrm{C}$ while the other is at $0^{\\circ} \\mathrm{C}$ ice. On observation it is seen that $25 \\mathrm{~g}$ of ice melts in each 5 minutes. Determine the coefficient of heat conductance of the metallic material. [Specific latent heat of fusion of ice is $80 \\mathrm{calg}^{-10} \\mathrm{C}^{-1}$ ]",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "8. The equation of a progressive wave is $y=5 \\sin (1508 t-6.28 x)$, where the unit of $t$ is in second and unit of $x$ is in meter. What is the (i) time period, (ii) wave length and (iii) velocity of the wave?",
+      "options": [],
+      "tag": "BUET 5-6,BUTEX 18-19"
+    },
+    {
+      "subject": "Physics(9)",
+      "question": "9. [IMG: https://assets.chorcha.net/0KoJdUO45o2RoHgSwpt3e.png]In the following figure, $\\mu_{\\mathrm{a}}=1$ and $\\mu_{\\mathrm{b}}=2$. If $\\theta=75^{\\circ}$ then, determine the direction of the evolved light from the point $O$.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "1. How much $\\mathrm{Cl}_{2}$ gas will be obtained according to the following reaction from $9.41 ~\\mathrm{gm} ~\\mathrm{HCl}$ at $40^{\\circ} \\mathrm{C}$ temperature and $787 \\mathrm{~m} . \\mathrm{m}$ mercury pressure?\n$2 \\mathrm{KMnO}_{4}+16 \\mathrm{HCl}=8 \\mathrm{H}_{2} \\mathrm{O}+2 \\mathrm{KCl}+2 \\mathrm{MnCl}_{2}+5 \\mathrm{Cl}_{2}$",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "2. (a) $300 ~\\mathrm{~mL}~ 0.2 ~\\mathrm{M}$ of $\\mathrm{NaOH}$ solution is partially neutralized with $100 ~\\mathrm{~mL} ~0.1 ~\\mathrm{M}$ of $\\mathrm{H}_{2} \\mathrm{SO}_{4}$. Determine the concentration of the rest $\\mathrm{NaOH}$.\n(b) Show with the help of half reaction, how $\\mathrm{MnO}_{4}^{-}$in basic medium oxidizes $\\mathrm{SO}_{3}^{-2}$ ion? Write the total reaction.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "3. (a) In one of two pots there is aqueous solution of $\\mathrm{KI}$ and in the other there is aqueous solution of $\\mathrm{KCl}$. How will you identify the two solutions? Write with reactions.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "4. (a) How will you prepare alkyl arylketone with the help of benzene and acetic acid? What is the name of the final reaction?",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "5. (c) Write Vander Walls equation for 2 moles of gas. $\\left(P+\\frac{4 a}{V^{2}}\\right)(V-2 b)=2 R T$\n(d) Write Hund's rule.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "6. Show the mechanism of formation of sigma $(\\sigma)$ bond by the overlap of s-s, s-p and p-p orbitals of two atoms.",
+      "options": [],
+      "tag": "BUET 18-19,BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "7. (a) The time of half reaction $\\left(t_{\\frac{1}{2}}\\right)$ of a first order reaction is 15 hours. After the end of 50 hours what amount of reactant will remain unchanged?\n(b) Chemical compounds of which kind is responsible for alkalinity of water? How can the amount of alkalinity be detmined?",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "8. Write the structural formula of the following compounds:\n(a) aspirin\n(b) paracetamol\n(c) uracil\n(d) melamine\n(e) Napthalene-2-ol",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "Chemistry(9)",
+      "question": "9. (a) Write the Arhenius equation.\n(b) Write the equation of the vapour pressure of ideal solution of A and B using Roult's law.",
+      "options": [],
+      "tag": "BUET 5-6"
+    },
+    {
+      "subject": "English(1)",
+      "question": "1. Indicate whether the following statements are true or false. If false, give the correct information.\n(a) German scientist Paul Beyard first thought of television.\n(b) Television is an up-to-date means of communicating thoughts and ideas.\n(c) It serves the purpose of our recreation.\n(d) After a day's work, we can sit in front of a television set and enjoy songs, dances, plays, sports and games.\n(e) It is recognized as a blessing of modern science.",
+      "options": [],
+      "tag": "BUET 5-6,BUET 5-6"
+    }
+  ]
+}
