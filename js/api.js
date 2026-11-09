@@ -3,9 +3,14 @@ const cache = new Map();
 
 async function getJSON(url) {
   if (!cache.has(url)) {
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`${res.status} ${url}`);
-    cache.set(url, await res.json());
+    const request = fetch(url).then(res => {
+      if (!res.ok) throw new Error(`${res.status} ${url}`);
+      return res.json();
+    }).catch(error => {
+      cache.delete(url);
+      throw error;
+    });
+    cache.set(url, request);
   }
   return cache.get(url);
 }

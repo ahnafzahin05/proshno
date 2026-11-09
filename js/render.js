@@ -7,11 +7,16 @@ const MATH = {
   throwOnError: false,
 };
 
-export function renderQuestions(list, container) {
+export function renderQuestions(list, container, { start = 0, limit = 10, append = false } = {}) {
+  const stage = document.createElement("div");
+  const end = Math.min(start + limit, list.length);
+  for (let i = start; i < end; i++) stage.append(createCard(list[i]));
+  renderMathInElement(stage, MATH);       // render only this detached batch
   const frag = document.createDocumentFragment();
-  for (const q of list) frag.append(createCard(q));
-  container.replaceChildren(frag);       // one DOM write
-  renderMathInElement(container, MATH);  // one KaTeX pass for the whole batch
+  frag.append(...stage.childNodes);       // commit the whole batch in one DOM write
+  if (append) container.append(frag);
+  else container.replaceChildren(frag);
+  return end;
 }
 
 function createCard(q) {

@@ -8,11 +8,34 @@ import { renderQuestions } from "./render.js";
 const $ = sel => document.querySelector(sel);
 const tree = $("#tree"), statusEl = $("#status"), homeEl = $("#home"), examEl = $("#exam");
 const chipsEl = $("#chips"), listEl = $("#list"), searchEl = $("#search");
+const themeBtn = $("#theme-btn"), themeLabel = $("#theme-label"), navScrim = $("#nav-scrim"), menuBtn = $("#menu-btn");
+const moreWrap = $("#more-wrap"), moreBtn = $("#more-btn");
+const PAGE_SIZE = 10;
+let filteredQuestions = [];
+let renderedCount = 0;
+let scrollStarted = false;
+let moreObserver;
 
 const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
 
 function showStatus(msg) { statusEl.textContent = msg ?? ""; statusEl.hidden = !msg; }
-function showHome() { homeEl.hidden = false; examEl.hidden = true; markActive(tree, null); }
+
+function animateView(view) {
+  homeEl.classList.remove("view-enter");
+  examEl.classList.remove("view-enter");
+  requestAnimationFrame(() => {
+    if (view.hidden) return;
+    view.classList.add("view-enter");
+  });
+}
+
+function showHome() {
+  showStatus("");
+  homeEl.hidden = false;
+  examEl.hidden = true;
+  animateView(homeEl);
+  markActive(tree, null);
+}
 
 async function init() {
   try {
@@ -21,13 +44,59 @@ async function init() {
     return showStatus("Could not load the question index. Run the build script and open the site through a local server.");
   }
   tree.replaceChildren(buildSidebar(state.index));
+  tree.addEventListener("pointerover", warmExam);
+  tree.addEventListener("focusin", warmExam);
   fillStats();
 
   window.addEventListener("hashchange", route);
   chipsEl.addEventListener("click", onChipClick);                       // event delegation
   searchEl.addEventListener("input", debounce(onSearch, 250));
-  $("#menu-btn").addEventListener("click", () => document.body.classList.toggle("nav-open"));
+  const savedTheme = localStorage.getItem("proshno-theme");
+  const initialTheme = savedTheme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  setTheme(initialTheme);
+  themeBtn.addEventListener("click", () => setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark", true));
+  menuBtn.addEventListener("click", () => setNavOpen(!document.body.classList.contains("nav-open")));
+  navScrim.addEventListener("click", () => setNavOpen(false));
+  moreBtn.addEventListener("click", loadNextBatch);
+  moreObserver = new IntersectionObserver(([entry]) => {
+    if (scrollStarted && entry.isIntersecting) loadNextBatch();
+  }, { rootMargin: "500px 0px" });
+  moreObserver.observe(moreWrap);
+  window.addEventListener("scroll", () => {
+    if (scrollStarted) return;
+    scrollStarted = true;
+    moreObserver.unobserve(moreWrap);
+    moreObserver.observe(moreWrap);
+  }, { passive: true });
   route();
+}
+
+function warmExam(event) {
+  const link = event.target.closest(".tree__years a");
+  if (!link || link.dataset.warming) return;
+  const [, type, uni, slug] = link.getAttribute("href").split("/");
+  const entry = state.index.admission[type]?.[uni]?.find(item => slugOf(item) === slug);
+  if (!entry) return;
+  link.dataset.warming = "true";
+  loadExam(entry.file).catch(() => {}).finally(() => { delete link.dataset.warming; });
+}
+
+function setTheme(theme, persist = false) {
+  document.documentElement.dataset.theme = theme;
+  const dark = theme === "dark";
+  themeLabel.textContent = dark ? "Light mode" : "Dark mode";
+  themeBtn.setAttribute("aria-label", `Switch to ${dark ? "light" : "dark"} mode`);
+  const themeIcon = $("#theme-icon");
+  themeIcon.innerHTML = dark
+    ? '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42"/></svg>'
+    : '<svg viewBox="0 0 24 24"><path d="M20.2 15.4A8.4 8.4 0 0 1 8.6 3.8 8.5 8.5 0 1 0 20.2 15.4Z"/></svg>';
+  if (persist) localStorage.setItem("proshno-theme", theme);
+}
+
+function setNavOpen(open) {
+  document.body.classList.toggle("nav-open", open);
+  navScrim.hidden = !open;
+  menuBtn.setAttribute("aria-expanded", String(open));
 }
 
 function fillStats() {
@@ -42,7 +111,7 @@ function fillStats() {
 }
 
 async function route() {
-  document.body.classList.remove("nav-open");
+  setNavOpen(false);
   const hash = location.hash;
   const [, type, uni, slug] = hash.split("/");
   if (!slug) return showHome();
@@ -50,7 +119,7 @@ async function route() {
   const entry = state.index.admission[type]?.[uni]?.find(e => slugOf(e) === slug);
   if (!entry) { showHome(); return showStatus("That exam was not found."); }
 
-  showStatus("Loading…");
+  scrollStarted = false;
   let exam;
   try { exam = await loadExam(entry.file); }
   catch { return showStatus("Could not load this exam."); }
@@ -62,20 +131,40 @@ async function route() {
   state.search = "";
   searchEl.value = "";
 
-  homeEl.hidden = true;
-  examEl.hidden = false;
   $("#exam-eyebrow").textContent = `Admission · ${TYPE_LABELS[type] ?? type}`;
   $("#exam-title").textContent =
     `${uni} · ${entry.year.replace("-", "–")}${entry.unit ? ` · Unit ${entry.unit}` : ""}`;
   chipsEl.replaceChildren(buildChips(subjectsPresent(exam.questions)));
   markActive(tree, hash);
   draw();
+  homeEl.hidden = true;
+  examEl.hidden = false;
+  animateView(examEl);
 }
 
 function draw() {
-  const list = filterQuestions(state.exam.questions, state);
-  renderQuestions(list, listEl);
-  $("#exam-count").textContent = `${list.length} of ${state.exam.questions.length} questions`;
+  filteredQuestions = filterQuestions(state.exam.questions, state);
+  renderedCount = renderQuestions(filteredQuestions, listEl, { limit: PAGE_SIZE });
+  syncQuestionCount();
+  moreObserver?.unobserve(moreWrap);
+  moreWrap.hidden = renderedCount >= filteredQuestions.length;
+  if (!moreWrap.hidden) moreObserver?.observe(moreWrap);
+}
+
+function loadNextBatch() {
+  if (renderedCount >= filteredQuestions.length) return;
+  renderedCount = renderQuestions(filteredQuestions, listEl, {
+    start: renderedCount, limit: PAGE_SIZE, append: true,
+  });
+  syncQuestionCount();
+  moreWrap.hidden = renderedCount >= filteredQuestions.length;
+  if (moreWrap.hidden) moreObserver?.unobserve(moreWrap);
+}
+
+function syncQuestionCount() {
+  const count = `${renderedCount} of ${filteredQuestions.length} questions`;
+  const filtered = state.subject !== "all" || state.search.trim();
+  $("#exam-count").textContent = `Showing ${count}${filtered ? ` · ${state.exam.questions.length} in this exam` : ""}`;
 }
 
 function onChipClick(e) {
