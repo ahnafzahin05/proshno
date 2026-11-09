@@ -1,6 +1,6 @@
 # Proshno — visual identity brief
 
-Use this brief when creating the Proshno logo and related brand assets. The colors and type choices below reflect the current website. The logo mark in the interface is provisional; a new mark should replace it without changing the product’s calm, study-first character.
+Use this brief when creating or adapting Proshno brand materials. The colors and type choices below reflect the current website. The supplied logo assets in `assets/` are now integrated into the site and should remain consistent with the calm, study-first character described here.
 
 ## What Proshno is
 

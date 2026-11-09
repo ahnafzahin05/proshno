@@ -1,8 +1,18 @@
 /* Brand and exam browser */
-.brand { display:flex; align-items:center; gap:.75rem; margin:0 0 2rem; text-decoration:none; }
-.brand__mark { display:grid; place-items:center; width:2.5rem; height:2.5rem; border-radius:13px; background:var(--accent); color:var(--paper); font:600 1.2rem var(--font-read); box-shadow:0 5px 14px color-mix(in srgb, var(--accent) 20%, transparent); }
-.brand__name { display:block; font:600 1.35rem/1.1 var(--font-read); letter-spacing:-.03em; }
-.brand__tag { display:block; margin-top:.2rem; color:var(--ink-soft); font-size:.72rem; }
+.brand { display:flex; align-items:center; width:max-content; max-width:100%; margin:0 0 2rem; text-decoration:none; }
+.brand__logo { display:block; height:2.5rem; width:auto; max-width:100%; object-fit:contain; }
+.brand__logo--dark { display:none; }
+:root[data-theme="dark"] .brand__logo--light.brand__logo--lockup { display:none; }
+:root[data-theme="dark"] .brand__logo--dark.brand__logo--lockup { display:block; }
+.brand__logo--symbol { display:none; width:2.5rem; }
+@media (max-width: 900px) {
+  .brand__logo--lockup { display:none; }
+  :root[data-theme="dark"] .brand__logo--dark.brand__logo--lockup { display:none; }
+  .brand__logo--symbol.brand__logo--light { display:block; }
+  .brand__logo--symbol.brand__logo--dark { display:none; }
+  :root[data-theme="dark"] .brand__logo--symbol.brand__logo--light { display:none; }
+  :root[data-theme="dark"] .brand__logo--symbol.brand__logo--dark { display:block; }
+}
 .nav__title { margin:0 0 .7rem .45rem; font:600 .68rem var(--font-ui); text-transform:uppercase; letter-spacing:.14em; color:var(--ink-soft); }
 .tree { font-size:.875rem; }
 .tree__type { margin-bottom:1.15rem; }
