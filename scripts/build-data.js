@@ -1,6 +1,7 @@
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
-import { normalizeSubject, parseYear, parseTags, cleanQuestion } from "../shared/normalize.js";
+import { normalizeSubject, SUBJECT_LABELS, parseYear, parseTags, cleanQuestion } from "../shared/normalize.js";
+import { MIST_SUBJECT_OVERRIDES } from "./mist-subject-overrides.js";
 
 const SRC = "data/qb-json/Written";
 const OUT = "data/built";
@@ -18,11 +19,15 @@ for (const uni of await readdir(SRC)) {
       warnings.push(`${uni}/${file}: bad title or questions -> "${data.title}"`);
       continue;
     }
+    const subjectOverrides = MIST_SUBJECT_OVERRIDES[data.title];
+    if (subjectOverrides && data.questions.some((_, i) => !subjectOverrides[i + 1])) {
+      throw new Error(`${data.title}: missing a subject classification for at least one question`);
+    }
     const unit = data.title.match(/'([A-Z])'/)?.[1] ?? null;   // DU 'A' unit
     const slug = unit ? `${year}-${unit}` : year;
 
     const questions = data.questions.map((q, i) => {
-      const subject = normalizeSubject(q.subject);
+      const subject = subjectOverrides?.[i + 1] ?? normalizeSubject(q.subject);
       
       if (subject === "unclassified") {
       const key = `${uni}/${slug} -> "${q.subject}"`;
@@ -33,7 +38,7 @@ for (const uni of await readdir(SRC)) {
         id: `written-${uni}-${slug}-${String(i + 1).padStart(3, "0")}`.toLowerCase(),
         no: i + 1,
         subject,                     // canonical: "physics", "math"...
-        subjectLabel: q.subject,     // raw, shown as-is (MIST stays "(40)")
+        subjectLabel: SUBJECT_LABELS[subject] ?? "Other",
         text: cleanQuestion(q.question),
         tags: parseTags(q.tag),      // kept for future analytics
       };                             // options intentionally dropped

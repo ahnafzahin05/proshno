@@ -1,6 +1,7 @@
 // js/render.js
 import { h } from "./ui.js";
 import { parseContent } from "./content.js";
+import { SUBJECT_LABELS } from "../shared/normalize.js";
 
 const MATH = {
   delimiters: [{ left: "$$", right: "$$", display: true }, { left: "$", right: "$", display: false }],
@@ -27,7 +28,8 @@ function createCard(q) {
       : h("img", { src: part.src, loading: "lazy", alt: `Figure for question ${q.no}` }));
   }
 
-  const foot = h("div", { className: "q__foot" }, h("span", { className: "chip" }, q.subjectLabel));
+  const subjectLabel = SUBJECT_LABELS[q.subject] ?? "Other";
+  const foot = h("div", { className: "q__foot" }, h("span", { className: "chip" }, subjectLabel));
   if (q.tags.length > 1) {
     foot.append(h("details", { className: "q__tags" },
       h("summary", {}, `Seen in ${q.tags.length} exams`),
