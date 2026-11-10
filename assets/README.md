@@ -9,6 +9,7 @@ These are editable SVG assets intended for the Proshno web project.
 - `proshno-app-icon.svg` / `proshno-app-icon-dark.svg` — square app/favicon treatments
 - `proshno-lockup.svg` — horizontal logo for light surfaces
 - `proshno-lockup-dark.svg` — horizontal logo for dark surfaces
+- `proshno-lockup-dark-transparent.svg` — dark-theme horizontal logo without a background, used with the mobile hero glow
 - `proshno-lockup-one-color.svg` — one-color horizontal lockup
 
 ## Palette
