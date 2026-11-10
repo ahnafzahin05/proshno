@@ -8,6 +8,7 @@ import { renderQuestions } from "./render.js";
 const $ = sel => document.querySelector(sel);
 const tree = $("#tree"), statusEl = $("#status"), homeEl = $("#home"), examEl = $("#exam");
 const chipsEl = $("#chips"), listEl = $("#list"), searchEl = $("#search");
+const mobileContext = $("#mobile-context");
 const themeBtn = $("#theme-btn"), themeLabel = $("#theme-label"), navScrim = $("#nav-scrim"), menuBtn = $("#menu-btn");
 const moreWrap = $("#more-wrap"), moreBtn = $("#more-btn");
 const PAGE_SIZE = 10;
@@ -31,6 +32,8 @@ function animateView(view) {
 
 function showHome() {
   showStatus("");
+  mobileContext.textContent = "";
+  mobileContext.removeAttribute("title");
   homeEl.hidden = false;
   examEl.hidden = true;
   animateView(homeEl);
@@ -117,13 +120,27 @@ async function route() {
   if (!slug) return showHome();
 
   const entry = state.index.admission[type]?.[uni]?.find(e => slugOf(e) === slug);
-  if (!entry) { showHome(); return showStatus("That exam was not found."); }
+  const universityExams = state.index.admission[type]?.[uni];
+  const isUniversityView = slug === "all" && universityExams?.length;
+  if (!entry && !isUniversityView) { showHome(); return showStatus("That exam was not found."); }
 
   scrollStarted = false;
   let exam;
-  try { exam = await loadExam(entry.file); }
+  try {
+    if (isUniversityView) {
+      const exams = await Promise.all(universityExams.map(item => loadExam(item.file)));
+      exam = {
+        type,
+        university: uni,
+        year: "all",
+        title: `${uni} · All years`,
+        questions: exams.flatMap(item => item.questions),
+      };
+    } else exam = await loadExam(entry.file);
+  }
   catch { return showStatus("Could not load this exam."); }
   if (hash !== location.hash) return;          // user already clicked elsewhere
+  if (matchMedia("(max-width: 900px)").matches) window.scrollTo(0, 0);
 
   showStatus("");
   state.exam = exam;
@@ -132,8 +149,14 @@ async function route() {
   searchEl.value = "";
 
   $("#exam-eyebrow").textContent = `Admission · ${TYPE_LABELS[type] ?? type}`;
-  $("#exam-title").textContent =
-    `${uni} · ${entry.year.replace("-", "–")}${entry.unit ? ` · Unit ${entry.unit}` : ""}`;
+  const examTitle = isUniversityView
+    ? `${uni} · All years`
+    : `${uni} · ${entry.year.replace("-", "–")}${entry.unit ? ` · Unit ${entry.unit}` : ""}`;
+  $("#exam-title").textContent = examTitle;
+  mobileContext.textContent = examTitle;
+  mobileContext.title = examTitle;
+  searchEl.placeholder = isUniversityView ? `Search ${uni} questions` : "Search in this exam";
+  searchEl.setAttribute("aria-label", isUniversityView ? `Search ${uni} questions` : "Search in this exam");
   chipsEl.replaceChildren(buildChips(subjectsPresent(exam.questions)));
   markActive(tree, hash);
   draw();
@@ -162,9 +185,22 @@ function loadNextBatch() {
 }
 
 function syncQuestionCount() {
-  const count = `${renderedCount} of ${filteredQuestions.length} questions`;
   const filtered = state.subject !== "all" || state.search.trim();
-  $("#exam-count").textContent = `Showing ${count}${filtered ? ` · ${state.exam.questions.length} in this exam` : ""}`;
+  if (state.exam.year === "all") {
+    const matching = filteredQuestions.length.toLocaleString();
+    const total = state.exam.questions.length.toLocaleString();
+    $("#exam-count").textContent = filtered ? `Showing ${matching} of ${total} questions` : `Showing ${total} questions`;
+    return;
+  }
+
+  if (!filtered) {
+    $("#exam-count").textContent = `Showing ${state.exam.questions.length.toLocaleString()} questions`;
+    return;
+  }
+
+  const matching = filteredQuestions.length.toLocaleString();
+  const total = state.exam.questions.length.toLocaleString();
+  $("#exam-count").textContent = `Showing ${matching} of ${total} questions`;
 }
 
 function onChipClick(e) {

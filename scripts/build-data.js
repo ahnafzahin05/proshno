@@ -1,4 +1,3 @@
-// scripts/build-data.js
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { normalizeSubject, parseYear, parseTags, cleanQuestion } from "../shared/normalize.js";

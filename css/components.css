@@ -26,8 +26,14 @@
 .tree__type > summary { justify-content:flex-start; }
 .tree__type > summary::after { margin-left:auto; }
 .tree__uni { margin:.1rem 0 .1rem .55rem; padding-left:.45rem; border-left:1px solid var(--line); }
-.tree__uni > summary { color:var(--ink); font-weight:500; }
+.tree__uni-head { display:flex; align-items:center; min-height:2.15rem; border-radius:9px; }
+.tree__uni-head:hover { background:var(--surface-raised); }
+.tree__uni-link { display:flex; align-items:center; flex:1; min-width:0; padding:.42rem .35rem .42rem .55rem; border-radius:9px; color:var(--ink); font-weight:500; text-decoration:none; }
+.tree__uni-link:hover, .tree__uni-link[aria-current] { color:var(--accent-strong); }
 .tree__count { margin-left:auto; padding:.08rem .45rem; border:1px solid var(--line); border-radius:999px; background:var(--surface-raised); color:var(--ink-soft); font-size:.68rem; font-variant-numeric:tabular-nums; }
+.tree__years-group { flex:none; }
+.tree__years-group > summary { justify-content:center; width:2rem; height:2rem; min-height:0; padding:.4rem; }
+.tree__years-group > summary::after { margin:0; }
 .tree__years { margin:0 0 .45rem; padding:0 0 0 .65rem; list-style:none; }
 .tree__years a { display:block; padding:.38rem .6rem; border-radius:7px; color:var(--ink-soft); text-decoration:none; font-size:.82rem; transition:color .15s, background .15s; }
 .tree__years a:hover { background:var(--surface-raised); color:var(--ink); }

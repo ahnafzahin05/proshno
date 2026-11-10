@@ -24,9 +24,13 @@ export function buildSidebar(index) {
       for (const e of exams) {
         years.append(h("li", {}, h("a", { href: `#/${type}/${uni}/${slugOf(e)}` }, yearLabel(e))));
       }
-      typeBox.append(h("details", { className: "tree__uni" },
-        h("summary", {}, uni, h("span", { className: "tree__count" }, String(exams.length))),
-        years));
+      typeBox.append(h("div", { className: "tree__uni" },
+        h("div", { className: "tree__uni-head" },
+          h("a", { className: "tree__uni-link", href: `#/${type}/${uni}/all`, "aria-label": `Show all ${uni} questions across years` },
+            uni, h("span", { className: "tree__count" }, String(exams.length))),
+          h("details", { className: "tree__years-group" },
+            h("summary", { "aria-label": `Show ${uni} exam years`, title: `Show ${uni} exam years` }),
+            years))));
     }
     frag.append(typeBox);
   }
@@ -38,7 +42,7 @@ export function markActive(tree, hash) {
   activeLink?.removeAttribute("aria-current");
   activeLink = [...tree.querySelectorAll("a")].find(a => a.getAttribute("href") === hash) ?? null;
   activeLink?.setAttribute("aria-current", "page");
-  activeLink?.closest(".tree__uni")?.setAttribute("open", "");   // expand its university
+  activeLink?.closest(".tree__years-group")?.setAttribute("open", "");
 }
 
 export function buildChips(present) {
