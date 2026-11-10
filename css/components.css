@@ -5,13 +5,16 @@
 :root[data-theme="dark"] .brand__logo--light.brand__logo--lockup { display:none; }
 :root[data-theme="dark"] .brand__logo--dark.brand__logo--lockup { display:block; }
 .brand__logo--symbol { display:none; width:2.5rem; }
+.mobile-hero-brand { display:none; }
+.mobile-hero-brand img { display:block; width:auto; height:3rem; max-width:100%; object-fit:contain; }
+.mobile-hero-brand__dark { display:none !important; }
+:root[data-theme="dark"] .mobile-hero-brand__light { display:none; }
+:root[data-theme="dark"] .mobile-hero-brand__dark { display:block !important; }
 @media (max-width: 900px) {
-  .brand__logo--lockup { display:none; }
-  :root[data-theme="dark"] .brand__logo--dark.brand__logo--lockup { display:none; }
-  .brand__logo--symbol.brand__logo--light { display:block; }
+  .brand__logo--lockup { display:block; }
+  .brand__logo--symbol.brand__logo--light { display:none; }
   .brand__logo--symbol.brand__logo--dark { display:none; }
-  :root[data-theme="dark"] .brand__logo--symbol.brand__logo--light { display:none; }
-  :root[data-theme="dark"] .brand__logo--symbol.brand__logo--dark { display:block; }
+  .mobile-hero-brand { display:block; width:max-content; max-width:100%; margin:0 0 1rem; }
 }
 .nav__title { margin:0 0 .7rem .45rem; font:600 .68rem var(--font-ui); text-transform:uppercase; letter-spacing:.14em; color:var(--ink-soft); }
 .tree { font-size:.875rem; }
@@ -85,7 +88,8 @@
 .q__body .katex-display { overflow-x:auto; overflow-y:hidden; padding:.2rem 0; }
 .q__foot { display:flex; flex-wrap:wrap; align-items:baseline; gap:.5rem 1rem; margin-top:.9rem; font:400 .75rem/1.5 var(--font-ui); color:var(--ink-soft); }
 .q__foot .chip { background:var(--paper); }
-.q__tags summary { cursor:pointer; color:var(--accent); }
+.q__tags summary { cursor:pointer; color:var(--accent); -webkit-tap-highlight-color:transparent; -webkit-user-select:none; user-select:none; touch-action:manipulation; transition:color .16s ease; }
+.q__tags[open] > summary { color:var(--accent-strong); }
 .q__tags p { margin:.4rem 0 0; }
 
 @media (max-width: 640px) {
