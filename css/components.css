@@ -14,7 +14,7 @@
   .brand__logo--lockup { display:block; }
   .brand__logo--symbol.brand__logo--light { display:none; }
   .brand__logo--symbol.brand__logo--dark { display:none; }
-  .mobile-hero-brand { display:block; width:max-content; max-width:100%; margin:0 0 1rem; }
+  .mobile-hero-brand { display:block; width:max-content; max-width:100%; margin:0 0 1.4rem; }
 }
 .nav__title { margin:0 0 .7rem .45rem; font:600 .68rem var(--font-ui); text-transform:uppercase; letter-spacing:.14em; color:var(--ink-soft); }
 .tree { font-size:.875rem; }
@@ -48,6 +48,7 @@
 .eyebrow { margin:0 0 .8rem; color:var(--accent); font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.15em; }
 .home-hero h1 { max-width:38rem; }
 .lede { max-width:37rem; margin:1rem 0 0; font-size:1.02rem; font-weight:600; color:var(--accent-strong); }
+.lede__highlight { padding:.02em .2em; border-radius:.3em; background:var(--accent-soft); color:var(--accent-strong); box-decoration-break:clone; -webkit-box-decoration-break:clone; }
 .hero-paths { display:flex; flex-wrap:nowrap; align-items:center; gap:clamp(1.1rem, 3vw, 1.8rem); width:max-content; max-width:100%; margin:1.65rem 0 0; padding:0; list-style:none; }
 .hero-note { display:inline-flex; align-items:center; gap:.5rem; color:var(--ink-soft); font-size:.9rem; white-space:nowrap; }
 .hero-note::before { content:""; width:7px; height:7px; border-radius:50%; background:var(--accent); box-shadow:0 0 0 4px var(--accent-soft); }
